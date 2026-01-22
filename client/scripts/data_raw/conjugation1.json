@@ -1,0 +1,827 @@
+[
+  {
+    "lemma": "amo",
+    "english": "to love",
+    "entry": "amo, amare, amavi, amatus",
+    "conjugation": 1,
+    "distractors": [
+      "to wound",
+      "to prepare",
+      "to judge"
+    ]
+  },
+  {
+    "lemma": "laudo",
+    "english": "to praise",
+    "entry": "laudo, laudare, laudavi, laudatus",
+    "conjugation": 1,
+    "distractors": [
+      "to stand",
+      "to prepare",
+      "to beg; pray"
+    ]
+  },
+  {
+    "lemma": "voco",
+    "english": "to call",
+    "entry": "voco, vocare, vocavi, vocatus",
+    "conjugation": 1,
+    "distractors": [
+      "to weep aloud",
+      "to desire; miss",
+      "to carry"
+    ]
+  },
+  {
+    "lemma": "porto",
+    "english": "to carry",
+    "entry": "porto, portare, portavi, portatus",
+    "conjugation": 1,
+    "distractors": [
+      "to endure",
+      "to call back",
+      "to think"
+    ]
+  },
+  {
+    "lemma": "navigo",
+    "english": "to sail",
+    "entry": "navigo, navigare, navigavi, navigatus",
+    "conjugation": 1,
+    "distractors": [
+      "to dine",
+      "to sing",
+      "to stir up; worry"
+    ]
+  },
+  {
+    "lemma": "ambulo",
+    "english": "to walk",
+    "entry": "ambulo, ambulare, ambulavi, ambulatus",
+    "conjugation": 1,
+    "distractors": [
+      "to command",
+      "to breathe",
+      "to wait for; expect"
+    ]
+  },
+  {
+    "lemma": "laboro",
+    "english": "to work",
+    "entry": "laboro, laborare, laboravi, laboratus",
+    "conjugation": 1,
+    "distractors": [
+      "to watch; look at",
+      "to walk",
+      "to help"
+    ]
+  },
+  {
+    "lemma": "pugno",
+    "english": "to fight",
+    "entry": "pugno, pugnare, pugnavi, pugnatus",
+    "conjugation": 1,
+    "distractors": [
+      "to demonstrate; point out",
+      "to choose; wish",
+      "to sing"
+    ]
+  },
+  {
+    "lemma": "habito",
+    "english": "to live; dwell",
+    "entry": "habito, habitare, habitavi, habitatus",
+    "conjugation": 1,
+    "distractors": [
+      "to stand",
+      "to doubt; hesitate",
+      "to tell; narrate"
+    ]
+  },
+  {
+    "lemma": "clamo",
+    "english": "to shout",
+    "entry": "clamo, clamare, clamavi, clamatus",
+    "conjugation": 1,
+    "distractors": [
+      "to tell; narrate",
+      "to stir up; worry",
+      "to get; obtain; prepare"
+    ]
+  },
+  {
+    "lemma": "specto",
+    "english": "to watch; look at",
+    "entry": "specto, spectare, spectavi, spectatus",
+    "conjugation": 1,
+    "distractors": [
+      "to free",
+      "to call",
+      "to prepare"
+    ]
+  },
+  {
+    "lemma": "oro",
+    "english": "to beg; pray",
+    "entry": "oro, orare, oravi, oratus",
+    "conjugation": 1,
+    "distractors": [
+      "to demonstrate; point out",
+      "to burn",
+      "to lay waste; ravage"
+    ]
+  },
+  {
+    "lemma": "opto",
+    "english": "to choose; wish",
+    "entry": "opto, optare, optavi, optatus",
+    "conjugation": 1,
+    "distractors": [
+      "to visit",
+      "to sing",
+      "to swear"
+    ]
+  },
+  {
+    "lemma": "supero",
+    "english": "to overcome",
+    "entry": "supero, superare, superavi, superatus",
+    "conjugation": 1,
+    "distractors": [
+      "to wait for; expect",
+      "to hurry",
+      "to call together"
+    ]
+  },
+  {
+    "lemma": "servo",
+    "english": "to save; guard",
+    "entry": "servo, servare, servavi, servatus",
+    "conjugation": 1,
+    "distractors": [
+      "to change",
+      "to doubt; hesitate",
+      "to stand"
+    ]
+  },
+  {
+    "lemma": "libero",
+    "english": "to free",
+    "entry": "libero, liberare, liberavi, liberatus",
+    "conjugation": 1,
+    "distractors": [
+      "to approve",
+      "to rouse; awaken",
+      "to judge"
+    ]
+  },
+  {
+    "lemma": "impero",
+    "english": "to command",
+    "entry": "impero, imperare, imperavi, imperatus",
+    "conjugation": 1,
+    "distractors": [
+      "to save; guard",
+      "to breathe",
+      "to give"
+    ]
+  },
+  {
+    "lemma": "nuntio",
+    "english": "to announce",
+    "entry": "nuntio, nuntiare, nuntiavi, nuntiatus",
+    "conjugation": 1,
+    "distractors": [
+      "to name; call",
+      "to wander; err",
+      "to beg; pray"
+    ]
+  },
+  {
+    "lemma": "appello",
+    "english": "to name; call",
+    "entry": "appello, appellare, appellavi, appellatus",
+    "conjugation": 1,
+    "distractors": [
+      "to watch; look at",
+      "to give; present",
+      "to attack (a place)"
+    ]
+  },
+  {
+    "lemma": "paro",
+    "english": "to prepare",
+    "entry": "paro, parare, paravi, paratus",
+    "conjugation": 1,
+    "distractors": [
+      "to help",
+      "to call",
+      "to approve"
+    ]
+  },
+  {
+    "lemma": "culpo",
+    "english": "to blame",
+    "entry": "culpo, culpare, culpavi, culpatus",
+    "conjugation": 1,
+    "distractors": [
+      "to endure",
+      "to watch; observe",
+      "to disturb"
+    ]
+  },
+  {
+    "lemma": "muto",
+    "english": "to change",
+    "entry": "muto, mutare, mutavi, mutatus",
+    "conjugation": 1,
+    "distractors": [
+      "to sing",
+      "to burn",
+      "to show"
+    ]
+  },
+  {
+    "lemma": "do",
+    "english": "to give",
+    "entry": "do, dare, dedi, datus",
+    "conjugation": 1,
+    "distractors": [
+      "to swear",
+      "to approve",
+      "to announce"
+    ]
+  },
+  {
+    "lemma": "sto",
+    "english": "to stand",
+    "entry": "sto, stare, steti, status",
+    "conjugation": 1,
+    "distractors": [
+      "to hasten",
+      "to give notice; warn",
+      "to demonstrate; point out"
+    ]
+  },
+  {
+    "lemma": "iuvo",
+    "english": "to help",
+    "entry": "iuvo, iuvare, iuvi, iutum",
+    "conjugation": 1,
+    "distractors": [
+      "to wander; err",
+      "to greet",
+      "to demonstrate; point out"
+    ]
+  },
+  {
+    "lemma": "exspecto",
+    "english": "to wait for; expect",
+    "entry": "exspecto, exspectare, exspectavi, exspectatus",
+    "conjugation": 1,
+    "distractors": [
+      "to give notice; warn",
+      "to stand",
+      "to show"
+    ]
+  },
+  {
+    "lemma": "tempto",
+    "english": "to try; attempt",
+    "entry": "tempto, temptare, temptavi, temptatus",
+    "conjugation": 1,
+    "distractors": [
+      "to help",
+      "to save; guard",
+      "to love"
+    ]
+  },
+  {
+    "lemma": "monstro",
+    "english": "to show",
+    "entry": "monstro, monstrare, monstravi, monstratus",
+    "conjugation": 1,
+    "distractors": [
+      "to try; attempt",
+      "to strengthen; confirm",
+      "to stir up; worry"
+    ]
+  },
+  {
+    "lemma": "demonstro",
+    "english": "to demonstrate; point out",
+    "entry": "demonstro, demonstrare, demonstravi, demonstratus",
+    "conjugation": 1,
+    "distractors": [
+      "to dine",
+      "to help",
+      "to love"
+    ]
+  },
+  {
+    "lemma": "narro",
+    "english": "to tell; narrate",
+    "entry": "narro, narrare, narravi, narratus",
+    "conjugation": 1,
+    "distractors": [
+      "to beg; pray",
+      "to attack (a place)",
+      "to stand"
+    ]
+  },
+  {
+    "lemma": "festino",
+    "english": "to hurry",
+    "entry": "festino, festinare, festinavi, festinatus",
+    "conjugation": 1,
+    "distractors": [
+      "to live; dwell",
+      "to hope",
+      "to show"
+    ]
+  },
+  {
+    "lemma": "propero",
+    "english": "to hasten",
+    "entry": "propero, properare, properavi, properatus",
+    "conjugation": 1,
+    "distractors": [
+      "to work",
+      "to wound",
+      "to swear"
+    ]
+  },
+  {
+    "lemma": "oppugno",
+    "english": "to attack (a place)",
+    "entry": "oppugno, oppugnare, oppugnavi, oppugnatus",
+    "conjugation": 1,
+    "distractors": [
+      "to swear",
+      "to stir up; worry",
+      "to order; entrust"
+    ]
+  },
+  {
+    "lemma": "occupo",
+    "english": "to seize; occupy",
+    "entry": "occupo, occupare, occupavi, occupatus",
+    "conjugation": 1,
+    "distractors": [
+      "to breathe",
+      "to stand",
+      "to sail"
+    ]
+  },
+  {
+    "lemma": "tolero",
+    "english": "to endure",
+    "entry": "tolero, tolerare, toleravi, toleratus",
+    "conjugation": 1,
+    "distractors": [
+      "to seize; occupy",
+      "to think; reflect",
+      "to call"
+    ]
+  },
+  {
+    "lemma": "conservo",
+    "english": "to preserve; keep",
+    "entry": "conservo, conservare, conservavi, conservatus",
+    "conjugation": 1,
+    "distractors": [
+      "to think; reflect",
+      "to get; obtain; prepare",
+      "to fight"
+    ]
+  },
+  {
+    "lemma": "confirmo",
+    "english": "to strengthen; confirm",
+    "entry": "confirmo, confirmare, confirmavi, confirmatus",
+    "conjugation": 1,
+    "distractors": [
+      "to deny; say no",
+      "to lay waste; ravage",
+      "to walk"
+    ]
+  },
+  {
+    "lemma": "iudico",
+    "english": "to judge",
+    "entry": "iudico, iudicare, iudicavi, iudicatus",
+    "conjugation": 1,
+    "distractors": [
+      "to save; guard",
+      "to praise",
+      "to wait for; expect"
+    ]
+  },
+  {
+    "lemma": "puto",
+    "english": "to think",
+    "entry": "puto, putare, putavi, putatus",
+    "conjugation": 1,
+    "distractors": [
+      "to show",
+      "to visit",
+      "to wander; err"
+    ]
+  },
+  {
+    "lemma": "dubito",
+    "english": "to doubt; hesitate",
+    "entry": "dubito, dubitare, dubitavi, dubitatus",
+    "conjugation": 1,
+    "distractors": [
+      "to weep",
+      "to beg; pray",
+      "to weep aloud"
+    ]
+  },
+  {
+    "lemma": "existimo",
+    "english": "to consider; reckon",
+    "entry": "existimo, existimare, existimavi, existimatus",
+    "conjugation": 1,
+    "distractors": [
+      "to command",
+      "to give notice; warn",
+      "to sing"
+    ]
+  },
+  {
+    "lemma": "nego",
+    "english": "to deny; say no",
+    "entry": "nego, negare, negavi, negatus",
+    "conjugation": 1,
+    "distractors": [
+      "to get; obtain; prepare",
+      "to demonstrate; point out",
+      "to swear"
+    ]
+  },
+  {
+    "lemma": "cremo",
+    "english": "to burn",
+    "entry": "cremo, cremare, cremavi, crematus",
+    "conjugation": 1,
+    "distractors": [
+      "to think; reflect",
+      "to deny; say no",
+      "to praise"
+    ]
+  },
+  {
+    "lemma": "comparo",
+    "english": "to get; obtain; prepare",
+    "entry": "comparo, comparare, comparavi, comparatus",
+    "conjugation": 1,
+    "distractors": [
+      "to consider; reckon",
+      "to give notice; warn",
+      "to announce"
+    ]
+  },
+  {
+    "lemma": "exploro",
+    "english": "to explore; search out",
+    "entry": "exploro, explorare, exploravi, exploratus",
+    "conjugation": 1,
+    "distractors": [
+      "to hope",
+      "to tell; narrate",
+      "to wait for; expect"
+    ]
+  },
+  {
+    "lemma": "violo",
+    "english": "to violate; injure",
+    "entry": "violo, violare, violavi, violatus",
+    "conjugation": 1,
+    "distractors": [
+      "to hasten",
+      "to watch; observe",
+      "to love"
+    ]
+  },
+  {
+    "lemma": "visito",
+    "english": "to visit",
+    "entry": "visito, visitare, visitavi, visitatus",
+    "conjugation": 1,
+    "distractors": [
+      "to call out; summon",
+      "to prepare",
+      "to approve"
+    ]
+  },
+  {
+    "lemma": "canto",
+    "english": "to sing",
+    "entry": "canto, cantare, cantavi, cantatus",
+    "conjugation": 1,
+    "distractors": [
+      "to hope",
+      "to call together",
+      "to hasten"
+    ]
+  },
+  {
+    "lemma": "celebro",
+    "english": "to celebrate; throng",
+    "entry": "celebro, celebrare, celebravi, celebratus",
+    "conjugation": 1,
+    "distractors": [
+      "to adorn; equip",
+      "to prepare",
+      "to order; entrust"
+    ]
+  },
+  {
+    "lemma": "ceno",
+    "english": "to dine",
+    "entry": "ceno, cenare, cenavi, cenatus",
+    "conjugation": 1,
+    "distractors": [
+      "to get; obtain; prepare",
+      "to call",
+      "to name; call"
+    ]
+  },
+  {
+    "lemma": "cogito",
+    "english": "to think; reflect",
+    "entry": "cogito, cogitare, cogitavi, cogitatus",
+    "conjugation": 1,
+    "distractors": [
+      "to hope",
+      "to rouse; awaken",
+      "to call out; summon"
+    ]
+  },
+  {
+    "lemma": "desidero",
+    "english": "to desire; miss",
+    "entry": "desidero, desiderare, desideravi, desideratus",
+    "conjugation": 1,
+    "distractors": [
+      "to praise",
+      "to burn",
+      "to preserve; keep"
+    ]
+  },
+  {
+    "lemma": "dono",
+    "english": "to give; present",
+    "entry": "dono, donare, donavi, donatus",
+    "conjugation": 1,
+    "distractors": [
+      "to watch; look at",
+      "to seize; occupy",
+      "to wander; err"
+    ]
+  },
+  {
+    "lemma": "educo",
+    "english": "to educate; bring up",
+    "entry": "educo, educare, educavi, educatus",
+    "conjugation": 1,
+    "distractors": [
+      "to change",
+      "to show",
+      "to think"
+    ]
+  },
+  {
+    "lemma": "excito",
+    "english": "to rouse; awaken",
+    "entry": "excito, excitare, excitavi, excitatus",
+    "conjugation": 1,
+    "distractors": [
+      "to help",
+      "to seize; occupy",
+      "to endure"
+    ]
+  },
+  {
+    "lemma": "erro",
+    "english": "to wander; err",
+    "entry": "erro, errare, erravi, erratus",
+    "conjugation": 1,
+    "distractors": [
+      "to tell; narrate",
+      "to live; dwell",
+      "to burn"
+    ]
+  },
+  {
+    "lemma": "evoco",
+    "english": "to call out; summon",
+    "entry": "evoco, evocare, evocavi, evocatus",
+    "conjugation": 1,
+    "distractors": [
+      "to fight",
+      "to stir up; worry",
+      "to blame"
+    ]
+  },
+  {
+    "lemma": "lacrimo",
+    "english": "to weep",
+    "entry": "lacrimo, lacrimare, lacrimavi, lacrimatus",
+    "conjugation": 1,
+    "distractors": [
+      "to hope",
+      "to blame",
+      "to violate; injure"
+    ]
+  },
+  {
+    "lemma": "observo",
+    "english": "to watch; observe",
+    "entry": "observo, observare, observavi, observatus",
+    "conjugation": 1,
+    "distractors": [
+      "to try; attempt",
+      "to change",
+      "to judge"
+    ]
+  },
+  {
+    "lemma": "orno",
+    "english": "to adorn; equip",
+    "entry": "orno, ornare, ornavi, ornatus",
+    "conjugation": 1,
+    "distractors": [
+      "to think; reflect",
+      "to wander; err",
+      "to call"
+    ]
+  },
+  {
+    "lemma": "perturbo",
+    "english": "to disturb",
+    "entry": "perturbo, perturbare, perturbavi, perturbatus",
+    "conjugation": 1,
+    "distractors": [
+      "to desire; miss",
+      "to shout",
+      "to explore; search out"
+    ]
+  },
+  {
+    "lemma": "ploro",
+    "english": "to weep aloud",
+    "entry": "ploro, plorare, ploravi, ploratus",
+    "conjugation": 1,
+    "distractors": [
+      "to lay waste; ravage",
+      "to carry",
+      "to call out; summon"
+    ]
+  },
+  {
+    "lemma": "rogo",
+    "english": "to ask",
+    "entry": "rogo, rogare, rogavi, rogatus",
+    "conjugation": 1,
+    "distractors": [
+      "to help",
+      "to tell; narrate",
+      "to hurry"
+    ]
+  },
+  {
+    "lemma": "saluto",
+    "english": "to greet",
+    "entry": "saluto, salutare, salutavi, salutatus",
+    "conjugation": 1,
+    "distractors": [
+      "to blame",
+      "to shout",
+      "to command"
+    ]
+  },
+  {
+    "lemma": "spero",
+    "english": "to hope",
+    "entry": "spero, sperare, speravi, speratus",
+    "conjugation": 1,
+    "distractors": [
+      "to stand",
+      "to weep",
+      "to visit"
+    ]
+  },
+  {
+    "lemma": "vasto",
+    "english": "to lay waste; ravage",
+    "entry": "vasto, vastare, vastavi, vastatus",
+    "conjugation": 1,
+    "distractors": [
+      "to seize; occupy",
+      "to burn",
+      "to order; entrust"
+    ]
+  },
+  {
+    "lemma": "vulnero",
+    "english": "to wound",
+    "entry": "vulnero, vulnerare, vulneravi, vulneratus",
+    "conjugation": 1,
+    "distractors": [
+      "to free",
+      "to tell; narrate",
+      "to sail"
+    ]
+  },
+  {
+    "lemma": "spiro",
+    "english": "to breathe",
+    "entry": "spiro, spirare, spiravi, spiratus",
+    "conjugation": 1,
+    "distractors": [
+      "to praise",
+      "to weep aloud",
+      "to try; attempt"
+    ]
+  },
+  {
+    "lemma": "iuro",
+    "english": "to swear",
+    "entry": "iuro, iurare, iuravi, iuratus",
+    "conjugation": 1,
+    "distractors": [
+      "to wound",
+      "to judge",
+      "to think"
+    ]
+  },
+  {
+    "lemma": "probo",
+    "english": "to approve",
+    "entry": "probo, probare, probavi, probatus",
+    "conjugation": 1,
+    "distractors": [
+      "to help",
+      "to wound",
+      "to choose; wish"
+    ]
+  },
+  {
+    "lemma": "denuntio",
+    "english": "to give notice; warn",
+    "entry": "denuntio, denuntiare, denuntiavi, denuntiatus",
+    "conjugation": 1,
+    "distractors": [
+      "to watch; observe",
+      "to fight",
+      "to wait for; expect"
+    ]
+  },
+  {
+    "lemma": "convoco",
+    "english": "to call together",
+    "entry": "convoco, convocare, convocavi, convocatus",
+    "conjugation": 1,
+    "distractors": [
+      "to violate; injure",
+      "to give notice; warn",
+      "to watch; look at"
+    ]
+  },
+  {
+    "lemma": "revoco",
+    "english": "to call back",
+    "entry": "revoco, revocare, revocavi, revocatus",
+    "conjugation": 1,
+    "distractors": [
+      "to explore; search out",
+      "to show",
+      "to lay waste; ravage"
+    ]
+  },
+  {
+    "lemma": "mando",
+    "english": "to order; entrust",
+    "entry": "mando, mandare, mandavi, mandatus",
+    "conjugation": 1,
+    "distractors": [
+      "to tell; narrate",
+      "to call back",
+      "to give notice; warn"
+    ]
+  },
+  {
+    "lemma": "sollicito",
+    "english": "to stir up; worry",
+    "entry": "sollicito, sollicitare, sollicitavi, sollicitatus",
+    "conjugation": 1,
+    "distractors": [
+      "to ask",
+      "to approve",
+      "to deny; say no"
+    ]
+  }
+]

@@ -1,0 +1,5304 @@
+{
+  "adama": {
+    "dictionary": {
+      "gen_sg": "antis",
+      "gender": "m",
+      "nom_sg": "adamas",
+      "pos": "noun"
+    },
+    "dictionary_entry": "ădămas, antis, m. (acc. Gr. adamanta, adamantas), = ἀδάμας (invincible), adamant",
+    "glosses": [
+      "hence poet., for any thing inflexible, firm, lasting"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "adero": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "advertere",
+      "pos": "verb",
+      "principal_parts": "adverto, advertere, ti, sum"
+    },
+    "dictionary_entry": "adverto, advertere, ti, sum",
+    "glosses": [
+      "to turn a thing to or toward a"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "adpisceo": {
+    "dictionary": {
+      "gen_sg": "i",
+      "gender": "f",
+      "nom_sg": "adipsos",
+      "pos": "noun"
+    },
+    "dictionary_entry": "ădipsos, i, f., = ἄδιψος (quenching thirst). A species of date, Plin. 12, 22, 47, § 103.— Liquorice, glycyrrhiza, Plin. 22, 9, 11, § 26.",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "aduerdo": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "adversusere",
+      "pos": "verb",
+      "principal_parts": "adversus, adversusere, ad"
+    },
+    "dictionary_entry": "adversus, adversusere, ad",
+    "glosses": [
+      "2."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "adulesco": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "ădŭlescens (only ădŏl- in the verb and part. proper), entis (gen. plur. usu. adulescentium, e. g. Cic. Tusc. 5, 27 al.: adulescentum, Plaut.",
+    "glosses": [
+      "Ps. 1, 3, 130). P. a., growing up"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "aegerrime": {
+    "dictionary": {
+      "fem_nom_sg": "gra",
+      "masc_nom_sg": "aeger",
+      "neut_nom_sg": "grum",
+      "pos": "adjective"
+    },
+    "dictionary_entry": "aeger, gra, grum, adj. Curtius proposes to connect it with ἐπ-είγω",
+    "glosses": [
+      "to press, drive"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "aesta": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "aes, aeris (often used in plur. nom. and acc.; abl. aeribus, Cato ap. Paul. ex Fest. p. 27 Müll., and Lucr. 2, 636; gen. AERVM, Inscr. Orell",
+    "glosses": [
+      ". 3551), n. cf. Germ. Eisen = iron"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "afutor": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "aforeere",
+      "pos": "verb",
+      "principal_parts": "afore, aforeere, for abfore and abforem"
+    },
+    "dictionary_entry": "afore, aforeere, for abfore and abforem",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "agmus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "agnīnus",
+    "glosses": [
+      "a, um, adj. id., pertaining to a lamb"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "agr": {
+    "dictionary": {
+      "fem_nom_sg": "e",
+      "masc_nom_sg": "agralis",
+      "neut_nom_sg": "adj",
+      "pos": "adjective"
+    },
+    "dictionary_entry": "agrālis, e, adj., = agrarius: vocabula, Front. de Colon. fin.",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "agrus": {
+    "dictionary": {
+      "gen_sg": "and",
+      "gender": "m",
+      "nom_sg": "Meleager",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Mĕlĕăger and Mĕlĕăgros (-ag-rus), gri, m., = Μελέαγρος, son of the Calydonian king Œneus and Althæa, one of the combatants at the Calydonian",
+    "glosses": [
+      "Ov. M. 8, 534 sq.— A kind of"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "alduus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "altus",
+    "glosses": [
+      "a, um, participle from alo., lit., grown or"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "alies": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "Alpes, ĭum (rare in sing., Alpis, is, = ἡ Ἄλπις; cf. Rudd.",
+    "glosses": [
+      "and κατʼ ἐξοχήν, the high mountains of Switzerland"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "aliuo": {
+    "dictionary": {
+      "gen_sg": "ii",
+      "gender": "n",
+      "nom_sg": "alvearium",
+      "pos": "noun"
+    },
+    "dictionary_entry": "alvĕārĭum, ii, n. (in Col. four times alveāre, is, n.) [alveus]",
+    "glosses": [
+      "a hollow vessel swelling out in the middle.—Hence"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "allobra": {
+    "dictionary": {
+      "gender": "m",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Allō^brox, ăgis, and plur. Allō^brŏ-ges, um, m. (acc. sing. Allobroga, Juv. 7, 214)",
+    "glosses": [
+      "the Allobroges, in Ptol. Ἀλλόβρυγες, a warlike people"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "allobrog": {
+    "dictionary": {
+      "gender": "m",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Allō^brox, ăgis, and plur. Allō^brŏ-ges, um, m. (acc. sing. Allobroga, Juv. 7, 214)",
+    "glosses": [
+      "the Allobroges, in Ptol. Ἀλλόβρυγες, a warlike people"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "allobroga": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "allaborare",
+      "pos": "verb",
+      "principal_parts": "allaboro, allaborare, avi, atum"
+    },
+    "dictionary_entry": "allaboro, allaborare, avi, atum",
+    "glosses": [
+      "to labor or toil at a thing: ore"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "allobrogibus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "albŏgilvus",
+    "glosses": [
+      "a, um, adj. [albus-gilvusl, whitish yellow, Serv. ad"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "allobrogus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "albŏgilvus",
+    "glosses": [
+      "a, um, adj. [albus-gilvusl, whitish yellow, Serv. ad"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "ambaro": {
+    "dictionary": {
+      "gen_sg": "oris",
+      "gender": "m",
+      "nom_sg": "amaror",
+      "pos": "noun"
+    },
+    "dictionary_entry": "ămāror, ōris, m. id., bitterness (poet. for the preced.; rare), Lucr. 4, 224; 6, 930; * Verg. G. 2, 247; cf. Gell. 1, 21.",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "ambarrus": {
+    "dictionary": {
+      "gen_sg": "oris",
+      "gender": "m",
+      "nom_sg": "amaror",
+      "pos": "noun"
+    },
+    "dictionary_entry": "ămāror, ōris, m. id., bitterness (poet. for the preced.; rare), Lucr. 4, 224; 6, 930; * Verg. G. 2, 247; cf. Gell. 1, 21.",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "ancipio": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "anticipare",
+      "pos": "verb",
+      "principal_parts": "anticipo, anticipare, avi, atum"
+    },
+    "dictionary_entry": "anticipo, anticipare, avi, atum",
+    "glosses": [
+      "to anticipate something. With acc.: vigilias, Vulg. Psa."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "angustia": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "angustĭae, ārum (rare in class. Lat. in sing angustĭa, ae, Plin. 14, 6, 8, § 61; cf. Charis. p. 20 P.; but freq. in eccl. Lat., Vulg. Gen. 4",
+    "glosses": [
+      "id. Oth. 9 al.— Of other things: spiritūs"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "angustias": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "angustĭae, ārum (rare in class. Lat. in sing angustĭa, ae, Plin. 14, 6, 8, § 61; cf. Charis. p. 20 P.; but freq. in eccl. Lat., Vulg. Gen. 4",
+    "glosses": [
+      "2, 21"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "animado": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "animadvertere",
+      "pos": "verb",
+      "principal_parts": "animadverto, animadvertere, ti, sum"
+    },
+    "dictionary_entry": "animadverto, animadvertere, ti, sum",
+    "glosses": [
+      "verto"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "animaduo": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "animadvertere",
+      "pos": "verb",
+      "principal_parts": "animadverto, animadvertere, ti, sum"
+    },
+    "dictionary_entry": "animadverto, animadvertere, ti, sum",
+    "glosses": [
+      "Schwarz ad Plin. Pan. 23, and Smith, Dict."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "animosqus": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "animare",
+      "pos": "verb",
+      "principal_parts": "animo, animare, avi, atum"
+    },
+    "dictionary_entry": "animo, animare, avi, atum",
+    "glosses": [
+      "C.): virum virtute verā vivere animatum addecet, Enn."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "aprila": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "a^priclusere",
+      "pos": "verb",
+      "principal_parts": "a^priclus, a^priclusere"
+    },
+    "dictionary_entry": "a^priclus, a^priclusere",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "aquita": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "Aquitania",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Ăquītānĭa, ae, f. A province in Southern Gaul, between the Loire and the Pyrenees, Caes. B. G. 1, 1; 3, 20; Plin. 4, 19, 33, § 108 sq.— Deri",
+    "glosses": [
+      "vv. ăquītānus, a, um, adj., Aquitanian: gens, Tib."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "aquitani": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "Aquitania",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Ăquītānĭa, ae, f. A province in Southern Gaul, between the Loire and the Pyrenees, Caes. B. G. 1, 1; 3, 20; Plin. 4, 19, 33, § 108 sq.— Deri",
+    "glosses": [
+      "vv. ăquītānus, a, um, adj., Aquitanian: gens, Tib."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "arari": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "Ărar (also Ărăris, Claud. Ruf. 2, 111; Eutr. 1, 405; Inscr. Orell. 4018; acc. Ararim, Verg. E. 1, 63; Plin. 3, 4, 5, § 33; and Ararin, Claud",
+    "glosses": [
+      "pp. 639, 184 sq., 228), is, m., a"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "arcedo": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "arcessere",
+      "pos": "verb",
+      "principal_parts": "arcesso, arcessere, ivi, itum"
+    },
+    "dictionary_entry": "arcesso, arcessere, ivi, itum",
+    "glosses": [
+      "iters, though the MSS. and editt. vary very"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "aruer": {
+    "dictionary": {
+      "gen_sg": "orum",
+      "gender": "m",
+      "nom_sg": "Arverni",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Arverni, ōrum, m., = Ἀρβερνοί, Plut.; Ἀρουερνοί, Strabo",
+    "glosses": [
+      "a people of Gaul, in the present Auvergne"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "aruernus": {
+    "dictionary": {
+      "gen_sg": "orum",
+      "gender": "m",
+      "nom_sg": "Arverni",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Arverni, ōrum, m., = Ἀρβερνοί, Plut.; Ἀρουερνοί, Strabo",
+    "glosses": [
+      "a people of Gaul, in the present Auvergne"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "atfero": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "attentare",
+      "pos": "verb",
+      "principal_parts": "attento, attentare, K. and H.; at-tempto, Kayser, Rib., Halm, Queck), avi, atum"
+    },
+    "dictionary_entry": "attento, attentare, K. and H.; at-tempto, Kayser, Rib., Halm, Queck), avi, atum",
+    "glosses": [
+      "to strive after something, to attempt, essay, try"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "audacius": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "audacia",
+      "pos": "noun"
+    },
+    "dictionary_entry": "audācĭa, ae, f. audax",
+    "glosses": [
+      "the quality of being audax, boldness, in a"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "auorio": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "avertere",
+      "pos": "verb",
+      "principal_parts": "averto, avertere, ti, sum"
+    },
+    "dictionary_entry": "averto, avertere, ti, sum",
+    "glosses": [
+      "Petr. 124, 248.— As v. n. avertere ="
+    ],
+    "source": "ls_perseus+context"
+  },
+  "bibractus": {
+    "dictionary": {
+      "gen_sg": "is",
+      "gender": "n",
+      "nom_sg": "Bibracte",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Bibracte, is (abl. Bibracte, but -ti, Caes. B. G. 7, 55), n., = Φρούριον Βίβρακτα, Strabo; Αὐγουστόδουνον, Ptolem.",
+    "glosses": [
+      "the chief town of the Ædui, later Augustodunum"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "biennus": {
+    "dictionary": {
+      "gen_sg": "ii",
+      "gender": "n",
+      "nom_sg": "biennium",
+      "pos": "noun"
+    },
+    "dictionary_entry": "bĭennĭum, ii, n. bis-annus",
+    "glosses": [
+      "a period or space of two years, two"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "bituris": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "bĭvĭus",
+    "glosses": [
+      "Vulg. Marc. 11, 4.— Trop.: bivium nobis ad"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "boius": {
+    "dictionary": {
+      "gen_sg": "(borras",
+      "gender": "m",
+      "nom_sg": "boreas",
+      "pos": "noun"
+    },
+    "dictionary_entry": "bŏrĕas (borras, Prud. Psych. 847; Paul. Nol. Carm. 17, 245), ae, m., = Βορέας or Βορρᾶς. The north wind; pure Lat aquilo, Plin. 2, 47, 46, §",
+    "glosses": [
+      "119: ventus Boreas, Nep. Milt. 2, 4: Boreae"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "breui": {
+    "dictionary": {
+      "fem_nom_sg": "e",
+      "masc_nom_sg": "brevis",
+      "neut_nom_sg": "adj",
+      "pos": "adjective"
+    },
+    "dictionary_entry": "brĕvis, e, adj. (abl. breve, Varr. R. R. 2, 3, 2; comp. abl. breviore, Ov. Am. 2, 17, 22) [cf. βραχύς, Fest. p. 26], short, little, of small",
+    "glosses": [
+      "extent, in space and time (opp. longus"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "calamito": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "calamitoseere",
+      "pos": "verb",
+      "principal_parts": "calamitose, calamitoseere, ad"
+    },
+    "dictionary_entry": "calamitose, calamitoseere, ad",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "capitus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "căpĭtānĕus",
+    "glosses": [
+      "a, um, adj. caput, chief in size, large:"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "caputus": {
+    "dictionary": {
+      "gen_sg": "or",
+      "gender": "n",
+      "nom_sg": "capitum",
+      "pos": "noun"
+    },
+    "dictionary_entry": "căpītum or căpētum, i, n., = καπητόν, fodder for cattle (late Lat.), Aur. Imp. ap. Vop. Aur. 7; Cod. Th. 7, 4, 7 and 13.",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "carer": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "carere",
+      "pos": "verb",
+      "principal_parts": "car, carere, Caris"
+    },
+    "dictionary_entry": "car, carere, Caris",
+    "glosses": [
+      "B. 1."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "careus": {
+    "dictionary": {
+      "gen_sg": "i",
+      "gender": "m",
+      "nom_sg": "carrus",
+      "pos": "noun"
+    },
+    "dictionary_entry": "carrus, i, m. (carrum, i, n., Auct. B. Hisp. 6; cf. Non. p. 195, 26, and Isid. Orig. 20, 12, 1)",
+    "glosses": [
+      "a kind of two-wheeled wagon for transporting burdens"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "castellus": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "casteere",
+      "pos": "verb",
+      "principal_parts": "caste, casteere, ad"
+    },
+    "dictionary_entry": "caste, casteere, ad",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "casticus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "caustĭcus",
+    "glosses": [
+      "a, um, adj., = καυστικός, burning, caustic, corrosive:"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "castr": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "castrare",
+      "pos": "verb",
+      "principal_parts": "castro, castrare, avi, atum"
+    },
+    "dictionary_entry": "castro, castrare, avi, atum",
+    "glosses": [
+      "cf. Plin. 8, 41, 63, § 153: alvos"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "castrisqui": {
+    "dictionary": {
+      "fem_nom_sg": "e",
+      "masc_nom_sg": "castrensis",
+      "neut_nom_sg": "adj",
+      "pos": "adjective"
+    },
+    "dictionary_entry": "castrensis, e, adj. castra, of or per-taining to the camp, camp-: ratio ac militaris, Cic. Cael. 5, 11: arma, Prop. 3 (4), 9, 19. consilium",
+    "glosses": [
+      "Liv. 44, 35, 4: triumphus, id. 7, 36"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "catamantaloedus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "captātōrĭus",
+    "glosses": [
+      "a, um, adj. captator"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "caten": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "cateere",
+      "pos": "verb",
+      "principal_parts": "cate, cateere, ad"
+    },
+    "dictionary_entry": "cate, cateere, ad",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "caturis": {
+    "dictionary": {
+      "gen_sg": "um",
+      "gender": "m",
+      "nom_sg": "Caturiges",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Cătŭrĭges, um, m.",
+    "glosses": [
+      "a Ligurian tribe in Gallia Narbonensis, now De/partement"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "cc": {
+    "dictionary": {
+      "gender": "m",
+      "pos": "noun"
+    },
+    "dictionary_entry": "cўcĕōn, ōnis, m., = κυκεών",
+    "glosses": [
+      "a drink made of barley-grits, grated goats'-cheese, and"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "ccclxuius": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "cўclĭcus",
+    "glosses": [
+      "a, um, adj., = κυκλικός, prop. circular"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "cclxiius": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "cўclĭcus",
+    "glosses": [
+      "a, um, adj., = κυκλικός, prop. circular"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "ccxl": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "cўclĭcus",
+    "glosses": [
+      "a, um, adj., = κυκλικός, prop. circular"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "celerrime": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "cĕler, ĕris, e (masc. cĕleris, Cato ap. Prisc. p. 760 P.; fem. celer, Liv. Andron. ap. Prisc. l. l.; cf. acer; sup. celerissimus, Enn. and M",
+    "glosses": [
+      "anlius ap. Prisc. l. l.) [cello"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "celta": {
+    "dictionary": {
+      "gen_sg": "arum",
+      "gender": "m",
+      "nom_sg": "Celtae",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Celtae, ārum, m., = Κελταί",
+    "glosses": [
+      "a great parent - stock of people in"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "ces": {
+    "dictionary": {
+      "gen_sg": "c",
+      "gender": "n",
+      "nom_sg": "C",
+      "pos": "noun"
+    },
+    "dictionary_entry": "C, c, n. indecl., or f.",
+    "glosses": [
+      "cf. the letter G. Still, even as early"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "ceterosqui": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "ceteraere",
+      "pos": "verb",
+      "principal_parts": "cetera, ceteraere, cetero, ceterum"
+    },
+    "dictionary_entry": "cetera, ceteraere, cetero, ceterum",
+    "glosses": [
+      "II."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "ceutro": {
+    "dictionary": {
+      "gen_sg": "um",
+      "gender": "m",
+      "nom_sg": "Ceutrones",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Ceutrones, um, m.",
+    "glosses": [
+      "a Gallic tribe, Caes. B. G. 5, 39."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "cimberium": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "cimberere",
+      "pos": "verb",
+      "principal_parts": "cimber, cimberere, bri"
+    },
+    "dictionary_entry": "cimber, cimberere, bri",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "cimbrum": {
+    "dictionary": {
+      "gen_sg": "orum",
+      "gender": "m",
+      "nom_sg": "Cimbri",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Cimbri, ōrum, m., = Κίμβροι [Cimbri linguā Gallicā latrones dicuntur, Fest. p. 43, 7]",
+    "glosses": [
+      "a people of Northern Germany (in Holstein, Silesia"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "circumsco": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "circumstare",
+      "pos": "verb",
+      "principal_parts": "circumsto, circumstare, steti"
+    },
+    "dictionary_entry": "circumsto, circumstare, steti",
+    "glosses": [
+      "times doubtful to which verb a form belongs)"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "circumuens": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "circumventus",
+    "glosses": [
+      "a, um, Part., from circumvenio."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "citero": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "cĭter, tra, trum (comp. citerior; sup. citimus; most freq. in comp.; in posit. only Cato ap. Prisc. pp. 589 and 999 P.; and Afran. ap. Prisc",
+    "glosses": [
+      ". p. 607 ib.), adj. cis. On this"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "citerus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "cĭter, tra, trum (comp. citerior; sup. citimus; most freq. in comp.; in posit. only Cato ap. Prisc. pp. 589 and 999 P.; and Afran. ap. Prisc",
+    "glosses": [
+      "sup. cĭtĭmē, least, acc. to Prisc. p. 1016"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "clieo": {
+    "dictionary": {
+      "gen_sg": "or",
+      "gender": "m",
+      "nom_sg": "cliens",
+      "pos": "noun"
+    },
+    "dictionary_entry": "clĭens or clŭens, entis (gen. plur. usu. clientium; clientūm, Plaut. Men. 4, 2, 7; Hor. C. 3, 5, 53; Sen. Ep. 68, 9; Macr. S. 1, 2, 1), m. (",
+    "glosses": [
+      "and clientela): cluentes sibi omnes volunt esse multos..."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "clxxx": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "clacendix, claxendix, or calcen-dix",
+    "glosses": [
+      "a kind of shell-fish, Paul. ex Fest. p."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "coacito": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "coactere",
+      "pos": "verb",
+      "principal_parts": "coacto, coactere, are"
+    },
+    "dictionary_entry": "coacto, coactere, are",
+    "glosses": [
+      "to constrain, force (only twice in Lucr.)"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "coego": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "coaegrotere",
+      "pos": "verb",
+      "principal_parts": "coaegroto, coaegrotere, are"
+    },
+    "dictionary_entry": "coaegroto, coaegrotere, are",
+    "glosses": [
+      "to be sick at the same time with"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "coepero": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "coeptare",
+      "pos": "verb",
+      "principal_parts": "coepto, coeptare, avi, atum"
+    },
+    "dictionary_entry": "coepto, coeptare, avi, atum",
+    "glosses": [
+      "and incipit). Act., to begin eagerly, to begin"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "coepis": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "coepĭo, coepi, coeptum, 3 (the tempp. press. only a few times in the ante-class. period, and coepturus, Liv. 30, 5, 6; 42, 47, 3; Quint. 10",
+    "glosses": [
+      "1, 46"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "cognoho": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "contrō-versus",
+    "glosses": [
+      "a, um, adj. from the same root with"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "cognouo": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "cognitura",
+      "pos": "noun"
+    },
+    "dictionary_entry": "cognĭtūra, ae, f. id.",
+    "glosses": [
+      "the office of a fiscal agent, who looks"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "cohor": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "cohortare",
+      "pos": "verb",
+      "principal_parts": "cohorto, cohortare, are"
+    },
+    "dictionary_entry": "cohorto, cohortare, are",
+    "glosses": [
+      "to exhort, encourage: et dicerent castra capta esse"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "coicero": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "concertare",
+      "pos": "verb",
+      "principal_parts": "concerto, concertare, avi, atum"
+    },
+    "dictionary_entry": "concerto, concertare, avi, atum",
+    "glosses": [
+      "to contend with any one zealously or warmly"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "commeatue": {
+    "dictionary": {
+      "conjugation": 1,
+      "deponent": true,
+      "infinitive": "commercari",
+      "pos": "verb",
+      "principal_parts": "commercor, commercari, atus sum"
+    },
+    "dictionary_entry": "commercor, commercari, atus sum",
+    "glosses": [
+      "to trade, traffic together, buy up, purchase (except"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "commemoraro": {
+    "dictionary": {
+      "gen_sg": "oris",
+      "gender": "m",
+      "nom_sg": "commemorator",
+      "pos": "noun"
+    },
+    "dictionary_entry": "commĕmŏrātor, ōris, m. id., one who mentions a thing",
+    "glosses": [
+      "a commemorator: vetustatum, Tert. adv. Marc. 4, 26."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "commemoror": {
+    "dictionary": {
+      "gen_sg": "oris",
+      "gender": "m",
+      "nom_sg": "commemorator",
+      "pos": "noun"
+    },
+    "dictionary_entry": "commĕmŏrātor, ōris, m. id., one who mentions a thing",
+    "glosses": [
+      "a commemorator: vetustatum, Tert. adv. Marc. 4, 26."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "commo": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "commōtus",
+    "glosses": [
+      "a, um, Part. and P. a., from commoveo."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "communo": {
+    "dictionary": {
+      "conjugation": 4,
+      "infinitive": "communire",
+      "pos": "verb",
+      "principal_parts": "communio, communire, ivi or ii, itum"
+    },
+    "dictionary_entry": "communio, communire, ivi or ii, itum",
+    "glosses": [
+      "to fortify on all sides or strongly, to"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "compero": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "comere",
+      "pos": "verb",
+      "principal_parts": "com, comere"
+    },
+    "dictionary_entry": "com, comere",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "compler": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "com-plūres (conp-)",
+    "glosses": [
+      "Ter. Phorm. 4, 3, 6 Don.), adj., more"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "complerus": {
+    "dictionary": {
+      "gen_sg": "(conp-)",
+      "gender": "m",
+      "nom_sg": "comploratus",
+      "pos": "noun"
+    },
+    "dictionary_entry": "complōrātus (conp-), ūs, m. id., i. q. comploratio",
+    "glosses": [
+      "a loud, violent moaning, lamentation, etc., esp. of"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "complus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "com-plūres (conp-)",
+    "glosses": [
+      "a, and (mostly ante-class.) ia"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "conclamauo": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "conclamitere",
+      "pos": "verb",
+      "principal_parts": "conclamito, conclamitere, are"
+    },
+    "dictionary_entry": "conclamito, conclamitere, are",
+    "glosses": [
+      "to call, cry out loudly: totā urbe, Plaut."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "confideo": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "confidensere",
+      "pos": "verb",
+      "principal_parts": "confidens, confidensere, entis"
+    },
+    "dictionary_entry": "confidens, confidensere, entis",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "congredo": {
+    "dictionary": {
+      "conjugation": 3,
+      "deponent": true,
+      "infinitive": "congredi",
+      "pos": "verb",
+      "principal_parts": "congredior, congredi, gressus sum"
+    },
+    "dictionary_entry": "congredior, congredi, gressus sum",
+    "glosses": [
+      "to go, come, or meet with one, esp."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "congrido": {
+    "dictionary": {
+      "gen_sg": "onis",
+      "gender": "f",
+      "nom_sg": "congressio",
+      "pos": "noun"
+    },
+    "dictionary_entry": "congressĭo, ōnis, f. congredior",
+    "glosses": [
+      "a coming together, in a friendly or hostile"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "conlaro": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "conflatura",
+      "pos": "noun"
+    },
+    "dictionary_entry": "conflātūra, ae, f. id.",
+    "glosses": [
+      "a melting of metals by fire (late Lat."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "conligo": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "conflīgātus",
+    "glosses": [
+      "a, um access. form of conflictus, Part. of"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "conloco": {
+    "dictionary": {
+      "conjugation": 2,
+      "infinitive": "condocere",
+      "pos": "verb",
+      "principal_parts": "condoceo, condocere, cui, ctum"
+    },
+    "dictionary_entry": "condoceo, condocere, cui, ctum",
+    "glosses": [
+      "perh. only in the foll. exs.): (milites) equo"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "conloqui": {
+    "dictionary": {
+      "gen_sg": "(conl-)",
+      "gender": "n",
+      "nom_sg": "colloquium",
+      "pos": "noun"
+    },
+    "dictionary_entry": "collŏquĭum (conl-), ii, n. id.",
+    "glosses": [
+      "a conversation, conference, discourse (class. in prose and"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "conloquium": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "collabascere",
+      "pos": "verb",
+      "principal_parts": "collabasco, collabascere, ere"
+    },
+    "dictionary_entry": "collabasco, collabascere, ere",
+    "glosses": [
+      "to totter or be about to fall at"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "conloquor": {
+    "dictionary": {
+      "conjugation": 3,
+      "deponent": true,
+      "infinitive": "colloqui",
+      "pos": "verb",
+      "principal_parts": "colloquor, colloqui, cutus sum"
+    },
+    "dictionary_entry": "colloquor, colloqui, cutus sum",
+    "glosses": [
+      "to talk together, converse, to hold a conversation"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "consangui": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "con-sanguĭnĕus",
+    "glosses": [
+      "a, um (gen. plur. consanguineūm, Lucr. 3, 73)"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "consanguineusqui": {
+    "dictionary": {
+      "gen_sg": "atis",
+      "gender": "f",
+      "nom_sg": "consanguinitas",
+      "pos": "noun"
+    },
+    "dictionary_entry": "consanguĭnĭtas, ātis, f. consanguineus, blood-relationship, consanguinity (rare; perh. not ante-Aug.). In a restricted sense",
+    "glosses": [
+      "the relationship between brothers and sisters (mostly in"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "consciuo": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "con-scĭus",
+    "glosses": [
+      "p. 71). With gen. with or without dat."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "consedero": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "consternere",
+      "pos": "verb",
+      "principal_parts": "consterno, consternere, stravi, stratum"
+    },
+    "dictionary_entry": "consterno, consternere, stravi, stratum",
+    "glosses": [
+      "to thatch, floor, pave, spread, cover (class. in"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "considium": {
+    "dictionary": {
+      "conjugation": 4,
+      "infinitive": "condire",
+      "pos": "verb",
+      "principal_parts": "condio, condire, ivi or ii, itum"
+    },
+    "dictionary_entry": "condio, condire, ivi or ii, itum",
+    "glosses": [
+      "and cf. compono"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "considius": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "con-sŏlĭdus",
+    "glosses": [
+      "a, um, a false read. for cum solidet"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "considus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "con-sŏlĭdus",
+    "glosses": [
+      "a, um, a false read. for cum solidet"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "conspico": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "conspicere",
+      "pos": "verb",
+      "principal_parts": "conspicio, conspicere, spexi, spectum"
+    },
+    "dictionary_entry": "conspicio, conspicere, spexi, spectum",
+    "glosses": [
+      "to look at attentively, to get sight of"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "constitero": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "consternere",
+      "pos": "verb",
+      "principal_parts": "consterno, consternere, stravi, stratum"
+    },
+    "dictionary_entry": "consterno, consternere, stravi, stratum",
+    "glosses": [
+      "to thatch, floor, pave, spread, cover (class. in"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "consuero": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "con-vertor or -vortor, ti, acc. to Non. p. 480, dep. collat. form of converto; only in the line: sed fugam in se tamen nemo convortitur, Pla",
+    "glosses": [
+      "ut. Am. 1, 1, 83"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "conuenero": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "congenerare",
+      "pos": "verb",
+      "principal_parts": "congenero, congenerare, no perf., atum"
+    },
+    "dictionary_entry": "congenero, congenerare, no perf., atum",
+    "glosses": [
+      "rt.): porci congenerati, of the same litter, Varr."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "conuenisco": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "convenustere",
+      "pos": "verb",
+      "principal_parts": "convenusto, convenustere, are"
+    },
+    "dictionary_entry": "convenusto, convenustere, are",
+    "glosses": [
+      "to ornament, adorn (late Lat.): ecclesiam cultu, Sid."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "conuenisso": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "convĕnĭens, entis, Part. and P. a., from convenio.",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "conuerdo": {
+    "dictionary": {
+      "pos": "adjective"
+    },
+    "dictionary_entry": "convertĭbĭlis (convers-), e, adj. id., changeable (post-class.): propositiones, App. Dogm. Plat. 3, p. 33, 1 and 2 (al. conversibilis): deus",
+    "glosses": [
+      "convertibilis et demutabilis, Prud. Apoth. 344.—Hence, con-vertĭbĭlĭter, adv."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "conuico": {
+    "dictionary": {
+      "gen_sg": "oris",
+      "gender": "m",
+      "nom_sg": "convictor",
+      "pos": "noun"
+    },
+    "dictionary_entry": "convictor, ōris, m. id., he who lives with one",
+    "glosses": [
+      "a table companion, messmate, familiar friend, Cic. Fil."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "copiosis": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "cōpĭōsus",
+    "glosses": [
+      "opp. jejunum, id. 8, 3, 49.— Existing in"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "copius": {
+    "dictionary": {
+      "gen_sg": "(acc.",
+      "gender": "n",
+      "nom_sg": "copis",
+      "pos": "noun"
+    },
+    "dictionary_entry": "cōpis (acc. to Varr. L. L. 5, § 92 Müll. N. cr., more prob. than cops, assumed by Prisc. p. 752 P. The nominative in neither form is found i",
+    "glosses": [
+      "n use), is, adj. contr. from coops"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "copus": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "copia",
+      "pos": "noun"
+    },
+    "dictionary_entry": "cōpĭa, ae, f. co-ops, abundant power, wealth, riches, abundance (very freq. in all periods and species of composition). Of material objects.",
+    "glosses": [
+      "Ov. M. 8, 838: exercitus omnium rerum abundabat"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "cotidie": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "co^tidianusere",
+      "pos": "verb",
+      "principal_parts": "co^tidianus, co^tidianusere, cotidie, etc."
+    },
+    "dictionary_entry": "co^tidianus, co^tidianusere, cotidie, etc.",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "crigo": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "crisare",
+      "pos": "verb",
+      "principal_parts": "criso, crisare, avi"
+    },
+    "dictionary_entry": "criso, crisare, avi",
+    "glosses": [
+      "to move the haunches (in mal. part."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "cupus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "cŭpĭdus",
+    "glosses": [
+      "a, um, adj. cupio, longing, desiring, desirous, eager"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "cus": {
+    "dictionary": {
+      "gen_sg": "c",
+      "gender": "n",
+      "nom_sg": "C",
+      "pos": "noun"
+    },
+    "dictionary_entry": "C, c, n. indecl., or f.",
+    "glosses": [
+      "hence the old orthography: LECIONES, MACISTRATOS, EXFOCIONT, [pu]CNANDOD"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "cxxx": {
+    "dictionary": {
+      "pos": "numeral"
+    },
+    "dictionary_entry": "CXXX (Roman numeral)",
+    "glosses": [
+      "130 (one hundred thirty)"
+    ],
+    "source": "manual_number"
+  },
+  "damen": {
+    "dictionary": {
+      "gen_sg": "d",
+      "gender": "n",
+      "nom_sg": "D",
+      "pos": "noun"
+    },
+    "dictionary_entry": "D, d (n. indecl., sometimes f. sc. littera)",
+    "glosses": [
+      "the flat dental mute, corresponding in character and"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "dc": {
+    "dictionary": {
+      "pos": "numeral"
+    },
+    "dictionary_entry": "DC (Roman numeral)",
+    "glosses": [
+      "600 (six hundred)"
+    ],
+    "source": "manual_number"
+  },
+  "dedero": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "devertere",
+      "pos": "verb",
+      "principal_parts": "deverto, devertere, ti, sum"
+    },
+    "dictionary_entry": "deverto, devertere, ti, sum",
+    "glosses": [
+      "ortatu, Luc. 6, 317: acies, id. 2, 470:"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "defitto": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "defensitare",
+      "pos": "verb",
+      "principal_parts": "defensito, defensitare, avi"
+    },
+    "dictionary_entry": "defensito, defensitare, avi",
+    "glosses": [
+      "to defend often, to practise defending (perh, only"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "denus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "denso, āvi, ātum, 1, and (less freq.) denseo, no perf., ētum, 2 (cf. Prisc. p. 837 P.; Charis. p. 233 ib. The MSS. often confound the two fo",
+    "glosses": [
+      "rms"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "deperdeo": {
+    "dictionary": {
+      "conjugation": 4,
+      "infinitive": "depereire",
+      "pos": "verb",
+      "principal_parts": "depereo, depereire, ii (fut. deperiet for -ibit, Vulg. Eccl. 31, 7)"
+    },
+    "dictionary_entry": "depereo, depereire, ii (fut. deperiet for -ibit, Vulg. Eccl. 31, 7)",
+    "glosses": [
+      "cf. id. B. G. 7, 31, 4: si"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "destrico": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "dēstrictus",
+    "glosses": [
+      "a, um, Part., from destringo"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "deterro": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "deteriorare",
+      "pos": "verb",
+      "principal_parts": "deterioro, deteriorare, avi, atum"
+    },
+    "dictionary_entry": "deterioro, deteriorare, avi, atum",
+    "glosses": [
+      "to make worse, to deteriorate (late Lat.), Claud."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "deuittro": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "devertere",
+      "pos": "verb",
+      "principal_parts": "deverto, devertere, ti, sum"
+    },
+    "dictionary_entry": "deverto, devertere, ti, sum",
+    "glosses": [
+      "ortatu, Luc. 6, 317: acies, id. 2, 470:"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "dicios": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "dĭcĭo, ōnis (less correctly, ditio; occurs only in the gen., dat., acc., and abl. sing., and in plur. once, Prud. Psych. 221; so Hemsterhuis",
+    "glosses": [
+      "cf.: condicio, judex, a t. t., milit. and"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "diremitto": {
+    "dictionary": {
+      "gen_sg": "onis",
+      "gender": "f",
+      "nom_sg": "diremptio",
+      "pos": "noun"
+    },
+    "dictionary_entry": "dĭremptĭo, ōnis, f. dirimo",
+    "glosses": [
+      "a separation: aequitatis, Val. Max. 4, 7, 1."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "disicco": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "dissecare",
+      "pos": "verb",
+      "principal_parts": "disseco, dissecare, ui, ctum"
+    },
+    "dictionary_entry": "disseco, dissecare, ui, ctum",
+    "glosses": [
+      "to cut asunder, cut in pieces, cut up"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "disum": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "demisseere",
+      "pos": "verb",
+      "principal_parts": "demisse, demisseere, ad"
+    },
+    "dictionary_entry": "demisse, demisseere, ad",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "ditis": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "dīs, neutr. dite (mostly poet.; in prose very rare before the Aug. per.): dis quidem esses, Ter. Ad. 5, 1, 8: dite solum, Val. Fl. 2, 296: h",
+    "glosses": [
+      "ujus ditis aedes, Ter. Ad. 4, 2, 42"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "diuiciacus": {
+    "dictionary": {
+      "gen_sg": "atis",
+      "gender": "f",
+      "nom_sg": "divinitas",
+      "pos": "noun"
+    },
+    "dictionary_entry": "dīvīnĭtas, ātis, f. id., Godhead, divinity. Prop., Cic. N. D. 1, 13, 34; 14 fin.; id. Div. 2, 11 al.—Of the deified Romulus, Liv. 1, 15; and",
+    "glosses": [
+      "of Augustus, Suet. Aug. 97.— Transf. The power"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "diuiciax": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "divitiaere",
+      "pos": "verb",
+      "principal_parts": "divitia, divitiaere, ae, f."
+    },
+    "dictionary_entry": "divitia, divitiaere, ae, f.",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "diuicus": {
+    "dictionary": {
+      "gen_sg": "onis",
+      "gender": "m",
+      "nom_sg": "Divico",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Divĭco, ōnis, m.",
+    "glosses": [
+      "a distinguished Helvetian, a general in the war"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "diute": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "diuere",
+      "pos": "verb",
+      "principal_parts": "diu, diuere, Orell. Inscr. 8206), ad"
+    },
+    "dictionary_entry": "diu, diuere, Orell. Inscr. 8206), ad",
+    "glosses": [
+      "hence, with intens. signif.) A long time, long"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "domicilis": {
+    "dictionary": {
+      "gen_sg": "ii",
+      "gender": "n",
+      "nom_sg": "domicilium",
+      "pos": "noun"
+    },
+    "dictionary_entry": "dŏmĭcĭlĭum, ii, n. domus and cel-, root of celare",
+    "glosses": [
+      "cf.: cella, occulere, a habitation, dwelling, domicile, abode"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "dumnorigus": {
+    "dictionary": {
+      "gen_sg": "igis",
+      "gender": "m",
+      "nom_sg": "Dumnorix",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Dumnŏrix, ĭgis, m.",
+    "glosses": [
+      "an Aeduan, brother of Divitiacus, Caes. B. G."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "dus": {
+    "dictionary": {
+      "gen_sg": "is",
+      "gender": "m",
+      "nom_sg": "Dubis",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Dūbis, is, m., = Δοῦβις",
+    "glosses": [
+      "a river in Gallia Belgica, now Doubs, Caes."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "eduxero": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "ederaere",
+      "pos": "verb",
+      "principal_parts": "edera, ederaere, ae, and its derivatives"
+    },
+    "dictionary_entry": "edera, ederaere, ae, and its derivatives",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "egridio": {
+    "dictionary": {
+      "conjugation": 4,
+      "deponent": true,
+      "infinitive": "egrediri",
+      "pos": "verb",
+      "principal_parts": "egredior, egrediri, gressus sum, 3 (inf. egredier, Plaut. Poen. 3, 32)"
+    },
+    "dictionary_entry": "egredior, egrediri, gressus sum, 3 (inf. egredier, Plaut. Poen. 3, 32)",
+    "glosses": [
+      "to go or come out, come forth (class.)."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "elo": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "elavare",
+      "pos": "verb",
+      "principal_parts": "elavo, elavare, lavi, lautum, lotum"
+    },
+    "dictionary_entry": "elavo, elavare, lavi, lautum, lotum",
+    "glosses": [
+      "to wash out or away, to wash clean"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "emigo": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "emi^grare",
+      "pos": "verb",
+      "principal_parts": "emi^gro, emi^grare, avi, atum"
+    },
+    "dictionary_entry": "emi^gro, emi^grare, avi, atum",
+    "glosses": [
+      "to remove, depart from a place, to emigrate"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "equestrus": {
+    "dictionary": {
+      "gen_sg": "itis",
+      "gender": "m",
+      "nom_sg": "eques",
+      "pos": "noun"
+    },
+    "dictionary_entry": "ĕquĕs, ĭtis, m. id.",
+    "glosses": [
+      "1, 10, 38 al.—Poet. transf., of horse and"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "equitas": {
+    "dictionary": {
+      "gen_sg": "us",
+      "gender": "m",
+      "nom_sg": "equitatus",
+      "pos": "noun"
+    },
+    "dictionary_entry": "ĕquĭtātus, ūs, m. id.. * In abstr., = equitatio",
+    "glosses": [
+      "a riding: atteri equitatu, Plin. 28, 15, 61"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "equitus": {
+    "dictionary": {
+      "gen_sg": "ii",
+      "gender": "n",
+      "nom_sg": "equitium",
+      "pos": "noun"
+    },
+    "dictionary_entry": "ĕquĭtĭum, ii, n. equus",
+    "glosses": [
+      "a stud of horses, Col. 6, 27, 1"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "eripuio": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "eripere",
+      "pos": "verb",
+      "principal_parts": "eripio, eripere, ipui, eptum"
+    },
+    "dictionary_entry": "eripio, eripere, ipui, eptum",
+    "glosses": [
+      "7, 54, 3: nubem, Verg. A. 2, 606:"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "ersepio": {
+    "dictionary": {
+      "gen_sg": "onis",
+      "gender": "f",
+      "nom_sg": "ereptio",
+      "pos": "noun"
+    },
+    "dictionary_entry": "ēreptĭo, ōnis, f. id.",
+    "glosses": [
+      "a forcible taking away, seizure of a possession"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "ersum": {
+    "dictionary": {
+      "gen_sg": "i",
+      "gender": "n",
+      "nom_sg": "erneum",
+      "pos": "noun"
+    },
+    "dictionary_entry": "ernĕum, i, n.",
+    "glosses": [
+      "a cake baked in an earthen pot, Cato"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "exercitas": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "exercĭtātus",
+    "glosses": [
+      "a, um, Part. and P. a., from exercito."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "exercumro": {
+    "dictionary": {
+      "conjugation": 2,
+      "infinitive": "exercere",
+      "pos": "verb",
+      "principal_parts": "exerceo, exercere, ui, itum"
+    },
+    "dictionary_entry": "exerceo, exercere, ui, itum",
+    "glosses": [
+      "cf.: homines qui agrum colunt, et qui eos"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "exsercitatio": {
+    "dictionary": {
+      "gen_sg": "onis",
+      "gender": "f",
+      "nom_sg": "exercitatio",
+      "pos": "noun"
+    },
+    "dictionary_entry": "exercĭtātĭo, ōnis, f. exercito. A moving, agitating, setting in motion: per aëris exercitationem (aqua) percolata tempestatibus liquescendo",
+    "glosses": [
+      "pervenit ad terram, Vitr. 8, 2, 1.— Exercise"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "exsistimo": {
+    "dictionary": {
+      "gen_sg": "(existum-)",
+      "gender": "m",
+      "nom_sg": "existimator",
+      "pos": "noun"
+    },
+    "dictionary_entry": "existĭmātor (existŭm-), ōris, m. id.",
+    "glosses": [
+      "a judge of any thing, a critic (rare"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "exssequor": {
+    "dictionary": {
+      "conjugation": 3,
+      "deponent": true,
+      "infinitive": "exsequi",
+      "pos": "verb",
+      "principal_parts": "exsequor, exsequi, cutus sum"
+    },
+    "dictionary_entry": "exsequor, exsequi, cutus sum",
+    "glosses": [
+      "to follow to the end, to pursue, follow."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "exsumo": {
+    "dictionary": {
+      "conjugation": 2,
+      "infinitive": "excutire",
+      "pos": "verb",
+      "principal_parts": "excutio, excutire, cussi, cussum, 3 (archaic perf. subj. excussit, for excusserit, Plaut. Bacch. 4, 16)"
+    },
+    "dictionary_entry": "excutio, excutire, cussi, cussum, 3 (archaic perf. subj. excussit, for excusserit, Plaut. Bacch. 4, 16)",
+    "glosses": [
+      "cf.: oculo excusso, id. Caes. 68: ipso cum"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "familias": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "fămĭlĭa, ae (with pater, mater, filius, and filia",
+    "glosses": [
+      "the class. gen. sing. is usually in the"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "fer": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "fĕrus",
+    "glosses": [
+      "a, um, adj. cf. Gr. θήρ, Aeol. φήρ"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "florento": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "flōrĕus",
+    "glosses": [
+      "a, um, adj. flos, of flowers, made of"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "fortunus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "fortūnārĭus",
+    "glosses": [
+      "a, um, adj. fortuna, resulting from fortune, brought"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "frano": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "frons (also anciently fruns; plur. frundes, Enn. Ann. 266 Vahl.; cf. Charis. p. 105 P.—Also in nom. fros or frus, Varr. ib.; Enn. v in the f",
+    "glosses": [
+      "oll."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "frug": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "frugiere",
+      "pos": "verb",
+      "principal_parts": "frugi, frugiere"
+    },
+    "dictionary_entry": "frugi, frugiere",
+    "glosses": [
+      "B."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "frumentaris": {
+    "dictionary": {
+      "gen_sg": "inis",
+      "gender": "n",
+      "nom_sg": "frumen",
+      "pos": "noun"
+    },
+    "dictionary_entry": "frūmen, ĭnis, n. fruor (post-class.). * A gruel or porridge made of corn, and used in sacrifices, Arn. 7, 230.— = λάρυγξ",
+    "glosses": [
+      "the larynx, throat, Don. Ter. Phorm. 2, 2"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "gallex": {
+    "dictionary": {
+      "gen_sg": "orum",
+      "gender": "m",
+      "nom_sg": "Galli",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Galli, ōrum, m.",
+    "glosses": [
+      "the Gallic nation, the Gauls, both beyond the"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "gallias": {
+    "dictionary": {
+      "gen_sg": "orum",
+      "gender": "m",
+      "nom_sg": "Galli",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Galli, ōrum, m.",
+    "glosses": [
+      "cf.: Gallus inter Gallos sine ulla suspicione versatus"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "gallicis": {
+    "dictionary": {
+      "gen_sg": "orum",
+      "gender": "m",
+      "nom_sg": "Galli",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Galli, ōrum, m.",
+    "glosses": [
+      "the Gallic nation, the Gauls, both beyond the"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "genauus": {
+    "dictionary": {
+      "gen_sg": "(less",
+      "gender": "f",
+      "nom_sg": "Genava",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Genāva (less correctly Genna or Genēva), ae, f.",
+    "glosses": [
+      "a city of the Allobroges, upon Lake Leman"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "germanis": {
+    "dictionary": {
+      "gen_sg": "orum",
+      "gender": "m",
+      "nom_sg": "Germani",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Germāni, ōrum, m., = Γερμανοί",
+    "glosses": [
+      "the Germans, between the Rhine, the Danube, the"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "glorio": {
+    "dictionary": {
+      "gen_sg": "oris",
+      "gender": "m",
+      "nom_sg": "gloriator",
+      "pos": "noun"
+    },
+    "dictionary_entry": "glōrĭātor, ōris, m. id.",
+    "glosses": [
+      "a boaster, braggart, App. Flor. p. 357."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "grandus": {
+    "dictionary": {
+      "fem_nom_sg": "e",
+      "masc_nom_sg": "grandis",
+      "neut_nom_sg": "adj",
+      "pos": "adjective"
+    },
+    "dictionary_entry": "grandis, e, adj. cf. gradus; also Germ. gross; Engl. great, full-grown, large, great, full, abundant (class.; most freq. of things; for syn.",
+    "glosses": [
+      "cf.: magnus, ingens, amplus, procerus, vastus, enormis). Lit."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "gratulo": {
+    "dictionary": {
+      "conjugation": 1,
+      "deponent": true,
+      "infinitive": "gratulari",
+      "pos": "verb",
+      "principal_parts": "gratulor, gratulari, atus sum"
+    },
+    "dictionary_entry": "gratulor, gratulari, atus sum",
+    "glosses": [
+      "to congratulate"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "grauior": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "gravare",
+      "pos": "verb",
+      "principal_parts": "gravo, gravare, avi, atum"
+    },
+    "dictionary_entry": "gravo, gravare, avi, atum",
+    "glosses": [
+      "to load, burden, weigh down, oppress (mostly poet."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "grauissimus": {
+    "dictionary": {
+      "fem_nom_sg": "e",
+      "masc_nom_sg": "gravis",
+      "neut_nom_sg": "adj",
+      "pos": "adjective"
+    },
+    "dictionary_entry": "grăvis, e, adj. Sanscr. gurus (root gar-); Gr. βαρύς, heavy; gravis, for gar-uis; cf. also Brutus. With respect to weight, heavy, weighty, p",
+    "glosses": [
+      "onderous, burdensome"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "grauius": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "grātŭītus (grātŭĭtum, Stat. S. 1, 6, 16)",
+    "glosses": [
+      "a, um, adj. gratia, that is done with"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "grauus": {
+    "dictionary": {
+      "fem_nom_sg": "e",
+      "masc_nom_sg": "gravis",
+      "neut_nom_sg": "adj",
+      "pos": "adjective"
+    },
+    "dictionary_entry": "grăvis, e, adj. Sanscr. gurus (root gar-); Gr. βαρύς, heavy; gravis, for gar-uis; cf. also Brutus. With respect to weight, heavy, weighty, p",
+    "glosses": [
+      "onderous, burdensome"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "haeduus": {
+    "dictionary": {
+      "gen_sg": "(Haed-)",
+      "gender": "m",
+      "nom_sg": "Aedui",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Aedŭi (Haed-), ōrum, m.",
+    "glosses": [
+      "a tribe in Gallia Celtica friendly to the"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "harudus": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "arvigaere",
+      "pos": "verb",
+      "principal_parts": "arviga, arvigaere"
+    },
+    "dictionary_entry": "arviga, arvigaere",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "harus": {
+    "dictionary": {
+      "gen_sg": "um",
+      "gender": "m",
+      "nom_sg": "Harudes",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Harūdes, um, m.",
+    "glosses": [
+      "a Germanic tribe in the army of Ariovistus"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "heluetia": {
+    "dictionary": {
+      "gen_sg": "orum",
+      "gender": "m",
+      "nom_sg": "Helvetii",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Helvētĭi, ōrum, m.",
+    "glosses": [
+      "the Helvetians, a people of Gallia Lugdunensis, in"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "hispania": {
+    "dictionary": {
+      "gen_sg": "orum",
+      "gender": "m",
+      "nom_sg": "Hispani",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Hispāni, ōrum, m.",
+    "glosses": [
+      "Suet. Caes. 76 al. — Derivv. Hispānus, a"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "honorifica": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "hŏnor or hŏnos (the latter form almost exclusively in Cic., who has honor only Phil. 9, 6 fin., and Fragm. pro Tull. 21; also in Caes., Liv.",
+    "glosses": [
+      "Neue, Formenl. 1, 168 sq.), ōris (archaic gen."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "horro": {
+    "dictionary": {
+      "gen_sg": "oris",
+      "gender": "m",
+      "nom_sg": "horror",
+      "pos": "noun"
+    },
+    "dictionary_entry": "horror, ōris, m. horreo",
+    "glosses": [
+      "a standing on end, standing erect, bristling. Lit."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "hos": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "hostis (also fos-), is, comm. Sanscr. root ghas-",
+    "glosses": [
+      "afterwards transf., an enemy (cf.: adversarius, inimicus, perduellis):"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "hoss": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "hostis (also fos-), is, comm. Sanscr. root ghas-",
+    "glosses": [
+      "afterwards transf., an enemy (cf.: adversarius, inimicus, perduellis):"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "hostibusqus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "hostĭcus",
+    "glosses": [
+      "a, um, adj. hostis. Of or belonging to"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "hostim": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "hostĭcus",
+    "glosses": [
+      "a, um, adj. hostis. Of or belonging to"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "hux": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "hīc, haec, hōc (gen. hujus, monosyl., Plaut. Am. prol. 51; 96; 1, 1, 115; dat. huïc, Sidon. Carm. 7, 145; Avien. Descr. Orb. 22; dat. sing.",
+    "glosses": [
+      "fem. hae rei, Cato, R. R. 14, 3"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "id": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "īdŭo, āre, acc. to Macr. S. 1, 15, § 17",
+    "glosses": [
+      "an Etrusc. word, i. q. dividere, from the"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "ieranes": {
+    "dictionary": {
+      "pos": "adverb"
+    },
+    "dictionary_entry": "dŭcentĭes or -ĭens, adv. num. ducenti, two hundred times. Lit., Cic. Phil. 2, 16, 40; Cels. 2, 14 fin.— Transf., for many times indefinitely",
+    "glosses": [
+      "Cat. 29, 15."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "iero": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "Hibernia",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Hĭbernĭa, ae, f. (= Ἰουερνία Ptol.)",
+    "glosses": [
+      "the island now called Ireland, Caes. B. G."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "ignouo": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "ignōtus",
+    "glosses": [
+      "a, um, Part., from ignosco."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "iii": {
+    "dictionary": {
+      "gen_sg": "(also",
+      "gender": "m",
+      "nom_sg": "triumviri",
+      "pos": "noun"
+    },
+    "dictionary_entry": "triumvĭri (also written tresvĭri, and IIIvĭri), ōrum or ūm, m. tres-vir, three men holding an office together or associated in public busine",
+    "glosses": [
+      "ss, a board of three, three joint commissioners"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "imperauo": {
+    "dictionary": {
+      "gen_sg": "(inp-)",
+      "gender": "m",
+      "nom_sg": "imperatus",
+      "pos": "noun"
+    },
+    "dictionary_entry": "impĕrātus (inp-), ūs, m. impero",
+    "glosses": [
+      "a command, order (post-Aug. and very rare), Ambros."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "imperioqus": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "imperioseere",
+      "pos": "verb",
+      "principal_parts": "imperiose, imperioseere, ad"
+    },
+    "dictionary_entry": "imperiose, imperioseere, ad",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "impu": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "impuneere",
+      "pos": "verb",
+      "principal_parts": "impune, impuneere, ad"
+    },
+    "dictionary_entry": "impune, impuneere, ad",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "incoluero": {
+    "dictionary": {
+      "fem_nom_sg": "cris",
+      "masc_nom_sg": "involucer",
+      "neut_nom_sg": "cre",
+      "pos": "adjective"
+    },
+    "dictionary_entry": "in-vŏlŭcer, cris, cre, adj., unable to fly, unfledged (post-class.): pulli, Gell. 2, 29, 5.",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "incolus": {
+    "dictionary": {
+      "pos": "adjective"
+    },
+    "dictionary_entry": "in-cŏlŭmis, e (abl. sing. regularly incolumi; incolume, Pomp. and Cic. ap. Charis. p. 108 P.), adj., unimpaired, uninjured, in good conditio",
+    "glosses": [
+      "n, still alive, safe, sound, entire, whole (class."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "indiceo": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "indicere",
+      "pos": "verb",
+      "principal_parts": "indico, indicere, avi, atum, are"
+    },
+    "dictionary_entry": "indico, indicere, avi, atum, are",
+    "glosses": [
+      "to point out, indicate (class.). In gen., to"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "indulo": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "induperere",
+      "pos": "verb",
+      "principal_parts": "indupero, induperere, induperator, etc."
+    },
+    "dictionary_entry": "indupero, induperere, induperator, etc.",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "inflego": {
+    "dictionary": {
+      "gen_sg": "onis",
+      "gender": "f",
+      "nom_sg": "inflexio",
+      "pos": "noun"
+    },
+    "dictionary_entry": "inflexĭo, ōnis, f. inflecto",
+    "glosses": [
+      "a bending. Prop.: quasi helicis inflexio, Cic. Univ."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "ingentus": {
+    "dictionary": {
+      "fem_nom_sg": "tis",
+      "masc_nom_sg": "ingens",
+      "neut_nom_sg": "adj",
+      "pos": "adjective"
+    },
+    "dictionary_entry": "ingens, tis, adj. 2. in-genus, gens, that goes beyond its kind or species, qs. uncouth, monstrous, of immoderate size, vast, huge, prodigiou",
+    "glosses": [
+      "great, remarkable: magnas vero agere gratias Thais mihi?"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "inlascor": {
+    "dictionary": {
+      "gen_sg": "oris",
+      "gender": "m",
+      "nom_sg": "involator",
+      "pos": "noun"
+    },
+    "dictionary_entry": "invŏlātor, ōris, m. involo",
+    "glosses": [
+      "a robber: κλέπτης, fur, involator, Gloss. Gr. Lat."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "inlato": {
+    "dictionary": {
+      "gen_sg": "onis",
+      "gender": "f",
+      "nom_sg": "inflatio",
+      "pos": "noun"
+    },
+    "dictionary_entry": "inflātĭo, ōnis, f. id.",
+    "glosses": [
+      "a blowing itself up, swelling up. Lit., of"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "inlatuo": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "inflātus",
+    "glosses": [
+      "a, um, Part. and P. a., from inflo."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "inridicule": {
+    "dictionary": {
+      "gen_sg": "i",
+      "gender": "n",
+      "nom_sg": "indiculum",
+      "pos": "noun"
+    },
+    "dictionary_entry": "indĭcŭlum, i, n., and indĭcŭlus, i, m. dim. index",
+    "glosses": [
+      "a short list or catalogue (post-class.), Symm. Ep."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "insidia": {
+    "dictionary": {
+      "gen_sg": "arum",
+      "gender": "f",
+      "nom_sg": "insidiae",
+      "pos": "noun"
+    },
+    "dictionary_entry": "insĭdĭae, ārum, f. plur. (in sing. insidia prima, Sall. Fragm. ap. Charis. p. 75 P.) [insideo]",
+    "glosses": [
+      "an ambush, ambuscade (class.). Lit Of persons: qui"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "insidium": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "insĭdĭōsus",
+    "glosses": [
+      "a, um, adj. insidiae, cunning, artful, deceitful, dangerous"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "insignus": {
+    "dictionary": {
+      "gen_sg": "is",
+      "gender": "n",
+      "nom_sg": "insigne",
+      "pos": "noun"
+    },
+    "dictionary_entry": "insigne, is, n. insignis",
+    "glosses": [
+      "a mark, sign, signal"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "insileo": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "insilere",
+      "pos": "verb",
+      "principal_parts": "insilio, insilere, ui (insilivi, Li"
+    },
+    "dictionary_entry": "insilio, insilere, ui (insilivi, Li",
+    "glosses": [
+      "to leap into or upon, to spring at"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "insolenter": {
+    "dictionary": {
+      "fem_nom_sg": "ntis",
+      "masc_nom_sg": "insolens",
+      "neut_nom_sg": "adj",
+      "pos": "adjective"
+    },
+    "dictionary_entry": "in-sŏlens, ntis, adj. 2. in-soleo. In gen., i. q. insuetus, contrary to custom, unaccustomed to a thing; unusual, not in use (class.); const",
+    "glosses": [
+      "r. absol., or with gen.: quid tu Athenas"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "interuallis": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "intervallere",
+      "pos": "verb",
+      "principal_parts": "intervallo, intervallere, are"
+    },
+    "dictionary_entry": "intervallo, intervallere, are",
+    "glosses": [
+      "to take or assume at intervals (post-class.): intervallando"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "intuldo": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "inter-nuntĭus (internunc-)",
+    "glosses": [
+      "a, um, that serves as a messenger or"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "intulles": {
+    "dictionary": {
+      "pos": "adverb"
+    },
+    "dictionary_entry": "intus, adv. 1. in and the abl. termination -tus; Sanscr. -tas; cf. ἐντός. On the inside, within: ibi intro atque intus subducam ratiunculam",
+    "glosses": [
+      "Plaut. Capt. 1, 2, 89: vide sitne istaec"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "intulo": {
+    "dictionary": {
+      "conjugation": 2,
+      "deponent": true,
+      "infinitive": "intueri",
+      "pos": "verb",
+      "principal_parts": "intueor, intueri, itus sum"
+    },
+    "dictionary_entry": "intueor, intueri, itus sum",
+    "glosses": [
+      "39, 5), to look at, upon, or towards"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "inuicio": {
+    "dictionary": {
+      "gen_sg": "onis",
+      "gender": "f",
+      "nom_sg": "inunctio",
+      "pos": "noun"
+    },
+    "dictionary_entry": "ĭnunctĭo, ōnis, f. inunguo",
+    "glosses": [
+      "an anointing, besmearing with unguents"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "inuitor": {
+    "dictionary": {
+      "gen_sg": "us",
+      "gender": "m",
+      "nom_sg": "invitatus",
+      "pos": "noun"
+    },
+    "dictionary_entry": "invītātus, ūs, m. (only in abl. sing.) [invito]",
+    "glosses": [
+      "an inviting, invitation (rare), Cic. Fam. 7, 5"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "italis": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "italiaere",
+      "pos": "verb",
+      "principal_parts": "italia, italiaere, ae, f. for Vitalia from vitulus; cf. ιταλος, from the abundance and excellence of its cattle"
+    },
+    "dictionary_entry": "italia, italiaere, ae, f. for Vitalia from vitulus; cf. ιταλος, from the abundance and excellence of its cattle",
+    "glosses": [
+      "1, 6, 3"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "itieer": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "itinerere",
+      "pos": "verb",
+      "principal_parts": "itiner, itinerere"
+    },
+    "dictionary_entry": "itiner, itinerere",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "itinera": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "itinerere",
+      "pos": "verb",
+      "principal_parts": "itiner, itinerere"
+    },
+    "dictionary_entry": "itiner, itinerere",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "itinum": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "itinerere",
+      "pos": "verb",
+      "principal_parts": "itiner, itinerere"
+    },
+    "dictionary_entry": "itiner, itinerere",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "iturus": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "eere",
+      "note": "Future active participle; lemma 'iturus' treated as verb.",
+      "pos": "verb",
+      "principal_parts": "eo, eere, ire, ii, itum"
+    },
+    "dictionary_entry": "eo, eere, ire, ii, itum",
+    "glosses": [
+      "to go; about to go",
+      "a going, gait. In gen.: nec repentis itum"
+    ],
+    "source": "ls_perseus+context; participle-as-verb override"
+  },
+  "iuga": {
+    "dictionary": {
+      "gen_sg": "or",
+      "gender": "n",
+      "nom_sg": "brabeum",
+      "pos": "noun"
+    },
+    "dictionary_entry": "brăbēum or -īum, i, n., = βραβεῖον",
+    "glosses": [
+      "a prize in the games (late Lat.), Prud."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "iussisto": {
+    "dictionary": {
+      "gen_sg": "idis",
+      "gender": "f",
+      "nom_sg": "iulis",
+      "pos": "noun"
+    },
+    "dictionary_entry": "ĭūlis, ĭdis, f., = ἰουλίς",
+    "glosses": [
+      "a kind of rockfish, Plin. 32, 9, 31"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "ixsisto": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "exsistere",
+      "pos": "verb",
+      "principal_parts": "exsisto, exsistere, stiti, stitum"
+    },
+    "dictionary_entry": "exsisto, exsistere, stiti, stitum",
+    "glosses": [
+      "to step out or forth, to come forth"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "labien": {
+    "dictionary": {
+      "gen_sg": "i",
+      "gender": "m",
+      "nom_sg": "Labienus",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Lăbĭēnus, i, m.",
+    "glosses": [
+      "the name of several Romans. In partic., T."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "lacedo": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "lăcesso, īvi or ĭi, ītum, 3 (inf. pass. lacessiri, Col. 9, 8, 3; 9, 15, 4; Ambros. Ep. 6, 1: lacessi, Liv. 31, 18, 4 al.; Lact. 5, 2, 2: lac",
+    "glosses": [
+      "v. Roby, 1, § 625, to excite, provoke"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "latobega": {
+    "dictionary": {
+      "gen_sg": "orum",
+      "gender": "m",
+      "nom_sg": "Latobrigi",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Latobrigi, ōrum, m.",
+    "glosses": [
+      "a Gallic people, neighbors of the Helvetians, situated"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "latobrigus": {
+    "dictionary": {
+      "gen_sg": "f.",
+      "gender": "f",
+      "nom_sg": "lactoris",
+      "pos": "noun"
+    },
+    "dictionary_entry": "lactŏris, f. lac",
+    "glosses": [
+      "a kind of milky plant, Plin. 24, 18"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "laturus": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "ferere",
+      "note": "Future active participle; lemma 'laturus' treated as verb.",
+      "pos": "verb",
+      "principal_parts": "fero, ferere, ferre, tuli, latum"
+    },
+    "dictionary_entry": "fero, ferere, ferre, tuli, latum",
+    "glosses": [
+      "to bring/carry; about to bring",
+      "30, 16"
+    ],
+    "source": "ls_perseus+context; participle-as-verb override"
+  },
+  "legium": {
+    "dictionary": {
+      "gen_sg": "onis",
+      "gender": "f",
+      "nom_sg": "legio",
+      "pos": "noun"
+    },
+    "dictionary_entry": "lĕgĭo, ōnis, f. 2. lego (prop.",
+    "glosses": [
+      "hence), transf., a body of soldiers: legio, quod"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "libertasqus": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "libertasere",
+      "pos": "verb",
+      "principal_parts": "libertas, libertasere, loebertas"
+    },
+    "dictionary_entry": "libertas, libertasere, loebertas",
+    "glosses": [
+      "the state or condition of a freeman, a"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "lingona": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "lingere",
+      "pos": "verb",
+      "principal_parts": "lingo, lingere, nxi, nctum"
+    },
+    "dictionary_entry": "lingo, lingere, nxi, nctum",
+    "glosses": [
+      "to lick"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "liscio": {
+    "dictionary": {
+      "gen_sg": "litis",
+      "gender": "f",
+      "nom_sg": "lis",
+      "pos": "noun"
+    },
+    "dictionary_entry": "līs, lītis (old form stlis, stlitis, like stlocus for locus; cf. Quint. 1, 4, 16), f. root star-, in sterno; cf. Germ. streiten",
+    "glosses": [
+      "cf. id. Rab. Post. 5, 11: cum in"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "liscus": {
+    "dictionary": {
+      "gen_sg": "litis",
+      "gender": "f",
+      "nom_sg": "lis",
+      "pos": "noun"
+    },
+    "dictionary_entry": "līs, lītis (old form stlis, stlitis, like stlocus for locus; cf. Quint. 1, 4, 16), f. root star-, in sterno; cf. Germ. streiten",
+    "glosses": [
+      "Cic. de Or. 3, 28, 109: repetere ac"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "lius": {
+    "dictionary": {
+      "gen_sg": "l",
+      "gender": "n",
+      "nom_sg": "L",
+      "pos": "noun"
+    },
+    "dictionary_entry": "L, l, indecl. n. or (on account of littera) f.",
+    "glosses": [
+      "a full sound, when it ends words or"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "locumqais": {
+    "dictionary": {
+      "gen_sg": "(old",
+      "gender": "m",
+      "nom_sg": "locus",
+      "pos": "noun"
+    },
+    "dictionary_entry": "lŏcus (old form stlocus, like stlis for lis, Quint. 1, 4, 16), i, m. (lŏcum, i, n., Inscr. ap. Grut. 129, 14; plur. loci, single places; loc",
+    "glosses": [
+      "cf. Krebs, Antibarb. p. 666 sq., and v."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "longes": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "longeere",
+      "pos": "verb",
+      "principal_parts": "longe, longeere, ad"
+    },
+    "dictionary_entry": "longe, longeere, ad",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "mag": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "magnus",
+    "glosses": [
+      "a, um (archaic gen. magnai for magnae: magnai"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "magetobrigus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "mātrimus (the quantity of the i is doubtful)",
+    "glosses": [
+      "a, um, (collat. form: matrimes ac patrimes dicuntur"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "magnamquus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "magnănĭmus",
+    "glosses": [
+      "a, um, adj. magnus, animus, great-souled, magnanimous (rare"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "magnex": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "magnus",
+    "glosses": [
+      "Sanscr. mahat, mabā, great"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "marcomanus": {
+    "dictionary": {
+      "gen_sg": "and",
+      "gender": "m",
+      "nom_sg": "Marcomani",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Marcŏmăni and -manni, ōrum, m. marka",
+    "glosses": [
+      "a march, border"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "mataras": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "mataraere",
+      "pos": "verb",
+      "principal_parts": "matara, mataraere, ae, f."
+    },
+    "dictionary_entry": "matara, mataraere, ae, f.",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "mateo": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "Matura",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Mātūra, ae, f. maturus",
+    "glosses": [
+      "a goddess that presides over the ripening of"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "maturits": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "mātūrus",
+    "glosses": [
+      "cf. venter, ripe for delivery, ready to bring"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "maturrimus": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "matrimesere",
+      "pos": "verb",
+      "principal_parts": "matrimes, matrimesere"
+    },
+    "dictionary_entry": "matrimes, matrimesere",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "mdcus": {
+    "dictionary": {
+      "pos": "numeral"
+    },
+    "dictionary_entry": "MDC (Roman numeral)",
+    "glosses": [
+      "1600 (one thousand six hundred)"
+    ],
+    "source": "manual_number"
+  },
+  "melero": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "cĕler, ĕris, e (masc. cĕleris, Cato ap. Prisc. p. 760 P.; fem. celer, Liv. Andron. ap. Prisc. l. l.; cf. acer; sup. celerissimus, Enn. and M",
+    "glosses": [
+      "cf. also 1. cello], swift, fleet, quick, speedy"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "menses": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "mens, mentis (nom. sing. mentis: terra corpus est, at mentis ignis est, Enn. ap. Prisc. p. 764 P.; so too, istic est de sole sumptus; isque",
+    "glosses": [
+      "cf. Enn. p. 168, v. 6 and 7"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "messalum": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "messalaere",
+      "pos": "verb",
+      "principal_parts": "messala, messalaere"
+    },
+    "dictionary_entry": "messala, messalaere",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "milis": {
+    "dictionary": {
+      "pos": "adverb"
+    },
+    "dictionary_entry": "millĭes or mīlĭes (milliens or mi-liens), adv. id.",
+    "glosses": [
+      "a thousand times (class.): quinquies millies, Plin. 2"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "militus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "mīlĭtārĭus",
+    "glosses": [
+      "a, um, adj. id., soldierlike, military (ante-class.): gradus"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "milius": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "mille, in the plur. mīlia (or millia; archaic, MEILIA, Inscr. Orell. 3308; abl. sing. milli, Lucil. ap. Gell. 1, 16, and ap. Macr. S. 1, 5)",
+    "glosses": [
+      "cf. miles, a thousand, thousands. Lit. In gen."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "mouio": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "moveare",
+      "pos": "verb",
+      "principal_parts": "moveo, moveare, movi, motum, 2 (sync., mostis for movistis, Mart. 3, 67, 1; morunt for moverunt, Sil. 14, 141)"
+    },
+    "dictionary_entry": "moveo, moveare, movi, motum, 2 (sync., mostis for movistis, Mart. 3, 67, 1; morunt for moverunt, Sil. 14, 141)",
+    "glosses": [
+      "on"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "naceo": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "nactus",
+    "glosses": [
+      "a, um, Part., from nanciscor."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "nammeius": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "naevĭus",
+    "glosses": [
+      "a, um, adj. naevus, that has a mole"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "nasua": {
+    "dictionary": {
+      "gen_sg": "i",
+      "gender": "n",
+      "nom_sg": "nausum",
+      "pos": "noun"
+    },
+    "dictionary_entry": "nausum, i, n.",
+    "glosses": [
+      "a kind of Gallic ship: nauso advehi, Aus."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "nauiculus": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "navicula",
+      "pos": "noun"
+    },
+    "dictionary_entry": "nāvĭcŭla, ae, f. dim. id.",
+    "glosses": [
+      "a small vessel, a boat, skiff: nos ad"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "necesquus": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "necere",
+      "pos": "verb",
+      "principal_parts": "nec, necere, conj."
+    },
+    "dictionary_entry": "nec, necere, conj.",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "nemet": {
+    "dictionary": {
+      "gender": "m",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Nĕmē^tes, um, and Nĕmē^tae, ārum, m.",
+    "glosses": [
+      "a people of Gaul, in the neighborhood of"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "noreiamqum": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "Noreia",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Nŏrēïa, ae, f.",
+    "glosses": [
+      "a town in Noricum, now prob. Neumarkt, Caes."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "noricus": {
+    "dictionary": {
+      "gen_sg": "i",
+      "gender": "n",
+      "nom_sg": "Noricum",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Nōrĭcum, i, n.",
+    "glosses": [
+      "a country lying between the Danube and the"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "nosterqui": {
+    "dictionary": {
+      "conjugation": 2,
+      "infinitive": "nosterre",
+      "pos": "verb",
+      "principal_parts": "noster, nosterre, stra, strum (gen. sing. f. nostrai, Vel. Long. p. 2222 P.; gen. plur. nostrum, Plaut. Men. 1, 25"
+    },
+    "dictionary_entry": "noster, nosterre, stra, strum (gen. sing. f. nostrai, Vel. Long. p. 2222 P.; gen. plur. nostrum, Plaut. Men. 1, 25",
+    "glosses": [
+      "ours, of us. In gen. For the poss."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "nouas": {
+    "dictionary": {
+      "gen_sg": "us",
+      "gender": "m",
+      "nom_sg": "novatus",
+      "pos": "noun"
+    },
+    "dictionary_entry": "nŏvātus, ūs, m. novo",
+    "glosses": [
+      "a renewing, changing, change (late Lat.), Aus. Idyll."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "nouitus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "nŏvus",
+    "glosses": [
+      "a, um, adj. Sanscr. navas"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "nuntiosqus": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "nuntiare",
+      "pos": "verb",
+      "principal_parts": "nuntio, nuntiare, avi, atum"
+    },
+    "dictionary_entry": "nuntio, nuntiare, avi, atum",
+    "glosses": [
+      "to announce, declare, report, relate, narrate, make known"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "obaeratosqus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "ŏb-aerātus",
+    "glosses": [
+      "a, um, adj. id., involved in debt, in"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "obsidesqus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "obsĕquens, entis, Part. and P. a., from obsequor.",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "obsidus": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "obsolidare",
+      "pos": "verb",
+      "principal_parts": "obsolido, obsolidare, avi"
+    },
+    "dictionary_entry": "obsolido, obsolidare, avi",
+    "glosses": [
+      "to make firm or fast, to harden, consolidate"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "obsis": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "obere",
+      "pos": "verb",
+      "principal_parts": "ob, obere"
+    },
+    "dictionary_entry": "ob, obere",
+    "glosses": [
+      "Gr. ἐπί]. Lit. With verbs of motion, towards"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "obstribuo": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "obstrictus",
+    "glosses": [
+      "a, um, Part. and P. a., from obstringo."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "occupatoqus": {
+    "dictionary": {
+      "gen_sg": "onis",
+      "gender": "f",
+      "nom_sg": "occupatio",
+      "pos": "noun"
+    },
+    "dictionary_entry": "occŭpātĭo, ōnis, f. occupo",
+    "glosses": [
+      "a seizing, occupying (class.). Lit. (very rare): fori"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "ocelus": {
+    "dictionary": {
+      "gen_sg": "es",
+      "gender": "f",
+      "nom_sg": "oce",
+      "pos": "noun"
+    },
+    "dictionary_entry": "ocē, ēs, f.",
+    "glosses": [
+      "a kind of little bird, a swallow, Plin."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "oportuns": {
+    "dictionary": {
+      "gen_sg": "(obp-)",
+      "gender": "f",
+      "nom_sg": "opportunitas",
+      "pos": "noun"
+    },
+    "dictionary_entry": "opportūnĭtas (obp-), ātis, f. opportunus. In gen., fitness, convenience, suitableness (class.; syn. occasio; cf.: copia, facultas): loci, lo",
+    "glosses": [
+      "cal advantages, Caes. B. G. 3, 14: corporis"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "oppida": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "oppĭdānus",
+    "glosses": [
+      "a, um, adj. id., of or in a"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "oppidus": {
+    "dictionary": {
+      "gen_sg": "i",
+      "gender": "n",
+      "nom_sg": "oppidum",
+      "pos": "noun"
+    },
+    "dictionary_entry": "oppĭdum, i (gen. plur oppidūm, Sulp. ap. Cic. Fam. 4, 5, 4; old abl plur. oppedeis, Lex. Servil.), n. ob and pedum; Gr. πέδον; Sanscr pada-m",
+    "glosses": [
+      "on or over the plain. A town (of"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "orgetoricim": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "ōrātōrĭus",
+    "glosses": [
+      "a, um, adj. orator. Of or belonging to"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "orgetorigus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "ōrātōrĭus",
+    "glosses": [
+      "a, um, adj. orator. Of or belonging to"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "pabulus": {
+    "dictionary": {
+      "gen_sg": "i",
+      "gender": "n",
+      "nom_sg": "pabulum",
+      "pos": "noun"
+    },
+    "dictionary_entry": "pābŭlum, i, n. from the root pa, whence also pa-sco, food, nourishment. Lit. Of men (only poet.): dura mundi, Lucr. 5, 944: dira (of the hum",
+    "glosses": [
+      "id. J. 90, 1.— Trop., food, nourishment, sustenance"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "pae": {
+    "dictionary": {
+      "pos": "adverb"
+    },
+    "dictionary_entry": "paene (less correctly pēne), adv. etym. dub., nearly, almost, as I may say (class.): fores paene effregisti, Plaut. Bacch. 4, 2, 4; id. Am.",
+    "glosses": [
+      "4, 2, 6"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "paratissimam": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "parasita",
+      "pos": "noun"
+    },
+    "dictionary_entry": "părăsīta, ae, f. parasitus",
+    "glosses": [
+      "a female parasite: ciniflones, parasitae, Hor. S. 1"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "parauio": {
+    "dictionary": {
+      "gen_sg": "onis",
+      "gender": "f",
+      "nom_sg": "paratio",
+      "pos": "noun"
+    },
+    "dictionary_entry": "părātĭo, ōnis, f. 1. paro",
+    "glosses": [
+      "a preparing, getting, procuring (rare for comparatio"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "peimitto": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "permistus (permixt-)",
+    "glosses": [
+      "a, um, Part. and P. a., v. permisceo."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "pependeo": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "perpendere",
+      "pos": "verb",
+      "principal_parts": "perpendo, perpendere, pendi, pensum"
+    },
+    "dictionary_entry": "perpendo, perpendere, pendi, pensum",
+    "glosses": [
+      "to weigh carefully or exactly. Lit. (very rare):"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "perfrabio": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "perfrigeere",
+      "pos": "verb",
+      "principal_parts": "perfrigeo, perfrigeere, ere"
+    },
+    "dictionary_entry": "perfrigeo, perfrigeere, ere",
+    "glosses": [
+      "to take cold: perfrigeo, καταψύχω, Gloss. Philox."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "perfux": {
+    "dictionary": {
+      "gen_sg": null,
+      "gen_sg_ending": "onis",
+      "gender": "f",
+      "nom_sg": "perfusio",
+      "pos": "noun"
+    },
+    "dictionary_entry": "per-fūsĭo, ōnis, f. id.. In gen.",
+    "glosses": [
+      "a pouring over or upon, a wetting, moistening"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "peritis": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "pĕrītus",
+    "glosses": [
+      "a, um, adj. prop. Part. of perior (in"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "persolueo": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "persŏlūta",
+    "glosses": [
+      "a corrupt read. for pesoluta, Plin. 21, 33"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "persua": {
+    "dictionary": {
+      "gen_sg": "oris",
+      "gender": "m",
+      "nom_sg": "persuasor",
+      "pos": "noun"
+    },
+    "dictionary_entry": "persuāsor, ōris, m. persuadeo",
+    "glosses": [
+      "a convincer, one who persuades or prevails upon"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "perterre": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "perterrĭtus",
+    "glosses": [
+      "a, um, Part., from perterreo."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "perterro": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "perterritere",
+      "pos": "verb",
+      "principal_parts": "perterrito, perterritere, are"
+    },
+    "dictionary_entry": "perterrito, perterritere, are",
+    "glosses": [
+      "to frighten or terrify thoroughly (postclass.), Avien. Arat."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "pertinacium": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "pertinacia",
+      "pos": "noun"
+    },
+    "dictionary_entry": "pertĭnācĭa, ae, f. pertinax, perseverance, constancy, in a good sense; and (more freq.) in a bad sense, obstinacy, pertinacity (syn.: persev",
+    "glosses": [
+      "v. Att. ap. Non. 432, 32 sq.: certamen"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "peruenero": {
+    "dictionary": {
+      "conjugation": 3,
+      "deponent": true,
+      "infinitive": "perveni",
+      "pos": "verb",
+      "principal_parts": "pervenor, perveni, ari"
+    },
+    "dictionary_entry": "pervenor, perveni, ari",
+    "glosses": [
+      "to hunt through"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "peruo": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "perversus (pervorsus)",
+    "glosses": [
+      "a, um, Part. and P. a., from perverto."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "pesisso": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "petessere",
+      "pos": "verb",
+      "principal_parts": "petesso, petessere, ere"
+    },
+    "dictionary_entry": "petesso, petessere, ere",
+    "glosses": [
+      "to strive after or seek for repeatedly or"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "pesum": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "petessere",
+      "pos": "verb",
+      "principal_parts": "petesso, petessere, ere"
+    },
+    "dictionary_entry": "petesso, petessere, ere",
+    "glosses": [
+      "to strive after or seek for repeatedly or"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "petior": {
+    "dictionary": {
+      "pos": "adjective"
+    },
+    "dictionary_entry": "pestĭfer and (rarely, Cels. 2, 6) pes-tĭfĕrus, ĕra, ĕrum, adj. pestis-fero. Bringing pestilence, pestilential: odor, Liv. 25, 26, 11.— In ge",
+    "glosses": [
+      "n., that brings destruction, destructive, baleful, noxious, pernicious"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "phalan": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "phalaere",
+      "pos": "verb",
+      "principal_parts": "phala, phalaere, ae"
+    },
+    "dictionary_entry": "phala, phalaere, ae",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "phalanga": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "phalaere",
+      "pos": "verb",
+      "principal_parts": "phala, phalaere, ae"
+    },
+    "dictionary_entry": "phala, phalaere, ae",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "pilis": {
+    "dictionary": {
+      "fem_nom_sg": "e",
+      "masc_nom_sg": "pilaris",
+      "neut_nom_sg": "adj",
+      "pos": "adjective"
+    },
+    "dictionary_entry": "pĭlāris, e, adj. 3. pila, of or belonging to a ball: lusio",
+    "glosses": [
+      "a game of ball, Stat. S. 4 praef."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "pison": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "pinso (pīso), pinsi and pinsŭi, pinsum, pinsĭtum, and pistum (pisatum, Fest. p. 158 Müll.), 3 (also in Varr. R. R. 1, 63 fin.",
+    "glosses": [
+      "archaic form of the imperf. pinsibant, Enn. ap."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "polliceo": {
+    "dictionary": {
+      "conjugation": 2,
+      "deponent": true,
+      "infinitive": "polliceri",
+      "pos": "verb",
+      "principal_parts": "polliceor, polliceri, itus (act. form polliceres, Varr. Sat. Menip. 8, 5)"
+    },
+    "dictionary_entry": "polliceor, polliceri, itus (act. form polliceres, Varr. Sat. Menip. 8, 5)",
+    "glosses": [
+      "cf. pro) and liceor. To hold forth, offer"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "poltulo": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "postulare",
+      "pos": "verb",
+      "principal_parts": "postulo, postulare, avi, atum"
+    },
+    "dictionary_entry": "postulo, postulare, avi, atum",
+    "glosses": [
+      "to ask, demand, require, request, desire (syn.: posco"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "popo": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "pompare",
+      "pos": "verb",
+      "principal_parts": "pompo, pompare, no perf., atum"
+    },
+    "dictionary_entry": "pompo, pompare, no perf., atum",
+    "glosses": [
+      "to make or do any thing with pomp"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "portoria": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "abspellere",
+      "pos": "verb",
+      "principal_parts": "abspello, abspellere, -porto, -portatio"
+    },
+    "dictionary_entry": "abspello, abspellere, -porto, -portatio",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "poscum": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "pŏtītus",
+    "glosses": [
+      "a, um, Part., in a pass. signif., v."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "poscumo": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "poscere",
+      "pos": "verb",
+      "principal_parts": "posco, poscere, poposci, 3 (old perf. peposci, Val. Antias ap. Gell. 7, 9, 9)"
+    },
+    "dictionary_entry": "posco, poscere, poposci, 3 (old perf. peposci, Val. Antias ap. Gell. 7, 9, 9)",
+    "glosses": [
+      "to be called upon or invoked to inspire"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "postridio": {
+    "dictionary": {
+      "pos": "adverb"
+    },
+    "dictionary_entry": "postrīdĭē (ante-class. collat. form po-strīdŭo, Plaut. Mil. 4, 2, 90), adv. loc. form from posterus and die, on the day after",
+    "glosses": [
+      "the following or next day (class.), Cic. Phil."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "potenedto": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "potentia",
+      "pos": "noun"
+    },
+    "dictionary_entry": "pŏtentĭa, ae, f. potens, might, force, power. Lit. (class.; cf.: potestas, opes): armorum tenendorum potentia, Liv. 21, 54 fin.: potentia so",
+    "glosses": [
+      "lis Acrior, Verg. G. 1, 92: ventosa, Ov."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "potentisco": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "potentia",
+      "pos": "noun"
+    },
+    "dictionary_entry": "pŏtentĭa, ae, f. potens, might, force, power. Lit. (class.; cf.: potestas, opes): armorum tenendorum potentia, Liv. 21, 54 fin.: potentia so",
+    "glosses": [
+      "lis Acrior, Verg. G. 1, 92: ventosa, Ov."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "potento": {
+    "dictionary": {
+      "gen_sg": "oris",
+      "gender": "m",
+      "nom_sg": "potentator",
+      "pos": "noun"
+    },
+    "dictionary_entry": "pŏtentātor, ōris, m. potens",
+    "glosses": [
+      "a ruler, potentate (eccl. Lat.): solus potentator et"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "praecauo": {
+    "dictionary": {
+      "conjugation": 2,
+      "infinitive": "praecavere",
+      "pos": "verb",
+      "principal_parts": "praecaveo, praecavere, cavi, cautum"
+    },
+    "dictionary_entry": "praecaveo, praecavere, cavi, cautum",
+    "glosses": [
+      "to guard against beforehand. Act., to guard against"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "praeero": {
+    "dictionary": {
+      "pos": "adverb"
+    },
+    "dictionary_entry": "prae, adv., and prep. with abl. [for prai, kindred with Sanscr. prefix pra-, before; Gr. πρό, πρίν, πρόσω; cf.: pro, prior, porro, primus].",
+    "glosses": [
+      "46, 1), before, in front of, in advance"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "praefacio": {
+    "dictionary": {
+      "gen_sg": "onis",
+      "gender": "f",
+      "nom_sg": "praefectio",
+      "pos": "noun"
+    },
+    "dictionary_entry": "praefectĭo, ōnis, f. praeficio",
+    "glosses": [
+      "a setting before: a praefectione praefica dicta, Varr."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "praetoria": {
+    "dictionary": {
+      "gen_sg": "oris",
+      "gender": "m",
+      "nom_sg": "praetor",
+      "pos": "noun"
+    },
+    "dictionary_entry": "praetor, ōris, m. for praeitor, from praeeo. Prop.",
+    "glosses": [
+      "a leader, head, chief, president: regio imperio duo"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "precus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "prĕcārĭus",
+    "glosses": [
+      "cf.: tribunicia potestas, precarium, non justum auxilium ferens"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "principibus": {
+    "dictionary": {
+      "fem_nom_sg": "e",
+      "masc_nom_sg": "principalis",
+      "neut_nom_sg": "adj",
+      "pos": "adjective"
+    },
+    "dictionary_entry": "princĭpālis, e, adj. princeps. In gen., first, original, primitive (class.): causae, Cic. Fat. 5, 9: est igitur tropus sermo a naturali et p",
+    "glosses": [
+      "rincipali significatione translatus ad aliam, Quint. 9, 1"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "principis": {
+    "dictionary": {
+      "fem_nom_sg": "e",
+      "masc_nom_sg": "principalis",
+      "neut_nom_sg": "adj",
+      "pos": "adjective"
+    },
+    "dictionary_entry": "princĭpālis, e, adj. princeps. In gen., first, original, primitive (class.): causae, Cic. Fat. 5, 9: est igitur tropus sermo a naturali et p",
+    "glosses": [
+      "rincipali significatione translatus ad aliam, Quint. 9, 1"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "pristinas": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "pristĭnus",
+    "glosses": [
+      "a, um, adj. cf. priscus, former, early, original"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "procillus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "prōcĭtus",
+    "glosses": [
+      "a, um, Part., from procieo."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "proelius": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "proeliare",
+      "pos": "verb",
+      "principal_parts": "proelio, proeliare, are"
+    },
+    "dictionary_entry": "proelio, proeliare, are",
+    "glosses": [
+      "ahl.)"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "proficisceo": {
+    "dictionary": {
+      "conjugation": 3,
+      "deponent": true,
+      "infinitive": "proficisci",
+      "pos": "verb",
+      "principal_parts": "proficiscor, proficisci, fectus sum"
+    },
+    "dictionary_entry": "proficiscor, proficisci, fectus sum",
+    "glosses": [
+      "Just. 1, 6, 10: in exercitum, Plaut. Am."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "proiecido": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "prolicitere",
+      "pos": "verb",
+      "principal_parts": "prolicito, prolicitere, are"
+    },
+    "dictionary_entry": "prolicito, prolicitere, are",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "proieco": {
+    "dictionary": {
+      "gen_sg": "onis",
+      "gender": "f",
+      "nom_sg": "prosecutio",
+      "pos": "noun"
+    },
+    "dictionary_entry": "prōsĕcūtĭo, ōnis, f. prosequor. Lit.",
+    "glosses": [
+      "a following or accompanying on the way, attendance"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "propinquosqus": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "propinquare",
+      "pos": "verb",
+      "principal_parts": "propinquo, propinquare, avi, atum"
+    },
+    "dictionary_entry": "propinquo, propinquare, avi, atum",
+    "glosses": [
+      "to bring near, bring on, hasten, accelerate (poet.):"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "propulo": {
+    "dictionary": {
+      "gen_sg": "oris",
+      "gender": "m",
+      "nom_sg": "propulsor",
+      "pos": "noun"
+    },
+    "dictionary_entry": "prōpulsor, ōris, m. id., one that wards off or drives back (post-class.): cornigeri pecudis, Venant. Vit. S. Mart. 3, 301.",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "proximumquus": {
+    "dictionary": {
+      "fem_nom_sg": "ius",
+      "masc_nom_sg": "propior",
+      "neut_nom_sg": "gen",
+      "pos": "adjective"
+    },
+    "dictionary_entry": "prŏpĭor, ĭus, gen. ōris, adj. comp., and proxĭmus",
+    "glosses": [
+      "a, um, adj. sup. (v. below"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "pulio": {
+    "dictionary": {
+      "gen_sg": "pultis",
+      "gender": "f",
+      "nom_sg": "puls",
+      "pos": "noun"
+    },
+    "dictionary_entry": "puls, pultis, f. πόλτος",
+    "glosses": [
+      "a thick pap or pottage made of meal"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "quadringo": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "quā^dringenti, ae",
+    "glosses": [
+      "a, adj. quattuorcentum, four hundred: anni, Cic. Rep."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "quaesco": {
+    "dictionary": {
+      "gen_sg": "onis",
+      "gender": "f",
+      "nom_sg": "quaesitio",
+      "pos": "noun"
+    },
+    "dictionary_entry": "quaesītĭo, ōnis, f. quaero",
+    "glosses": [
+      "a seeking or searching after (post-Aug.). In gen.:"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "querio": {
+    "dictionary": {
+      "pos": "conjunction"
+    },
+    "dictionary_entry": "quĕ (lengthened in arsis by the poets, like the Gr. τε: Faunique Satyrique, Ov. M. 1, 193; 4, 10; 5, 484; Verg. A. 3, 91 al.), conj. encliti",
+    "glosses": [
+      "and in archaic formulae: potes pollesque, Liv. 1"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "quero": {
+    "dictionary": {
+      "conjugation": 3,
+      "deponent": true,
+      "infinitive": "queri",
+      "pos": "verb",
+      "principal_parts": "queror, queri, questus sum"
+    },
+    "dictionary_entry": "queror, queri, questus sum",
+    "glosses": [
+      "cf.: quereris super hoc, quod non mittam carmina"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "quingo": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "quingenti (old orthogr. quincenti, acc. to Fest. p. 254 Müll.), ae",
+    "glosses": [
+      "Just. 2, 11), num. adj. quinque-centum. Five hundred:"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "quotior": {
+    "dictionary": {
+      "pos": "adverb"
+    },
+    "dictionary_entry": "quŏtĭens or quŏtĭes, adv. quot, how often, how many times, as often as (class.): o quotiens et quae nobis Galatea locuta est! Verg. E. 3, 72",
+    "glosses": [
+      "quotiens et quot nominibus a Syracusanis statuas auferes?"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "raedus": {
+    "dictionary": {
+      "pos": "adjective"
+    },
+    "dictionary_entry": "raedārĭus (rēdārĭus), i, adj. raeda, of or belonging to a four-wheeled carriage: mulae, Varr. R. R. 3, 17, 7.— Hence, subst.: raedārĭus, i",
+    "glosses": [
+      "m. A coachman, the driver of a ræda:"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "ratibus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "rătītus",
+    "glosses": [
+      "a, um, adj. ratis, marked with the figure"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "rauracis": {
+    "dictionary": {
+      "gen_sg": "(Raurici",
+      "gender": "m",
+      "nom_sg": "Rauraci",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Raurăci (Raurĭci, Plin. 4, 17, 31, § 106), ōrum, m.",
+    "glosses": [
+      "a people of Gaul, on the Rhine, neighbors"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "rauracus": {
+    "dictionary": {
+      "gen_sg": "(Raurici",
+      "gender": "m",
+      "nom_sg": "Rauraci",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Raurăci (Raurĭci, Plin. 4, 17, 31, § 106), ōrum, m.",
+    "glosses": [
+      "7, 75.—Hence, Raurăcum, i, n., the city of"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "recentius": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "rĕpentīnus",
+    "glosses": [
+      "a, um, adj. repens, sudden, hasty, unlooked for"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "reiceo": {
+    "dictionary": {
+      "conjugation": 3,
+      "deponent": true,
+      "infinitive": "relicei",
+      "pos": "verb",
+      "principal_parts": "reliceor, relicei, eri"
+    },
+    "dictionary_entry": "reliceor, relicei, eri",
+    "glosses": [
+      "to bid less at an auction, Cic. Off."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "reliquas": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "reliquusere",
+      "pos": "verb",
+      "principal_parts": "reliquus, reliquusere, rell-, -qus"
+    },
+    "dictionary_entry": "reliquus, reliquusere, rell-, -qus",
+    "glosses": [
+      "and with this cf. Sall. H. Fragm. 1"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "repito": {
+    "dictionary": {
+      "gen_sg": "oris",
+      "gender": "m",
+      "nom_sg": "repetitor",
+      "pos": "noun"
+    },
+    "dictionary_entry": "rĕpĕtītor, ōris, m. repeto, one that demands back",
+    "glosses": [
+      "a reclaimer: nuptae ademptae, Ov. H. 8, 19."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "repperio": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "repperiere",
+      "pos": "verb",
+      "principal_parts": "repperi, repperiere"
+    },
+    "dictionary_entry": "repperi, repperiere",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "repullo": {
+    "dictionary": {
+      "gen_sg": "onis",
+      "gender": "f",
+      "nom_sg": "repulsio",
+      "pos": "noun"
+    },
+    "dictionary_entry": "rĕpulsĭo, ōnis, f. repello. Lit.",
+    "glosses": [
+      "a repelling, resistance: violentiae per vim, Isid. 5"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "respeo": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "respuere",
+      "pos": "verb",
+      "principal_parts": "respuo, respuere, ui"
+    },
+    "dictionary_entry": "respuo, respuere, ui",
+    "glosses": [
+      "cf.: tela omnia, Luc. 3, 484.— Trop., to"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "reuerio": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "rĕ-verto (-vort-) and rĕ-vertor (-vort-), versus (-vors-) (inf. paragog. revertier, Phaedr. 4, 18, 14), 3 (the authors of the ante-Aug. per.",
+    "glosses": [
+      "make the perfect forms, with the exception of"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "romo": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "Roma",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Rōma, ae, f., = Ῥώμη",
+    "glosses": [
+      "the city of Rome, founded in the second"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "rotasqus": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "rota",
+      "pos": "noun"
+    },
+    "dictionary_entry": "rŏta, ae, f. kindred with Sanscr. ratha, chariot, and Germ. Rad (cf.rotundus), wheel",
+    "glosses": [
+      "a wheel. Lit.: pro rotā me uti licet"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "rutenus": {
+    "dictionary": {
+      "pos": "adverb"
+    },
+    "dictionary_entry": "rŭdens, entis (gen. plur. rudentium, Vitr. 10, 19; Prud. adv. Symm. praef. 2; abl. rudenti, Vitr. 10, 2), m. (fem., Plaut. Rud. 4, 3, 1) [et",
+    "glosses": [
+      "ym. unknown"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "saepus": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "septuoseere",
+      "pos": "verb",
+      "principal_parts": "septuose, septuoseere, ad"
+    },
+    "dictionary_entry": "septuose, septuoseere, ad",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "santo": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "sanare",
+      "pos": "verb",
+      "principal_parts": "sano, sanare, avi, atum"
+    },
+    "dictionary_entry": "sano, sanare, avi, atum",
+    "glosses": [
+      "to make sound, to heal, cure, restore to"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "sarcinasquus": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "sarcina",
+      "pos": "noun"
+    },
+    "dictionary_entry": "sarcĭna, ae, f. id.. Lit.",
+    "glosses": [
+      "a package, bundle, burden, load, pack"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "scuo": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "scutaere",
+      "pos": "verb",
+      "principal_parts": "scuta, scutaere, ae"
+    },
+    "dictionary_entry": "scuta, scutaere, ae",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "scutus": {
+    "dictionary": {
+      "gen_sg": "i",
+      "gender": "n",
+      "nom_sg": "scutum",
+      "pos": "noun"
+    },
+    "dictionary_entry": "scūtum, i, n. (masc. collat. form scū-tus, Turp. ap. Non. 226, 13) [σκῦτος]. An oblong shield, made of boards fastened together, and covered",
+    "glosses": [
+      "38, 17: erectum altius, Amm. 24, 4, 4.—"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "sedusios": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "seducere",
+      "pos": "verb",
+      "principal_parts": "seduco, seducere, xi, ctum"
+    },
+    "dictionary_entry": "seduco, seducere, xi, ctum",
+    "glosses": [
+      "to set aside, put by, etc. (syn. sevoco)."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "segusiauus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "sexāgēsĭmus",
+    "glosses": [
+      "a, um, num. ord. adj. [sexaginta], the sixtieth:"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "semeo": {
+    "dictionary": {
+      "gen_sg": "inis",
+      "gender": "n",
+      "nom_sg": "semen",
+      "pos": "noun"
+    },
+    "dictionary_entry": "sēmen, ĭnis, n. root sa-, sē-; cf.: sero, sevi; Saturnus, sator, etc.. Seed. Of plants, Cato, R. R. 17; 27; 31 fin.; 34; Varr. R. R. 1, 40 s",
+    "glosses": [
+      "q.: semen manu spargere, Cic. Rosc. Am. 18"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "senatusqus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "sĕnātus, ūs (gen. senati, Plaut. Cas. 3, 2, 6; id. Ep. 2, 2, 5; Sisenn. ap. Non. 484, 18; Cic. Div. in Caecil. 5, 19; also cited ap. Charis.",
+    "glosses": [
+      "p. 116 P."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "senes": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "sēni, ae",
+    "glosses": [
+      "Caes. B. C. 2, 15), num. distrib. [sex]."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "sequanis": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "Sequana",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Sēquăna, ae, f., one of the principal rivers of Gallia Celtica",
+    "glosses": [
+      "the Seine, Caes. B. G. 1, 1"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "sequanisquusqui": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "Sequana",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Sēquăna, ae, f., one of the principal rivers of Gallia Celtica",
+    "glosses": [
+      "the Seine, Caes. B. G. 1, 1"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "siluas": {
+    "dictionary": {
+      "gen_sg": "(less",
+      "gender": "f",
+      "nom_sg": "silva",
+      "pos": "noun"
+    },
+    "dictionary_entry": "silva (less correctly sylva), ae (old gen. silvaï; silua as trisyl., Hor. C. 1, 23, 4; id. Epod. 13, 2; cf. Prisc. p. 546 P.), f. cf. Gr. ὕλ",
+    "glosses": [
+      "η,, a wood, forest, woodland (syn.: saltus, nemus"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "siluum": {
+    "dictionary": {
+      "gen_sg": "(less",
+      "gender": "f",
+      "nom_sg": "silva",
+      "pos": "noun"
+    },
+    "dictionary_entry": "silva (less correctly sylva), ae (old gen. silvaï; silua as trisyl., Hor. C. 1, 23, 4; id. Epod. 13, 2; cf. Prisc. p. 546 P.), f. cf. Gr. ὕλ",
+    "glosses": [
+      "η,, a wood, forest, woodland (syn.: saltus, nemus"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "sociisqus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "sŏcĭus",
+    "glosses": [
+      "cf.: civitas nobis, Tac. A. 13, 57: agmina"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "socus": {
+    "dictionary": {
+      "gen_sg": "(nom.",
+      "gender": "m",
+      "nom_sg": "socer",
+      "pos": "noun"
+    },
+    "dictionary_entry": "sŏcer (nom. socerus, Plaut. Cas. 4, 2, 18; id. Men. 5, 5, 54; with socer, id. ib. 5, 7, 56), ĕri, m. Gr. ἑκυρός. A father-in-law, Plaut. Sti",
+    "glosses": [
+      "Ov. M. 3, 132.— Transf., for consocer, a"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "sortius": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "sortĭo, īre",
+    "glosses": [
+      "to draw lots (ante-class."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "sortus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "sortĭo, īre",
+    "glosses": [
+      "to draw lots (ante-class."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "sorus": {
+    "dictionary": {
+      "gen_sg": "oris",
+      "gender": "f",
+      "nom_sg": "soror",
+      "pos": "noun"
+    },
+    "dictionary_entry": "sŏror, ōris, f. Sanscr. svasar; Goth. svister; Germ. Schwester; Engl. sister. Lit. In gen.",
+    "glosses": [
+      "a sister: Th. Salve, mea soror. Pl. Frater"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "sua": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "sŭus",
+    "glosses": [
+      "a, um (old form sos, sa, sum"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "subministro": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "sumministrare",
+      "pos": "verb",
+      "principal_parts": "sumministro, sumministrare, avi, atum"
+    },
+    "dictionary_entry": "sumministro, sumministrare, avi, atum",
+    "glosses": [
+      "to give, furnish, afford, supply (class.). Lit.: pecuniam"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "submo": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "submere",
+      "pos": "verb",
+      "principal_parts": "subm, submere"
+    },
+    "dictionary_entry": "subm, submere",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "subuo": {
+    "dictionary": {
+      "gen_sg": "f.",
+      "gender": "f",
+      "nom_sg": "Subur",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Sŭbur, f.",
+    "glosses": [
+      "a town in Spain, on the river Rubricatus"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "sueb": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "suebiere",
+      "pos": "verb",
+      "principal_parts": "suebi, suebiere"
+    },
+    "dictionary_entry": "suebi, suebiere",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "sueba": {
+    "dictionary": {
+      "gen_sg": "es",
+      "gender": "f",
+      "nom_sg": "Sue",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Suē, ēs, f.",
+    "glosses": [
+      "a town in Assyria, Plin. 6, 26, 30"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "suebus": {
+    "dictionary": {
+      "gen_sg": "or",
+      "gender": "m",
+      "nom_sg": "Suevi",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Suēvi or Suēbi (in inscrr. always; but most MSS. have Suevi), ōrum, m.",
+    "glosses": [
+      "Luc. 2, 51.—Hence, Suēvus or Suē-bus, a, um"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "sullus": {
+    "dictionary": {
+      "gen_sg": "(less",
+      "gender": "m",
+      "nom_sg": "Sulla",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Sulla (less correctly Sylla), ae, m.",
+    "glosses": [
+      "a surname in the gens Cornelia. So, esp."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "summaqus": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "summaare",
+      "pos": "verb",
+      "principal_parts": "summa, summaare, ae, f. (sc. res; old gen. summai, Lucr. 1, 984; 6, 679) [summus"
+    },
+    "dictionary_entry": "summa, summaare, ae, f. (sc. res; old gen. summai, Lucr. 1, 984; 6, 679) [summus",
+    "glosses": [
+      "cf.: haec belli summa nefandi, Verg. A. 12"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "suoquis": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "suere",
+      "pos": "verb",
+      "principal_parts": "suo, suere, sui, sutum"
+    },
+    "dictionary_entry": "suo, suere, sui, sutum",
+    "glosses": [
+      "to stitch, cobble, to sew or stitch, to"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "superauio": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "supervincere",
+      "pos": "verb",
+      "principal_parts": "supervinco, supervincere, ere"
+    },
+    "dictionary_entry": "supervinco, supervincere, ere",
+    "glosses": [
+      "to overcome, conquer (eccl. Lat.), Tert. adv. Gnost."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "supserfuo": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "superfundere",
+      "pos": "verb",
+      "principal_parts": "superfundo, superfundere, fudi, fusum"
+    },
+    "dictionary_entry": "superfundo, superfundere, fudi, fusum",
+    "glosses": [
+      "composueris, oleum superfundito, Col. 12, 57, 1"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "suspicium": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "suspicere",
+      "pos": "verb",
+      "principal_parts": "suspicio, suspicere, spexi, spectum"
+    },
+    "dictionary_entry": "suspicio, suspicere, spexi, spectum",
+    "glosses": [
+      "that excites suspicion. Of persons, Plaut. Bacch. 4"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "tabulus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "tăbŭlārĭus",
+    "glosses": [
+      "A., of or belonging to written documents"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "telaqum": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "tela",
+      "pos": "noun"
+    },
+    "dictionary_entry": "tēla, ae, f. prob. contr. from texia, from texo; cf. ala, from axilla; mala, from maxilla, Cic. Or. 45, 153",
+    "glosses": [
+      "a web. Lit.: texentem telam studiose ipsam offendimus"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "telus": {
+    "dictionary": {
+      "gen_sg": "i",
+      "gender": "n",
+      "nom_sg": "telum",
+      "pos": "noun"
+    },
+    "dictionary_entry": "tēlum, i, n. for texlum; root τεκ-, of τίκτω",
+    "glosses": [
+      "a missile weapon, missile, as a dart, spear"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "tempto": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "retentare",
+      "pos": "verb",
+      "principal_parts": "retento, retentare, avi, atum"
+    },
+    "dictionary_entry": "retento, retentare, avi, atum",
+    "glosses": [
+      "to try or attempt again, to reattempt (a"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "terga": {
+    "dictionary": {
+      "pos": "adverb"
+    },
+    "dictionary_entry": "tĕr, adv. num. Sanscr. tris; Gr. τρίς; cf. tres, three times, thrice. Lit.: ter sub armis malim vitam cernere, quam semel modo parere, Enn.",
+    "glosses": [
+      "ap. Varr. L. L. 6, § 81 Müll."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "terro": {
+    "dictionary": {
+      "conjugation": 2,
+      "infinitive": "terrere",
+      "pos": "verb",
+      "principal_parts": "terreo, terrere, ui, itum"
+    },
+    "dictionary_entry": "terreo, terrere, ui, itum",
+    "glosses": [
+      "to frighten, affright, put in fear or dread"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "teuto": {
+    "dictionary": {
+      "gen_sg": "orum",
+      "gender": "m",
+      "nom_sg": "Teutoni",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Teutŏni, ōrum (collat. form Teutŏ-nes, um, Caes. B. G. 7, 77 fin.; Vell. 2, 12, 4; Aur. Vict. Vir. Ill. 67; Eutr. 5, 1 sq.), m.",
+    "glosses": [
+      "the Teutons, a people of Germany, Mel. 3"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "teuton": {
+    "dictionary": {
+      "gen_sg": "orum",
+      "gender": "m",
+      "nom_sg": "Teutoni",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Teutŏni, ōrum (collat. form Teutŏ-nes, um, Caes. B. G. 7, 77 fin.; Vell. 2, 12, 4; Aur. Vict. Vir. Ill. 67; Eutr. 5, 1 sq.), m.",
+    "glosses": [
+      "the Teutons, a people of Germany, Mel. 3"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "tolosatius": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "Tolosa",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Tŏlōsa, ae, f.",
+    "glosses": [
+      "a city in Gallia Narbonensis, now Toulouse, Mel."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "transfacio": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "traicere",
+      "pos": "verb",
+      "principal_parts": "traicio, traicere, jeci, jectum"
+    },
+    "dictionary_entry": "traicio, traicere, jeci, jectum",
+    "glosses": [
+      "to throw across. With the person or thing"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "treuer": {
+    "dictionary": {
+      "gen_sg": "(Treviri)",
+      "gender": "m",
+      "nom_sg": "Treveri",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Trēvĕri (Trēvĭri), ōrum, m. A people in Gallia Belgica, between the Moselle and the forest of Ardennes, in and about the mod. Treves, Caes.",
+    "glosses": [
+      "Liv. Epit. 107 al.—In sing.: Trēvĭr, one of"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "tribocus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "trīcōsus",
+    "glosses": [
+      "a, um, adj. tricae, full of difficulties or"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "triduus": {
+    "dictionary": {
+      "gen_sg": "i",
+      "gender": "n",
+      "nom_sg": "triduum",
+      "pos": "noun"
+    },
+    "dictionary_entry": "trīdŭum, i, n. (sc. spatium) [tres-dies]",
+    "glosses": [
+      "the space of three days, three days: ubi"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "trinis": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "trīni (terni), ae",
+    "glosses": [
+      "cf. Varr. L. L. 10, § 67 Müll.—"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "troucillum": {
+    "dictionary": {
+      "gen_sg": "(trullium)",
+      "gender": "n",
+      "nom_sg": "trulleum",
+      "pos": "noun"
+    },
+    "dictionary_entry": "trullĕum (trullĭum), i, n. trulla",
+    "glosses": [
+      "a basin, wash-basin, Varr. L. L. 5, 25"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "tuleo": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "tuliere",
+      "pos": "verb",
+      "principal_parts": "tuli, tuliere"
+    },
+    "dictionary_entry": "tuli, tuliere",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "tulinga": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "tuliere",
+      "pos": "verb",
+      "principal_parts": "tuli, tuliere"
+    },
+    "dictionary_entry": "tuli, tuliere",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "tulingus": {
+    "dictionary": {
+      "gen_sg": "orum",
+      "gender": "m",
+      "nom_sg": "Tulingi",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Tulingi, ōrum, m.",
+    "glosses": [
+      "a German or Helvetic tribe on the Rhine"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "turpiss": {
+    "dictionary": {
+      "fem_nom_sg": "e",
+      "masc_nom_sg": "turpis",
+      "neut_nom_sg": "adj",
+      "pos": "adjective"
+    },
+    "dictionary_entry": "turpis, e, adj. Sanscr. root tarp-",
+    "glosses": [
+      "Caes. B. G. 4, 2.—Sup.: homo turpissimus atque"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "ualer": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "valeere",
+      "pos": "verb",
+      "principal_parts": "vale, valeere"
+    },
+    "dictionary_entry": "vale, valeere",
+    "glosses": [
+      "B. 2. b."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "uelleo": {
+    "dictionary": {
+      "pos": "adverb"
+    },
+    "dictionary_entry": "vĕl, conj. and adv. old imv. of volo prop., will, choose, take your choice; hence, As disjunctive conjunction",
+    "glosses": [
+      "to introduce an alternative as a matter of"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "uelocus": {
+    "dictionary": {
+      "gen_sg": "atis",
+      "gender": "f",
+      "nom_sg": "velocitas",
+      "pos": "noun"
+    },
+    "dictionary_entry": "vēlōcĭtas, ātis, f. velox, swiftness, fleetness, speed, rapidity, velocity. Lit.: velocitate ad cursum valere, Cic. Off. 1, 30, 107: pernici",
+    "glosses": [
+      "tatem et velocitatem, id. Tusc. 5, 15, 45:"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "uentur": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "venatura",
+      "pos": "noun"
+    },
+    "dictionary_entry": "vēnātūra, ae, f. venor, hunting",
+    "glosses": [
+      "the chase"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "uerbigenus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "verbĕrĕus",
+    "glosses": [
+      "also called statua, id. Capt. 5, 1, 31"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "uereo": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "vereere",
+      "pos": "verb",
+      "principal_parts": "vere, vereere, ad"
+    },
+    "dictionary_entry": "vere, vereere, ad",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "uerucloetus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "versūtus (vors-)",
+    "glosses": [
+      "cf. astutus init.. In a good sense, adroit"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "ueterus": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "veterere",
+      "pos": "verb",
+      "principal_parts": "veter, veterere, eris"
+    },
+    "dictionary_entry": "veter, veterere, eris",
+    "glosses": [
+      "[MISSING_GLOSS]"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "uexasso": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "vexātus",
+    "glosses": [
+      "a, um, P. a., v. vexo"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "uicosqus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "viscōsus",
+    "glosses": [
+      "a, um, adj. viscum, full of birdlime, sticky"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "uictorius": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "victoriaere",
+      "pos": "verb",
+      "principal_parts": "victoria, victoriaere, ae, f. victor. Prop., victory. In war. Absol.: cernere de victoria, Enn. ap. Non. p. 511, 9 (Trag. Rel."
+    },
+    "dictionary_entry": "victoria, victoriaere, ae, f. victor. Prop., victory. In war. Absol.: cernere de victoria, Enn. ap. Non. p. 511, 9 (Trag. Rel.",
+    "glosses": [
+      "id. A. A. 2, 539.— With gen.: litium"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "uido": {
+    "dictionary": {
+      "gen_sg": "vis",
+      "gender": "f",
+      "nom_sg": "vis",
+      "pos": "noun"
+    },
+    "dictionary_entry": "vīs, vis, f., plur. vīres, ĭum (class. only in nom., acc. and abl. sing. and in plur.; gen. sing. very rare; Tac. Or. 26; Dig. 4, 2, 1; Paul",
+    "glosses": [
+      ". Sent. 5, 30"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "uies": {
+    "dictionary": {
+      "conjugation": 2,
+      "infinitive": "accensere",
+      "pos": "verb",
+      "principal_parts": "accenseo, accensere, nsum"
+    },
+    "dictionary_entry": "accenseo, accensere, nsum",
+    "glosses": [
+      "to reckon to or among, to add to"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "uigo": {
+    "dictionary": {
+      "pos": "adverb"
+    },
+    "dictionary_entry": "vĕl, conj. and adv. old imv. of volo prop., will, choose, take your choice; hence, As disjunctive conjunction",
+    "glosses": [
+      "Fischer, Gr. § 383). Singly. In gen., or"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "uinculus": {
+    "dictionary": {
+      "gen_sg": "i",
+      "gender": "m",
+      "nom_sg": "viculus",
+      "pos": "noun"
+    },
+    "dictionary_entry": "vīcŭlus, i, m. dim. vicus",
+    "glosses": [
+      "a little village, hamlet, Cic. Rep. 1, 2"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "uingo": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "vinctus",
+    "glosses": [
+      "a, um, Part. of vincio."
+    ],
+    "source": "ls_perseus+context"
+  },
+  "uitaro": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "vita",
+      "pos": "noun"
+    },
+    "dictionary_entry": "vīta, ae (gen. sing. vitaï, Lucr. 1, 415; 2, 79; 3, 396), f. vivo; Sanscr. gīv",
+    "glosses": [
+      "to live"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "ulllus": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "ullus",
+    "glosses": [
+      "id. Rosc. Am. 44, 128: virus haud ullum"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "undi": {
+    "dictionary": {
+      "pos": "adverb"
+    },
+    "dictionary_entry": "undĭquĕ, adv. indef. [unde-que, prop. whencesoever; hence], from all parts, sides, or places, from every quarter, on all sides, on every par",
+    "glosses": [
+      "Flor. 4, 2, 38.— Utterly, entirely, completely, in"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "unusquis": {
+    "dictionary": {
+      "pos": "adverb"
+    },
+    "dictionary_entry": "undĭquĕ, adv. indef. [unde-que, prop. whencesoever; hence], from all parts, sides, or places, from every quarter, on all sides, on every par",
+    "glosses": [
+      "t, everywhere: ut undique uno tempore in hostes"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "uo": {
+    "dictionary": {
+      "pos": "adverb"
+    },
+    "dictionary_entry": "vĕl, conj. and adv. old imv. of volo prop., will, choose, take your choice; hence, As disjunctive conjunction",
+    "glosses": [
+      "to introduce an alternative as a matter of"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "uoccio": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "vocitare",
+      "pos": "verb",
+      "principal_parts": "vocito, vocitare, avi, atum"
+    },
+    "dictionary_entry": "vocito, vocitare, avi, atum",
+    "glosses": [
+      "to be wont to call, to call, name"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "uocontius": {
+    "dictionary": {
+      "gen_sg": "orum",
+      "gender": "m",
+      "nom_sg": "Vocontii",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Vŏcontii, ōrum, m.",
+    "glosses": [
+      "Planc. ap. Cic. Fam. 10, 32, 2.—Hence, Vŏ-contĭus"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "uocus": {
+    "dictionary": {
+      "conjugation": 1,
+      "infinitive": "vocare",
+      "pos": "verb",
+      "principal_parts": "voco, vocare, avi, atum (inf. vocarier, Plaut. Capt. 5, 27)"
+    },
+    "dictionary_entry": "voco, vocare, avi, atum (inf. vocarier, Plaut. Capt. 5, 27)",
+    "glosses": [
+      "Gr. root ϝεπ·, in ἔπος, word"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "usuus": {
+    "dictionary": {
+      "conjugation": 3,
+      "infinitive": "usqueere",
+      "pos": "verb",
+      "principal_parts": "usque, usqueere, ad"
+    },
+    "dictionary_entry": "usque, usqueere, ad",
+    "glosses": [
+      "acc. to Reisig. Vorles. p. 216, usque ad"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "uulnera": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "vulnĕrārĭus (voln-)",
+    "glosses": [
+      "a, um, adj. vulnus, of or belonging to"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "uulnis": {
+    "dictionary": {
+      "pos": "other"
+    },
+    "dictionary_entry": "vulnĕrārĭus (voln-)",
+    "glosses": [
+      "a, um, adj. vulnus, of or belonging to"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "xiiii": {
+    "dictionary": {
+      "gen_sg": "ae",
+      "gender": "f",
+      "nom_sg": "apoplexia",
+      "pos": "noun"
+    },
+    "dictionary_entry": "ăpŏplēxĭa, ae, or -xis, is, f., = ἀποπληξια or ἀπόπληξις, med. t., apoplexy; form apoplexia, Cael. Aur. Acut. 3, 5.—Form apoplexis, Tert. An",
+    "glosses": [
+      "im. 53"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "xu": {
+    "dictionary": {
+      "gen_sg": "i",
+      "gender": "m",
+      "nom_sg": "Xuthus",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Xūthus, i, m., = Ξοῦθος",
+    "glosses": [
+      "a son of Helen, grandson of Deucalion, and"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "xui": {
+    "dictionary": {
+      "pos": "numeral"
+    },
+    "dictionary_entry": "XVI (Roman numeral)",
+    "glosses": [
+      "16 (sixteen)"
+    ],
+    "source": "manual_number"
+  },
+  "xuiiius": {
+    "dictionary": {
+      "gen_sg": "i",
+      "gender": "m",
+      "nom_sg": "Xuthus",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Xūthus, i, m., = Ξοῦθος",
+    "glosses": [
+      "a son of Helen, grandson of Deucalion, and"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "xuiius": {
+    "dictionary": {
+      "gen_sg": "i",
+      "gender": "m",
+      "nom_sg": "Xuthus",
+      "pos": "noun"
+    },
+    "dictionary_entry": "Xūthus, i, m., = Ξοῦθος",
+    "glosses": [
+      "a son of Helen, grandson of Deucalion, and"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "xx": {
+    "dictionary": {
+      "pos": "adjective"
+    },
+    "dictionary_entry": "vīginti (or XX.), num. adj. Sanscr. vicati; Gr. εἴκοσι; Boeot. ϝίκατι, twenty: viginti jam usu'st filio argenti minis, Plaut. As. 1, 1, 76:",
+    "glosses": [
+      "si viginti quiessem dies, Cic. Planc. 37, 90"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "xxiiius": {
+    "dictionary": {
+      "pos": "adjective"
+    },
+    "dictionary_entry": "vīginti (or XX.), num. adj. Sanscr. vicati; Gr. εἴκοσι; Boeot. ϝίκατι, twenty: viginti jam usu'st filio argenti minis, Plaut. As. 1, 1, 76:",
+    "glosses": [
+      "si viginti quiessem dies, Cic. Planc. 37, 90"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "xxiius": {
+    "dictionary": {
+      "pos": "adjective"
+    },
+    "dictionary_entry": "vīginti (or XX.), num. adj. Sanscr. vicati; Gr. εἴκοσι; Boeot. ϝίκατι, twenty: viginti jam usu'st filio argenti minis, Plaut. As. 1, 1, 76:",
+    "glosses": [
+      "si viginti quiessem dies, Cic. Planc. 37, 90"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "xxxii": {
+    "dictionary": {
+      "pos": "adjective"
+    },
+    "dictionary_entry": "vīginti (or XX.), num. adj. Sanscr. vicati; Gr. εἴκοσι; Boeot. ϝίκατι, twenty: viginti jam usu'st filio argenti minis, Plaut. As. 1, 1, 76:",
+    "glosses": [
+      "si viginti quiessem dies, Cic. Planc. 37, 90"
+    ],
+    "source": "ls_perseus+context"
+  },
+  "xxxui": {
+    "dictionary": {
+      "pos": "adjective"
+    },
+    "dictionary_entry": "vīginti (or XX.), num. adj. Sanscr. vicati; Gr. εἴκοσι; Boeot. ϝίκατι, twenty: viginti jam usu'st filio argenti minis, Plaut. As. 1, 1, 76:",
+    "glosses": [
+      "si viginti quiessem dies, Cic. Planc. 37, 90"
+    ],
+    "source": "ls_perseus+context"
+  }
+}

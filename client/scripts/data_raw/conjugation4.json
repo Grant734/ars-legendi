@@ -1,0 +1,827 @@
+[
+  {
+    "lemma": "audio",
+    "english": "to hear; listen",
+    "entry": "audio, audire, audivi, auditus",
+    "conjugation": 4,
+    "distractors": [
+      "to open",
+      "to guard closely",
+      "to roar"
+    ]
+  },
+  {
+    "lemma": "exaudio",
+    "english": "to hear clearly",
+    "entry": "exaudio, exaudire, exaudivi, exauditus",
+    "conjugation": 4,
+    "distractors": [
+      "to set free; arrange",
+      "to smear; coat",
+      "to hear; listen"
+    ]
+  },
+  {
+    "lemma": "dormio",
+    "english": "to sleep",
+    "entry": "dormio, dormire, dormivi, dormitus",
+    "conjugation": 4,
+    "distractors": [
+      "to soothe; charm",
+      "to come",
+      "to soften"
+    ]
+  },
+  {
+    "lemma": "scio",
+    "english": "to know",
+    "entry": "scio, scire, scivi, scitus",
+    "conjugation": 4,
+    "distractors": [
+      "to cover",
+      "to come forth",
+      "to clothe; invest"
+    ]
+  },
+  {
+    "lemma": "nescio",
+    "english": "to not know",
+    "entry": "nescio, nescire, nescivi, nescitus",
+    "conjugation": 4,
+    "distractors": [
+      "to clothe",
+      "to spring out",
+      "to guard closely"
+    ]
+  },
+  {
+    "lemma": "venio",
+    "english": "to come",
+    "entry": "venio, venire, veni, ventus",
+    "conjugation": 4,
+    "distractors": [
+      "to hear clearly",
+      "to rage; be fierce",
+      "to bind"
+    ]
+  },
+  {
+    "lemma": "invenio",
+    "english": "to find; discover",
+    "entry": "invenio, invenire, inveni, inventus",
+    "conjugation": 4,
+    "distractors": [
+      "to come down; arrive",
+      "to soothe; charm",
+      "to bind tightly"
+    ]
+  },
+  {
+    "lemma": "convenio",
+    "english": "to come together; meet",
+    "entry": "convenio, convenire, conveni, conventus",
+    "conjugation": 4,
+    "distractors": [
+      "to be subservient",
+      "to disagree",
+      "to protect"
+    ]
+  },
+  {
+    "lemma": "advenio",
+    "english": "to arrive; come to",
+    "entry": "advenio, advenire, adveni, adventus",
+    "conjugation": 4,
+    "distractors": [
+      "to smear thoroughly",
+      "to come back; return",
+      "to draw; drain"
+    ]
+  },
+  {
+    "lemma": "pervenio",
+    "english": "to reach; arrive at",
+    "entry": "pervenio, pervenire, perveni, perventus",
+    "conjugation": 4,
+    "distractors": [
+      "to find; discover",
+      "to come down; arrive",
+      "to hear clearly"
+    ]
+  },
+  {
+    "lemma": "intervenio",
+    "english": "to come between",
+    "entry": "intervenio, intervenire, interveni, interventus",
+    "conjugation": 4,
+    "distractors": [
+      "to find; discover",
+      "to not know",
+      "to punish"
+    ]
+  },
+  {
+    "lemma": "revenio",
+    "english": "to come back; return",
+    "entry": "revenio, revenire, reveni, reventus",
+    "conjugation": 4,
+    "distractors": [
+      "to find out; learn",
+      "to come between",
+      "to undress"
+    ]
+  },
+  {
+    "lemma": "subvenio",
+    "english": "to help; come to aid (dat.)",
+    "entry": "subvenio, subvenire, subveni, subventus",
+    "conjugation": 4,
+    "distractors": [
+      "to agree",
+      "to cover",
+      "to protect"
+    ]
+  },
+  {
+    "lemma": "circumvenio",
+    "english": "to surround",
+    "entry": "circumvenio, circumvenire, circumveni, circumventus",
+    "conjugation": 4,
+    "distractors": [
+      "to find; discover",
+      "to clothe; invest",
+      "to educate"
+    ]
+  },
+  {
+    "lemma": "evenio",
+    "english": "to happen; turn out",
+    "entry": "evenio, evenire, eveni, eventus",
+    "conjugation": 4,
+    "distractors": [
+      "to finish; limit",
+      "to come between",
+      "to find; discover"
+    ]
+  },
+  {
+    "lemma": "provenio",
+    "english": "to come forth",
+    "entry": "provenio, provenire, proveni, proventus",
+    "conjugation": 4,
+    "distractors": [
+      "to clothe; invest",
+      "to disagree",
+      "to come between"
+    ]
+  },
+  {
+    "lemma": "supervenio",
+    "english": "to come upon; overtake",
+    "entry": "supervenio, supervenire, superveni, superventus",
+    "conjugation": 4,
+    "distractors": [
+      "to fortify",
+      "to protect",
+      "to feel; perceive"
+    ]
+  },
+  {
+    "lemma": "obvenio",
+    "english": "to befall; happen",
+    "entry": "obvenio, obvenire, obveni, obventus",
+    "conjugation": 4,
+    "distractors": [
+      "to spring out",
+      "to jump down",
+      "to bind around"
+    ]
+  },
+  {
+    "lemma": "devenio",
+    "english": "to come down; arrive",
+    "entry": "devenio, devenire, deveni, deventus",
+    "conjugation": 4,
+    "distractors": [
+      "to spring back",
+      "to find; discover",
+      "to prop up; support"
+    ]
+  },
+  {
+    "lemma": "praevenio",
+    "english": "to come before; anticipate",
+    "entry": "praevenio, praevenire, praeveni, praeventus",
+    "conjugation": 4,
+    "distractors": [
+      "to leap at",
+      "to fence around",
+      "to arrive; come to"
+    ]
+  },
+  {
+    "lemma": "sentio",
+    "english": "to feel; perceive",
+    "entry": "sentio, sentire, sensi, sensus",
+    "conjugation": 4,
+    "distractors": [
+      "to hear; listen",
+      "to surround",
+      "to smear; coat"
+    ]
+  },
+  {
+    "lemma": "consentio",
+    "english": "to agree",
+    "entry": "consentio, consentire, consensi, consensus",
+    "conjugation": 4,
+    "distractors": [
+      "to hear; listen",
+      "to spring out",
+      "to bind around"
+    ]
+  },
+  {
+    "lemma": "dissentio",
+    "english": "to disagree",
+    "entry": "dissentio, dissentire, dissensi, dissensus",
+    "conjugation": 4,
+    "distractors": [
+      "to guard",
+      "to hinder",
+      "to set free; arrange"
+    ]
+  },
+  {
+    "lemma": "praesentio",
+    "english": "to sense beforehand",
+    "entry": "praesentio, praesentire, praesensi, praesensus",
+    "conjugation": 4,
+    "distractors": [
+      "to set free; arrange",
+      "to spring back",
+      "to sleep"
+    ]
+  },
+  {
+    "lemma": "servio",
+    "english": "to serve (dat.)",
+    "entry": "servio, servire, servivi, servitus",
+    "conjugation": 4,
+    "distractors": [
+      "to hinder",
+      "to boil",
+      "to fence around"
+    ]
+  },
+  {
+    "lemma": "subservio",
+    "english": "to be subservient",
+    "entry": "subservio, subservire, subservivi, subservitus",
+    "conjugation": 4,
+    "distractors": [
+      "to fortify",
+      "to finish; limit",
+      "to smear thoroughly"
+    ]
+  },
+  {
+    "lemma": "oboedio",
+    "english": "to obey (dat.)",
+    "entry": "oboedio, obedire, obedivi, obeditus",
+    "conjugation": 4,
+    "distractors": [
+      "to nourish",
+      "to surround",
+      "to finish; limit"
+    ]
+  },
+  {
+    "lemma": "custodio",
+    "english": "to guard",
+    "entry": "custodio, custodire, custodivi, custoditus",
+    "conjugation": 4,
+    "distractors": [
+      "to hear; listen",
+      "to arrive; come to",
+      "to protect"
+    ]
+  },
+  {
+    "lemma": "munio",
+    "english": "to fortify",
+    "entry": "munio, munire, munivi, munitus",
+    "conjugation": 4,
+    "distractors": [
+      "to bind tightly",
+      "to sense beforehand",
+      "to make sacred; sanction"
+    ]
+  },
+  {
+    "lemma": "punio",
+    "english": "to punish",
+    "entry": "punio, punire, punivi, punitus",
+    "conjugation": 4,
+    "distractors": [
+      "to serve (dat.)",
+      "to roar",
+      "to surround"
+    ]
+  },
+  {
+    "lemma": "finio",
+    "english": "to finish; limit",
+    "entry": "finio, finire, finivi, finitus",
+    "conjugation": 4,
+    "distractors": [
+      "to cover",
+      "to bind tightly",
+      "to soothe"
+    ]
+  },
+  {
+    "lemma": "impedio",
+    "english": "to hinder",
+    "entry": "impedio, impedire, impedivi, impeditus",
+    "conjugation": 4,
+    "distractors": [
+      "to sleep",
+      "to guard thoroughly",
+      "to clothe"
+    ]
+  },
+  {
+    "lemma": "expedio",
+    "english": "to set free; arrange",
+    "entry": "expedio, expedire, expedivi, expeditus",
+    "conjugation": 4,
+    "distractors": [
+      "to leap on; into",
+      "to hear; listen",
+      "to sleep"
+    ]
+  },
+  {
+    "lemma": "comperio",
+    "english": "to find out; learn",
+    "entry": "comperio, comperire, comperi, compertus",
+    "conjugation": 4,
+    "distractors": [
+      "to spring out",
+      "to surround",
+      "to finish; limit"
+    ]
+  },
+  {
+    "lemma": "reperio",
+    "english": "to find; discover",
+    "entry": "reperio, reperire, repperi, repertus",
+    "conjugation": 4,
+    "distractors": [
+      "to fence in; enclose",
+      "to clothe; invest",
+      "to roar"
+    ]
+  },
+  {
+    "lemma": "aperio",
+    "english": "to open",
+    "entry": "aperio, aperire, aperui, apertus",
+    "conjugation": 4,
+    "distractors": [
+      "to sense beforehand",
+      "to come together; meet",
+      "to boil"
+    ]
+  },
+  {
+    "lemma": "operio",
+    "english": "to cover",
+    "entry": "operio, operire, operui, opertus",
+    "conjugation": 4,
+    "distractors": [
+      "to smear; coat",
+      "to fortify beforehand",
+      "to bind tightly"
+    ]
+  },
+  {
+    "lemma": "cooperio",
+    "english": "to cover completely",
+    "entry": "cooperio, cooperire, cooperui, coopertus",
+    "conjugation": 4,
+    "distractors": [
+      "to sleep",
+      "to find out; learn",
+      "to undress"
+    ]
+  },
+  {
+    "lemma": "sancio",
+    "english": "to make sacred; sanction",
+    "entry": "sancio, sancire, sanxi, sanctus",
+    "conjugation": 4,
+    "distractors": [
+      "to come together; meet",
+      "to nourish",
+      "to come upon; overtake"
+    ]
+  },
+  {
+    "lemma": "vincio",
+    "english": "to bind",
+    "entry": "vincio, vincire, vinxi, vinctus",
+    "conjugation": 4,
+    "distractors": [
+      "to bind tightly",
+      "to clothe",
+      "to finish; limit"
+    ]
+  },
+  {
+    "lemma": "devincio",
+    "english": "to bind tightly",
+    "entry": "devincio, devincire, devinxi, devinctus",
+    "conjugation": 4,
+    "distractors": [
+      "to fence around",
+      "to find out; learn",
+      "to come upon; overtake"
+    ]
+  },
+  {
+    "lemma": "obvincio",
+    "english": "to bind around",
+    "entry": "obvincio, obvincire, obvinxi, obvinctus",
+    "conjugation": 4,
+    "distractors": [
+      "to smear thoroughly",
+      "to draw; drain",
+      "to punish"
+    ]
+  },
+  {
+    "lemma": "circumvincio",
+    "english": "to bind around",
+    "entry": "circumvincio, circumvincire, circumvinxi, circumvinctus",
+    "conjugation": 4,
+    "distractors": [
+      "to cover",
+      "to fortify beforehand",
+      "to smear thoroughly"
+    ]
+  },
+  {
+    "lemma": "saepio",
+    "english": "to fence in; enclose",
+    "entry": "saepio, saepire, saepsi, saeptus",
+    "conjugation": 4,
+    "distractors": [
+      "to surround",
+      "to sleep",
+      "to set free; arrange"
+    ]
+  },
+  {
+    "lemma": "circumsaepio",
+    "english": "to fence around",
+    "entry": "circumsaepio, circumsaepire, circumsaepsi, circumsaeptus",
+    "conjugation": 4,
+    "distractors": [
+      "to jump down",
+      "to come down; arrive",
+      "to leap at"
+    ]
+  },
+  {
+    "lemma": "fulcio",
+    "english": "to prop up; support",
+    "entry": "fulcio, fulcire, fulsi, fultus",
+    "conjugation": 4,
+    "distractors": [
+      "to sleep",
+      "to not know",
+      "to find out; learn"
+    ]
+  },
+  {
+    "lemma": "haurio",
+    "english": "to draw; drain",
+    "entry": "haurio, haurire, hausi, haustus",
+    "conjugation": 4,
+    "distractors": [
+      "to arrive; come to",
+      "to open",
+      "to find; discover"
+    ]
+  },
+  {
+    "lemma": "salio",
+    "english": "to leap",
+    "entry": "salio, salire, salui, saltus",
+    "conjugation": 4,
+    "distractors": [
+      "to come upon; overtake",
+      "to arrive; come to",
+      "to come before; anticipate"
+    ]
+  },
+  {
+    "lemma": "exsilio",
+    "english": "to spring out",
+    "entry": "exsilio, exsilire, exsilui, —",
+    "conjugation": 4,
+    "distractors": [
+      "to cover completely",
+      "to hear; listen",
+      "to open"
+    ]
+  },
+  {
+    "lemma": "desilio",
+    "english": "to jump down",
+    "entry": "desilio, desilire, desilui, —",
+    "conjugation": 4,
+    "distractors": [
+      "to bind tightly",
+      "to hinder",
+      "to disagree"
+    ]
+  },
+  {
+    "lemma": "insilio",
+    "english": "to leap on; into",
+    "entry": "insilio, insilire, insilui, —",
+    "conjugation": 4,
+    "distractors": [
+      "to come down; arrive",
+      "to smear thoroughly",
+      "to guard"
+    ]
+  },
+  {
+    "lemma": "resilio",
+    "english": "to spring back",
+    "entry": "resilio, resilire, resilui, —",
+    "conjugation": 4,
+    "distractors": [
+      "to come back; return",
+      "to leap on; into",
+      "to arrive; come to"
+    ]
+  },
+  {
+    "lemma": "transilio",
+    "english": "to leap across",
+    "entry": "transilio, transilire, transilui, —",
+    "conjugation": 4,
+    "distractors": [
+      "to guard thoroughly",
+      "to find out; learn",
+      "to bellow; moo"
+    ]
+  },
+  {
+    "lemma": "adsilio",
+    "english": "to leap at",
+    "entry": "adsilio, adsilire, adsilui, —",
+    "conjugation": 4,
+    "distractors": [
+      "to come before; anticipate",
+      "to make sacred; sanction",
+      "to bellow; moo"
+    ]
+  },
+  {
+    "lemma": "vestio",
+    "english": "to clothe",
+    "entry": "vestio, vestire, vestivi, vestitus",
+    "conjugation": 4,
+    "distractors": [
+      "to come before; anticipate",
+      "to sleep",
+      "to arrive; come to"
+    ]
+  },
+  {
+    "lemma": "investio",
+    "english": "to clothe; invest",
+    "entry": "investio, investire, investivi, investitus",
+    "conjugation": 4,
+    "distractors": [
+      "to fence in; enclose",
+      "to chatter",
+      "to bind tightly"
+    ]
+  },
+  {
+    "lemma": "devestio",
+    "english": "to undress",
+    "entry": "devestio, devestire, devestivi, devestitus",
+    "conjugation": 4,
+    "distractors": [
+      "to feel; perceive",
+      "to educate",
+      "to cover"
+    ]
+  },
+  {
+    "lemma": "nutrio",
+    "english": "to nourish",
+    "entry": "nutrio, nutrire, nutrivi, nutritus",
+    "conjugation": 4,
+    "distractors": [
+      "to bellow; moo",
+      "to leap",
+      "to soften"
+    ]
+  },
+  {
+    "lemma": "erudio",
+    "english": "to educate",
+    "entry": "erudio, erudire, erudivi, eruditus",
+    "conjugation": 4,
+    "distractors": [
+      "to spring out",
+      "to happen; turn out",
+      "to fence around"
+    ]
+  },
+  {
+    "lemma": "mollio",
+    "english": "to soften",
+    "entry": "mollio, mollire, mollivi, mollitus",
+    "conjugation": 4,
+    "distractors": [
+      "to boil",
+      "to happen; turn out",
+      "to find; discover"
+    ]
+  },
+  {
+    "lemma": "lenio",
+    "english": "to soothe",
+    "entry": "lenio, lenire, lenivi, lenitus",
+    "conjugation": 4,
+    "distractors": [
+      "to clothe; invest",
+      "to spring out",
+      "to feel; perceive"
+    ]
+  },
+  {
+    "lemma": "saevio",
+    "english": "to rage; be fierce",
+    "entry": "saevio, saevire, saevivi, saevitus",
+    "conjugation": 4,
+    "distractors": [
+      "to guard",
+      "to not know",
+      "to spring out"
+    ]
+  },
+  {
+    "lemma": "linio",
+    "english": "to smear; coat",
+    "entry": "linio, linire, linivi, linitus",
+    "conjugation": 4,
+    "distractors": [
+      "to open",
+      "to bind tightly",
+      "to clothe"
+    ]
+  },
+  {
+    "lemma": "delinio",
+    "english": "to soothe; charm",
+    "entry": "delinio, delinire, delinivi, delinitus",
+    "conjugation": 4,
+    "distractors": [
+      "to bellow; moo",
+      "to soften",
+      "to leap at"
+    ]
+  },
+  {
+    "lemma": "bullio",
+    "english": "to boil",
+    "entry": "bullio, bullire, bullivi, bullitus",
+    "conjugation": 4,
+    "distractors": [
+      "to undress",
+      "to serve (dat.)",
+      "to guard thoroughly"
+    ]
+  },
+  {
+    "lemma": "garrio",
+    "english": "to chatter",
+    "entry": "garrio, garrire, garrivi, garritus",
+    "conjugation": 4,
+    "distractors": [
+      "to come between",
+      "to spring out",
+      "to fence around"
+    ]
+  },
+  {
+    "lemma": "mugio",
+    "english": "to bellow; moo",
+    "entry": "mugio, mugire, mugivi, mugitus",
+    "conjugation": 4,
+    "distractors": [
+      "to serve (dat.)",
+      "to roar",
+      "to punish"
+    ]
+  },
+  {
+    "lemma": "rugio",
+    "english": "to roar",
+    "entry": "rugio, rugire, rugivi, rugitus",
+    "conjugation": 4,
+    "distractors": [
+      "to sleep",
+      "to clothe; invest",
+      "to draw; drain"
+    ]
+  },
+  {
+    "lemma": "tutio",
+    "english": "to protect",
+    "entry": "tutio, tutire, tutivi, tutitus",
+    "conjugation": 4,
+    "distractors": [
+      "to roar",
+      "to happen; turn out",
+      "to bellow; moo"
+    ]
+  },
+  {
+    "lemma": "perlinio",
+    "english": "to smear thoroughly",
+    "entry": "perlinio, perlinire, perlinivi, perlinitus",
+    "conjugation": 4,
+    "distractors": [
+      "to educate",
+      "to guard closely",
+      "to come before; anticipate"
+    ]
+  },
+  {
+    "lemma": "subcustodio",
+    "english": "to guard closely",
+    "entry": "subcustodio, subcustodire, subcustodivi, subcustoditus",
+    "conjugation": 4,
+    "distractors": [
+      "to clothe; invest",
+      "to help; come to aid (dat.)",
+      "to clothe"
+    ]
+  },
+  {
+    "lemma": "praemunio",
+    "english": "to fortify beforehand",
+    "entry": "praemunio, praemunire, praemunivi, praemunitus",
+    "conjugation": 4,
+    "distractors": [
+      "to arrive; come to",
+      "to reach; arrive at",
+      "to bind"
+    ]
+  },
+  {
+    "lemma": "percustodio",
+    "english": "to guard thoroughly",
+    "entry": "percustodio, percustodire, percustodivi, percustoditus",
+    "conjugation": 4,
+    "distractors": [
+      "to leap across",
+      "to make sacred; sanction",
+      "to sleep"
+    ]
+  },
+  {
+    "lemma": "audio_2",
+    "english": "to hear; listen",
+    "entry": "audio, audire, audivi, auditus",
+    "conjugation": 4,
+    "distractors": [
+      "to open",
+      "to guard closely",
+      "to roar"
+    ]
+  },
+  {
+    "lemma": "exaudio_2",
+    "english": "to hear clearly",
+    "entry": "exaudio, exaudire, exaudivi, exauditus",
+    "conjugation": 4,
+    "distractors": [
+      "to set free; arrange",
+      "to smear; coat",
+      "to hear; listen"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "note": "Manual overrides win over auto. Add entries as {lemma: {gloss: '...'}}"
+  },
+  "by_lemma": {}
+}

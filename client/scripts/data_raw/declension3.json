@@ -1,0 +1,1202 @@
+[
+  {
+    "lemma": "rex",
+    "english": "king",
+    "entry": "rex, regis (m.)",
+    "declension": 3,
+    "category": "people",
+    "distractors": [
+      "queen",
+      "soldier",
+      "priest"
+    ]
+  },
+  {
+    "lemma": "dux",
+    "english": "leader; general",
+    "entry": "dux, ducis (m.)",
+    "declension": 3,
+    "category": "war",
+    "distractors": [
+      "soldier",
+      "enemy",
+      "messenger"
+    ]
+  },
+  {
+    "lemma": "miles",
+    "english": "soldier",
+    "entry": "miles, militis (m.)",
+    "declension": 3,
+    "category": "war",
+    "distractors": [
+      "farmer",
+      "merchant",
+      "poet"
+    ]
+  },
+  {
+    "lemma": "hostis",
+    "english": "enemy",
+    "entry": "hostis, hostis (m.)",
+    "declension": 3,
+    "category": "war",
+    "distractors": [
+      "friend",
+      "ally",
+      "judge"
+    ]
+  },
+  {
+    "lemma": "civis",
+    "english": "citizen",
+    "entry": "civis, civis (m./f.)",
+    "declension": 3,
+    "category": "society",
+    "distractors": [
+      "stranger",
+      "slave",
+      "soldier"
+    ]
+  },
+  {
+    "lemma": "princeps",
+    "english": "chief; leader",
+    "entry": "princeps, principis (m.)",
+    "declension": 3,
+    "category": "government",
+    "distractors": [
+      "senator",
+      "judge",
+      "king"
+    ]
+  },
+  {
+    "lemma": "senator",
+    "english": "senator",
+    "entry": "senator, senatoris (m.)",
+    "declension": 3,
+    "category": "government",
+    "distractors": [
+      "consul",
+      "king",
+      "soldier"
+    ]
+  },
+  {
+    "lemma": "orator",
+    "english": "orator; speaker",
+    "entry": "orator, oratoris (m.)",
+    "declension": 3,
+    "category": "speech",
+    "distractors": [
+      "writer",
+      "judge",
+      "scribe"
+    ]
+  },
+  {
+    "lemma": "auctor",
+    "english": "author; originator",
+    "entry": "auctor, auctoris (m.)",
+    "declension": 3,
+    "category": "writing",
+    "distractors": [
+      "reader",
+      "singer",
+      "actor"
+    ]
+  },
+  {
+    "lemma": "sacerdos",
+    "english": "priest/priestess",
+    "entry": "sacerdos, sacerdotis (m./f.)",
+    "declension": 3,
+    "category": "religion",
+    "distractors": [
+      "slave",
+      "soldier",
+      "king"
+    ]
+  },
+  {
+    "lemma": "pastor",
+    "english": "shepherd",
+    "entry": "pastor, pastoris (m.)",
+    "declension": 3,
+    "category": "people",
+    "distractors": [
+      "farmer",
+      "sailor",
+      "merchant"
+    ]
+  },
+  {
+    "lemma": "comes",
+    "english": "companion",
+    "entry": "comes, comitis (m./f.)",
+    "declension": 3,
+    "category": "people",
+    "distractors": [
+      "enemy",
+      "judge",
+      "stranger"
+    ]
+  },
+  {
+    "lemma": "iudex",
+    "english": "judge",
+    "entry": "iudex, iudicis (m.)",
+    "declension": 3,
+    "category": "justice",
+    "distractors": [
+      "lawyer",
+      "witness",
+      "prisoner"
+    ]
+  },
+  {
+    "lemma": "imperator",
+    "english": "commander",
+    "entry": "imperator, imperatoris (m.)",
+    "declension": 3,
+    "category": "war",
+    "distractors": [
+      "soldier",
+      "spy",
+      "scout"
+    ]
+  },
+  {
+    "lemma": "legio",
+    "english": "legion",
+    "entry": "legio, legionis (f.)",
+    "declension": 3,
+    "category": "war",
+    "distractors": [
+      "century",
+      "camp",
+      "treaty"
+    ]
+  },
+  {
+    "lemma": "pater",
+    "english": "father",
+    "entry": "pater, patris (m.)",
+    "declension": 3,
+    "category": "people",
+    "distractors": [
+      "mother",
+      "son",
+      "uncle"
+    ]
+  },
+  {
+    "lemma": "mater",
+    "english": "mother",
+    "entry": "mater, matris (f.)",
+    "declension": 3,
+    "category": "people",
+    "distractors": [
+      "father",
+      "daughter",
+      "aunt"
+    ]
+  },
+  {
+    "lemma": "frater",
+    "english": "brother",
+    "entry": "frater, fratris (m.)",
+    "declension": 3,
+    "category": "people",
+    "distractors": [
+      "sister",
+      "father",
+      "uncle"
+    ]
+  },
+  {
+    "lemma": "soror",
+    "english": "sister",
+    "entry": "soror, sororis (f.)",
+    "declension": 3,
+    "category": "people",
+    "distractors": [
+      "brother",
+      "mother",
+      "aunt"
+    ]
+  },
+  {
+    "lemma": "iuvenis",
+    "english": "young man",
+    "entry": "iuvenis, iuvenis (m.)",
+    "declension": 3,
+    "category": "people",
+    "distractors": [
+      "old man",
+      "boy",
+      "slave"
+    ]
+  },
+  {
+    "lemma": "senex",
+    "english": "old man",
+    "entry": "senex, senis (m.)",
+    "declension": 3,
+    "category": "people",
+    "distractors": [
+      "youth",
+      "child",
+      "king"
+    ]
+  },
+  {
+    "lemma": "urbs",
+    "english": "city",
+    "entry": "urbs, urbis (f.)",
+    "declension": 3,
+    "category": "city",
+    "distractors": [
+      "village",
+      "camp",
+      "road"
+    ]
+  },
+  {
+    "lemma": "civitas",
+    "english": "state; citizenship",
+    "entry": "civitas, civitatis (f.)",
+    "declension": 3,
+    "category": "government",
+    "distractors": [
+      "city",
+      "army",
+      "treaty"
+    ]
+  },
+  {
+    "lemma": "oratio",
+    "english": "speech",
+    "entry": "oratio, orationis (f.)",
+    "declension": 3,
+    "category": "speech",
+    "distractors": [
+      "letter",
+      "law",
+      "song"
+    ]
+  },
+  {
+    "lemma": "ratio",
+    "english": "plan; reason",
+    "entry": "ratio, rationis (f.)",
+    "declension": 3,
+    "category": "abstract",
+    "distractors": [
+      "law",
+      "army",
+      "river"
+    ]
+  },
+  {
+    "lemma": "auctoritas",
+    "english": "authority",
+    "entry": "auctoritas, auctoritatis (f.)",
+    "declension": 3,
+    "category": "government",
+    "distractors": [
+      "friendship",
+      "glory",
+      "peace"
+    ]
+  },
+  {
+    "lemma": "voluntas",
+    "english": "will; wish",
+    "entry": "voluntas, voluntatis (f.)",
+    "declension": 3,
+    "category": "abstract",
+    "distractors": [
+      "fear",
+      "anger",
+      "hunger"
+    ]
+  },
+  {
+    "lemma": "potestas",
+    "english": "power",
+    "entry": "potestas, potestatis (f.)",
+    "declension": 3,
+    "category": "government",
+    "distractors": [
+      "law",
+      "city",
+      "army"
+    ]
+  },
+  {
+    "lemma": "libertas",
+    "english": "freedom",
+    "entry": "libertas, libertatis (f.)",
+    "declension": 3,
+    "category": "society",
+    "distractors": [
+      "slavery",
+      "war",
+      "tax"
+    ]
+  },
+  {
+    "lemma": "natio",
+    "english": "nation",
+    "entry": "natio, nationis (f.)",
+    "declension": 3,
+    "category": "society",
+    "distractors": [
+      "family",
+      "tribe",
+      "town"
+    ]
+  },
+  {
+    "lemma": "ordo",
+    "english": "order; rank",
+    "entry": "ordo, ordinis (m.)",
+    "declension": 3,
+    "category": "society",
+    "distractors": [
+      "crowd",
+      "gift",
+      "punishment"
+    ]
+  },
+  {
+    "lemma": "homo",
+    "english": "person; human being",
+    "entry": "homo, hominis (m.)",
+    "declension": 3,
+    "category": "people",
+    "distractors": [
+      "animal",
+      "god",
+      "child"
+    ]
+  },
+  {
+    "lemma": "amor",
+    "english": "love",
+    "entry": "amor, amoris (m.)",
+    "declension": 3,
+    "category": "emotions",
+    "distractors": [
+      "hate",
+      "fear",
+      "anger"
+    ]
+  },
+  {
+    "lemma": "timor",
+    "english": "fear",
+    "entry": "timor, timoris (m.)",
+    "declension": 3,
+    "category": "emotions",
+    "distractors": [
+      "love",
+      "joy",
+      "peace"
+    ]
+  },
+  {
+    "lemma": "dolor",
+    "english": "pain; grief",
+    "entry": "dolor, doloris (m.)",
+    "declension": 3,
+    "category": "emotions",
+    "distractors": [
+      "joy",
+      "hope",
+      "peace"
+    ]
+  },
+  {
+    "lemma": "honor",
+    "english": "honor",
+    "entry": "honor, honoris (m.)",
+    "declension": 3,
+    "category": "social",
+    "distractors": [
+      "shame",
+      "fear",
+      "hunger"
+    ]
+  },
+  {
+    "lemma": "mos",
+    "english": "custom",
+    "entry": "mos, moris (m.)",
+    "declension": 3,
+    "category": "society",
+    "distractors": [
+      "law",
+      "order",
+      "weapon"
+    ]
+  },
+  {
+    "lemma": "lex",
+    "english": "law",
+    "entry": "lex, legis (f.)",
+    "declension": 3,
+    "category": "justice",
+    "distractors": [
+      "judge",
+      "trial",
+      "prison"
+    ]
+  },
+  {
+    "lemma": "ius",
+    "english": "right; law",
+    "entry": "ius, iuris (n.)",
+    "declension": 3,
+    "category": "justice",
+    "distractors": [
+      "crime",
+      "army",
+      "river"
+    ]
+  },
+  {
+    "lemma": "veritas",
+    "english": "truth",
+    "entry": "veritas, veritatis (f.)",
+    "declension": 3,
+    "category": "abstract",
+    "distractors": [
+      "lie",
+      "rumor",
+      "joke"
+    ]
+  },
+  {
+    "lemma": "virtus",
+    "english": "virtue; courage",
+    "entry": "virtus, virtutis (f.)",
+    "declension": 3,
+    "category": "abstract",
+    "distractors": [
+      "fear",
+      "vice",
+      "sleep"
+    ]
+  },
+  {
+    "lemma": "salus",
+    "english": "safety; health",
+    "entry": "salus, salutis (f.)",
+    "declension": 3,
+    "category": "abstract",
+    "distractors": [
+      "harm",
+      "disease",
+      "war"
+    ]
+  },
+  {
+    "lemma": "pax",
+    "english": "peace",
+    "entry": "pax, pacis (f.)",
+    "declension": 3,
+    "category": "war",
+    "distractors": [
+      "war",
+      "treaty",
+      "fortress"
+    ]
+  },
+  {
+    "lemma": "nox",
+    "english": "night",
+    "entry": "nox, noctis (f.)",
+    "declension": 3,
+    "category": "time",
+    "distractors": [
+      "day",
+      "year",
+      "hour"
+    ]
+  },
+  {
+    "lemma": "lux",
+    "english": "light",
+    "entry": "lux, lucis (f.)",
+    "declension": 3,
+    "category": "nature",
+    "distractors": [
+      "shadow",
+      "darkness",
+      "rain"
+    ]
+  },
+  {
+    "lemma": "sol",
+    "english": "sun",
+    "entry": "sol, solis (m.)",
+    "declension": 3,
+    "category": "nature",
+    "distractors": [
+      "moon",
+      "star",
+      "cloud"
+    ]
+  },
+  {
+    "lemma": "flumen",
+    "english": "river",
+    "entry": "flumen, fluminis (n.)",
+    "declension": 3,
+    "category": "geography",
+    "distractors": [
+      "mountain",
+      "forest",
+      "island"
+    ]
+  },
+  {
+    "lemma": "mons",
+    "english": "mountain",
+    "entry": "mons, montis (m.)",
+    "declension": 3,
+    "category": "geography",
+    "distractors": [
+      "valley",
+      "river",
+      "field"
+    ]
+  },
+  {
+    "lemma": "mare",
+    "english": "sea",
+    "entry": "mare, maris (n.)",
+    "declension": 3,
+    "category": "geography",
+    "distractors": [
+      "island",
+      "river",
+      "forest"
+    ]
+  },
+  {
+    "lemma": "aer",
+    "english": "air",
+    "entry": "aer, aeris (m.)",
+    "declension": 3,
+    "category": "nature",
+    "distractors": [
+      "earth",
+      "fire",
+      "water"
+    ]
+  },
+  {
+    "lemma": "imber",
+    "english": "rainstorm",
+    "entry": "imber, imbris (m.)",
+    "declension": 3,
+    "category": "nature",
+    "distractors": [
+      "snow",
+      "wind",
+      "cloud"
+    ]
+  },
+  {
+    "lemma": "tempus",
+    "english": "time",
+    "entry": "tempus, temporis (n.)",
+    "declension": 3,
+    "category": "time",
+    "distractors": [
+      "day",
+      "night",
+      "year"
+    ]
+  },
+  {
+    "lemma": "ver",
+    "english": "spring",
+    "entry": "ver, veris (n.)",
+    "declension": 3,
+    "category": "time",
+    "distractors": [
+      "winter",
+      "autumn",
+      "summer"
+    ]
+  },
+  {
+    "lemma": "hiems",
+    "english": "winter",
+    "entry": "hiems, hiemis (f.)",
+    "declension": 3,
+    "category": "time",
+    "distractors": [
+      "spring",
+      "summer",
+      "autumn"
+    ]
+  },
+  {
+    "lemma": "corpus",
+    "english": "body",
+    "entry": "corpus, corporis (n.)",
+    "declension": 3,
+    "category": "the body",
+    "distractors": [
+      "soul",
+      "mind",
+      "spirit"
+    ]
+  },
+  {
+    "lemma": "caput",
+    "english": "head",
+    "entry": "caput, capitis (n.)",
+    "declension": 3,
+    "category": "the body",
+    "distractors": [
+      "hand",
+      "foot",
+      "heart"
+    ]
+  },
+  {
+    "lemma": "os",
+    "english": "mouth",
+    "entry": "os, oris (n.)",
+    "declension": 3,
+    "category": "the body",
+    "distractors": [
+      "ear",
+      "eye",
+      "nose"
+    ]
+  },
+  {
+    "lemma": "sanguis",
+    "english": "blood",
+    "entry": "sanguis, sanguinis (m.)",
+    "declension": 3,
+    "category": "the body",
+    "distractors": [
+      "sweat",
+      "tears",
+      "bone"
+    ]
+  },
+  {
+    "lemma": "pectus",
+    "english": "chest",
+    "entry": "pectus, pectoris (n.)",
+    "declension": 3,
+    "category": "the body",
+    "distractors": [
+      "back",
+      "hand",
+      "head"
+    ]
+  },
+  {
+    "lemma": "mens",
+    "english": "mind",
+    "entry": "mens, mentis (f.)",
+    "declension": 3,
+    "category": "abstract",
+    "distractors": [
+      "body",
+      "law",
+      "river"
+    ]
+  },
+  {
+    "lemma": "dens",
+    "english": "tooth",
+    "entry": "dens, dentis (m.)",
+    "declension": 3,
+    "category": "the body",
+    "distractors": [
+      "tongue",
+      "ear",
+      "eye"
+    ]
+  },
+  {
+    "lemma": "pes",
+    "english": "foot",
+    "entry": "pes, pedis (m.)",
+    "declension": 3,
+    "category": "the body",
+    "distractors": [
+      "hand",
+      "head",
+      "heart"
+    ]
+  },
+  {
+    "lemma": "canis",
+    "english": "dog",
+    "entry": "canis, canis (m./f.)",
+    "declension": 3,
+    "category": "animals",
+    "distractors": [
+      "wolf",
+      "lion",
+      "bear"
+    ]
+  },
+  {
+    "lemma": "leo",
+    "english": "lion",
+    "entry": "leo, leonis (m.)",
+    "declension": 3,
+    "category": "animals",
+    "distractors": [
+      "tiger",
+      "wolf",
+      "bear"
+    ]
+  },
+  {
+    "lemma": "avis",
+    "english": "bird",
+    "entry": "avis, avis (f.)",
+    "declension": 3,
+    "category": "animals",
+    "distractors": [
+      "fish",
+      "dog",
+      "cow"
+    ]
+  },
+  {
+    "lemma": "bos",
+    "english": "ox; cow",
+    "entry": "bos, bovis (m./f.)",
+    "declension": 3,
+    "category": "animals",
+    "distractors": [
+      "horse",
+      "sheep",
+      "goat"
+    ]
+  },
+  {
+    "lemma": "apis",
+    "english": "bee",
+    "entry": "apis, apis (f.)",
+    "declension": 3,
+    "category": "animals",
+    "distractors": [
+      "ant",
+      "fly",
+      "bird"
+    ]
+  },
+  {
+    "lemma": "nomen",
+    "english": "name",
+    "entry": "nomen, nominis (n.)",
+    "declension": 3,
+    "category": "abstract",
+    "distractors": [
+      "word",
+      "thing",
+      "law"
+    ]
+  },
+  {
+    "lemma": "opus",
+    "english": "work; task",
+    "entry": "opus, operis (n.)",
+    "declension": 3,
+    "category": "abstract",
+    "distractors": [
+      "play",
+      "sleep",
+      "game"
+    ]
+  },
+  {
+    "lemma": "iter",
+    "english": "journey; route",
+    "entry": "iter, itineris (n.)",
+    "declension": 3,
+    "category": "travel",
+    "distractors": [
+      "camp",
+      "battle",
+      "wall"
+    ]
+  },
+  {
+    "lemma": "litus",
+    "english": "shore",
+    "entry": "litus, litoris (n.)",
+    "declension": 3,
+    "category": "geography",
+    "distractors": [
+      "island",
+      "valley",
+      "forest"
+    ]
+  },
+  {
+    "lemma": "exemplar",
+    "english": "pattern; example",
+    "entry": "exemplar, exemplaris (n.)",
+    "declension": 3,
+    "category": "education",
+    "distractors": [
+      "law",
+      "weapon",
+      "disease"
+    ]
+  },
+  {
+    "lemma": "carmen",
+    "english": "song; poem",
+    "entry": "carmen, carminis (n.)",
+    "declension": 3,
+    "category": "art",
+    "distractors": [
+      "law",
+      "letter",
+      "speech"
+    ]
+  },
+  {
+    "lemma": "clamor",
+    "english": "shout",
+    "entry": "clamor, clamoris (m.)",
+    "declension": 3,
+    "category": "society",
+    "distractors": [
+      "silence",
+      "song",
+      "whisper"
+    ]
+  },
+  {
+    "lemma": "labor",
+    "english": "work; effort",
+    "entry": "labor, laboris (m.)",
+    "declension": 3,
+    "category": "abstract",
+    "distractors": [
+      "rest",
+      "sleep",
+      "holiday"
+    ]
+  },
+  {
+    "lemma": "onus",
+    "english": "load; burden",
+    "entry": "onus, oneris (n.)",
+    "declension": 3,
+    "category": "objects",
+    "distractors": [
+      "gift",
+      "weapon",
+      "coin"
+    ]
+  },
+  {
+    "lemma": "munus",
+    "english": "duty; gift",
+    "entry": "munus, muneris (n.)",
+    "declension": 3,
+    "category": "social",
+    "distractors": [
+      "law",
+      "punishment",
+      "war"
+    ]
+  },
+  {
+    "lemma": "lumen",
+    "english": "light",
+    "entry": "lumen, luminis (n.)",
+    "declension": 3,
+    "category": "nature",
+    "distractors": [
+      "shadow",
+      "darkness",
+      "rain"
+    ]
+  },
+  {
+    "lemma": "numen",
+    "english": "divine power",
+    "entry": "numen, numinis (n.)",
+    "declension": 3,
+    "category": "religion",
+    "distractors": [
+      "temple",
+      "priest",
+      "altar"
+    ]
+  },
+  {
+    "lemma": "pars",
+    "english": "part",
+    "entry": "pars, partis (f.)",
+    "declension": 3,
+    "category": "abstract",
+    "distractors": [
+      "whole",
+      "sum",
+      "total"
+    ]
+  },
+  {
+    "lemma": "navis",
+    "english": "ship",
+    "entry": "navis, navis (f.)",
+    "declension": 3,
+    "category": "travel",
+    "distractors": [
+      "bridge",
+      "road",
+      "camp"
+    ]
+  },
+  {
+    "lemma": "turris",
+    "english": "tower",
+    "entry": "turris, turris (f.)",
+    "declension": 3,
+    "category": "city",
+    "distractors": [
+      "wall",
+      "gate",
+      "bridge"
+    ]
+  },
+  {
+    "lemma": "ignis",
+    "english": "fire",
+    "entry": "ignis, ignis (m.)",
+    "declension": 3,
+    "category": "nature",
+    "distractors": [
+      "water",
+      "earth",
+      "air"
+    ]
+  },
+  {
+    "lemma": "finis",
+    "english": "end; boundary",
+    "entry": "finis, finis (m.)",
+    "declension": 3,
+    "category": "geography",
+    "distractors": [
+      "road",
+      "river",
+      "forest"
+    ]
+  },
+  {
+    "lemma": "sal",
+    "english": "salt",
+    "entry": "sal, salis (m.)",
+    "declension": 3,
+    "category": "household",
+    "distractors": [
+      "wine",
+      "oil",
+      "bread"
+    ]
+  },
+  {
+    "lemma": "mel",
+    "english": "honey",
+    "entry": "mel, mellis (n.)",
+    "declension": 3,
+    "category": "household",
+    "distractors": [
+      "milk",
+      "bread",
+      "salt"
+    ]
+  },
+  {
+    "lemma": "lac",
+    "english": "milk",
+    "entry": "lac, lactis (n.)",
+    "declension": 3,
+    "category": "food",
+    "distractors": [
+      "wine",
+      "water",
+      "oil"
+    ]
+  },
+  {
+    "lemma": "panis",
+    "english": "bread",
+    "entry": "panis, panis (m.)",
+    "declension": 3,
+    "category": "food",
+    "distractors": [
+      "meat",
+      "fish",
+      "milk"
+    ]
+  },
+  {
+    "lemma": "pulvis",
+    "english": "dust",
+    "entry": "pulvis, pulveris (m.)",
+    "declension": 3,
+    "category": "nature",
+    "distractors": [
+      "rain",
+      "ice",
+      "wind"
+    ]
+  },
+  {
+    "lemma": "flos",
+    "english": "flower",
+    "entry": "flos, floris (m.)",
+    "declension": 3,
+    "category": "nature",
+    "distractors": [
+      "leaf",
+      "root",
+      "seed"
+    ]
+  },
+  {
+    "lemma": "sors",
+    "english": "lot; fate",
+    "entry": "sors, sortis (f.)",
+    "declension": 3,
+    "category": "abstract",
+    "distractors": [
+      "plan",
+      "law",
+      "treaty"
+    ]
+  },
+  {
+    "lemma": "ars",
+    "english": "skill; art",
+    "entry": "ars, artis (f.)",
+    "declension": 3,
+    "category": "abstract",
+    "distractors": [
+      "war",
+      "law",
+      "sleep"
+    ]
+  },
+  {
+    "lemma": "mensis",
+    "english": "month",
+    "entry": "mensis, mensis (m.)",
+    "declension": 3,
+    "category": "time",
+    "distractors": [
+      "day",
+      "hour",
+      "year"
+    ]
+  },
+  {
+    "lemma": "custos",
+    "english": "guard",
+    "entry": "custos, custodis (m.)",
+    "declension": 3,
+    "category": "people",
+    "distractors": [
+      "thief",
+      "judge",
+      "priest"
+    ]
+  },
+  {
+    "lemma": "caedes",
+    "english": "slaughter; killing",
+    "entry": "caedes, caedis (f.)",
+    "declension": 3,
+    "category": "war",
+    "distractors": [
+      "peace",
+      "treaty",
+      "cure"
+    ]
+  },
+  {
+    "lemma": "cladis",
+    "english": "disaster; defeat",
+    "entry": "clades, cladis (f.)",
+    "declension": 3,
+    "category": "war",
+    "distractors": [
+      "victory",
+      "treaty",
+      "crown"
+    ]
+  },
+  {
+    "lemma": "praetor",
+    "english": "praetor",
+    "entry": "praetor, praetoris (m.)",
+    "declension": 3,
+    "category": "government",
+    "distractors": [
+      "judge",
+      "senator",
+      "consul"
+    ]
+  },
+  {
+    "lemma": "consul",
+    "english": "consul",
+    "entry": "consul, consulis (m.)",
+    "declension": 3,
+    "category": "government",
+    "distractors": [
+      "praetor",
+      "queen",
+      "soldier"
+    ]
+  },
+  {
+    "lemma": "senectus",
+    "english": "old age",
+    "entry": "senectus, senectutis (f.)",
+    "declension": 3,
+    "category": "abstract",
+    "distractors": [
+      "youth",
+      "childhood",
+      "manhood"
+    ]
+  },
+  {
+    "lemma": "iuventus",
+    "english": "youth",
+    "entry": "iuventus, iuventutis (f.)",
+    "declension": 3,
+    "category": "abstract",
+    "distractors": [
+      "old age",
+      "war",
+      "sleep"
+    ]
+  }
+]

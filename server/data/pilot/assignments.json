@@ -1,0 +1,209 @@
+{
+  "assign_b95cbfa07629b64fe0": {
+    "assignmentId": "assign_b95cbfa07629b64fe0",
+    "createdAt": 1767055214845,
+    "teacherId": "teacher_9ca80c9945de1053aa",
+    "chapterStart": 1,
+    "chapterEnd": 1,
+    "settings": {},
+    "active": true
+  },
+  "assign_507c28263bcaace2a1": {
+    "assignmentId": "assign_507c28263bcaace2a1",
+    "createdAt": 1767066939091,
+    "teacherId": "teacher_9ca80c9945de1053aa",
+    "chapterStart": 1,
+    "chapterEnd": 1,
+    "settings": {},
+    "active": true
+  },
+  "assign_e5f0eb9e36ac0ef3e2": {
+    "assignmentId": "assign_e5f0eb9e36ac0ef3e2",
+    "createdAt": 1767066939582,
+    "teacherId": "teacher_9ca80c9945de1053aa",
+    "chapterStart": 1,
+    "chapterEnd": 1,
+    "settings": {},
+    "active": true
+  },
+  "assign_6306f0c4ebd17ca832": {
+    "assignmentId": "assign_6306f0c4ebd17ca832",
+    "createdAt": 1767066941403,
+    "teacherId": "teacher_9ca80c9945de1053aa",
+    "chapterStart": 1,
+    "chapterEnd": 1,
+    "settings": {},
+    "active": true
+  },
+  "assign_d922e43284c5f33987": {
+    "assignmentId": "assign_d922e43284c5f33987",
+    "createdAt": 1767069947231,
+    "teacherId": "teacher_9ca80c9945de1053aa",
+    "chapterStart": 1,
+    "chapterEnd": 5,
+    "settings": {},
+    "active": true
+  },
+  "assign_c597d1689a94116a1a": {
+    "assignmentId": "assign_c597d1689a94116a1a",
+    "createdAt": 1767071973330,
+    "teacherId": "teacher_9ca80c9945de1053aa",
+    "chapterStart": 1,
+    "chapterEnd": 5,
+    "settings": {},
+    "active": true
+  },
+  "assign_3bfbf687c29da50a4d": {
+    "assignmentId": "assign_3bfbf687c29da50a4d",
+    "createdAt": 1767072865383,
+    "teacherId": "teacher_9ca80c9945de1053aa",
+    "chapterStart": 1,
+    "chapterEnd": 5,
+    "settings": {},
+    "active": true
+  },
+  "assign_32ff7109c52621b8d8": {
+    "assignmentId": "assign_32ff7109c52621b8d8",
+    "createdAt": 1767072954499,
+    "teacherId": "teacher_9ca80c9945de1053aa",
+    "chapterStart": 1,
+    "chapterEnd": 4,
+    "settings": {},
+    "active": true
+  },
+  "assign_0e2643a13b8ba1f8c9": {
+    "assignmentId": "assign_0e2643a13b8ba1f8c9",
+    "createdAt": 1767073116693,
+    "teacherId": "teacher_9ca80c9945de1053aa",
+    "chapterStart": 1,
+    "chapterEnd": 4,
+    "settings": {},
+    "active": true
+  },
+  "assign_e99cdd931d4e5d719a": {
+    "assignmentId": "assign_e99cdd931d4e5d719a",
+    "createdAt": 1767073324073,
+    "teacherId": "teacher_9ca80c9945de1053aa",
+    "chapterStart": 1,
+    "chapterEnd": 1,
+    "settings": {},
+    "active": true
+  },
+  "assign_c779a2c098b8ba0b11": {
+    "assignmentId": "assign_c779a2c098b8ba0b11",
+    "createdAt": 1767073414257,
+    "teacherId": "teacher_9ca80c9945de1053aa",
+    "chapterStart": 1,
+    "chapterEnd": 7,
+    "settings": {},
+    "active": true
+  },
+  "assign_0d2825d48569265687": {
+    "assignmentId": "assign_0d2825d48569265687",
+    "createdAt": 1767110389537,
+    "teacherId": "teacher_89e398ebab9e028e0c",
+    "chapterStart": 2,
+    "chapterEnd": 2,
+    "settings": {},
+    "active": true
+  },
+  "assign_cc881b9043388d7d63": {
+    "assignmentId": "assign_cc881b9043388d7d63",
+    "createdAt": 1767110925726,
+    "teacherId": "teacher_9ca80c9945de1053aa",
+    "chapterStart": 1,
+    "chapterEnd": 2,
+    "settings": {},
+    "active": true
+  },
+  "assign_8844000db116901ce6": {
+    "assignmentId": "assign_8844000db116901ce6",
+    "createdAt": 1767111266794,
+    "teacherId": "teacher_89e398ebab9e028e0c",
+    "chapterStart": 6,
+    "chapterEnd": 6,
+    "settings": {},
+    "active": true
+  },
+  "assign_632c78c36a75847e82": {
+    "assignmentId": "assign_632c78c36a75847e82",
+    "createdAt": 1767128936170,
+    "teacherId": "teacher_9ca80c9945de1053aa",
+    "chapterStart": 6,
+    "chapterEnd": 6,
+    "settings": {},
+    "active": true
+  },
+  "assign_59f41a2c24e71abede": {
+    "assignmentId": "assign_59f41a2c24e71abede",
+    "createdAt": 1767129191373,
+    "teacherId": "teacher_89e398ebab9e028e0c",
+    "chapterStart": 10,
+    "chapterEnd": 10,
+    "settings": {},
+    "active": true
+  },
+  "assign_c68b8ce04c1a5a6a6f": {
+    "assignmentId": "assign_c68b8ce04c1a5a6a6f",
+    "createdAt": 1767130563202,
+    "teacherId": "teacher_89e398ebab9e028e0c",
+    "chapterStart": 11,
+    "chapterEnd": 11,
+    "settings": {},
+    "active": true
+  },
+  "assign_540949ddc8ce387195": {
+    "assignmentId": "assign_540949ddc8ce387195",
+    "createdAt": 1767369133058,
+    "teacherId": "teacher_89e398ebab9e028e0c",
+    "chapterStart": 4,
+    "chapterEnd": 5,
+    "settings": {},
+    "active": true
+  },
+  "assign_024117d27c58e66d5f": {
+    "assignmentId": "assign_024117d27c58e66d5f",
+    "createdAt": 1767369487052,
+    "teacherId": "teacher_89e398ebab9e028e0c",
+    "chapterStart": 1,
+    "chapterEnd": 5,
+    "settings": {},
+    "active": true
+  },
+  "assign_04785e08ccbc9e6c03": {
+    "assignmentId": "assign_04785e08ccbc9e6c03",
+    "createdAt": 1767375095776,
+    "teacherId": "teacher_89e398ebab9e028e0c",
+    "chapterStart": 10,
+    "chapterEnd": 10,
+    "settings": {},
+    "active": true
+  },
+  "assign_65833be334901c30d9": {
+    "assignmentId": "assign_65833be334901c30d9",
+    "createdAt": 1767375122591,
+    "teacherId": "teacher_89e398ebab9e028e0c",
+    "chapterStart": 9,
+    "chapterEnd": 9,
+    "settings": {},
+    "active": true
+  },
+  "assign_e237c8e759d6350275": {
+    "assignmentId": "assign_e237c8e759d6350275",
+    "createdAt": 1767378906276,
+    "teacherId": "teacher_89e398ebab9e028e0c",
+    "chapterStart": 1,
+    "chapterEnd": 5,
+    "settings": {},
+    "active": true
+  },
+  "assign_e0bd9eed1977b7f5e4": {
+    "assignmentId": "assign_e0bd9eed1977b7f5e4",
+    "createdAt": 1767843930405,
+    "teacherId": "teacher_89e398ebab9e028e0c",
+    "chapterStart": 2,
+    "chapterEnd": 2,
+    "settings": {},
+    "active": true
+  }
+}

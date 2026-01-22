@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom base styles */
+@layer base {
+  html, body, #root {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    @apply bg-[#fdfaf2] text-primary;
+    min-height: 100%;
+    width: 100%;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+    color: #0f172a; /* deep blue for classical contrast */
+  }
+
+  a {
+    @apply text-blue-800 hover:text-yellow-500 transition-colors;
+  }
+}
+
+/* Utility tweaks */
+@layer utilities {
+  .btn-primary {
+    @apply bg-blue-700 text-white px-4 py-2 rounded-xl shadow-md hover:bg-blue-800 transition;
+  }
+
+  .btn-accent {
+    @apply bg-yellow-400 text-white px-4 py-2 rounded-xl shadow-md hover:bg-yellow-500 transition;
+  }
+
+  .card {
+    @apply bg-white border border-gray-200 rounded-2xl p-6 shadow-sm hover:shadow-lg transition;
+  }
+
+  .section-title {
+    @apply text-3xl font-bold text-blue-800 mb-6;
+  }
+
+  .navbar {
+    @apply bg-blue-900 text-white shadow-lg;
+  }
+
+  .navbar-link {
+    @apply hover:text-yellow-400 transition-colors font-medium px-3 py-1;
+  }
+
+  .container-wide {
+    @apply max-w-7xl mx-auto px-6;
+  }
+
+  .page-section {
+    @apply py-12 px-4 sm:px-8 lg:px-16;
+  }
+
+  .input-field {
+    @apply w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-800;
+  }
+
+  .form-label {
+    @apply block mb-2 text-sm font-semibold text-gray-700;
+  }
+
+  .form-section {
+    @apply space-y-4;
+  }
+
+  .footer {
+    @apply bg-blue-900 text-white text-center py-6 mt-16;
+  }
+}

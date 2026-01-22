@@ -1,0 +1,296 @@
+{
+  "assign_6306f0c4ebd17ca832": {
+    "Grant": [
+      {
+        "attemptId": "attempt_30428d39d2809e2880",
+        "startedAt": 1767066948959,
+        "finishedAt": null,
+        "durationSec": null,
+        "chapterStart": 1,
+        "chapterEnd": 1,
+        "settings": {},
+        "events": [],
+        "finalReport": null
+      },
+      {
+        "attemptId": "attempt_fadfa8262c5dd12cce",
+        "startedAt": 1767066949698,
+        "finishedAt": null,
+        "durationSec": null,
+        "chapterStart": 1,
+        "chapterEnd": 1,
+        "settings": {},
+        "events": [],
+        "finalReport": null
+      },
+      {
+        "attemptId": "attempt_54394492ec383bd06e",
+        "startedAt": 1767066950362,
+        "finishedAt": null,
+        "durationSec": null,
+        "chapterStart": 1,
+        "chapterEnd": 1,
+        "settings": {},
+        "events": [],
+        "finalReport": null
+      },
+      {
+        "attemptId": "attempt_1928ae1e73b9c6f540",
+        "startedAt": 1767066950890,
+        "finishedAt": null,
+        "durationSec": null,
+        "chapterStart": 1,
+        "chapterEnd": 1,
+        "settings": {},
+        "events": [],
+        "finalReport": null
+      },
+      {
+        "attemptId": "attempt_25f921c953ed80de4b",
+        "startedAt": 1767066951564,
+        "finishedAt": null,
+        "durationSec": null,
+        "chapterStart": 1,
+        "chapterEnd": 1,
+        "settings": {},
+        "events": [],
+        "finalReport": null
+      }
+    ]
+  },
+  "assign_0e2643a13b8ba1f8c9": {
+    "grant": [
+      {
+        "attemptId": "attempt_24acee45dc1fd958f3",
+        "startedAt": 1767073224809,
+        "finishedAt": null,
+        "durationSec": null,
+        "chapterStart": 1,
+        "chapterEnd": 4,
+        "settings": {},
+        "events": [],
+        "finalReport": null
+      }
+    ]
+  },
+  "assign_e99cdd931d4e5d719a": {
+    "G": [
+      {
+        "attemptId": "attempt_83a218514f4db57c7f",
+        "startedAt": 1767073332736,
+        "finishedAt": null,
+        "durationSec": null,
+        "chapterStart": 1,
+        "chapterEnd": 1,
+        "settings": {},
+        "events": [],
+        "finalReport": null
+      }
+    ]
+  },
+  "assign_0d2825d48569265687": {
+    "f": [
+      {
+        "attemptId": "attempt_7e397d2105b5463b78",
+        "startedAt": 1767110443128,
+        "finishedAt": null,
+        "durationSec": null,
+        "chapterStart": 2,
+        "chapterEnd": 2,
+        "settings": {},
+        "events": [],
+        "finalReport": null
+      }
+    ]
+  },
+  "assign_cc881b9043388d7d63": {
+    "Grant": [
+      {
+        "attemptId": "attempt_5ddbe32c6a4434899b",
+        "startedAt": 1767110936115,
+        "finishedAt": null,
+        "durationSec": null,
+        "chapterStart": 1,
+        "chapterEnd": 2,
+        "settings": {},
+        "events": [],
+        "finalReport": null
+      }
+    ]
+  },
+  "assign_8844000db116901ce6": {
+    "Grant": [
+      {
+        "attemptId": "attempt_4e5cd3d28fc6b42330",
+        "startedAt": 1767111278498,
+        "finishedAt": null,
+        "durationSec": null,
+        "chapterStart": 6,
+        "chapterEnd": 6,
+        "settings": {},
+        "events": [],
+        "finalReport": null
+      }
+    ]
+  },
+  "assign_632c78c36a75847e82": {
+    "Grant": [
+      {
+        "attemptId": "attempt_da7ae897f7b4a11df0",
+        "startedAt": 1767128945996,
+        "finishedAt": null,
+        "durationSec": null,
+        "chapterStart": 6,
+        "chapterEnd": 6,
+        "settings": {},
+        "events": [],
+        "finalReport": null
+      }
+    ]
+  },
+  "assign_c68b8ce04c1a5a6a6f": {
+    "Th": [
+      {
+        "attemptId": "attempt_7b12e634c7cbc4f2f0",
+        "startedAt": 1767130689725,
+        "finishedAt": 1767130883514,
+        "durationSec": 194,
+        "chapterStart": 11,
+        "chapterEnd": 11,
+        "settings": {},
+        "events": [],
+        "finalReport": {
+          "assignmentId": "assign_c68b8ce04c1a5a6a6f",
+          "attemptId": "attempt_7b12e634c7cbc4f2f0",
+          "studentName": "Th",
+          "submittedAt": 1767130883510,
+          "chapterStart": 11,
+          "chapterEnd": 11,
+          "durationSec": 193,
+          "totalAttempts": 43,
+          "totalCorrect": 35,
+          "totalWrong": 8,
+          "tries": [
+            {
+              "lemma": "exspecto",
+              "attempts": 2,
+              "correct": 2,
+              "wrong": 0
+            },
+            {
+              "lemma": "tempus",
+              "attempts": 2,
+              "correct": 2,
+              "wrong": 0
+            },
+            {
+              "lemma": "consumo",
+              "attempts": 3,
+              "correct": 2,
+              "wrong": 1
+            },
+            {
+              "lemma": "haedus",
+              "attempts": 5,
+              "correct": 3,
+              "wrong": 2
+            },
+            {
+              "lemma": "auxilium",
+              "attempts": 3,
+              "correct": 2,
+              "wrong": 1
+            },
+            {
+              "lemma": "abduco",
+              "attempts": 3,
+              "correct": 2,
+              "wrong": 1
+            },
+            {
+              "lemma": "facilis",
+              "attempts": 2,
+              "correct": 2,
+              "wrong": 0
+            },
+            {
+              "lemma": "ager",
+              "attempts": 2,
+              "correct": 2,
+              "wrong": 0
+            },
+            {
+              "lemma": "depopulo",
+              "attempts": 2,
+              "correct": 2,
+              "wrong": 0
+            },
+            {
+              "lemma": "demonstro",
+              "attempts": 3,
+              "correct": 2,
+              "wrong": 1
+            },
+            {
+              "lemma": "conspectus",
+              "attempts": 2,
+              "correct": 2,
+              "wrong": 0
+            },
+            {
+              "lemma": "certus",
+              "attempts": 2,
+              "correct": 2,
+              "wrong": 0
+            },
+            {
+              "lemma": "defendo",
+              "attempts": 4,
+              "correct": 2,
+              "wrong": 2
+            },
+            {
+              "lemma": "fuga",
+              "attempts": 2,
+              "correct": 2,
+              "wrong": 0
+            },
+            {
+              "lemma": "debeo",
+              "attempts": 2,
+              "correct": 2,
+              "wrong": 0
+            },
+            {
+              "lemma": "expugno",
+              "attempts": 2,
+              "correct": 2,
+              "wrong": 0
+            },
+            {
+              "lemma": "adduco",
+              "attempts": 2,
+              "correct": 2,
+              "wrong": 0
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "assign_e0bd9eed1977b7f5e4": {
+    "c": [
+      {
+        "attemptId": "attempt_6efe6167646c4cf796",
+        "startedAt": 1767843939751,
+        "finishedAt": null,
+        "durationSec": null,
+        "chapterStart": 2,
+        "chapterEnd": 2,
+        "settings": {},
+        "events": [],
+        "finalReport": null
+      }
+    ]
+  }
+}

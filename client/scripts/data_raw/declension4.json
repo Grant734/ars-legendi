@@ -1,0 +1,1214 @@
+[
+  {
+    "lemma": "manus",
+    "english": "hand; band",
+    "entry": "manus, -us (f.)",
+    "declension": 4,
+    "category": "the body",
+    "distractors": [
+      "foot",
+      "head",
+      "heart"
+    ]
+  },
+  {
+    "lemma": "domus",
+    "english": "house; home",
+    "entry": "domus, -us (f.)",
+    "declension": 4,
+    "category": "household",
+    "distractors": [
+      "temple",
+      "camp",
+      "road"
+    ]
+  },
+  {
+    "lemma": "senatus",
+    "english": "senate",
+    "entry": "senatus, -us (m.)",
+    "declension": 4,
+    "category": "government",
+    "distractors": [
+      "army",
+      "king",
+      "citizen"
+    ]
+  },
+  {
+    "lemma": "exercitus",
+    "english": "army",
+    "entry": "exercitus, -us (m.)",
+    "declension": 4,
+    "category": "war",
+    "distractors": [
+      "fleet",
+      "camp",
+      "treaty"
+    ]
+  },
+  {
+    "lemma": "fructus",
+    "english": "fruit; profit",
+    "entry": "fructus, -us (m.)",
+    "declension": 4,
+    "category": "food",
+    "distractors": [
+      "bread",
+      "wine",
+      "meat"
+    ]
+  },
+  {
+    "lemma": "cursus",
+    "english": "running; course",
+    "entry": "cursus, -us (m.)",
+    "declension": 4,
+    "category": "travel",
+    "distractors": [
+      "wall",
+      "camp",
+      "river"
+    ]
+  },
+  {
+    "lemma": "impetus",
+    "english": "attack; impulse",
+    "entry": "impetus, -us (m.)",
+    "declension": 4,
+    "category": "war",
+    "distractors": [
+      "treaty",
+      "peace",
+      "message"
+    ]
+  },
+  {
+    "lemma": "spiritus",
+    "english": "breath; spirit",
+    "entry": "spiritus, -us (m.)",
+    "declension": 4,
+    "category": "abstract",
+    "distractors": [
+      "body",
+      "stone",
+      "law"
+    ]
+  },
+  {
+    "lemma": "portus",
+    "english": "harbor; port",
+    "entry": "portus, -us (m.)",
+    "declension": 4,
+    "category": "travel",
+    "distractors": [
+      "road",
+      "bridge",
+      "tower"
+    ]
+  },
+  {
+    "lemma": "usus",
+    "english": "use; practice",
+    "entry": "usus, -us (m.)",
+    "declension": 4,
+    "category": "abstract",
+    "distractors": [
+      "law",
+      "game",
+      "gift"
+    ]
+  },
+  {
+    "lemma": "metus",
+    "english": "fear",
+    "entry": "metus, -us (m.)",
+    "declension": 4,
+    "category": "emotions",
+    "distractors": [
+      "joy",
+      "love",
+      "anger"
+    ]
+  },
+  {
+    "lemma": "vultus",
+    "english": "face; expression",
+    "entry": "vultus, -us (m.)",
+    "declension": 4,
+    "category": "the body",
+    "distractors": [
+      "hand",
+      "voice",
+      "mind"
+    ]
+  },
+  {
+    "lemma": "casus",
+    "english": "fall; chance; event",
+    "entry": "casus, -us (m.)",
+    "declension": 4,
+    "category": "abstract",
+    "distractors": [
+      "law",
+      "gift",
+      "war"
+    ]
+  },
+  {
+    "lemma": "motus",
+    "english": "motion; movement",
+    "entry": "motus, -us (m.)",
+    "declension": 4,
+    "category": "abstract",
+    "distractors": [
+      "sleep",
+      "silence",
+      "stone"
+    ]
+  },
+  {
+    "lemma": "adventus",
+    "english": "arrival",
+    "entry": "adventus, -us (m.)",
+    "declension": 4,
+    "category": "travel",
+    "distractors": [
+      "departure",
+      "road",
+      "city"
+    ]
+  },
+  {
+    "lemma": "exitus",
+    "english": "exit; outcome",
+    "entry": "exitus, -us (m.)",
+    "declension": 4,
+    "category": "abstract",
+    "distractors": [
+      "beginning",
+      "treaty",
+      "river"
+    ]
+  },
+  {
+    "lemma": "ortus",
+    "english": "rising; origin",
+    "entry": "ortus, -us (m.)",
+    "declension": 4,
+    "category": "nature",
+    "distractors": [
+      "setting",
+      "cloud",
+      "rain"
+    ]
+  },
+  {
+    "lemma": "occasus",
+    "english": "setting; downfall",
+    "entry": "occasus, -us (m.)",
+    "declension": 4,
+    "category": "nature",
+    "distractors": [
+      "rising",
+      "dawn",
+      "spring"
+    ]
+  },
+  {
+    "lemma": "conspectus",
+    "english": "view; sight",
+    "entry": "conspectus, -us (m.)",
+    "declension": 4,
+    "category": "perception",
+    "distractors": [
+      "sound",
+      "smell",
+      "touch"
+    ]
+  },
+  {
+    "lemma": "aspectus",
+    "english": "sight; appearance",
+    "entry": "aspectus, -us (m.)",
+    "declension": 4,
+    "category": "perception",
+    "distractors": [
+      "noise",
+      "taste",
+      "odor"
+    ]
+  },
+  {
+    "lemma": "prospectus",
+    "english": "prospect; view ahead",
+    "entry": "prospectus, -us (m.)",
+    "declension": 4,
+    "category": "perception",
+    "distractors": [
+      "wall",
+      "road",
+      "camp"
+    ]
+  },
+  {
+    "lemma": "habitus",
+    "english": "condition; dress",
+    "entry": "habitus, -us (m.)",
+    "declension": 4,
+    "category": "abstract",
+    "distractors": [
+      "rank",
+      "law",
+      "weapon"
+    ]
+  },
+  {
+    "lemma": "partus",
+    "english": "birth; offspring",
+    "entry": "partus, -us (m.)",
+    "declension": 4,
+    "category": "the body",
+    "distractors": [
+      "death",
+      "sleep",
+      "pain"
+    ]
+  },
+  {
+    "lemma": "fetus",
+    "english": "offspring; fetus",
+    "entry": "fetus, -us (m.)",
+    "declension": 4,
+    "category": "the body",
+    "distractors": [
+      "food",
+      "sleep",
+      "song"
+    ]
+  },
+  {
+    "lemma": "gelu",
+    "english": "frost; cold",
+    "entry": "gelu, -us (n.)",
+    "declension": 4,
+    "category": "nature",
+    "distractors": [
+      "rain",
+      "heat",
+      "wind"
+    ]
+  },
+  {
+    "lemma": "cornu",
+    "english": "horn; wing (of army)",
+    "entry": "cornu, -us (n.)",
+    "declension": 4,
+    "category": "war",
+    "distractors": [
+      "sword",
+      "shield",
+      "camp"
+    ]
+  },
+  {
+    "lemma": "genu",
+    "english": "knee",
+    "entry": "genu, -us (n.)",
+    "declension": 4,
+    "category": "the body",
+    "distractors": [
+      "hand",
+      "tooth",
+      "eye"
+    ]
+  },
+  {
+    "lemma": "tribus",
+    "english": "tribe",
+    "entry": "tribus, -us (f.)",
+    "declension": 4,
+    "category": "society",
+    "distractors": [
+      "senate",
+      "army",
+      "crowd"
+    ]
+  },
+  {
+    "lemma": "artus",
+    "english": "limb; joint",
+    "entry": "artus, -us (m.)",
+    "declension": 4,
+    "category": "the body",
+    "distractors": [
+      "bone",
+      "skin",
+      "blood"
+    ]
+  },
+  {
+    "lemma": "lacus",
+    "english": "lake",
+    "entry": "lacus, -us (m.)",
+    "declension": 4,
+    "category": "geography",
+    "distractors": [
+      "river",
+      "sea",
+      "mountain"
+    ]
+  },
+  {
+    "lemma": "specus",
+    "english": "cave",
+    "entry": "specus, -us (m.)",
+    "declension": 4,
+    "category": "geography",
+    "distractors": [
+      "hill",
+      "road",
+      "tower"
+    ]
+  },
+  {
+    "lemma": "arcus",
+    "english": "arch; bow",
+    "entry": "arcus, -us (m.)",
+    "declension": 4,
+    "category": "objects",
+    "distractors": [
+      "spear",
+      "gate",
+      "bridge"
+    ]
+  },
+  {
+    "lemma": "sinus",
+    "english": "bay; fold",
+    "entry": "sinus, -us (m.)",
+    "declension": 4,
+    "category": "geography",
+    "distractors": [
+      "island",
+      "valley",
+      "forest"
+    ]
+  },
+  {
+    "lemma": "cantus",
+    "english": "song; chant",
+    "entry": "cantus, -us (m.)",
+    "declension": 4,
+    "category": "art",
+    "distractors": [
+      "poem",
+      "law",
+      "letter"
+    ]
+  },
+  {
+    "lemma": "risus",
+    "english": "laughter",
+    "entry": "risus, -us (m.)",
+    "declension": 4,
+    "category": "emotions",
+    "distractors": [
+      "tears",
+      "anger",
+      "fear"
+    ]
+  },
+  {
+    "lemma": "fletus",
+    "english": "weeping",
+    "entry": "fletus, -us (m.)",
+    "declension": 4,
+    "category": "emotions",
+    "distractors": [
+      "joy",
+      "sleep",
+      "smile"
+    ]
+  },
+  {
+    "lemma": "gemitus",
+    "english": "groan; lament",
+    "entry": "gemitus, -us (m.)",
+    "declension": 4,
+    "category": "emotions",
+    "distractors": [
+      "song",
+      "game",
+      "gift"
+    ]
+  },
+  {
+    "lemma": "fremitus",
+    "english": "roar; murmur",
+    "entry": "fremitus, -us (m.)",
+    "declension": 4,
+    "category": "nature",
+    "distractors": [
+      "silence",
+      "light",
+      "shadow"
+    ]
+  },
+  {
+    "lemma": "luctus",
+    "english": "grief; mourning",
+    "entry": "luctus, -us (m.)",
+    "declension": 4,
+    "category": "emotions",
+    "distractors": [
+      "joy",
+      "hope",
+      "love"
+    ]
+  },
+  {
+    "lemma": "strepitus",
+    "english": "din; noise",
+    "entry": "strepitus, -us (m.)",
+    "declension": 4,
+    "category": "perception",
+    "distractors": [
+      "silence",
+      "color",
+      "scent"
+    ]
+  },
+  {
+    "lemma": "sonitus",
+    "english": "sound",
+    "entry": "sonitus, -us (m.)",
+    "declension": 4,
+    "category": "perception",
+    "distractors": [
+      "light",
+      "taste",
+      "odor"
+    ]
+  },
+  {
+    "lemma": "tumultus",
+    "english": "uproar; riot",
+    "entry": "tumultus, -us (m.)",
+    "declension": 4,
+    "category": "society",
+    "distractors": [
+      "treaty",
+      "banquet",
+      "sleep"
+    ]
+  },
+  {
+    "lemma": "magistratus",
+    "english": "magistracy; magistrate",
+    "entry": "magistratus, -us (m.)",
+    "declension": 4,
+    "category": "government",
+    "distractors": [
+      "consul",
+      "law",
+      "army"
+    ]
+  },
+  {
+    "lemma": "peditatus",
+    "english": "infantry",
+    "entry": "peditatus, -us (m.)",
+    "declension": 4,
+    "category": "war",
+    "distractors": [
+      "cavalry",
+      "fleet",
+      "camp"
+    ]
+  },
+  {
+    "lemma": "equitatus",
+    "english": "cavalry",
+    "entry": "equitatus, -us (m.)",
+    "declension": 4,
+    "category": "war",
+    "distractors": [
+      "infantry",
+      "fleet",
+      "tower"
+    ]
+  },
+  {
+    "lemma": "apparatus",
+    "english": "equipment; preparation",
+    "entry": "apparatus, -us (m.)",
+    "declension": 4,
+    "category": "objects",
+    "distractors": [
+      "gift",
+      "song",
+      "law"
+    ]
+  },
+  {
+    "lemma": "principatus",
+    "english": "rule; supremacy",
+    "entry": "principatus, -us (m.)",
+    "declension": 4,
+    "category": "government",
+    "distractors": [
+      "freedom",
+      "treaty",
+      "tax"
+    ]
+  },
+  {
+    "lemma": "status",
+    "english": "position; condition",
+    "entry": "status, -us (m.)",
+    "declension": 4,
+    "category": "abstract",
+    "distractors": [
+      "law",
+      "gift",
+      "war"
+    ]
+  },
+  {
+    "lemma": "situs",
+    "english": "site; position",
+    "entry": "situs, -us (m.)",
+    "declension": 4,
+    "category": "places",
+    "distractors": [
+      "bridge",
+      "road",
+      "camp"
+    ]
+  },
+  {
+    "lemma": "nexus",
+    "english": "knot; fastening",
+    "entry": "nexus, -us (m.)",
+    "declension": 4,
+    "category": "objects",
+    "distractors": [
+      "rope",
+      "chain",
+      "sword"
+    ]
+  },
+  {
+    "lemma": "complexus",
+    "english": "embrace",
+    "entry": "complexus, -us (m.)",
+    "declension": 4,
+    "category": "people",
+    "distractors": [
+      "blow",
+      "shout",
+      "gift"
+    ]
+  },
+  {
+    "lemma": "amplexus",
+    "english": "embrace",
+    "entry": "amplexus, -us (m.)",
+    "declension": 4,
+    "category": "people",
+    "distractors": [
+      "battle",
+      "law",
+      "gift"
+    ]
+  },
+  {
+    "lemma": "ictus",
+    "english": "blow; strike",
+    "entry": "ictus, -us (m.)",
+    "declension": 4,
+    "category": "war",
+    "distractors": [
+      "shield",
+      "helmet",
+      "camp"
+    ]
+  },
+  {
+    "lemma": "saltus",
+    "english": "leap; mountain pass",
+    "entry": "saltus, -us (m.)",
+    "declension": 4,
+    "category": "geography",
+    "distractors": [
+      "valley",
+      "river",
+      "island"
+    ]
+  },
+  {
+    "lemma": "passus",
+    "english": "pace; step",
+    "entry": "passus, -us (m.)",
+    "declension": 4,
+    "category": "travel",
+    "distractors": [
+      "road",
+      "bridge",
+      "river"
+    ]
+  },
+  {
+    "lemma": "gradus",
+    "english": "step; rank",
+    "entry": "gradus, -us (m.)",
+    "declension": 4,
+    "category": "abstract",
+    "distractors": [
+      "crowd",
+      "gift",
+      "tax"
+    ]
+  },
+  {
+    "lemma": "transitus",
+    "english": "passage; crossing",
+    "entry": "transitus, -us (m.)",
+    "declension": 4,
+    "category": "travel",
+    "distractors": [
+      "camp",
+      "wall",
+      "tower"
+    ]
+  },
+  {
+    "lemma": "aditus",
+    "english": "approach; entrance",
+    "entry": "aditus, -us (m.)",
+    "declension": 4,
+    "category": "places",
+    "distractors": [
+      "gate",
+      "wall",
+      "bridge"
+    ]
+  },
+  {
+    "lemma": "reditus",
+    "english": "return",
+    "entry": "reditus, -us (m.)",
+    "declension": 4,
+    "category": "travel",
+    "distractors": [
+      "departure",
+      "road",
+      "harbor"
+    ]
+  },
+  {
+    "lemma": "auditus",
+    "english": "hearing",
+    "entry": "auditus, -us (m.)",
+    "declension": 4,
+    "category": "perception",
+    "distractors": [
+      "sight",
+      "smell",
+      "taste"
+    ]
+  },
+  {
+    "lemma": "visus",
+    "english": "sight",
+    "entry": "visus, -us (m.)",
+    "declension": 4,
+    "category": "perception",
+    "distractors": [
+      "sound",
+      "smell",
+      "touch"
+    ]
+  },
+  {
+    "lemma": "tactus",
+    "english": "touch",
+    "entry": "tactus, -us (m.)",
+    "declension": 4,
+    "category": "perception",
+    "distractors": [
+      "taste",
+      "odor",
+      "sound"
+    ]
+  },
+  {
+    "lemma": "gustus",
+    "english": "taste",
+    "entry": "gustus, -us (m.)",
+    "declension": 4,
+    "category": "perception",
+    "distractors": [
+      "sight",
+      "sound",
+      "smell"
+    ]
+  },
+  {
+    "lemma": "olfactus",
+    "english": "smell",
+    "entry": "olfactus, -us (m.)",
+    "declension": 4,
+    "category": "perception",
+    "distractors": [
+      "sight",
+      "taste",
+      "touch"
+    ]
+  },
+  {
+    "lemma": "appetitus",
+    "english": "appetite; desire",
+    "entry": "appetitus, -us (m.)",
+    "declension": 4,
+    "category": "emotions",
+    "distractors": [
+      "fear",
+      "anger",
+      "shame"
+    ]
+  },
+  {
+    "lemma": "coetus",
+    "english": "meeting; assembly",
+    "entry": "coetus, -us (m.)",
+    "declension": 4,
+    "category": "society",
+    "distractors": [
+      "council",
+      "treaty",
+      "war"
+    ]
+  },
+  {
+    "lemma": "conventus",
+    "english": "assembly; meeting",
+    "entry": "conventus, -us (m.)",
+    "declension": 4,
+    "category": "society",
+    "distractors": [
+      "army",
+      "camp",
+      "banquet"
+    ]
+  },
+  {
+    "lemma": "consensus",
+    "english": "agreement",
+    "entry": "consensus, -us (m.)",
+    "declension": 4,
+    "category": "society",
+    "distractors": [
+      "quarrel",
+      "war",
+      "tax"
+    ]
+  },
+  {
+    "lemma": "census",
+    "english": "census; register",
+    "entry": "census, -us (m.)",
+    "declension": 4,
+    "category": "government",
+    "distractors": [
+      "law",
+      "coin",
+      "judge"
+    ]
+  },
+  {
+    "lemma": "discursus",
+    "english": "running about",
+    "entry": "discursus, -us (m.)",
+    "declension": 4,
+    "category": "abstract",
+    "distractors": [
+      "sleep",
+      "law",
+      "treaty"
+    ]
+  },
+  {
+    "lemma": "concursus",
+    "english": "a running together; crowd",
+    "entry": "concursus, -us (m.)",
+    "declension": 4,
+    "category": "society",
+    "distractors": [
+      "army",
+      "council",
+      "treaty"
+    ]
+  },
+  {
+    "lemma": "occursus",
+    "english": "meeting",
+    "entry": "occursus, -us (m.)",
+    "declension": 4,
+    "category": "travel",
+    "distractors": [
+      "camp",
+      "wall",
+      "harbor"
+    ]
+  },
+  {
+    "lemma": "succursus",
+    "english": "aid; help",
+    "entry": "succursus, -us (m.)",
+    "declension": 4,
+    "category": "abstract",
+    "distractors": [
+      "harm",
+      "war",
+      "anger"
+    ]
+  },
+  {
+    "lemma": "circuitus",
+    "english": "circuit",
+    "entry": "circuitus, -us (m.)",
+    "declension": 4,
+    "category": "abstract",
+    "distractors": [
+      "line",
+      "square",
+      "angle"
+    ]
+  },
+  {
+    "lemma": "effectus",
+    "english": "effect; result",
+    "entry": "effectus, -us (m.)",
+    "declension": 4,
+    "category": "abstract",
+    "distractors": [
+      "cause",
+      "plan",
+      "law"
+    ]
+  },
+  {
+    "lemma": "defectus",
+    "english": "failure; eclipse",
+    "entry": "defectus, -us (m.)",
+    "declension": 4,
+    "category": "nature",
+    "distractors": [
+      "storm",
+      "rain",
+      "wind"
+    ]
+  },
+  {
+    "lemma": "respectus",
+    "english": "regard; consideration",
+    "entry": "respectus, -us (m.)",
+    "declension": 4,
+    "category": "abstract",
+    "distractors": [
+      "anger",
+      "war",
+      "gift"
+    ]
+  },
+  {
+    "lemma": "versus",
+    "english": "verse; line of poetry",
+    "entry": "versus, -us (m.)",
+    "declension": 4,
+    "category": "art",
+    "distractors": [
+      "song",
+      "speech",
+      "law"
+    ]
+  },
+  {
+    "lemma": "comitatus",
+    "english": "retinue; company",
+    "entry": "comitatus, -us (m.)",
+    "declension": 4,
+    "category": "people",
+    "distractors": [
+      "army",
+      "senate",
+      "fleet"
+    ]
+  },
+  {
+    "lemma": "afflatus",
+    "english": "inspiration; breath",
+    "entry": "afflatus, -us (m.)",
+    "declension": 4,
+    "category": "abstract",
+    "distractors": [
+      "law",
+      "tax",
+      "sleep"
+    ]
+  },
+  {
+    "lemma": "coitus",
+    "english": "meeting; union",
+    "entry": "coitus, -us (m.)",
+    "declension": 4,
+    "category": "society",
+    "distractors": [
+      "war",
+      "camp",
+      "city"
+    ]
+  },
+  {
+    "lemma": "ritus",
+    "english": "rite; ritual",
+    "entry": "ritus, -us (m.)",
+    "declension": 4,
+    "category": "religion",
+    "distractors": [
+      "temple",
+      "priest",
+      "altar"
+    ]
+  },
+  {
+    "lemma": "introitus",
+    "english": "entrance",
+    "entry": "introitus, -us (m.)",
+    "declension": 4,
+    "category": "places",
+    "distractors": [
+      "exit",
+      "wall",
+      "bridge"
+    ]
+  },
+  {
+    "lemma": "progressus",
+    "english": "advance; progress",
+    "entry": "progressus, -us (m.)",
+    "declension": 4,
+    "category": "abstract",
+    "distractors": [
+      "retreat",
+      "sleep",
+      "holiday"
+    ]
+  },
+  {
+    "lemma": "recessus",
+    "english": "retreat; recess",
+    "entry": "recessus, -us (m.)",
+    "declension": 4,
+    "category": "abstract",
+    "distractors": [
+      "advance",
+      "war",
+      "gift"
+    ]
+  },
+  {
+    "lemma": "congressus",
+    "english": "meeting; encounter",
+    "entry": "congressus, -us (m.)",
+    "declension": 4,
+    "category": "society",
+    "distractors": [
+      "treaty",
+      "war",
+      "sleep"
+    ]
+  },
+  {
+    "lemma": "obitus",
+    "english": "falling; death",
+    "entry": "obitus, -us (m.)",
+    "declension": 4,
+    "category": "abstract",
+    "distractors": [
+      "birth",
+      "sleep",
+      "song"
+    ]
+  },
+  {
+    "lemma": "interitus",
+    "english": "ruin; destruction",
+    "entry": "interitus, -us (m.)",
+    "declension": 4,
+    "category": "war",
+    "distractors": [
+      "victory",
+      "peace",
+      "treaty"
+    ]
+  },
+  {
+    "lemma": "penus",
+    "english": "provisions; store",
+    "entry": "penus, -us (m.)",
+    "declension": 4,
+    "category": "household",
+    "distractors": [
+      "gift",
+      "coin",
+      "law"
+    ]
+  },
+  {
+    "lemma": "acus",
+    "english": "needle",
+    "entry": "acus, -us (f.)",
+    "declension": 4,
+    "category": "household",
+    "distractors": [
+      "cup",
+      "sword",
+      "coin"
+    ]
+  },
+  {
+    "lemma": "quercus",
+    "english": "oak",
+    "entry": "quercus, -us (f.)",
+    "declension": 4,
+    "category": "nature",
+    "distractors": [
+      "pine",
+      "vine",
+      "flower"
+    ]
+  },
+  {
+    "lemma": "porticus",
+    "english": "portico; colonnade",
+    "entry": "porticus, -us (f.)",
+    "declension": 4,
+    "category": "city",
+    "distractors": [
+      "forum",
+      "bath",
+      "theater"
+    ]
+  },
+  {
+    "lemma": "victus",
+    "english": "way of life; food",
+    "entry": "victus, -us (m.)",
+    "declension": 4,
+    "category": "food",
+    "distractors": [
+      "meat",
+      "wine",
+      "salt"
+    ]
+  },
+  {
+    "lemma": "cultus",
+    "english": "cultivation; culture; dress",
+    "entry": "cultus, -us (m.)",
+    "declension": 4,
+    "category": "society",
+    "distractors": [
+      "war",
+      "law",
+      "tax"
+    ]
+  },
+  {
+    "lemma": "natus",
+    "english": "birth; offspring",
+    "entry": "natus, -us (m.)",
+    "declension": 4,
+    "category": "the body",
+    "distractors": [
+      "death",
+      "sleep",
+      "pain"
+    ]
+  },
+  {
+    "lemma": "veru",
+    "english": "spit; skewer",
+    "entry": "veru, -us (n.)",
+    "declension": 4,
+    "category": "objects",
+    "distractors": [
+      "knife",
+      "cup",
+      "spear"
+    ]
+  },
+  {
+    "lemma": "ululatus",
+    "english": "howling",
+    "entry": "ululatus, -us (m.)",
+    "declension": 4,
+    "category": "nature",
+    "distractors": [
+      "silence",
+      "rain",
+      "snow"
+    ]
+  },
+  {
+    "lemma": "plausus",
+    "english": "applause",
+    "entry": "plausus, -us (m.)",
+    "declension": 4,
+    "category": "society",
+    "distractors": [
+      "silence",
+      "law",
+      "war"
+    ]
+  },
+  {
+    "lemma": "planctus",
+    "english": "beating; lament",
+    "entry": "planctus, -us (m.)",
+    "declension": 4,
+    "category": "emotions",
+    "distractors": [
+      "joy",
+      "sleep",
+      "hope"
+    ]
+  },
+  {
+    "lemma": "itus",
+    "english": "going; journey",
+    "entry": "itus, -us (m.)",
+    "declension": 4,
+    "category": "travel",
+    "distractors": [
+      "camp",
+      "wall",
+      "tower"
+    ]
+  },
+  {
+    "lemma": "vagitus",
+    "english": "wailing (of infants)",
+    "entry": "vagitus, -us (m.)",
+    "declension": 4,
+    "category": "emotions",
+    "distractors": [
+      "laughter",
+      "joy",
+      "smile"
+    ]
+  }
+]

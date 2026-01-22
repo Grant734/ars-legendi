@@ -1,0 +1,18 @@
+{
+  "builtAt": "2025-12-25T22:02:05.406Z",
+  "inputs": [
+    "/Users/grant/latin-edu-website/server/data/lexicon/perseus_latlex.xml"
+  ],
+  "outputs": {
+    "entries": "/Users/grant/latin-edu-website/server/data/lexicon/perseus_entries.json",
+    "index": "/Users/grant/latin-edu-website/server/data/lexicon/perseus_index.json",
+    "debug": "/Users/grant/latin-edu-website/server/data/lexicon/build/perseus_debug_entries.json"
+  },
+  "stats": {
+    "entryFreeBlocksParsed": 51627,
+    "entriesWritten": 51627,
+    "lemmasWritten": 49408,
+    "entriesWithoutGlosses": 0,
+    "entriesWithoutLemma": 0
+  }
+}

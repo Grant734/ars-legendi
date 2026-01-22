@@ -1,0 +1,22 @@
+{
+  "chapters": {
+    "meta": {
+      "lemmas": 0,
+      "withGloss": 0,
+      "missing": 0,
+      "sampleMissing": []
+    },
+    "by_chapter": {
+      "lemmas": 0,
+      "withGloss": 0,
+      "missing": 0,
+      "sampleMissing": []
+    }
+  },
+  "totals": {
+    "lemmas": 0,
+    "withGloss": 0,
+    "missing": 0
+  },
+  "sampleMissing": []
+}

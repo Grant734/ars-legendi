@@ -1,0 +1,827 @@
+[
+  {
+    "lemma": "video",
+    "english": "to see",
+    "entry": "video, videre, vidi, visus",
+    "conjugation": 2,
+    "distractors": [
+      "to fear",
+      "to shine",
+      "to be numb; sluggish"
+    ]
+  },
+  {
+    "lemma": "moneo",
+    "english": "to warn; advise",
+    "entry": "moneo, monere, monui, monitus",
+    "conjugation": 2,
+    "distractors": [
+      "to be still",
+      "to fill up; complete",
+      "to persuade (dat.)"
+    ]
+  },
+  {
+    "lemma": "habeo",
+    "english": "to have; hold",
+    "entry": "habeo, habere, habui, habitus",
+    "conjugation": 2,
+    "distractors": [
+      "to earn; deserve",
+      "to stick; hesitate",
+      "to fill up; complete"
+    ]
+  },
+  {
+    "lemma": "teneo",
+    "english": "to hold; keep",
+    "entry": "teneo, tenere, tenui, tentus",
+    "conjugation": 2,
+    "distractors": [
+      "to feel cold",
+      "to laugh",
+      "to prevent"
+    ]
+  },
+  {
+    "lemma": "maneo",
+    "english": "to remain; stay",
+    "entry": "maneo, manere, mansi, mansum",
+    "conjugation": 2,
+    "distractors": [
+      "to stick; hesitate",
+      "to have; hold",
+      "to fill up; complete"
+    ]
+  },
+  {
+    "lemma": "debeo",
+    "english": "to owe; ought",
+    "entry": "debeo, debere, debui, debitus",
+    "conjugation": 2,
+    "distractors": [
+      "to warn; advise",
+      "to answer",
+      "to increase"
+    ]
+  },
+  {
+    "lemma": "moveo",
+    "english": "to move",
+    "entry": "moveo, movere, movi, motus",
+    "conjugation": 2,
+    "distractors": [
+      "to earn; deserve",
+      "to be eager for; study (dat.)",
+      "to be white"
+    ]
+  },
+  {
+    "lemma": "timeo",
+    "english": "to fear",
+    "entry": "timeo, timere, timui, —",
+    "conjugation": 2,
+    "distractors": [
+      "to foresee; provide for",
+      "to stick; hesitate",
+      "to obtain; hold"
+    ]
+  },
+  {
+    "lemma": "doceo",
+    "english": "to teach",
+    "entry": "doceo, docere, docui, doctus",
+    "conjugation": 2,
+    "distractors": [
+      "to besiege",
+      "to be still",
+      "to fill up; complete"
+    ]
+  },
+  {
+    "lemma": "sedeo",
+    "english": "to sit",
+    "entry": "sedeo, sedere, sedi, sessum",
+    "conjugation": 2,
+    "distractors": [
+      "to increase",
+      "to remove",
+      "to obtain; hold"
+    ]
+  },
+  {
+    "lemma": "respondeo",
+    "english": "to answer",
+    "entry": "respondeo, respondere, respondi, responsus",
+    "conjugation": 2,
+    "distractors": [
+      "to move",
+      "to fill up; satisfy",
+      "to be cold"
+    ]
+  },
+  {
+    "lemma": "valeo",
+    "english": "to be strong; be well",
+    "entry": "valeo, valere, valui, —",
+    "conjugation": 2,
+    "distractors": [
+      "to warn; advise",
+      "to bristle; shudder",
+      "to train; exercise"
+    ]
+  },
+  {
+    "lemma": "taceo",
+    "english": "to be silent",
+    "entry": "taceo, tacere, tacui, tacitus",
+    "conjugation": 2,
+    "distractors": [
+      "to be numb; sluggish",
+      "to favor (dat.)",
+      "to sustain; endure"
+    ]
+  },
+  {
+    "lemma": "pareo",
+    "english": "to obey; appear",
+    "entry": "pareo, parere, parui, —",
+    "conjugation": 2,
+    "distractors": [
+      "to favor (dat.)",
+      "to stir; upset",
+      "to teach"
+    ]
+  },
+  {
+    "lemma": "placeo",
+    "english": "to please",
+    "entry": "placeo, placere, placui, placitus",
+    "conjugation": 2,
+    "distractors": [
+      "to be eager for; study (dat.)",
+      "to be red; blush",
+      "to lack (abl.)"
+    ]
+  },
+  {
+    "lemma": "misceo",
+    "english": "to mix",
+    "entry": "misceo, miscere, miscui, mixtus",
+    "conjugation": 2,
+    "distractors": [
+      "to remove",
+      "to frighten",
+      "to earn; deserve"
+    ]
+  },
+  {
+    "lemma": "iubeo",
+    "english": "to order",
+    "entry": "iubeo, iubere, iussi, iussus",
+    "conjugation": 2,
+    "distractors": [
+      "to frighten",
+      "to be strong; be well",
+      "to hurt; feel pain"
+    ]
+  },
+  {
+    "lemma": "ardeo",
+    "english": "to burn; glow",
+    "entry": "ardeo, ardere, arsi, arsus",
+    "conjugation": 2,
+    "distractors": [
+      "to shine",
+      "to twist; torture",
+      "to assess; decree"
+    ]
+  },
+  {
+    "lemma": "augeo",
+    "english": "to increase",
+    "entry": "augeo, augere, auxi, auctus",
+    "conjugation": 2,
+    "distractors": [
+      "to destroy",
+      "to have; hold",
+      "to envy; look askance at (dat.)"
+    ]
+  },
+  {
+    "lemma": "caveo",
+    "english": "to beware",
+    "entry": "caveo, cavere, cavi, cautus",
+    "conjugation": 2,
+    "distractors": [
+      "to mourn",
+      "to weep",
+      "to be cold"
+    ]
+  },
+  {
+    "lemma": "faveo",
+    "english": "to favor (dat.)",
+    "entry": "faveo, favere, favi, fautus",
+    "conjugation": 2,
+    "distractors": [
+      "to hang; depend",
+      "to answer",
+      "to hold back"
+    ]
+  },
+  {
+    "lemma": "noceo",
+    "english": "to harm (dat.)",
+    "entry": "noceo, nocere, nocui, nocitus",
+    "conjugation": 2,
+    "distractors": [
+      "to be silent",
+      "to sustain; endure",
+      "to be eager for; study (dat.)"
+    ]
+  },
+  {
+    "lemma": "luceo",
+    "english": "to shine",
+    "entry": "luceo, lucere, luxi, —",
+    "conjugation": 2,
+    "distractors": [
+      "to be cold",
+      "to assess; decree",
+      "to weep"
+    ]
+  },
+  {
+    "lemma": "iaceo",
+    "english": "to lie (down)",
+    "entry": "iaceo, iacere, iacui, —",
+    "conjugation": 2,
+    "distractors": [
+      "to move deeply",
+      "to laugh",
+      "to envy; look askance at (dat.)"
+    ]
+  },
+  {
+    "lemma": "sileo",
+    "english": "to be still",
+    "entry": "sileo, silere, silui, —",
+    "conjugation": 2,
+    "distractors": [
+      "to indulge; allow (dat.)",
+      "to remain; stay",
+      "to train; exercise"
+    ]
+  },
+  {
+    "lemma": "salveo",
+    "english": "to be healthy",
+    "entry": "salveo, salvere, —, —",
+    "conjugation": 2,
+    "distractors": [
+      "to hold back",
+      "to be warm",
+      "to need; lack (abl./gen.)"
+    ]
+  },
+  {
+    "lemma": "suadeo",
+    "english": "to advise",
+    "entry": "suadeo, suadere, suasi, suasus",
+    "conjugation": 2,
+    "distractors": [
+      "to stir; upset",
+      "to sustain; endure",
+      "to harm (dat.)"
+    ]
+  },
+  {
+    "lemma": "persuadeo",
+    "english": "to persuade (dat.)",
+    "entry": "persuadeo, persuadere, persuasi, persuasus",
+    "conjugation": 2,
+    "distractors": [
+      "to answer",
+      "to mix",
+      "to lie (down)"
+    ]
+  },
+  {
+    "lemma": "prohibeo",
+    "english": "to prevent",
+    "entry": "prohibeo, prohibere, prohibui, prohibitus",
+    "conjugation": 2,
+    "distractors": [
+      "to have; hold",
+      "to fear",
+      "to frighten"
+    ]
+  },
+  {
+    "lemma": "praebeo",
+    "english": "to provide; offer",
+    "entry": "praebeo, praebere, praebui, praebitus",
+    "conjugation": 2,
+    "distractors": [
+      "to indulge; allow (dat.)",
+      "to order",
+      "to harm (dat.)"
+    ]
+  },
+  {
+    "lemma": "retineo",
+    "english": "to hold back",
+    "entry": "retineo, retinere, retinui, retentus",
+    "conjugation": 2,
+    "distractors": [
+      "to possess",
+      "to bristle; shudder",
+      "to bite"
+    ]
+  },
+  {
+    "lemma": "obtineo",
+    "english": "to obtain; hold",
+    "entry": "obtineo, obtinere, obtinui, obtentus",
+    "conjugation": 2,
+    "distractors": [
+      "to see",
+      "to shine",
+      "to be still"
+    ]
+  },
+  {
+    "lemma": "contineo",
+    "english": "to contain; restrain",
+    "entry": "contineo, continere, continui, contentus",
+    "conjugation": 2,
+    "distractors": [
+      "to need; lack (abl./gen.)",
+      "to be eager for; study (dat.)",
+      "to be still"
+    ]
+  },
+  {
+    "lemma": "sustineo",
+    "english": "to sustain; endure",
+    "entry": "sustineo, sustinere, sustinui, sustentus",
+    "conjugation": 2,
+    "distractors": [
+      "to teach",
+      "to hold; keep",
+      "to harm (dat.)"
+    ]
+  },
+  {
+    "lemma": "torqueo",
+    "english": "to twist; torture",
+    "entry": "torqueo, torquere, torsi, tortus",
+    "conjugation": 2,
+    "distractors": [
+      "to sit",
+      "to order",
+      "to bite"
+    ]
+  },
+  {
+    "lemma": "haereo",
+    "english": "to stick; hesitate",
+    "entry": "haereo, haerere, haesi, haesus",
+    "conjugation": 2,
+    "distractors": [
+      "to envy; look askance at (dat.)",
+      "to be numb; sluggish",
+      "to train; exercise"
+    ]
+  },
+  {
+    "lemma": "lateo",
+    "english": "to lie hidden",
+    "entry": "lateo, latere, latui, —",
+    "conjugation": 2,
+    "distractors": [
+      "to flash; shine",
+      "to feel cold",
+      "to be stunned"
+    ]
+  },
+  {
+    "lemma": "fulgeo",
+    "english": "to flash; shine",
+    "entry": "fulgeo, fulgere, fulsi, —",
+    "conjugation": 2,
+    "distractors": [
+      "to lie hidden",
+      "to besiege",
+      "to warn; advise"
+    ]
+  },
+  {
+    "lemma": "terreo",
+    "english": "to frighten",
+    "entry": "terreo, terrere, terrui, territus",
+    "conjugation": 2,
+    "distractors": [
+      "to obtain; hold",
+      "to need; lack (abl./gen.)",
+      "to sustain; endure"
+    ]
+  },
+  {
+    "lemma": "mordeo",
+    "english": "to bite",
+    "entry": "mordeo, mordere, momordi, morsus",
+    "conjugation": 2,
+    "distractors": [
+      "to stick; hesitate",
+      "to rejoice",
+      "to mourn"
+    ]
+  },
+  {
+    "lemma": "fleo",
+    "english": "to weep",
+    "entry": "fleo, flere, flevi, fletus",
+    "conjugation": 2,
+    "distractors": [
+      "to persuade (dat.)",
+      "to move",
+      "to mourn"
+    ]
+  },
+  {
+    "lemma": "rubeo",
+    "english": "to be red; blush",
+    "entry": "rubeo, rubere, rubui, —",
+    "conjugation": 2,
+    "distractors": [
+      "to be strong; be well",
+      "to be eager for; study (dat.)",
+      "to bristle; shudder"
+    ]
+  },
+  {
+    "lemma": "albeo",
+    "english": "to be white",
+    "entry": "albeo, albere, albui, —",
+    "conjugation": 2,
+    "distractors": [
+      "to possess",
+      "to hang; depend",
+      "to earn; deserve"
+    ]
+  },
+  {
+    "lemma": "caleo",
+    "english": "to be warm",
+    "entry": "caleo, calere, calui, —",
+    "conjugation": 2,
+    "distractors": [
+      "to lie hidden",
+      "to bristle; shudder",
+      "to order"
+    ]
+  },
+  {
+    "lemma": "frigeo",
+    "english": "to be cold",
+    "entry": "frigeo, frigere, frigui, —",
+    "conjugation": 2,
+    "distractors": [
+      "to be red; blush",
+      "to foresee; provide for",
+      "to advise"
+    ]
+  },
+  {
+    "lemma": "pendeo",
+    "english": "to hang; depend",
+    "entry": "pendeo, pendere, pependi, —",
+    "conjugation": 2,
+    "distractors": [
+      "to be faint; languish",
+      "to be still",
+      "to shine"
+    ]
+  },
+  {
+    "lemma": "horreo",
+    "english": "to bristle; shudder",
+    "entry": "horreo, horrere, horrui, —",
+    "conjugation": 2,
+    "distractors": [
+      "to be silent",
+      "to need; lack (abl./gen.)",
+      "to feel cold"
+    ]
+  },
+  {
+    "lemma": "careo",
+    "english": "to lack (abl.)",
+    "entry": "careo, carere, carui, —",
+    "conjugation": 2,
+    "distractors": [
+      "to answer",
+      "to burn; glow",
+      "to sustain; endure"
+    ]
+  },
+  {
+    "lemma": "doleo",
+    "english": "to hurt; feel pain",
+    "entry": "doleo, dolere, dolui, dolitus",
+    "conjugation": 2,
+    "distractors": [
+      "to assess; decree",
+      "to laugh",
+      "to possess"
+    ]
+  },
+  {
+    "lemma": "gaudeo",
+    "english": "to rejoice",
+    "entry": "gaudeo, gaudere, gavisus sum, —",
+    "conjugation": 2,
+    "distractors": [
+      "to answer",
+      "to lie hidden",
+      "to be strong; be well"
+    ]
+  },
+  {
+    "lemma": "maereo",
+    "english": "to mourn",
+    "entry": "maereo, maerere, maerui, —",
+    "conjugation": 2,
+    "distractors": [
+      "to see",
+      "to obtain; hold",
+      "to warn; advise"
+    ]
+  },
+  {
+    "lemma": "permoveo",
+    "english": "to move deeply",
+    "entry": "permoveo, permovere, permovi, permotus",
+    "conjugation": 2,
+    "distractors": [
+      "to flash; shine",
+      "to hold; keep",
+      "to contain; restrain"
+    ]
+  },
+  {
+    "lemma": "removeo",
+    "english": "to remove",
+    "entry": "removeo, removere, removi, remotus",
+    "conjugation": 2,
+    "distractors": [
+      "to foresee; provide for",
+      "to destroy",
+      "to prevent"
+    ]
+  },
+  {
+    "lemma": "commoveo",
+    "english": "to stir; upset",
+    "entry": "commoveo, commovere, commovi, commotus",
+    "conjugation": 2,
+    "distractors": [
+      "to remove",
+      "to bristle; shudder",
+      "to hold; keep"
+    ]
+  },
+  {
+    "lemma": "egeo",
+    "english": "to need; lack (abl./gen.)",
+    "entry": "egeo, egere, egui, —",
+    "conjugation": 2,
+    "distractors": [
+      "to be white",
+      "to teach",
+      "to lie hidden"
+    ]
+  },
+  {
+    "lemma": "splendeo",
+    "english": "to shine",
+    "entry": "splendeo, splendere, splendui, —",
+    "conjugation": 2,
+    "distractors": [
+      "to be healthy",
+      "to hold back",
+      "to hurt; feel pain"
+    ]
+  },
+  {
+    "lemma": "stupo",
+    "english": "to be stunned",
+    "entry": "stupeo, stupere, stupui, —",
+    "conjugation": 2,
+    "distractors": [
+      "to advise",
+      "to be healthy",
+      "to remain; stay"
+    ]
+  },
+  {
+    "lemma": "invideo",
+    "english": "to envy; look askance at (dat.)",
+    "entry": "invideo, invidere, invidi, invisus",
+    "conjugation": 2,
+    "distractors": [
+      "to need; lack (abl./gen.)",
+      "to be eager for; study (dat.)",
+      "to fill up; complete"
+    ]
+  },
+  {
+    "lemma": "indulgeo",
+    "english": "to indulge; allow (dat.)",
+    "entry": "indulgeo, indulgere, indulsi, indultus",
+    "conjugation": 2,
+    "distractors": [
+      "to destroy",
+      "to be red; blush",
+      "to twist; torture"
+    ]
+  },
+  {
+    "lemma": "studeo",
+    "english": "to be eager for; study (dat.)",
+    "entry": "studeo, studere, studui, —",
+    "conjugation": 2,
+    "distractors": [
+      "to remain; stay",
+      "to be stunned",
+      "to hurt; feel pain"
+    ]
+  },
+  {
+    "lemma": "obsideo",
+    "english": "to besiege",
+    "entry": "obsideo, obsidere, obsedi, obsessus",
+    "conjugation": 2,
+    "distractors": [
+      "to fill",
+      "to obtain; hold",
+      "to please"
+    ]
+  },
+  {
+    "lemma": "possideo",
+    "english": "to possess",
+    "entry": "possideo, possidere, possedi, possessus",
+    "conjugation": 2,
+    "distractors": [
+      "to order",
+      "to prevent",
+      "to hang; depend"
+    ]
+  },
+  {
+    "lemma": "provideo",
+    "english": "to foresee; provide for",
+    "entry": "provideo, providere, providi, provisus",
+    "conjugation": 2,
+    "distractors": [
+      "to burn; glow",
+      "to be red; blush",
+      "to obey; appear"
+    ]
+  },
+  {
+    "lemma": "deleo",
+    "english": "to destroy",
+    "entry": "deleo, delere, delevi, deletus",
+    "conjugation": 2,
+    "distractors": [
+      "to mourn",
+      "to besiege",
+      "to be eager for; study (dat.)"
+    ]
+  },
+  {
+    "lemma": "expleo",
+    "english": "to fill up; satisfy",
+    "entry": "expleo, explere, explevi, expletus",
+    "conjugation": 2,
+    "distractors": [
+      "to obey; appear",
+      "to foresee; provide for",
+      "to weep"
+    ]
+  },
+  {
+    "lemma": "impleo",
+    "english": "to fill",
+    "entry": "impleo, implere, implevi, impletus",
+    "conjugation": 2,
+    "distractors": [
+      "to be red; blush",
+      "to foresee; provide for",
+      "to burn; glow"
+    ]
+  },
+  {
+    "lemma": "compleo",
+    "english": "to fill up; complete",
+    "entry": "compleo, complere, complevi, completus",
+    "conjugation": 2,
+    "distractors": [
+      "to flash; shine",
+      "to be warm",
+      "to stick; hesitate"
+    ]
+  },
+  {
+    "lemma": "repleo",
+    "english": "to refill; fill again",
+    "entry": "repleo, replere, replevi, repletus",
+    "conjugation": 2,
+    "distractors": [
+      "to indulge; allow (dat.)",
+      "to hurt; feel pain",
+      "to assess; decree"
+    ]
+  },
+  {
+    "lemma": "algeo",
+    "english": "to feel cold",
+    "entry": "algeo, algere, alsi, —",
+    "conjugation": 2,
+    "distractors": [
+      "to favor (dat.)",
+      "to have; hold",
+      "to teach"
+    ]
+  },
+  {
+    "lemma": "langueo",
+    "english": "to be faint; languish",
+    "entry": "langueo, languere, langui, —",
+    "conjugation": 2,
+    "distractors": [
+      "to possess",
+      "to see",
+      "to obey; appear"
+    ]
+  },
+  {
+    "lemma": "torpeo",
+    "english": "to be numb; sluggish",
+    "entry": "torpeo, torpere, torpui, —",
+    "conjugation": 2,
+    "distractors": [
+      "to owe; ought",
+      "to please",
+      "to stick; hesitate"
+    ]
+  },
+  {
+    "lemma": "rideo",
+    "english": "to laugh",
+    "entry": "rideo, ridere, risi, risus",
+    "conjugation": 2,
+    "distractors": [
+      "to hold; keep",
+      "to assess; decree",
+      "to need; lack (abl./gen.)"
+    ]
+  },
+  {
+    "lemma": "censeo",
+    "english": "to assess; decree",
+    "entry": "censeo, censere, censui, census",
+    "conjugation": 2,
+    "distractors": [
+      "to refill; fill again",
+      "to shine",
+      "to be faint; languish"
+    ]
+  },
+  {
+    "lemma": "exerceo",
+    "english": "to train; exercise",
+    "entry": "exerceo, exercere, exercui, exercitus",
+    "conjugation": 2,
+    "distractors": [
+      "to mourn",
+      "to earn; deserve",
+      "to please"
+    ]
+  },
+  {
+    "lemma": "mereo",
+    "english": "to earn; deserve",
+    "entry": "mereo, merere, merui, meritus",
+    "conjugation": 2,
+    "distractors": [
+      "to remain; stay",
+      "to weep",
+      "to have; hold"
+    ]
+  }
+]

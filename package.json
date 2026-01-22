@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@xmldom/xmldom": "^0.8.11",
+    "claude": "^0.1.1",
+    "xpath": "^0.0.34"
+  }
+}

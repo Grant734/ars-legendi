@@ -1,0 +1,827 @@
+[
+  {
+    "lemma": "sum",
+    "english": "to be",
+    "entry": "sum, esse, fui, futurus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to want",
+      "to go away",
+      "to be able"
+    ]
+  },
+  {
+    "lemma": "possum",
+    "english": "to be able",
+    "entry": "possum, posse, potui, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to hate",
+      "it is necessary",
+      "to go"
+    ]
+  },
+  {
+    "lemma": "fero",
+    "english": "to bring; carry",
+    "entry": "fero, ferre, tuli, latus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to begin",
+      "it concerns; it is of importance",
+      "to say (I say)"
+    ]
+  },
+  {
+    "lemma": "eo",
+    "english": "to go",
+    "entry": "eo, ire, ii/ivi, itus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to be",
+      "to be able",
+      "to find (alt form; teach-only)"
+    ]
+  },
+  {
+    "lemma": "fio",
+    "english": "to become; be made",
+    "entry": "fio, fieri, factus sum",
+    "conjugation": "irregular",
+    "distractors": [
+      "to be",
+      "to go into; begin",
+      "it is agreed; it is established"
+    ]
+  },
+  {
+    "lemma": "volo",
+    "english": "to want",
+    "entry": "volo, velle, volui, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to be about to be (future of sum)",
+      "to go past",
+      "to be present (form of adsum)"
+    ]
+  },
+  {
+    "lemma": "nolo",
+    "english": "to be unwilling",
+    "entry": "nolo, nolle, nolui, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to die; perish",
+      "to carry down; report",
+      "it is better; it is superior"
+    ]
+  },
+  {
+    "lemma": "malo",
+    "english": "to prefer",
+    "entry": "malo, malle, malui, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "it disgusts",
+      "to go away",
+      "it causes regret"
+    ]
+  },
+  {
+    "lemma": "edo",
+    "english": "to eat",
+    "entry": "edo, edere/esse, edi, esus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to go under; undergo",
+      "to find (alt form; teach-only)",
+      "to cross; go across"
+    ]
+  },
+  {
+    "lemma": "inquam",
+    "english": "to say (I say)",
+    "entry": "inquam, —, —, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to be in",
+      "to endure; bear up",
+      "to carry through; endure"
+    ]
+  },
+  {
+    "lemma": "aio",
+    "english": "to affirm; say yes",
+    "entry": "aio, —, —, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to be unable",
+      "to go to; undergo",
+      "it shames"
+    ]
+  },
+  {
+    "lemma": "memini",
+    "english": "to remember",
+    "entry": "memini, meminisse, —, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "it disgusts",
+      "to come together",
+      "to become; be made"
+    ]
+  },
+  {
+    "lemma": "odi",
+    "english": "to hate",
+    "entry": "odi, odisse, —, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to prefer; carry before",
+      "it is agreed; it is established",
+      "to be in charge (dat.)"
+    ]
+  },
+  {
+    "lemma": "coepi",
+    "english": "to begin",
+    "entry": "coepi, coepisse, coeptus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to bring in",
+      "to be lacking",
+      "to want"
+    ]
+  },
+  {
+    "lemma": "novi",
+    "english": "to know (have learned)",
+    "entry": "novi, novisse, —, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "it is permitted",
+      "to carry through; endure",
+      "to say (I say)"
+    ]
+  },
+  {
+    "lemma": "queo",
+    "english": "to be able",
+    "entry": "queo, quire, quivi, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to offer",
+      "it is proper",
+      "to be away"
+    ]
+  },
+  {
+    "lemma": "nequeo",
+    "english": "to be unable",
+    "entry": "nequeo, nequire, nequivi, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "it is better; it is superior",
+      "to bring; carry",
+      "to find (alt form; teach-only)"
+    ]
+  },
+  {
+    "lemma": "absum",
+    "english": "to be away",
+    "entry": "absum, abesse, afui, afuturus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to begin",
+      "it is clear",
+      "to be in"
+    ]
+  },
+  {
+    "lemma": "adsum",
+    "english": "to be present",
+    "entry": "adsum, adesse, adfui, adfuturus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to prefer",
+      "it shames",
+      "to carry up; endure"
+    ]
+  },
+  {
+    "lemma": "desum",
+    "english": "to be lacking",
+    "entry": "desum, deesse, defui, defuturus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to eat",
+      "to want",
+      "to be unable"
+    ]
+  },
+  {
+    "lemma": "praesum",
+    "english": "to be in charge (dat.)",
+    "entry": "praesum, praeesse, praefui, praefuturus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to carry down; report",
+      "to carry up; endure",
+      "to begin"
+    ]
+  },
+  {
+    "lemma": "prosum",
+    "english": "to be useful (dat.)",
+    "entry": "prosum, prodesse, profui, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to go under; undergo",
+      "to be away",
+      "it shames"
+    ]
+  },
+  {
+    "lemma": "supersum",
+    "english": "to be left; survive",
+    "entry": "supersum, superesse, superfui, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "it is better; it is superior",
+      "to carry up; endure",
+      "it concerns; it matters"
+    ]
+  },
+  {
+    "lemma": "insum",
+    "english": "to be in",
+    "entry": "insum, inesse, infui, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to begin",
+      "to be present",
+      "to prefer"
+    ]
+  },
+  {
+    "lemma": "intersum",
+    "english": "to be between; concern",
+    "entry": "intersum, interesse, interfui, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to die; perish",
+      "to cross; go across",
+      "to be in charge (dat.)"
+    ]
+  },
+  {
+    "lemma": "obsum",
+    "english": "to harm; be against (dat.)",
+    "entry": "obsum, obesse, obfui, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to come back together",
+      "to go to; undergo",
+      "it shames"
+    ]
+  },
+  {
+    "lemma": "offero",
+    "english": "to offer",
+    "entry": "offero, offerre, obtuli, oblatus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to remember",
+      "to go to; undergo",
+      "to affirm; say yes"
+    ]
+  },
+  {
+    "lemma": "affero",
+    "english": "to bring to",
+    "entry": "affero, afferre, attuli, allatus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to affirm; say yes",
+      "to be useful (dat.)",
+      "to carry down; report"
+    ]
+  },
+  {
+    "lemma": "adfero",
+    "english": "to bring to",
+    "entry": "adfero, adferre, attuli, allatus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to carry away",
+      "it concerns; it matters",
+      "it is proper"
+    ]
+  },
+  {
+    "lemma": "aufero",
+    "english": "to carry away",
+    "entry": "aufero, auferre, abstuli, ablatus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to bring in",
+      "to be unwilling",
+      "to go out in front"
+    ]
+  },
+  {
+    "lemma": "refero",
+    "english": "to bring back; report",
+    "entry": "refero, referre, rettuli, relatus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to be present (form of adsum)",
+      "to say (I say)",
+      "to bring; carry"
+    ]
+  },
+  {
+    "lemma": "infero",
+    "english": "to bring in",
+    "entry": "infero, inferre, intuli, illatus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to find (alt form; teach-only)",
+      "to hate",
+      "to be in"
+    ]
+  },
+  {
+    "lemma": "confero",
+    "english": "to bring together; compare",
+    "entry": "confero, conferre, contuli, collatus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to be able",
+      "to know (have learned)",
+      "to be in"
+    ]
+  },
+  {
+    "lemma": "perfero",
+    "english": "to carry through; endure",
+    "entry": "perfero, perferre, pertuli, perlatus",
+    "conjugation": "irregular",
+    "distractors": [
+      "it is necessary",
+      "to prefer; carry before",
+      "to go"
+    ]
+  },
+  {
+    "lemma": "praefero",
+    "english": "to prefer; carry before",
+    "entry": "praefero, praeferre, praetuli, praelatus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to die; perish",
+      "to go out",
+      "to be"
+    ]
+  },
+  {
+    "lemma": "profero",
+    "english": "to bring forth; produce",
+    "entry": "profero, proferre, protuli, prolatus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to be present (form of adsum)",
+      "to carry down; report",
+      "to perish; pass away"
+    ]
+  },
+  {
+    "lemma": "transfero",
+    "english": "to carry across",
+    "entry": "transfero, transferre, transtuli, translatus",
+    "conjugation": "irregular",
+    "distractors": [
+      "it is necessary",
+      "to come together",
+      "it is agreed; it is established"
+    ]
+  },
+  {
+    "lemma": "defero",
+    "english": "to carry down; report",
+    "entry": "defero, deferre, detuli, delatus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to be away",
+      "to carry up; endure",
+      "it is clear"
+    ]
+  },
+  {
+    "lemma": "circumfero",
+    "english": "to carry around",
+    "entry": "circumfero, circumferre, circumtuli, circumlatus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to say (I say)",
+      "to be left; survive",
+      "it wearies; it disgusts"
+    ]
+  },
+  {
+    "lemma": "suffero",
+    "english": "to endure; bear up",
+    "entry": "suffero, sufferre, sustuli, sublatus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to be present",
+      "to carry away",
+      "to go out"
+    ]
+  },
+  {
+    "lemma": "abeo",
+    "english": "to go away",
+    "entry": "abeo, abire, abii, abitus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to die; perish",
+      "to be lacking",
+      "to go under; undergo"
+    ]
+  },
+  {
+    "lemma": "adeo",
+    "english": "to go to; approach",
+    "entry": "adeo, adire, adii, aditus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to harm; be against (dat.)",
+      "to bring to",
+      "to bring in"
+    ]
+  },
+  {
+    "lemma": "ineo",
+    "english": "to go into; begin",
+    "entry": "ineo, inire, inii, initus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to prefer",
+      "to remember",
+      "to affirm; say yes"
+    ]
+  },
+  {
+    "lemma": "redeo",
+    "english": "to return",
+    "entry": "redeo, redire, redii, reditus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to carry through; endure",
+      "it is proper",
+      "to be present (form of adsum)"
+    ]
+  },
+  {
+    "lemma": "pereo",
+    "english": "to perish; pass away",
+    "entry": "pereo, perire, perii, peritus",
+    "conjugation": "irregular",
+    "distractors": [
+      "it causes regret",
+      "to bring in",
+      "to bring together; compare"
+    ]
+  },
+  {
+    "lemma": "obeo",
+    "english": "to go to; undergo",
+    "entry": "obeo, obire, obii, obitus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to affirm; say yes",
+      "to be unwilling",
+      "to be left; survive"
+    ]
+  },
+  {
+    "lemma": "exeo",
+    "english": "to go out",
+    "entry": "exeo, exire, exii, exitus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to die; perish",
+      "to go into; begin",
+      "to remember"
+    ]
+  },
+  {
+    "lemma": "subeo",
+    "english": "to go under; undergo",
+    "entry": "subeo, subire, subii, subitus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to return",
+      "to be present (form of adsum)",
+      "to carry through; endure"
+    ]
+  },
+  {
+    "lemma": "intereo",
+    "english": "to die; perish",
+    "entry": "intereo, interire, interii, interitus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to bring in",
+      "it concerns; it is of importance",
+      "to carry through; endure"
+    ]
+  },
+  {
+    "lemma": "transeo",
+    "english": "to cross; go across",
+    "entry": "transeo, transire, transii, transitus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to be present",
+      "to know (have learned)",
+      "to go"
+    ]
+  },
+  {
+    "lemma": "praetereo",
+    "english": "to go past",
+    "entry": "praetereo, praeterire, praeterii, praeteritus",
+    "conjugation": "irregular",
+    "distractors": [
+      "it concerns; it matters",
+      "to harm; be against (dat.)",
+      "to bring back; report"
+    ]
+  },
+  {
+    "lemma": "coeo",
+    "english": "to come together",
+    "entry": "coeo, coire, coii/coivi, coitus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to go away",
+      "it pities",
+      "to go"
+    ]
+  },
+  {
+    "lemma": "licet",
+    "english": "it is permitted",
+    "entry": "licet, licere, licuit, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to perish; pass away",
+      "to go to; approach",
+      "to begin"
+    ]
+  },
+  {
+    "lemma": "oportet",
+    "english": "it is necessary",
+    "entry": "oportet, oportere, oportuit, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to affirm; say yes",
+      "to carry through; endure",
+      "to go to; undergo"
+    ]
+  },
+  {
+    "lemma": "decet",
+    "english": "it is proper",
+    "entry": "decet, decere, decuit, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to be present (form of adsum)",
+      "to remember",
+      "to endure; bear up"
+    ]
+  },
+  {
+    "lemma": "taedet",
+    "english": "it wearies; it disgusts",
+    "entry": "taedet, taedere, taeduit, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to go to; undergo",
+      "to bring to",
+      "it is agreed; it is established"
+    ]
+  },
+  {
+    "lemma": "piget",
+    "english": "it disgusts",
+    "entry": "piget, pigere, piguit, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to go away",
+      "to go out",
+      "to be about to be (future of sum)"
+    ]
+  },
+  {
+    "lemma": "miseret",
+    "english": "it pities",
+    "entry": "miseret, miserere, miseruit, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to be useful (dat.)",
+      "to prefer",
+      "to carry around"
+    ]
+  },
+  {
+    "lemma": "paenitet",
+    "english": "it causes regret",
+    "entry": "paenitet, paenitere, paenituit, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "it is agreed; it is established",
+      "to bring back; report",
+      "to affirm; say yes"
+    ]
+  },
+  {
+    "lemma": "pudet",
+    "english": "it shames",
+    "entry": "pudet, pudere, puduit, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "it pleases",
+      "it concerns; it is of importance",
+      "to be present"
+    ]
+  },
+  {
+    "lemma": "libet",
+    "english": "it pleases",
+    "entry": "libet, libere, libuit, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to endure; bear up",
+      "to be in charge (dat.)",
+      "to cross; go across"
+    ]
+  },
+  {
+    "lemma": "placet",
+    "english": "it pleases; it seems good",
+    "entry": "placet, placere, placuit, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to carry through; endure",
+      "to carry down; report",
+      "to endure; bear up"
+    ]
+  },
+  {
+    "lemma": "constat",
+    "english": "it is agreed; it is established",
+    "entry": "constat, constare, constitit, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to bring to",
+      "to be useful (dat.)",
+      "to be able"
+    ]
+  },
+  {
+    "lemma": "liquet",
+    "english": "it is clear",
+    "entry": "liquet, liquere, liquit, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to be in charge (dat.)",
+      "to find (alt form; teach-only)",
+      "it concerns; it matters"
+    ]
+  },
+  {
+    "lemma": "reperit (—)",
+    "english": "to find (alt form; teach-only)",
+    "entry": "reperio, reperire, repperi, repertus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to go to; approach",
+      "to go out in front",
+      "to bring forth; produce"
+    ]
+  },
+  {
+    "lemma": "adest (—)",
+    "english": "to be present (form of adsum)",
+    "entry": "adsum, adesse, adfui, adfuturus",
+    "conjugation": "irregular",
+    "distractors": [
+      "it concerns; it is of importance",
+      "to carry away",
+      "to bring forth; produce"
+    ]
+  },
+  {
+    "lemma": "abest (—)",
+    "english": "to be away (form of absum)",
+    "entry": "absum, abesse, afui, afuturus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to go into; begin",
+      "to go away",
+      "to offer"
+    ]
+  },
+  {
+    "lemma": "praestat (—)",
+    "english": "it is better; it is superior",
+    "entry": "praestat, praestare, praestitit, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to go",
+      "it wearies; it disgusts",
+      "to cross; go across"
+    ]
+  },
+  {
+    "lemma": "refert (—)",
+    "english": "it concerns; it matters",
+    "entry": "refert, referre (impers.), rettulit, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to carry down; report",
+      "to be unwilling",
+      "to remember"
+    ]
+  },
+  {
+    "lemma": "interest (—)",
+    "english": "it concerns; it is of importance",
+    "entry": "interest, interesse (impers.), interfuit, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to become; be made",
+      "to be between; concern",
+      "to return"
+    ]
+  },
+  {
+    "lemma": "fore",
+    "english": "to be about to be (future of sum)",
+    "entry": "fore, —, —, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "it disgusts",
+      "to be lacking",
+      "to carry through; endure"
+    ]
+  },
+  {
+    "lemma": "praeexeo",
+    "english": "to go out in front",
+    "entry": "praeexeo, praeexire, praeexii, praeexitus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to affirm; say yes",
+      "to be lacking",
+      "to come together"
+    ]
+  },
+  {
+    "lemma": "subfero",
+    "english": "to carry up; endure",
+    "entry": "subfero, subferre, subtuli, sublatus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to bring to",
+      "to prefer",
+      "to come back together"
+    ]
+  },
+  {
+    "lemma": "recoeo",
+    "english": "to come back together",
+    "entry": "recoeo, recoire, recoii, recoitus",
+    "conjugation": "irregular",
+    "distractors": [
+      "to perish; pass away",
+      "to know (have learned)",
+      "it disgusts"
+    ]
+  },
+  {
+    "lemma": "aio_var",
+    "english": "to affirm; say yes",
+    "entry": "aio, —, —, —",
+    "conjugation": "irregular",
+    "distractors": [
+      "to go away",
+      "it pleases; it seems good",
+      "it is better; it is superior"
+    ]
+  }
+]

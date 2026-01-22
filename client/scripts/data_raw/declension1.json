@@ -1,0 +1,1202 @@
+[
+  {
+    "lemma": "puella",
+    "english": "girl",
+    "entry": "puella, -ae (f.)",
+    "declension": 1,
+    "category": "people",
+    "distractors": [
+      "field",
+      "war",
+      "river"
+    ]
+  },
+  {
+    "lemma": "femina",
+    "english": "woman",
+    "entry": "femina, -ae (f.)",
+    "declension": 1,
+    "category": "people",
+    "distractors": [
+      "man",
+      "boy",
+      "king"
+    ]
+  },
+  {
+    "lemma": "filia",
+    "english": "daughter",
+    "entry": "filia, -ae (f.)",
+    "declension": 1,
+    "category": "household",
+    "distractors": [
+      "son",
+      "mother",
+      "slave"
+    ]
+  },
+  {
+    "lemma": "dea",
+    "english": "goddess",
+    "entry": "dea, -ae (f.)",
+    "declension": 1,
+    "category": "religion",
+    "distractors": [
+      "god",
+      "queen",
+      "priest"
+    ]
+  },
+  {
+    "lemma": "regina",
+    "english": "queen",
+    "entry": "regina, -ae (f.)",
+    "declension": 1,
+    "category": "people",
+    "distractors": [
+      "king",
+      "soldier",
+      "maidservant"
+    ]
+  },
+  {
+    "lemma": "domina",
+    "english": "lady; mistress",
+    "entry": "domina, -ae (f.)",
+    "declension": 1,
+    "category": "household",
+    "distractors": [
+      "master",
+      "slave",
+      "friend"
+    ]
+  },
+  {
+    "lemma": "familia",
+    "english": "household; family",
+    "entry": "familia, -ae (f.)",
+    "declension": 1,
+    "category": "household",
+    "distractors": [
+      "army",
+      "city",
+      "crowd"
+    ]
+  },
+  {
+    "lemma": "amicitia",
+    "english": "friendship",
+    "entry": "amicitia, -ae (f.)",
+    "declension": 1,
+    "category": "abstract",
+    "distractors": [
+      "war",
+      "money",
+      "anger"
+    ]
+  },
+  {
+    "lemma": "gloria",
+    "english": "glory",
+    "entry": "gloria, -ae (f.)",
+    "declension": 1,
+    "category": "abstract",
+    "distractors": [
+      "shame",
+      "fear",
+      "silence"
+    ]
+  },
+  {
+    "lemma": "fama",
+    "english": "report; fame",
+    "entry": "fama, -ae (f.)",
+    "declension": 1,
+    "category": "speech",
+    "distractors": [
+      "law",
+      "war",
+      "river"
+    ]
+  },
+  {
+    "lemma": "forma",
+    "english": "form; beauty",
+    "entry": "forma, -ae (f.)",
+    "declension": 1,
+    "category": "abstract",
+    "distractors": [
+      "army",
+      "stone",
+      "disease"
+    ]
+  },
+  {
+    "lemma": "fortuna",
+    "english": "fortune",
+    "entry": "fortuna, -ae (f.)",
+    "declension": 1,
+    "category": "abstract",
+    "distractors": [
+      "law",
+      "truth",
+      "duty"
+    ]
+  },
+  {
+    "lemma": "memoria",
+    "english": "memory",
+    "entry": "memoria, -ae (f.)",
+    "declension": 1,
+    "category": "abstract",
+    "distractors": [
+      "book",
+      "law",
+      "grain"
+    ]
+  },
+  {
+    "lemma": "natura",
+    "english": "nature",
+    "entry": "natura, -ae (f.)",
+    "declension": 1,
+    "category": "nature",
+    "distractors": [
+      "town",
+      "market",
+      "statue"
+    ]
+  },
+  {
+    "lemma": "vita",
+    "english": "life",
+    "entry": "vita, -ae (f.)",
+    "declension": 1,
+    "category": "abstract",
+    "distractors": [
+      "death",
+      "sword",
+      "forest"
+    ]
+  },
+  {
+    "lemma": "anima",
+    "english": "breath; spirit",
+    "entry": "anima, -ae (f.)",
+    "declension": 1,
+    "category": "abstract",
+    "distractors": [
+      "body",
+      "sword",
+      "law"
+    ]
+  },
+  {
+    "lemma": "causa",
+    "english": "cause; reason",
+    "entry": "causa, -ae (f.)",
+    "declension": 1,
+    "category": "abstract",
+    "distractors": [
+      "river",
+      "gate",
+      "meal"
+    ]
+  },
+  {
+    "lemma": "cura",
+    "english": "care; concern",
+    "entry": "cura, -ae (f.)",
+    "declension": 1,
+    "category": "abstract",
+    "distractors": [
+      "joy",
+      "victory",
+      "money"
+    ]
+  },
+  {
+    "lemma": "ira",
+    "english": "anger",
+    "entry": "ira, -ae (f.)",
+    "declension": 1,
+    "category": "emotions",
+    "distractors": [
+      "love",
+      "peace",
+      "sleep"
+    ]
+  },
+  {
+    "lemma": "poena",
+    "english": "punishment; penalty",
+    "entry": "poena, -ae (f.)",
+    "declension": 1,
+    "category": "justice",
+    "distractors": [
+      "reward",
+      "praise",
+      "gift"
+    ]
+  },
+  {
+    "lemma": "hora",
+    "english": "hour",
+    "entry": "hora, -ae (f.)",
+    "declension": 1,
+    "category": "time",
+    "distractors": [
+      "day",
+      "year",
+      "market"
+    ]
+  },
+  {
+    "lemma": "mora",
+    "english": "delay",
+    "entry": "mora, -ae (f.)",
+    "declension": 1,
+    "category": "time",
+    "distractors": [
+      "speed",
+      "victory",
+      "disease"
+    ]
+  },
+  {
+    "lemma": "provincia",
+    "english": "province",
+    "entry": "provincia, -ae (f.)",
+    "declension": 1,
+    "category": "places",
+    "distractors": [
+      "city",
+      "river",
+      "temple"
+    ]
+  },
+  {
+    "lemma": "patria",
+    "english": "country; homeland",
+    "entry": "patria, -ae (f.)",
+    "declension": 1,
+    "category": "places",
+    "distractors": [
+      "army",
+      "family",
+      "market"
+    ]
+  },
+  {
+    "lemma": "terra",
+    "english": "earth; land",
+    "entry": "terra, -ae (f.)",
+    "declension": 1,
+    "category": "nature",
+    "distractors": [
+      "sea",
+      "sky",
+      "storm"
+    ]
+  },
+  {
+    "lemma": "via",
+    "english": "road; way",
+    "entry": "via, -ae (f.)",
+    "declension": 1,
+    "category": "travel",
+    "distractors": [
+      "river",
+      "bridge",
+      "horse"
+    ]
+  },
+  {
+    "lemma": "villa",
+    "english": "country house",
+    "entry": "villa, -ae (f.)",
+    "declension": 1,
+    "category": "places",
+    "distractors": [
+      "city",
+      "temple",
+      "palace"
+    ]
+  },
+  {
+    "lemma": "insula",
+    "english": "island",
+    "entry": "insula, -ae (f.)",
+    "declension": 1,
+    "category": "places",
+    "distractors": [
+      "mountain",
+      "river",
+      "forest"
+    ]
+  },
+  {
+    "lemma": "porta",
+    "english": "gate",
+    "entry": "porta, -ae (f.)",
+    "declension": 1,
+    "category": "city",
+    "distractors": [
+      "wall",
+      "bridge",
+      "tower"
+    ]
+  },
+  {
+    "lemma": "taberna",
+    "english": "shop; inn",
+    "entry": "taberna, -ae (f.)",
+    "declension": 1,
+    "category": "city",
+    "distractors": [
+      "temple",
+      "bath",
+      "fort"
+    ]
+  },
+  {
+    "lemma": "mensa",
+    "english": "table",
+    "entry": "mensa, -ae (f.)",
+    "declension": 1,
+    "category": "household",
+    "distractors": [
+      "chair",
+      "door",
+      "bed"
+    ]
+  },
+  {
+    "lemma": "casa",
+    "english": "cottage; hut",
+    "entry": "casa, -ae (f.)",
+    "declension": 1,
+    "category": "household",
+    "distractors": [
+      "city",
+      "palace",
+      "camp"
+    ]
+  },
+  {
+    "lemma": "cena",
+    "english": "dinner",
+    "entry": "cena, -ae (f.)",
+    "declension": 1,
+    "category": "household",
+    "distractors": [
+      "breakfast",
+      "bread",
+      "cup"
+    ]
+  },
+  {
+    "lemma": "copia",
+    "english": "supply; abundance",
+    "entry": "copia, -ae (f.)",
+    "declension": 1,
+    "category": "war",
+    "distractors": [
+      "troops",
+      "weapons",
+      "leaders"
+    ]
+  },
+  {
+    "lemma": "epistula",
+    "english": "letter",
+    "entry": "epistula, -ae (f.)",
+    "declension": 1,
+    "category": "writing",
+    "distractors": [
+      "book",
+      "wax tablet",
+      "speech"
+    ]
+  },
+  {
+    "lemma": "littera",
+    "english": "letter (of alphabet); pl. literature",
+    "entry": "littera, -ae (f.)",
+    "declension": 1,
+    "category": "writing",
+    "distractors": [
+      "book",
+      "story",
+      "law"
+    ]
+  },
+  {
+    "lemma": "lingua",
+    "english": "tongue; language",
+    "entry": "lingua, -ae (f.)",
+    "declension": 1,
+    "category": "the body",
+    "distractors": [
+      "mouth",
+      "voice",
+      "ear"
+    ]
+  },
+  {
+    "lemma": "stella",
+    "english": "star",
+    "entry": "stella, -ae (f.)",
+    "declension": 1,
+    "category": "nature",
+    "distractors": [
+      "moon",
+      "sun",
+      "cloud"
+    ]
+  },
+  {
+    "lemma": "luna",
+    "english": "moon",
+    "entry": "luna, -ae (f.)",
+    "declension": 1,
+    "category": "nature",
+    "distractors": [
+      "sun",
+      "star",
+      "dawn"
+    ]
+  },
+  {
+    "lemma": "umbra",
+    "english": "shadow; shade",
+    "entry": "umbra, -ae (f.)",
+    "declension": 1,
+    "category": "nature",
+    "distractors": [
+      "light",
+      "fire",
+      "wind"
+    ]
+  },
+  {
+    "lemma": "unda",
+    "english": "wave",
+    "entry": "unda, -ae (f.)",
+    "declension": 1,
+    "category": "nature",
+    "distractors": [
+      "river",
+      "rain",
+      "cloud"
+    ]
+  },
+  {
+    "lemma": "silva",
+    "english": "forest; wood",
+    "entry": "silva, -ae (f.)",
+    "declension": 1,
+    "category": "nature",
+    "distractors": [
+      "field",
+      "mountain",
+      "sea"
+    ]
+  },
+  {
+    "lemma": "ripa",
+    "english": "riverbank",
+    "entry": "ripa, -ae (f.)",
+    "declension": 1,
+    "category": "nature",
+    "distractors": [
+      "island",
+      "bridge",
+      "harbor"
+    ]
+  },
+  {
+    "lemma": "arena",
+    "english": "sand",
+    "entry": "arena, -ae (f.)",
+    "declension": 1,
+    "category": "nature",
+    "distractors": [
+      "rock",
+      "clay",
+      "dust"
+    ]
+  },
+  {
+    "lemma": "aqua",
+    "english": "water",
+    "entry": "aqua, -ae (f.)",
+    "declension": 1,
+    "category": "nature",
+    "distractors": [
+      "fire",
+      "earth",
+      "air"
+    ]
+  },
+  {
+    "lemma": "aura",
+    "english": "breeze; air",
+    "entry": "aura, -ae (f.)",
+    "declension": 1,
+    "category": "nature",
+    "distractors": [
+      "storm",
+      "rain",
+      "snow"
+    ]
+  },
+  {
+    "lemma": "ianua",
+    "english": "door",
+    "entry": "ianua, -ae (f.)",
+    "declension": 1,
+    "category": "house",
+    "distractors": [
+      "window",
+      "roof",
+      "floor"
+    ]
+  },
+  {
+    "lemma": "fenestra",
+    "english": "window",
+    "entry": "fenestra, -ae (f.)",
+    "declension": 1,
+    "category": "house",
+    "distractors": [
+      "door",
+      "stair",
+      "wall"
+    ]
+  },
+  {
+    "lemma": "columna",
+    "english": "column; pillar",
+    "entry": "columna, -ae (f.)",
+    "declension": 1,
+    "category": "architecture",
+    "distractors": [
+      "arch",
+      "bridge",
+      "gate"
+    ]
+  },
+  {
+    "lemma": "turba",
+    "english": "crowd",
+    "entry": "turba, -ae (f.)",
+    "declension": 1,
+    "category": "society",
+    "distractors": [
+      "army",
+      "council",
+      "town"
+    ]
+  },
+  {
+    "lemma": "fabula",
+    "english": "story; tale",
+    "entry": "fabula, -ae (f.)",
+    "declension": 1,
+    "category": "writing",
+    "distractors": [
+      "law",
+      "speech",
+      "song"
+    ]
+  },
+  {
+    "lemma": "pecunia",
+    "english": "money",
+    "entry": "pecunia, -ae (f.)",
+    "declension": 1,
+    "category": "business",
+    "distractors": [
+      "grain",
+      "land",
+      "wine"
+    ]
+  },
+  {
+    "lemma": "iniuria",
+    "english": "injury; injustice",
+    "entry": "iniuria, -ae (f.)",
+    "declension": 1,
+    "category": "justice",
+    "distractors": [
+      "law",
+      "reward",
+      "peace"
+    ]
+  },
+  {
+    "lemma": "diligentia",
+    "english": "industry; diligence",
+    "entry": "diligentia, -ae (f.)",
+    "declension": 1,
+    "category": "abstract",
+    "distractors": [
+      "laziness",
+      "fear",
+      "luck"
+    ]
+  },
+  {
+    "lemma": "industria",
+    "english": "effort; industry",
+    "entry": "industria, -ae (f.)",
+    "declension": 1,
+    "category": "abstract",
+    "distractors": [
+      "rest",
+      "sleep",
+      "holiday"
+    ]
+  },
+  {
+    "lemma": "patientia",
+    "english": "patience; endurance",
+    "entry": "patientia, -ae (f.)",
+    "declension": 1,
+    "category": "abstract",
+    "distractors": [
+      "anger",
+      "joy",
+      "fear"
+    ]
+  },
+  {
+    "lemma": "sapientia",
+    "english": "wisdom",
+    "entry": "sapientia, -ae (f.)",
+    "declension": 1,
+    "category": "abstract",
+    "distractors": [
+      "folly",
+      "noise",
+      "war"
+    ]
+  },
+  {
+    "lemma": "scientia",
+    "english": "knowledge",
+    "entry": "scientia, -ae (f.)",
+    "declension": 1,
+    "category": "education",
+    "distractors": [
+      "weapon",
+      "disease",
+      "coin"
+    ]
+  },
+  {
+    "lemma": "concordia",
+    "english": "harmony",
+    "entry": "concordia, -ae (f.)",
+    "declension": 1,
+    "category": "abstract",
+    "distractors": [
+      "discord",
+      "war",
+      "chaos"
+    ]
+  },
+  {
+    "lemma": "discordia",
+    "english": "discord",
+    "entry": "discordia, -ae (f.)",
+    "declension": 1,
+    "category": "abstract",
+    "distractors": [
+      "peace",
+      "friendship",
+      "law"
+    ]
+  },
+  {
+    "lemma": "gratia",
+    "english": "favor; thanks",
+    "entry": "gratia, -ae (f.)",
+    "declension": 1,
+    "category": "social",
+    "distractors": [
+      "anger",
+      "fear",
+      "blame"
+    ]
+  },
+  {
+    "lemma": "clementia",
+    "english": "mercy",
+    "entry": "clementia, -ae (f.)",
+    "declension": 1,
+    "category": "justice",
+    "distractors": [
+      "punishment",
+      "war",
+      "hunger"
+    ]
+  },
+  {
+    "lemma": "agricola",
+    "english": "farmer",
+    "entry": "agricola, -ae (m.)",
+    "declension": 1,
+    "category": "people",
+    "distractors": [
+      "soldier",
+      "merchant",
+      "poet"
+    ]
+  },
+  {
+    "lemma": "nauta",
+    "english": "sailor",
+    "entry": "nauta, -ae (m.)",
+    "declension": 1,
+    "category": "people",
+    "distractors": [
+      "farmer",
+      "pilot",
+      "king"
+    ]
+  },
+  {
+    "lemma": "poeta",
+    "english": "poet",
+    "entry": "poeta, -ae (m.)",
+    "declension": 1,
+    "category": "people",
+    "distractors": [
+      "singer",
+      "actor",
+      "scribe"
+    ]
+  },
+  {
+    "lemma": "incola",
+    "english": "inhabitant",
+    "entry": "incola, -ae (m./f.)",
+    "declension": 1,
+    "category": "people",
+    "distractors": [
+      "stranger",
+      "soldier",
+      "judge"
+    ]
+  },
+  {
+    "lemma": "pirata",
+    "english": "pirate",
+    "entry": "pirata, -ae (m.)",
+    "declension": 1,
+    "category": "people",
+    "distractors": [
+      "sailor",
+      "merchant",
+      "priest"
+    ]
+  },
+  {
+    "lemma": "auriga",
+    "english": "charioteer",
+    "entry": "auriga, -ae (m.)",
+    "declension": 1,
+    "category": "people",
+    "distractors": [
+      "driver",
+      "messenger",
+      "teacher"
+    ]
+  },
+  {
+    "lemma": "corona",
+    "english": "crown; garland",
+    "entry": "corona, -ae (f.)",
+    "declension": 1,
+    "category": "objects",
+    "distractors": [
+      "helmet",
+      "shield",
+      "cloak"
+    ]
+  },
+  {
+    "lemma": "culina",
+    "english": "kitchen",
+    "entry": "culina, -ae (f.)",
+    "declension": 1,
+    "category": "household",
+    "distractors": [
+      "garden",
+      "barn",
+      "bedroom"
+    ]
+  },
+  {
+    "lemma": "culpa",
+    "english": "fault; blame",
+    "entry": "culpa, -ae (f.)",
+    "declension": 1,
+    "category": "justice",
+    "distractors": [
+      "law",
+      "gift",
+      "praise"
+    ]
+  },
+  {
+    "lemma": "disciplina",
+    "english": "training; discipline",
+    "entry": "disciplina, -ae (f.)",
+    "declension": 1,
+    "category": "education",
+    "distractors": [
+      "rest",
+      "freedom",
+      "noise"
+    ]
+  },
+  {
+    "lemma": "materia",
+    "english": "material; timber",
+    "entry": "materia, -ae (f.)",
+    "declension": 1,
+    "category": "objects",
+    "distractors": [
+      "stone",
+      "iron",
+      "bronze"
+    ]
+  },
+  {
+    "lemma": "sententia",
+    "english": "opinion; judgment",
+    "entry": "sententia, -ae (f.)",
+    "declension": 1,
+    "category": "speech",
+    "distractors": [
+      "story",
+      "joke",
+      "song"
+    ]
+  },
+  {
+    "lemma": "victoria",
+    "english": "victory",
+    "entry": "victoria, -ae (f.)",
+    "declension": 1,
+    "category": "war",
+    "distractors": [
+      "defeat",
+      "treaty",
+      "peace"
+    ]
+  },
+  {
+    "lemma": "statua",
+    "english": "statue",
+    "entry": "statua, -ae (f.)",
+    "declension": 1,
+    "category": "art",
+    "distractors": [
+      "painting",
+      "temple",
+      "wall"
+    ]
+  },
+  {
+    "lemma": "tabula",
+    "english": "tablet; board; map",
+    "entry": "tabula, -ae (f.)",
+    "declension": 1,
+    "category": "objects",
+    "distractors": [
+      "book",
+      "pen",
+      "scroll"
+    ]
+  },
+  {
+    "lemma": "vigilia",
+    "english": "watch; night watch",
+    "entry": "vigilia, -ae (f.)",
+    "declension": 1,
+    "category": "time",
+    "distractors": [
+      "day",
+      "sleep",
+      "camp"
+    ]
+  },
+  {
+    "lemma": "hasta",
+    "english": "spear",
+    "entry": "hasta, -ae (f.)",
+    "declension": 1,
+    "category": "war",
+    "distractors": [
+      "sword",
+      "shield",
+      "helmet"
+    ]
+  },
+  {
+    "lemma": "sagitta",
+    "english": "arrow",
+    "entry": "sagitta, -ae (f.)",
+    "declension": 1,
+    "category": "war",
+    "distractors": [
+      "bow",
+      "spear",
+      "sling"
+    ]
+  },
+  {
+    "lemma": "fossa",
+    "english": "ditch",
+    "entry": "fossa, -ae (f.)",
+    "declension": 1,
+    "category": "military",
+    "distractors": [
+      "wall",
+      "tower",
+      "gate"
+    ]
+  },
+  {
+    "lemma": "galea",
+    "english": "helmet",
+    "entry": "galea, -ae (f.)",
+    "declension": 1,
+    "category": "war",
+    "distractors": [
+      "shield",
+      "sword",
+      "crown"
+    ]
+  },
+  {
+    "lemma": "lacrima",
+    "english": "tear",
+    "entry": "lacrima, -ae (f.)",
+    "declension": 1,
+    "category": "the body",
+    "distractors": [
+      "blood",
+      "sweat",
+      "breath"
+    ]
+  },
+  {
+    "lemma": "regia",
+    "english": "palace",
+    "entry": "regia, -ae (f.)",
+    "declension": 1,
+    "category": "places",
+    "distractors": [
+      "temple",
+      "market",
+      "forum"
+    ]
+  },
+  {
+    "lemma": "ruina",
+    "english": "collapse; ruin",
+    "entry": "ruina, -ae (f.)",
+    "declension": 1,
+    "category": "city",
+    "distractors": [
+      "building",
+      "wall",
+      "road"
+    ]
+  },
+  {
+    "lemma": "schola",
+    "english": "school",
+    "entry": "schola, -ae (f.)",
+    "declension": 1,
+    "category": "education",
+    "distractors": [
+      "forum",
+      "theater",
+      "bath"
+    ]
+  },
+  {
+    "lemma": "sella",
+    "english": "seat; chair",
+    "entry": "sella, -ae (f.)",
+    "declension": 1,
+    "category": "household",
+    "distractors": [
+      "table",
+      "bed",
+      "door"
+    ]
+  },
+  {
+    "lemma": "alumna",
+    "english": "female pupil",
+    "entry": "alumna, -ae (f.)",
+    "declension": 1,
+    "category": "education",
+    "distractors": [
+      "teacher",
+      "book",
+      "desk"
+    ]
+  },
+  {
+    "lemma": "ancilla",
+    "english": "maidservant",
+    "entry": "ancilla, -ae (f.)",
+    "declension": 1,
+    "category": "household",
+    "distractors": [
+      "mistress",
+      "queen",
+      "mother"
+    ]
+  },
+  {
+    "lemma": "avia",
+    "english": "grandmother",
+    "entry": "avia, -ae (f.)",
+    "declension": 1,
+    "category": "household",
+    "distractors": [
+      "grandfather",
+      "aunt",
+      "sister"
+    ]
+  },
+  {
+    "lemma": "bestia",
+    "english": "beast",
+    "entry": "bestia, -ae (f.)",
+    "declension": 1,
+    "category": "animals",
+    "distractors": [
+      "man",
+      "tree",
+      "rock"
+    ]
+  },
+  {
+    "lemma": "capella",
+    "english": "she-goat",
+    "entry": "capella, -ae (f.)",
+    "declension": 1,
+    "category": "animals",
+    "distractors": [
+      "cow",
+      "sheep",
+      "horse"
+    ]
+  },
+  {
+    "lemma": "carina",
+    "english": "keel; ship",
+    "entry": "carina, -ae (f.)",
+    "declension": 1,
+    "category": "travel",
+    "distractors": [
+      "sail",
+      "oar",
+      "harbor"
+    ]
+  },
+  {
+    "lemma": "catena",
+    "english": "chain",
+    "entry": "catena, -ae (f.)",
+    "declension": 1,
+    "category": "objects",
+    "distractors": [
+      "rope",
+      "sword",
+      "book"
+    ]
+  },
+  {
+    "lemma": "cautela",
+    "english": "caution",
+    "entry": "cautela, -ae (f.)",
+    "declension": 1,
+    "category": "abstract",
+    "distractors": [
+      "danger",
+      "speed",
+      "anger"
+    ]
+  },
+  {
+    "lemma": "coena",
+    "english": "dinner",
+    "entry": "cena, -ae (f.)",
+    "declension": 1,
+    "category": "household",
+    "distractors": [
+      "breakfast",
+      "bread",
+      "cup"
+    ]
+  },
+  {
+    "lemma": "columba",
+    "english": "dove",
+    "entry": "columba, -ae (f.)",
+    "declension": 1,
+    "category": "animals",
+    "distractors": [
+      "eagle",
+      "hawk",
+      "wolf"
+    ]
+  },
+  {
+    "lemma": "cometa",
+    "english": "comet",
+    "entry": "cometa, -ae (m.)",
+    "declension": 1,
+    "category": "nature",
+    "distractors": [
+      "star",
+      "sun",
+      "cloud"
+    ]
+  },
+  {
+    "lemma": "curia",
+    "english": "senate-house",
+    "entry": "curia, -ae (f.)",
+    "declension": 1,
+    "category": "city",
+    "distractors": [
+      "forum",
+      "theater",
+      "temple"
+    ]
+  },
+  {
+    "lemma": "epulae",
+    "english": "banquet (pl.)",
+    "entry": "epulae, -arum (f. pl.)",
+    "declension": 1,
+    "category": "household",
+    "distractors": [
+      "bread",
+      "water",
+      "salt"
+    ]
+  }
+]

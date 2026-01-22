@@ -1,0 +1,827 @@
+[
+  {
+    "lemma": "ago",
+    "english": "to do; drive",
+    "entry": "ago, agere, egi, actus",
+    "conjugation": 3,
+    "distractors": [
+      "to join",
+      "to compel; collect",
+      "to take back; receive"
+    ]
+  },
+  {
+    "lemma": "cogo",
+    "english": "to compel; collect",
+    "entry": "cogo, cogere, coegi, coactus",
+    "conjugation": 3,
+    "distractors": [
+      "to decide; establish",
+      "to advance",
+      "to drive out"
+    ]
+  },
+  {
+    "lemma": "dico",
+    "english": "to say; speak",
+    "entry": "dico, dicere, dixi, dictus",
+    "conjugation": 3,
+    "distractors": [
+      "to compel; collect",
+      "to bring about",
+      "to sing"
+    ]
+  },
+  {
+    "lemma": "duco",
+    "english": "to lead",
+    "entry": "duco, ducere, duxi, ductus",
+    "conjugation": 3,
+    "distractors": [
+      "to show",
+      "to do; drive",
+      "to join"
+    ]
+  },
+  {
+    "lemma": "mitto",
+    "english": "to send",
+    "entry": "mitto, mittere, misi, missus",
+    "conjugation": 3,
+    "distractors": [
+      "to receive",
+      "to conquer",
+      "to close; shut"
+    ]
+  },
+  {
+    "lemma": "pono",
+    "english": "to place; put",
+    "entry": "pono, ponere, posui, positus",
+    "conjugation": 3,
+    "distractors": [
+      "to write",
+      "to conquer",
+      "to kill"
+    ]
+  },
+  {
+    "lemma": "peto",
+    "english": "to seek; ask",
+    "entry": "peto, petere, petivi, petitus",
+    "conjugation": 3,
+    "distractors": [
+      "to conquer",
+      "to learn; recognize",
+      "to carry; wage"
+    ]
+  },
+  {
+    "lemma": "scribo",
+    "english": "to write",
+    "entry": "scribo, scribere, scripsi, scriptus",
+    "conjugation": 3,
+    "distractors": [
+      "to sing",
+      "to desire; want",
+      "to touch"
+    ]
+  },
+  {
+    "lemma": "lego",
+    "english": "to read; choose",
+    "entry": "lego, legere, legi, lectus",
+    "conjugation": 3,
+    "distractors": [
+      "to lead",
+      "to yield; go",
+      "to seek; ask"
+    ]
+  },
+  {
+    "lemma": "vinco",
+    "english": "to conquer",
+    "entry": "vinco, vincere, vici, victus",
+    "conjugation": 3,
+    "distractors": [
+      "to touch",
+      "to pour",
+      "to leave behind"
+    ]
+  },
+  {
+    "lemma": "vivo",
+    "english": "to live",
+    "entry": "vivo, vivere, vixi, victus",
+    "conjugation": 3,
+    "distractors": [
+      "to drive on",
+      "to send",
+      "to hand over"
+    ]
+  },
+  {
+    "lemma": "traho",
+    "english": "to drag; draw",
+    "entry": "traho, trahere, traxi, tractus",
+    "conjugation": 3,
+    "distractors": [
+      "to consult",
+      "to fall",
+      "to climb"
+    ]
+  },
+  {
+    "lemma": "rego",
+    "english": "to rule",
+    "entry": "rego, regere, rexi, rectus",
+    "conjugation": 3,
+    "distractors": [
+      "to read; choose",
+      "to seek; ask",
+      "to send"
+    ]
+  },
+  {
+    "lemma": "relinquo",
+    "english": "to leave behind",
+    "entry": "relinquo, relinquere, reliqui, relictus",
+    "conjugation": 3,
+    "distractors": [
+      "to live",
+      "to set up; decide",
+      "to break; burst"
+    ]
+  },
+  {
+    "lemma": "tango",
+    "english": "to touch",
+    "entry": "tango, tangere, tetigi, tactus",
+    "conjugation": 3,
+    "distractors": [
+      "to get to know; learn",
+      "to join",
+      "to consult"
+    ]
+  },
+  {
+    "lemma": "tendo",
+    "english": "to stretch; aim",
+    "entry": "tendo, tendere, tetendi, tentus",
+    "conjugation": 3,
+    "distractors": [
+      "to accomplish; finish",
+      "to kill",
+      "to establish; train"
+    ]
+  },
+  {
+    "lemma": "tollo",
+    "english": "to raise; lift",
+    "entry": "tollo, tollere, sustuli, sublatus",
+    "conjugation": 3,
+    "distractors": [
+      "to depart",
+      "to run",
+      "to show"
+    ]
+  },
+  {
+    "lemma": "quaero",
+    "english": "to seek; ask",
+    "entry": "quaero, quaerere, quaesivi, quaesitus",
+    "conjugation": 3,
+    "distractors": [
+      "to affect",
+      "to leave behind",
+      "to conquer"
+    ]
+  },
+  {
+    "lemma": "curro",
+    "english": "to run",
+    "entry": "curro, currere, cucurri, cursus",
+    "conjugation": 3,
+    "distractors": [
+      "to defend",
+      "to pour",
+      "to cut; slay"
+    ]
+  },
+  {
+    "lemma": "cano",
+    "english": "to sing",
+    "entry": "cano, canere, cecini, cantus",
+    "conjugation": 3,
+    "distractors": [
+      "to grow",
+      "to show",
+      "to do; drive"
+    ]
+  },
+  {
+    "lemma": "cado",
+    "english": "to fall",
+    "entry": "cado, cadere, cecidi, casus",
+    "conjugation": 3,
+    "distractors": [
+      "to yield; go",
+      "to drag; draw",
+      "to rule"
+    ]
+  },
+  {
+    "lemma": "occido",
+    "english": "to kill",
+    "entry": "occido, occidere, occidi, occisus",
+    "conjugation": 3,
+    "distractors": [
+      "to drive; strike",
+      "to show",
+      "to defend"
+    ]
+  },
+  {
+    "lemma": "caedo",
+    "english": "to cut; slay",
+    "entry": "caedo, caedere, cecidi, caesus",
+    "conjugation": 3,
+    "distractors": [
+      "to consume; spend",
+      "to pour",
+      "to pour out"
+    ]
+  },
+  {
+    "lemma": "claudo",
+    "english": "to close; shut",
+    "entry": "claudo, claudere, clausi, clausus",
+    "conjugation": 3,
+    "distractors": [
+      "to set on fire",
+      "to desire; want",
+      "to live"
+    ]
+  },
+  {
+    "lemma": "frango",
+    "english": "to break",
+    "entry": "frango, frangere, fregi, fractus",
+    "conjugation": 3,
+    "distractors": [
+      "to break; burst",
+      "to say; speak",
+      "to send"
+    ]
+  },
+  {
+    "lemma": "pello",
+    "english": "to drive; strike",
+    "entry": "pello, pellere, pepuli, pulsus",
+    "conjugation": 3,
+    "distractors": [
+      "to depart",
+      "to cut; slay",
+      "to live"
+    ]
+  },
+  {
+    "lemma": "expello",
+    "english": "to drive out",
+    "entry": "expello, expellere, expuli, expulsus",
+    "conjugation": 3,
+    "distractors": [
+      "to arrange; equip",
+      "to show",
+      "to seize; grasp"
+    ]
+  },
+  {
+    "lemma": "impello",
+    "english": "to drive on",
+    "entry": "impello, impellere, impuli, impulsus",
+    "conjugation": 3,
+    "distractors": [
+      "to accomplish; finish",
+      "to close; shut",
+      "to carry; wage"
+    ]
+  },
+  {
+    "lemma": "trado",
+    "english": "to hand over",
+    "entry": "trado, tradere, tradidi, traditus",
+    "conjugation": 3,
+    "distractors": [
+      "to receive",
+      "to go out; depart",
+      "to depart"
+    ]
+  },
+  {
+    "lemma": "credo",
+    "english": "to trust; believe (dat.)",
+    "entry": "credo, credere, credidi, creditus",
+    "conjugation": 3,
+    "distractors": [
+      "to seek; ask",
+      "to build; draw up",
+      "to pour out"
+    ]
+  },
+  {
+    "lemma": "edo",
+    "english": "to eat",
+    "entry": "edo, edere, edi, esus",
+    "conjugation": 3,
+    "distractors": [
+      "to set up; decide",
+      "to make; do",
+      "to kill"
+    ]
+  },
+  {
+    "lemma": "emo",
+    "english": "to buy",
+    "entry": "emo, emere, emi, emptus",
+    "conjugation": 3,
+    "distractors": [
+      "to build; draw up",
+      "to make; do",
+      "to trust; believe (dat.)"
+    ]
+  },
+  {
+    "lemma": "vendo",
+    "english": "to sell",
+    "entry": "vendo, vendere, vendidi, venditus",
+    "conjugation": 3,
+    "distractors": [
+      "to join",
+      "to depart",
+      "to decide; establish"
+    ]
+  },
+  {
+    "lemma": "colo",
+    "english": "to cultivate; worship",
+    "entry": "colo, colere, colui, cultus",
+    "conjugation": 3,
+    "distractors": [
+      "to consult",
+      "to kill",
+      "to seize; grasp"
+    ]
+  },
+  {
+    "lemma": "cresco",
+    "english": "to grow",
+    "entry": "cresco, crescere, crevi, cretus",
+    "conjugation": 3,
+    "distractors": [
+      "to drive on",
+      "to close; shut",
+      "to arrange; equip"
+    ]
+  },
+  {
+    "lemma": "nosco",
+    "english": "to get to know; learn",
+    "entry": "nosco, noscere, novi, notus",
+    "conjugation": 3,
+    "distractors": [
+      "to depart",
+      "to go out; depart",
+      "to send"
+    ]
+  },
+  {
+    "lemma": "cognosco",
+    "english": "to learn; recognize",
+    "entry": "cognosco, cognoscere, cognovi, cognitus",
+    "conjugation": 3,
+    "distractors": [
+      "to show",
+      "to advance",
+      "to drive; strike"
+    ]
+  },
+  {
+    "lemma": "gero",
+    "english": "to carry; wage",
+    "entry": "gero, gerere, gessi, gestus",
+    "conjugation": 3,
+    "distractors": [
+      "to bring about",
+      "to touch",
+      "to desire; want"
+    ]
+  },
+  {
+    "lemma": "cupio",
+    "english": "to desire; want",
+    "entry": "cupio, cupere, cupivi, cupitus",
+    "conjugation": 3,
+    "distractors": [
+      "to seize; grasp",
+      "to descend",
+      "to place; put"
+    ]
+  },
+  {
+    "lemma": "capio",
+    "english": "to take; capture",
+    "entry": "capio, capere, cepi, captus",
+    "conjugation": 3,
+    "distractors": [
+      "to run",
+      "to drive out",
+      "to show"
+    ]
+  },
+  {
+    "lemma": "facio",
+    "english": "to make; do",
+    "entry": "facio, facere, feci, factus",
+    "conjugation": 3,
+    "distractors": [
+      "to live",
+      "to take up",
+      "to seize; snatch"
+    ]
+  },
+  {
+    "lemma": "rapio",
+    "english": "to seize; snatch",
+    "entry": "rapio, rapere, rapui, raptus",
+    "conjugation": 3,
+    "distractors": [
+      "to consult",
+      "to do; drive",
+      "to cut; slay"
+    ]
+  },
+  {
+    "lemma": "iacio",
+    "english": "to throw",
+    "entry": "iacio, iacere, ieci, iactus",
+    "conjugation": 3,
+    "distractors": [
+      "to cut; slay",
+      "to seek; ask",
+      "to advance"
+    ]
+  },
+  {
+    "lemma": "incipio",
+    "english": "to begin",
+    "entry": "incipio, incipere, incepi, inceptus",
+    "conjugation": 3,
+    "distractors": [
+      "to establish; train",
+      "to show",
+      "to climb"
+    ]
+  },
+  {
+    "lemma": "perficio",
+    "english": "to complete; finish",
+    "entry": "perficio, perficere, perfeci, perfectus",
+    "conjugation": 3,
+    "distractors": [
+      "to throw",
+      "to accomplish; finish",
+      "to trust; believe (dat.)"
+    ]
+  },
+  {
+    "lemma": "conficio",
+    "english": "to accomplish; finish",
+    "entry": "conficio, conficere, confeci, confectus",
+    "conjugation": 3,
+    "distractors": [
+      "to rule",
+      "to cultivate; worship",
+      "to seek; ask"
+    ]
+  },
+  {
+    "lemma": "efficio",
+    "english": "to bring about",
+    "entry": "efficio, efficere, effeci, effectus",
+    "conjugation": 3,
+    "distractors": [
+      "to pour",
+      "to seize; grasp",
+      "to desire; want"
+    ]
+  },
+  {
+    "lemma": "afficio",
+    "english": "to affect",
+    "entry": "afficio, afficere, affeci, affectus",
+    "conjugation": 3,
+    "distractors": [
+      "to make; do",
+      "to drive out",
+      "to take up"
+    ]
+  },
+  {
+    "lemma": "recipio",
+    "english": "to take back; receive",
+    "entry": "recipio, recipere, recepi, receptus",
+    "conjugation": 3,
+    "distractors": [
+      "to buy",
+      "to cultivate; worship",
+      "to decide; establish"
+    ]
+  },
+  {
+    "lemma": "accipio",
+    "english": "to receive",
+    "entry": "accipio, accipere, accepi, acceptus",
+    "conjugation": 3,
+    "distractors": [
+      "to leave behind",
+      "to desire; want",
+      "to buy"
+    ]
+  },
+  {
+    "lemma": "consulo",
+    "english": "to consult",
+    "entry": "consulo, consulere, consului, consultus",
+    "conjugation": 3,
+    "distractors": [
+      "to trust; believe (dat.)",
+      "to join",
+      "to conquer"
+    ]
+  },
+  {
+    "lemma": "constituo",
+    "english": "to decide; establish",
+    "entry": "constituo, constituere, constitui, constitutus",
+    "conjugation": 3,
+    "distractors": [
+      "to break; burst",
+      "to send",
+      "to cut; slay"
+    ]
+  },
+  {
+    "lemma": "statuo",
+    "english": "to set up; decide",
+    "entry": "statuo, statuere, statui, statutus",
+    "conjugation": 3,
+    "distractors": [
+      "to accomplish; finish",
+      "to do; drive",
+      "to desire; want"
+    ]
+  },
+  {
+    "lemma": "instituo",
+    "english": "to establish; train",
+    "entry": "instituo, instituere, institui, institutus",
+    "conjugation": 3,
+    "distractors": [
+      "to lead",
+      "to sing",
+      "to set up; decide"
+    ]
+  },
+  {
+    "lemma": "struo",
+    "english": "to build; draw up",
+    "entry": "struo, struere, struxi, structus",
+    "conjugation": 3,
+    "distractors": [
+      "to live",
+      "to drive on",
+      "to lead"
+    ]
+  },
+  {
+    "lemma": "instruo",
+    "english": "to arrange; equip",
+    "entry": "instruo, instruere, instruxi, instructus",
+    "conjugation": 3,
+    "distractors": [
+      "to eat",
+      "to consult",
+      "to cultivate; worship"
+    ]
+  },
+  {
+    "lemma": "iungo",
+    "english": "to join",
+    "entry": "iungo, iungere, iunxi, iunctus",
+    "conjugation": 3,
+    "distractors": [
+      "to break; burst",
+      "to seek; ask",
+      "to make; do"
+    ]
+  },
+  {
+    "lemma": "fundo",
+    "english": "to pour",
+    "entry": "fundo, fundere, fudi, fusus",
+    "conjugation": 3,
+    "distractors": [
+      "to run",
+      "to make; do",
+      "to show"
+    ]
+  },
+  {
+    "lemma": "effundo",
+    "english": "to pour out",
+    "entry": "effundo, effundere, effudi, effusus",
+    "conjugation": 3,
+    "distractors": [
+      "to pour",
+      "to seek; ask",
+      "to fall"
+    ]
+  },
+  {
+    "lemma": "rumpo",
+    "english": "to break; burst",
+    "entry": "rumpo, rumpere, rupi, ruptus",
+    "conjugation": 3,
+    "distractors": [
+      "to stretch; aim",
+      "to sell",
+      "to consult"
+    ]
+  },
+  {
+    "lemma": "comprehendo",
+    "english": "to seize; grasp",
+    "entry": "comprehendo, comprehendere, comprehendi, comprehensus",
+    "conjugation": 3,
+    "distractors": [
+      "to approach",
+      "to take back; receive",
+      "to sing"
+    ]
+  },
+  {
+    "lemma": "prehendo",
+    "english": "to seize; grasp",
+    "entry": "prehendo, prehendere, prehendi, prehensus",
+    "conjugation": 3,
+    "distractors": [
+      "to make; do",
+      "to depart",
+      "to join"
+    ]
+  },
+  {
+    "lemma": "sumo",
+    "english": "to take up",
+    "entry": "sumo, sumere, sumpsi, sumptus",
+    "conjugation": 3,
+    "distractors": [
+      "to break",
+      "to drive; strike",
+      "to kill"
+    ]
+  },
+  {
+    "lemma": "consumo",
+    "english": "to consume; spend",
+    "entry": "consumo, consumere, consumpsi, consumptus",
+    "conjugation": 3,
+    "distractors": [
+      "to build; draw up",
+      "to accomplish; finish",
+      "to learn; recognize"
+    ]
+  },
+  {
+    "lemma": "occurro",
+    "english": "to run to; meet (dat.)",
+    "entry": "occurro, occurrere, occurri, occursus",
+    "conjugation": 3,
+    "distractors": [
+      "to consume; spend",
+      "to approach",
+      "to sing"
+    ]
+  },
+  {
+    "lemma": "discedo",
+    "english": "to depart",
+    "entry": "discedo, discedere, discessi, discessus",
+    "conjugation": 3,
+    "distractors": [
+      "to run",
+      "to throw",
+      "to trust; believe (dat.)"
+    ]
+  },
+  {
+    "lemma": "procedo",
+    "english": "to advance",
+    "entry": "procedo, procedere, processi, processus",
+    "conjugation": 3,
+    "distractors": [
+      "to do; drive",
+      "to seek; ask",
+      "to live"
+    ]
+  },
+  {
+    "lemma": "accedo",
+    "english": "to approach",
+    "entry": "accedo, accedere, accessi, accessus",
+    "conjugation": 3,
+    "distractors": [
+      "to kill",
+      "to say; speak",
+      "to get to know; learn"
+    ]
+  },
+  {
+    "lemma": "excedo",
+    "english": "to go out; depart",
+    "entry": "excedo, excedere, excessi, excessus",
+    "conjugation": 3,
+    "distractors": [
+      "to hand over",
+      "to defend",
+      "to begin"
+    ]
+  },
+  {
+    "lemma": "cedo",
+    "english": "to yield; go",
+    "entry": "cedo, cedere, cessi, cessus",
+    "conjugation": 3,
+    "distractors": [
+      "to carry; wage",
+      "to fall",
+      "to say; speak"
+    ]
+  },
+  {
+    "lemma": "ostendo",
+    "english": "to show",
+    "entry": "ostendo, ostendere, ostendi, ostentus",
+    "conjugation": 3,
+    "distractors": [
+      "to compel; collect",
+      "to break",
+      "to touch"
+    ]
+  },
+  {
+    "lemma": "defendo",
+    "english": "to defend",
+    "entry": "defendo, defendere, defendi, defensus",
+    "conjugation": 3,
+    "distractors": [
+      "to depart",
+      "to send",
+      "to drag; draw"
+    ]
+  },
+  {
+    "lemma": "incendo",
+    "english": "to set on fire",
+    "entry": "incendo, incendere, incendi, incensus",
+    "conjugation": 3,
+    "distractors": [
+      "to break; burst",
+      "to sell",
+      "to write"
+    ]
+  },
+  {
+    "lemma": "ascendo",
+    "english": "to climb",
+    "entry": "ascendo, ascendere, ascendi, ascensus",
+    "conjugation": 3,
+    "distractors": [
+      "to kill",
+      "to place; put",
+      "to close; shut"
+    ]
+  },
+  {
+    "lemma": "descendo",
+    "english": "to descend",
+    "entry": "descendo, descendere, descendi, descensus",
+    "conjugation": 3,
+    "distractors": [
+      "to cut; slay",
+      "to write",
+      "to go out; depart"
+    ]
+  }
+]

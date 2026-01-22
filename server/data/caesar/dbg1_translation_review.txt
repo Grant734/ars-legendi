@@ -1,0 +1,447 @@
+
+CH 1: latin=8 eng_sentences=8 filled=8
+  1.0 LAT: Gallia est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingu
+       ENG: Gaul is a whole divided into three parts, one of which is inhabited by the Belgae, another by the Aquitani, an
+  1.1 LAT: Hi omnes lingua, institutis, legibus inter se differunt.
+       ENG: All these are different one from another in language, institutions, and laws.
+  1.2 LAT: Gallos ab Aquitanis Garumna flumen, a Belgis Matrona et Sequana dividit.
+       ENG: The Galli (Gauls) are separated from the Aquitani by the river Garonne, from the Belgae by the Marne and the S
+
+CH 2: latin=5 eng_sentences=6 filled=5
+  2.0 LAT: Apud Helvetios longe nobilissimus fuit et ditissimus Orgetorix.
+       ENG: Among the Helvetii the noblest man by far and the most wealthy was Orgetorix.
+  2.1 LAT: Is M. Messala, et P. M. Pisone consulibus regni cupiditate inductus coniurationem nobilitatis fecit et civitat
+       ENG: In the consul ship of Marcus Messalla and Marcus Piso, his desire for the kingship led him to form a conspirac
+  2.2 LAT: Id hoc facilius iis persuasit, quod undique loci natura Helvetii continentur: una ex parte flumine Rheno latis
+       ENG: In this he persuaded them the more easily, because the Helvetii are closely confined by the nature of their te
+
+CH 3: latin=7 eng_sentences=7 filled=7
+  3.0 LAT: His rebus adducti et auctoritate Orgetorigis permoti constituerunt ea quae ad proficiscendum pertinerent compa
+       ENG: Swayed by these considerations and stirred by the influence of Orgetorix, they determined to collect what they
+  3.1 LAT: Ad eas res conficiendas biennium sibi satis esse duxerunt; in tertium annum profectionem lege confirmant.
+       ENG: For the accomplishment of these objects they considered that two years were sufficient, and pledged themselves
+  3.2 LAT: Ad eas res conficiendas Orgetorix deligitur.
+       ENG: For the accomplishment of these objectives Orgetorix was chosen, and he took upon himself an embassage to the 
+
+CH 4: latin=4 eng_sentences=5 filled=4
+  4.0 LAT: Ea res est Helvetiis per indicium enuntiata.
+       ENG: The design was revealed to the Helvetii by informers.
+  4.1 LAT: Moribus suis Orgetoricem ex vinculis causam dicere coegerunt; damnatum poenam sequi oportebat, ut igni cremare
+       ENG: In accordance with their custom they compelled Orgetorix to take his trial in bonds. If he were condemned, the
+  4.2 LAT: Die constituta causae dictionis Orgetorix ad iudicium omnem suam familiam, ad hominum milia decem, undique coe
+       ENG: On the day appointed for his trial Orgetorix gathered from every quarter to the place of judgment all his reta
+
+CH 5: latin=3 eng_sentences=3 filled=3
+  5.0 LAT: Post eius mortem nihilo minus Helvetii id quod constituerant facere conantur, ut e finibus suis exeant.
+       ENG: After his death the Helvetii essayed none the less to accomplish their determination to march forth from their
+  5.1 LAT: Ubi iam se ad eam rem paratos esse arbitrati sunt, oppida sua omnia, numero ad duodecim, vicos ad quadringento
+       ENG: When at length they deemed that they were prepared for that purpose, they set fire to all their strongholds, i
+  5.2 LAT: Persuadent Rauracis et Tulingis et Latobrigis finitimis, uti eodem usi consilio oppidis suis vicisque exustis 
+       ENG: They persuaded their neighbours, the Rauraci, the Tulingi, and the Latobrigi, to adopt the same plan, burn up 
+
+CH 6: latin=8 eng_sentences=7 filled=7
+  - UNDERFLOW: ENG<8 at latin index 0, english index 0
+  - UNDERFLOW: ENG<7 at latin index 1, english index 1
+  - UNDERFLOW: ENG<6 at latin index 2, english index 2
+  - UNDERFLOW: ENG<5 at latin index 3, english index 3
+  - UNDERFLOW: ENG<4 at latin index 4, english index 4
+  - UNDERFLOW: ENG<3 at latin index 5, english index 5
+  - UNDERFLOW: ENG<2 at latin index 6, english index 6
+  6.0 LAT: Erant omnino itinera duo, quibus itineribus domo exire possent: unum per Sequanos, angustum et difficile, inte
+       ENG: There were two routes, and no more, by which they could leave their homeland.
+  6.1 LAT: Extremum oppidum Allobrogum est proximumque Helvetiorum finibus Genava.
+       ENG: One lay through the territory of the Sequani, betwixt the Jura range and the river Rhone, a narrow route and a
+  6.2 LAT: Ex eo oppido pons ad Helvetios pertinet.
+       ENG: The other route, through the Roman Province, was far more easy and convenient, forasmuch as the Rhone flows be
+
+CH 7: latin=6 eng_sentences=11 filled=6
+  7.0 LAT: Caesari cum id nuntiatum esset, eos per provinciam nostram iter facere conari, maturat ab urbe proficisci et q
+       ENG: When Caesar was informed that they were endeavouring to march through the Roman Province, he made speed to lea
+  7.1 LAT: Provinciae toti quam maximum potest militum numerum imperat (erat omnino in Gallia ulteriore legio una), ponte
+       ENG: When the Helvetii learned of his coming, they sent as deputies to him the noblest men of the state. Nammeius a
+  7.2 LAT: Ubi de eius adventu Helvetii certiores facti sunt, legatos ad eum mittunt nobilissimos civitatis, cuius legati
+       ENG: Remembering that the consul Lucius Cassius had been slain, and his army routed and sent under the yoke, by the
+CH 8: NO TRANSLATION CHAPTER FOUND (latin=4)
+
+CH 9: latin=4 eng_sentences=4 filled=4
+  9.0 LAT: Relinquebatur una per Sequanos via, qua Sequanis invitis propter angustias ire non poterant.
+       ENG: There remained one other line of route, through the borders of the Sequani, by which they could not march, on 
+  9.1 LAT: His cum sua sponte persuadere non possent, legatos ad Dumnorigem Haeduum mittunt, ut eo deprecatore a Sequanis
+       ENG: When they could not of their own motion persuade the Sequani, they sent deputies to Dumnorix the Aeduan, in or
+  9.2 LAT: Dumnorix gratia et largitione apud Sequanos plurimum poterat et Helvetiis erat amicus, quod ex ea civitate Org
+       ENG: Now Dumnorix had very great weight with the Sequani, for he was both popular and open-handed, and he was frien
+
+CH 10: latin=7 eng_sentences=7 filled=7
+  10.0 LAT: Caesari renuntiatur Helvetiis esse in animo per agrum Sequanorum et Haeduorum iter in Santonum fines facere, q
+       ENG: The news was brought back to Caesar that the Helvetii were minded to march through the land of the Sequani and
+  10.1 LAT: Id si fieret, intellegebat magno cum periculo provinciae futurum ut homines bellicosos, populi Romani inimicos
+       ENG: He perceived that this event would bring great danger upon the Province; for it would have a warlike tribe, un
+  10.2 LAT: Ob eas causas ei munitioni quam fecerat T.
+       ENG: For these reasons he set Titus Labienus, lieutenant-general, in command of the fortification which he had made
+
+CH 11: latin=5 eng_sentences=6 filled=5
+  11.0 LAT: Helvetii iam per angustias et fines Sequanorum suas copias traduxerant et in Haeduorum fines pervenerant eorum
+       ENG: By this time the Helvetii, having brought their own forces through the defiles and through the borders of the 
+  11.1 LAT: Haedui, cum se suaque ab iis defendere non possent, legatos ad Caesarem mittunt rogatum auxilium: ita se omni 
+       ENG: Unable to defend their persons and their property from the invaders, the Aedui sent deputies to Caesar to ask 
+  11.2 LAT: Eodem tempore quo Haedui Ambarri, necessarii et consanguinei Haeduorum, Caesarem certiorem faciunt sese depopu
+       ENG: At the same time the Aedui Ambarri, close allies and kinsmen of the Aedui, informed Caesar that their lands ha
+
+CH 12: latin=8 eng_sentences=8 filled=8
+  12.0 LAT: Flumen est Arar, quod per fines Haeduorum et Sequanorum in Rhodanum influit, incredibili lenitate, ita ut ocul
+       ENG: There is a river Arar (Saône), which flows through the borders of the Aedui and the Sequani into the Rhone: it
+  12.1 LAT: Id Helvetii ratibus ac lintribus iunctis transibant.
+       ENG: This river the Helvetii proceeded to cross by rafts and boats fastened together.
+  12.2 LAT: Ubi per exploratores Caesar certior factus est tres iam partes copiarum Helvetios id flumen traduxisse, quarta
+       ENG: When Caesar's scouts informed him that three-quarters of the Helvetian forces had actually crossed, and that a
+
+CH 13: latin=6 eng_sentences=7 filled=6
+  13.0 LAT: Hoc proelio facto, reliquas copias Helvetiorum ut consequi posset, pontem in Arari faciendum curat atque ita e
+       ENG: This action over, he caused a bridge to be made over the Saône and sent his army across thereby, in order to p
+  13.1 LAT: Helvetii repentino eius adventu commoti cum id quod ipsi diebus XX aegerrime confecerant, ut flumen transirent
+       ENG: Alarmed at his sudden approach — for they perceived that the business of crossing the river, which they themse
+  13.2 LAT: Is ita cum Caesare egit: si pacem populus Romanus cum Helvetiis faceret, in eam partem ituros atque ibi futuro
+       ENG: The leader of the deputation was Divico, who had been commander of the Helvetii in the campaign against Cassiu
+
+CH 14: latin=6 eng_sentences=7 filled=6
+  14.0 LAT: His Caesar ita respondit: eo sibi minus dubitationis dari, quod eas res quas legati Helvetii commemorassent me
+       ENG: To these remarks Caesar replied as follows: As he remembered well the events which the Helvetian deputies had 
+  14.1 LAT: Quod si veteris contumeliae oblivisci vellet, num etiam recentium iniuriarum, quod eo invito iter per provinci
+       ENG: And even if he were willing to forget an old affront, could he banish the memory of recent outrages — their at
+  14.2 LAT: Consuesse enim deos immortales, quo gravius homines ex commutatione rerum doleant, quos pro scelere eorum ulci
+       ENG: Their insolent boast of their own victory, their surprise that their outrages had gone on so long with impunit
+
+CH 15: latin=6 eng_sentences=6 filled=6
+  15.0 LAT: Postero die castra ex eo loco movent.
+       ENG: Next day the Helvetii moved their camp from that spot.
+  15.1 LAT: Idem facit Caesar equitatumque omnem, ad numerum quattuor milium, quem ex omni provincia et Haeduis atque eoru
+       ENG: Caesar did likewise, sending forward the whole of his cavalry, four thousand in number, which he had raised fr
+  15.2 LAT: Qui cupidius novissimum agmen insecuti alieno loco cum equitatu Helvetiorum proelium committunt; et pauci de n
+       ENG: The cavalry, following up the rearguard too eagerly, engaged in a combat on unfavourable ground with the caval
+
+CH 16: latin=4 eng_sentences=7 filled=4
+  16.0 LAT: Interim cotidie Caesar Haeduos frumentum, quod essent publice polliciti, flagitare.
+       ENG: Meanwhile Caesar was daily pressing the Aedui for the corn that they had promised as a state.
+  16.1 LAT: Nam propter frigora quod Gallia sub septentrionibus, ut ante dictum est, posita est, non modo frumenta in agri
+       ENG: For by reason of cold weather (since Gaul, as has been said above, lies under the northern heaven) not only we
+  16.2 LAT: Diem ex die ducere Haedui: conferri, comportari, adesse dicere.
+       ENG: The Aedui put him off day by day, declaring that the corn was being collected, was being brought in, was at ha
+
+CH 17: latin=4 eng_sentences=5 filled=4
+  17.0 LAT: Tum demum Liscus oratione Caesaris adductus quod antea tacuerat proponit: esse non nullos, quorum auctoritas a
+       ENG: Then, and not till then, the remarks of Caesar induced Liscus to reveal a fact concealed before. There were, h
+  17.1 LAT: Hos seditiosa atque improba oratione multitudinem deterrere, ne frumentum conferant quod debeant: praestare, s
+       ENG: These persons, by seditious and insolent language, were intimidating the population against the collection of 
+  17.2 LAT: Ab isdem nostra consilia quaeque in castris gerantur hostibus enuntiari; hos a se coerceri non posse.
+       ENG: These, again, were the men, who informed the enemy of the Roman plans and all the doings of the camp; nor had 
+
+CH 18: latin=9 eng_sentences=10 filled=9
+  18.0 LAT: Caesar hac oratione Lisci Dumnorigem, Diviciaci fratrem, designari sentiebat, sed, quod pluribus praesentibus 
+       ENG: Caesar felt that Dumnorix, the brother of Diviciacus, was indicated in these remarks of Liscus; but as he woul
+  18.1 LAT: Quaerit ex solo ea quae in conventu dixerat.
+       ENG: He kept Liscus back, and questioned him separately on his statement in the assembly.
+  18.2 LAT: Dicit liberius atque audacius.
+       ENG: Liscus now spoke with greater freedom and boldness.
+
+CH 19: latin=4 eng_sentences=7 filled=4
+  19.0 LAT: Quibus rebus cognitis, cum ad has suspiciones certissimae res accederent, quod per fines Sequanorum Helvetios 
+       ENG: All this Caesar learnt, and to confirm these suspicions he had indisputable facts. Dumnorix had brought the He
+  19.1 LAT: His omnibus rebus unum repugnabat, quod Diviciaci fratris summum in populum Romanum studium, summum in se volu
+       ENG: To all such procedure there was one objection, the knowledge that Diviciacus, the brother of Dumnorix, showed 
+  19.2 LAT: Itaque prius quam quicquam conaretur, Diviciacum ad se vocari iubet et, cotidianis interpretibus remotis, per 
+       ENG: Therefore, before attempting anything in the matter, Caesar ordered Diviciacus to be summoned to his quarters,
+
+CH 20: latin=6 eng_sentences=6 filled=6
+  20.0 LAT: Diviciacus multis cum lacrimis Caesarem complexus obsecrare coepit ne quid gravius in fratrem statueret: scire
+       ENG: With many tears Diviciacus embraced Caesar, and began to beseech him not to pass too severe a judgment upon hi
+  20.1 LAT: Sese tamen et amore fraterno et existimatione vulgi commoveri.
+       ENG: "I know," said he, "that the reports are true, and no one is more pained thereat than I, for at a time when I 
+  20.2 LAT: Quod si quid ei a Caesare gravius accidisset, cum ipse eum locum amicitiae apud eum teneret, neminem existimat
+       ENG: For all that, I feel the force of brotherly love and public opinion.
+
+CH 21: latin=6 eng_sentences=5 filled=5
+  - UNDERFLOW: ENG<6 at latin index 0, english index 0
+  - UNDERFLOW: ENG<5 at latin index 1, english index 1
+  - UNDERFLOW: ENG<4 at latin index 2, english index 2
+  - UNDERFLOW: ENG<3 at latin index 3, english index 3
+  - UNDERFLOW: ENG<2 at latin index 4, english index 4
+  21.0 LAT: Eodem die ab exploratoribus certior factus hostes sub monte consedisse milia passuum ab ipsius castris octo, q
+       ENG: On the same day his scouts informed him that the enemy had halted close under a height eight miles from the Ro
+  21.1 LAT: Renuntiatum est facilem esse.
+       ENG: A party was sent to reconnoitre the height, and to see what kind of ascent a detour might afford: the report w
+  21.2 LAT: De tertia vigilia T.
+       ENG: Caesar ordered Titus Labienus, lieutenant-general and chief of the staff, to move in the third watch with two 
+
+CH 22: latin=5 eng_sentences=6 filled=5
+  22.0 LAT: Prima luce, cum summus mons a Lucio Labieno teneretur, ipse ab hostium castris non longius mille et quingentis
+       ENG: At dawn Labienus was in possession of the summit of the height, and Caesar was no more than a mile and a half 
+  22.1 LAT: Caesar suas copias in proximum collem subducit, aciem instruit.
+       ENG: Caesar withdrew his own troops to the nearest hill, and formed line of battle.
+  22.2 LAT: Labienus, ut erat ei praeceptum a Caesare ne proelium committeret, nisi ipsius copiae prope hostium castra vis
+       ENG: Labienus had instructions from Caesar not to join battle unless his own troops appeared near the enemy's camp,
+
+CH 23: latin=3 eng_sentences=5 filled=3
+  23.0 LAT: Postridie eius diei, quod omnino biduum supererat, cum exercitui frumentum metiri oporteret, et quod a Bibract
+       ENG: On the morrow, as no more than two days remained before it was proper to issue the corn-ration to the troops, 
+  23.1 LAT: Ea res per fugitivos L. Aemilii, decurionis equitum Gallorum, hostibus nuntiatur.
+       ENG: The change was reported to the enemy by some deserters from Lucius Aemilius, a troop-leader of the Gallic hors
+  23.2 LAT: Helvetii, seu quod timore perterritos Romanos discedere a se existimarent, eo magis quod pridie superioribus l
+       ENG: Now the Helvetii may have supposed that the Romans were moving away from them because of sheer panic, the more
+
+CH 24: latin=3 eng_sentences=3 filled=3
+  24.0 LAT: Postquam id animum advertit, copias suas Caesar in proximum collem subduxit equitatumque, qui sustineret hosti
+       ENG: As soon as he remarked this, Caesar withdrew his troops to the nearest hill, and sent the horse to check the e
+  24.1 LAT: Ipse interim in colle medio triplicem aciem instruxit legionum quattuor veteranarum; in summo iugo duas legion
+       ENG: Meanwhile he himself drew up his four legions of veterans in triple line half‑way up the hill: but he ordered 
+  24.2 LAT: Helvetii cum omnibus suis carris secuti impedimenta in unum locum contulerunt; ipsi confertissima acie, reiect
+       ENG: The Helvetii followed with all their carts, and collected their baggage in one place: the fighting men, in a d
+
+CH 25: latin=7 eng_sentences=9 filled=7
+  25.0 LAT: Caesar primum suo, deinde omnium ex conspectu remotis equis, ut aequato omnium periculo spem fugae tolleret, c
+       ENG: Caesar first had his own horse and then those of all others sent out of sight, thus to equalise the danger of 
+  25.1 LAT: Milites loco superiore pilis missis facile hostium phalangem perfregerunt.
+       ENG: Then after a speech to encourage his troops he joined battle.
+  25.2 LAT: Ea disiecta gladiis destrictis in eos impetum fecerunt.
+       ENG: The legionaries, from the upper ground, easily broke the mass-formation of the enemy by a volley of javelins, 
+
+CH 26: latin=9 eng_sentences=8 filled=8
+  - UNDERFLOW: ENG<9 at latin index 0, english index 0
+  - UNDERFLOW: ENG<8 at latin index 1, english index 1
+  - UNDERFLOW: ENG<7 at latin index 2, english index 2
+  - UNDERFLOW: ENG<6 at latin index 3, english index 3
+  - UNDERFLOW: ENG<5 at latin index 4, english index 4
+  - UNDERFLOW: ENG<4 at latin index 5, english index 5
+  - UNDERFLOW: ENG<3 at latin index 6, english index 6
+  - UNDERFLOW: ENG<2 at latin index 7, english index 7
+  26.0 LAT: Ita ancipiti proelio diu atque acriter pugnatum est.
+       ENG: Thus the engagement became twofold, and the fight was fierce and long.
+  26.1 LAT: Diutius cum sustinere nostrorum impetus non possent, alteri se, ut coeperant, in montem receperunt, alteri ad 
+       ENG: When the enemy could no longer hold out against our attacks, one division continued to retire to the height, t
+  26.2 LAT: Nam hoc toto proelio, cum ab hora septima ad vesperum pugnatum sit, aversum hostem videre nemo potuit.
+       ENG: There was no rout, for throughout the action, though it lasted from the seventh hour to eventide, no one could
+
+CH 27: latin=4 eng_sentences=5 filled=4
+  27.0 LAT: Helvetii omnium rerum inopia adducti legatos de deditione ad eum miserunt.
+       ENG: The Helvetii were compelled by lack of all provision to send deputies to him to treat of surrender.
+  27.1 LAT: Qui cum eum in itinere convenissent seque ad pedes proiecissent suppliciterque locuti flentes pacem petissent,
+       ENG: These found him on the march, and, throwing themselves at his feet, in suppliant tones besought peace with tea
+  27.2 LAT: Eo postquam Caesar pervenit, obsides, arma, servos qui ad eos perfugissent, poposcit.
+       ENG: Upon arrival there Caesar demanded the surrender of hostages and arms, and of the slaves who had deserted to t
+
+CH 28: latin=4 eng_sentences=7 filled=4
+  28.0 LAT: Quod ubi Caesar resciit, quorum per fines ierant his uti conquirerent et reducerent, si sibi purgati esse vell
+       ENG: So soon as Caesar came to know of this he commanded the inhabitants through whose borders they had marched to 
+  28.1 LAT: Helvetios, Tulingos, Latobrigos in fines suos, unde erant profecti, reverti iussit, et, quod omnibus frugibus 
+       ENG: He commanded the Helvetii, Tulingi, and Latobrigi to return to their own borders, whence they had started; and
+  28.2 LAT: Id ea maxime ratione fecit, quod noluit eum locum unde Helvetii discesserant vacare, ne propter bonitatem agro
+       ENG: His chief reason for so doing was that he did not wish the district which the Helvetii had left to be unoccupi
+
+CH 29: latin=4 eng_sentences=4 filled=4
+  29.0 LAT: In castris Helvetiorum tabulae repertae sunt litteris Graecis confectae et ad Caesarem relatae, quibus in tabu
+       ENG: In the camp of the Helvetii were found, and brought to Caesar, records written out in Greek letters, wherein w
+  29.1 LAT: Quarum omnium rerum summa erat capitum Helvetiorum milium CCLXIII, Tulingorum milium XXXVI, Latobrigorum XIIII
+       ENG: On all these counts the total showed 263,000 persons of the Helvetii, 36,000 of the Tulingi, 14,000 of the Lat
+  29.2 LAT: Summa omnium fuerunt ad milia CCCLXVIII.
+       ENG: The grand total was about 368,000.
+
+CH 30: latin=3 eng_sentences=4 filled=3
+  30.0 LAT: Bello Helvetiorum confecto totius fere Galliae legati, principes civitatum, ad Caesarem gratulatum convenerunt
+       ENG: Upon the conclusion of the Helvetian campaign deputies from well-nigh the whole of Gaul, the chief men of the 
+  30.1 LAT: Petierunt uti sibi concilium totius Galliae in diem certam indicere idque Caesaris facere voluntate liceret: s
+       ENG: The deputies asked that they might be allowed to announce — and that with Caesar's consent — a convention of a
+  30.2 LAT: Ea re permissa diem concilio constituerunt et iure iurando ne quis enuntiaret, nisi quibus communi consilio ma
+       ENG: Permission was given, and they appointed a day for the convention, pledging themselves by an oath that no man 
+
+CH 31: latin=16 eng_sentences=17 filled=16
+  31.0 LAT: Eo concilio dimisso, idem princeps civitatum qui ante fuerant ad Caesarem reverterunt petieruntque uti sibi se
+       ENG: The convention having been held and dissolved, the same chiefs of states as before returned to Caesar with a p
+  31.1 LAT: Ea re impetrata sese omnes flentes Caesari ad pedes proiecerunt: non minus se id contendere et laborare ne ea 
+       ENG: The petition was granted, and they all threw themselves in tears at Caesar's feet, declaring that they were as
+  31.2 LAT: Locutus est pro his Diviciacus Haeduus: Galliae totius factiones esse duas; harum alterius principatum tenere 
+       ENG: Diviciacus the Aeduan spoke on their behalf. "In all Gaul," he said, "there are two parties; in one of them th
+
+CH 32: latin=5 eng_sentences=7 filled=5
+  32.0 LAT: Hac oratione ab Diviciaco habita omnes qui aderant magno fletu auxilium a Caesare petere coeperunt.
+       ENG: When Diviciacus had delivered this speech all who were present began with loud weeping to seek assistance from
+  32.1 LAT: Animadvertit Caesar unos ex omnibus Sequanos nihil earum rerum facere quas ceteri facerent sed tristes capite 
+       ENG: He noticed, however, that of all the company the Sequani alone did not act like the rest, but with head downca
+  32.2 LAT: Eius rei quae causa esset miratus ex ipsis quaesiit.
+       ENG: He asked them, wondering, what might be the cause thereof.
+
+CH 33: latin=5 eng_sentences=9 filled=5
+  33.0 LAT: His rebus cognitis Caesar Gallorum animos verbis confirmavit pollicitusque est sibi eam rem curae futuram; mag
+       ENG: When he had learnt this Caesar comforted the Gauls with his words, promising that he would concern himself wit
+  33.1 LAT: Hac oratione habita, concilium dimisit.
+       ENG: With this speech he dissolved the convention.
+  33.2 LAT: Et secundum ea multae res eum hortabantur quare sibi eam rem cogitandam et suscipiendam putaret, in primis quo
+       ENG: And straightway many considerations induced him to suppose that he must take thought and action in the matter.
+
+CH 34: latin=4 eng_sentences=4 filled=4
+  34.0 LAT: Quam ob rem placuit ei ut ad Ariovistum legatos mitteret, qui ab eo postularent uti aliquem locum medium utris
+       ENG: He resolved, therefore, to send deputies to Ariovistus to request of him the choice of some half‑way station b
+  34.1 LAT: Ei legationi Ariovistus respondit: si quid ipsi a Caesare opus esset, sese ad eum venturum fuisse; si quid ill
+       ENG: To the deputation Ariovistus made reply that if he had had need of aught from Caesar, he would have come to hi
+  34.2 LAT: Praeterea se neque sine exercitu in eas partes Galliae venire audere quas Caesar possideret, neque exercitum s
+       ENG: Moreover, he did not venture without an army to come into those parts of Gaul which Caesar was occupying, and 
+
+CH 35: latin=2 eng_sentences=3 filled=2
+  35.0 LAT: His responsis ad Caesarem relatis, iterum ad eum Caesar legatos cum his mandatis mittit: quoniam tanto suo pop
+       ENG: When this reply had been brought back to Caesar, he sent deputies again to him with the following message: For
+  35.1 LAT: Si id ita fecisset, sibi populoque Romano perpetuam gratiam atque amicitiam cum eo futuram; si non impetraret,
+       ENG: If he did as requested, Caesar and the Roman people would maintain a lasting kindness and friendship towards h
+
+CH 36: latin=8 eng_sentences=6 filled=6
+  - UNDERFLOW: ENG<8 at latin index 0, english index 0
+  - UNDERFLOW: ENG<7 at latin index 1, english index 1
+  - UNDERFLOW: ENG<6 at latin index 2, english index 2
+  - UNDERFLOW: ENG<5 at latin index 3, english index 3
+  - UNDERFLOW: ENG<4 at latin index 4, english index 4
+  - UNDERFLOW: ENG<3 at latin index 5, english index 5
+  36.0 LAT: Ad haec Ariovistus respondit: ius esse belli ut qui vicissent iis quos vicissent quem ad modum vellent imperar
+       ENG: To this Ariovistus replied as follows: It was the right of war that conquerors dictated as they pleased to the
+  36.1 LAT: Item populum Romanum victis non ad alterius praescriptum, sed ad suum arbitrium imperare consuesse.
+       ENG: If he, for his part, did not ordain how the Roman people should exercise their own right, he ought not to be h
+  36.2 LAT: Si ipse populo Romano non praescriberet quem ad modum suo iure uteretur, non oportere se a populo Romano in su
+       ENG: The Aedui, having risked the fortune of war and having been overcome in a conflict of arms, had been made trib
+
+CH 37: latin=3 eng_sentences=5 filled=3
+  37.0 LAT: Haec eodem tempore Caesari mandata referebantur et legati ab Haeduis et a Treveris veniebant: Haedui questum q
+       ENG: At the same hour in which this message was brought back to Caesar, deputies arrived from the Aedui and the Tre
+  37.1 LAT: Quibus rebus Caesar vehementer commotus maturandum sibi existimavit, ne, si nova manus Sueborum cum veteribus 
+       ENG: At this Caesar was exceedingly disquieted, and determined that he must make speed, for fear that, if the new c
+  37.2 LAT: Itaque re frumentaria quam celerrime potuit comparata magnis itineribus ad Ariovistum contendit.
+       ENG: Therefore he secured his corn-supply with all possible speed, and pushed on with forced marches to meet Ariovi
+
+CH 38: latin=4 eng_sentences=6 filled=4
+  38.0 LAT: Cum tridui viam processisset, nuntiatum est ei Ariovistum cum suis omnibus copiis ad occupandum Vesontionem, q
+       ENG: He had advanced a three days' march when news was brought to him that Ariovistus with all his forces was pushi
+  38.1 LAT: Id ne accideret, magnopere sibi praecavendum Caesar existimabat.
+       ENG: Caesar considered that a great effort on his part was needed to prevent this occurrence.
+  38.2 LAT: Namque omnium rerum quae ad bellum usui erant summa erat in eo oppido facultas, idque natura loci sic muniebat
+       ENG: For there was in that town an abundant supply of all things needful for war, and the place was so well fortifi
+
+CH 39: latin=7 eng_sentences=9 filled=7
+  39.0 LAT: Dum paucos dies ad Vesontionem rei frumentariae commeatusque causa moratur, ex percontatione nostrorum vocibus
+       ENG: During a few days' halt near Vesontio for the provision of corn and other supplies, a panic arose from inquiri
+  39.1 LAT: Hic primum ortus est a tribunis militum, praefectis, reliquisque qui ex urbe amicitiae causa Caesarem secuti n
+       ENG: It began first with the tribunes, the contingent-commanders, and the others who had followed Caesar from Rome 
+  39.2 LAT: Hi neque vultum fingere neque interdum lacrimas tenere poterant: abditi in tabernaculis aut suum fatum quereba
+       ENG: They were unable to disguise their looks, or even at times to restrain their tears; they hid in their tents to
+
+CH 40: latin=14 eng_sentences=19 filled=14
+  40.0 LAT: Haec cum animadvertisset, convocato consilio omniumque ordinum ad id consilium adhibitis centurionibus, veheme
+       ENG: Remarking this, he convened a council of war, and summoned thereto the centurions of all grades. Then indignan
+  40.1 LAT: Ariovistum se consule cupidissime populi Romani amicitiam adpetisse; cur hunc tam temere quisquam ab officio d
+       ENG: "Ariovistus," he said, "in my own consul ship sought most eagerly the friendship of the Roman people. Why shou
+  40.2 LAT: Quod si furore atque amentia impulsum bellum intulisset, quid tandem vererentur? Aut cur de sua virtute aut de
+       ENG: Even if, in a fit of rage and madness, he makes war, what, pray, have you to fear? Why do you despair of your 
+
+CH 41: latin=4 eng_sentences=5 filled=4
+  41.0 LAT: Hac oratione habita mirum in modum conversae sunt omnium mentes summaque alacritas et cupiditas belli gerendi 
+       ENG: By the delivery of this speech the spirit of all ranks was changed in a remarkable fashion; the greatest keenn
+  41.1 LAT: Deinde reliquae legiones cum tribunis militum et primorum ordinum centurionibus egerunt uti Caesari satis face
+       ENG: Then the remaining legions moved their tribunes and senior centurions to give satisfactory explanation to Caes
+  41.2 LAT: Eorum satisfactione accepta et itinere exquisito per Diviciacum, quod ex Gallis ei maximam fidem habebat, ut m
+       ENG: Their explanation was accepted, and through Diviciacus (the one person in whom Caesar had absolute confidence)
+
+CH 42: latin=6 eng_sentences=8 filled=6
+  42.0 LAT: Cognito Caesaris adventu Ariovistus legatos ad eum mittit: quod antea de conloquio postulasset, id per se fier
+       ENG: When he learnt of Caesar's approach Ariovistus sent deputies to him to announce that he was now ready to do wh
+  42.1 LAT: Non respuit condicionem Caesar iamque eum ad sanitatem reverti arbitrabatur, cum id quod antea petenti denegas
+       ENG: Caesar did not reject the proposal, and he was inclined to think that Ariovistus was at length returning to a 
+  42.2 LAT: Dies conloquio dictus est ex eo die quintus.
+       ENG: A day — the fifth after that — was appointed for the parley.
+
+CH 43: latin=9 eng_sentences=12 filled=9
+  43.0 LAT: Planities erat magna et in ea tumulus terrenus satis grandis.
+       ENG: There was a large plain, and in it a mound of earth of considerable size.
+  43.1 LAT: Hic locus aequum fere spatium a castris Ariovisti et Caesaris aberat.
+       ENG: The place was about equally distant from the camps of Caesar and of Ariovistus.
+  43.2 LAT: Eo, ut erat dictum, ad conloquium venerunt.
+       ENG: Thither, as agreed, they came for the parley.
+
+CH 44: latin=15 eng_sentences=18 filled=15
+  44.0 LAT: Ariovistus ad postulata Caesaris pauca respondit, de suis virtutibus multa praedicavit: transisse Rhenum sese 
+       ENG: To the demands of Caesar Ariovistus replied in brief, but he dilated at length upon his own good qualities. He
+  44.1 LAT: Non sese Gallis sed Gallos sibi bellum intulisse: omnes Galliae civitates ad se oppugnandum venisse ac contra 
+       ENG: He had not made war upon the Gauls, but they upon him; all the states of Gaul had come to attack him and had s
+  44.2 LAT: Si iterum experiri velint, se iterum paratum esse decertare; si pace uti velint, iniquum esse de stipendio rec
+       ENG: If they wished to try the issue again, he was prepared to fight it out again; if they wished to enjoy peace, i
+
+CH 45: latin=3 eng_sentences=4 filled=3
+  45.0 LAT: Multa a Caesare in eam sententiam dicta sunt quare negotio desistere non posset: neque suam neque populi Roman
+       ENG: Caesar spoke at length for the purpose of showing why he could not give up the task in hand. His own practice,
+  45.1 LAT: Bello superatos esse Arvernos et Rutenos a Q. Fabio Maximo, quibus populus Romanus ignovisset neque in provinc
+       ENG: The Arverni and the Ruteni had been subdued in a campaign by Quintus Fabius Maximus: the Roman people had pard
+  45.2 LAT: Quod si antiquissimum quodque tempus spectari oporteret, populi Romani iustissimum esse in Gallia imperium; si
+       ENG: If priority of time was to be the standard, then the sovereignty of the Roman people in Gaul had complete just
+
+CH 46: latin=4 eng_sentences=4 filled=4
+  46.0 LAT: Dum haec in conloquio geruntur, Caesari nuntiatum est equites Ariovisti propius tumulum accedere et ad nostros
+       ENG: During the progress of the parley Caesar was informed that the horsemen of Ariovistus were approaching nearer 
+  46.1 LAT: Caesar loquendi finem fecit seque ad suos recepit suisque imperavit ne quod omnino telum in hostes reicerent.
+       ENG: Caesar made an end of speaking, and, withdrawing to his own men, commanded them not to discharge a single dart
+  46.2 LAT: Nam etsi sine ullo periculo legionis delectae cum equitatu proelium fore videbat, tamen committendum non putab
+       ENG: For, although he could see that a fight between the chosen legion and the horsemen would involve no danger, st
+
+CH 47: latin=6 eng_sentences=11 filled=6
+  47.0 LAT: Biduo post Ariovistus ad Caesarem legatos misit: velle se de iis rebus quae inter eos agi coeptae neque perfec
+       ENG: Two days afterwards Ariovistus sent deputies to Caesar. He desired, he said, to discuss with him the matters w
+  47.1 LAT: Conloquendi Caesari causa visa non est, et eo magis quod pridie eius diei Germani retineri non potuerant quin 
+       ENG: Caesar thought there was no occasion for a parley, the more so as on the previous day the Germans could not be
+  47.2 LAT: Legatum ex suis sese magno cum periculo ad eum missurum et hominibus feris obiecturum existimabat.
+       ENG: He thought it would be very dangerous to send one of his staff to him and so to expose a man to the ferocious 
+
+CH 48: latin=5 eng_sentences=7 filled=5
+  48.0 LAT: Eodem die castra promovit et milibus passuum VI a Caesaris castris sub monte consedit.
+       ENG: On the same day he advanced and pitched his camp under a hill-side six miles from Caesar's.
+  48.1 LAT: Postridie eius diei praeter castra Caesaris suas copias traduxit et milibus passuum duobus ultra eum castra fe
+       ENG: The next day he led his forces past the camp of Caesar, and formed camp two miles beyond him, for the purpose 
+  48.2 LAT: Ex eo die dies continuos V Caesar pro castris suas copias produxit et aciem instructam habuit, ut, si vellet A
+       ENG: For five days in succession Caesar brought his own forces out in front of camp and kept them formed in line of
+
+CH 49: latin=6 eng_sentences=7 filled=6
+  49.0 LAT: Ubi eum castris se tenere Caesar intellexit, ne diutius commeatu prohiberetur, ultra eum locum, quo in loco Ge
+       ENG: When Caesar observed that Ariovistus kept to his camp, to prevent further interruption of supplies he chose a 
+  49.1 LAT: Primam et secundam aciem in armis esse, tertiam castra munire iussit.
+       ENG: The first and second line he ordered to keep under arms, the third to entrench a camp.
+  49.2 LAT: Hic locus ab hoste circiter passus DC, uti dictum est, aberat.
+       ENG: The spot, as has been said, was about six hundred paces away from the enemy.
+
+CH 50: latin=6 eng_sentences=6 filled=6
+  50.0 LAT: Proximo die instituto suo Caesar ex castris utrisque copias suas eduxit paulumque a maioribus castris progress
+       ENG: The next day, in accordance with his practice, Caesar moved out his forces from both camps, and, advancing a l
+  50.1 LAT: Ubi ne tum quidem eos prodire intellexit, circiter meridiem exercitum in castra reduxit.
+       ENG: Perceiving that they did not even so come forth, he brought his army back to camp about noon.
+  50.2 LAT: Tum demum Ariovistus partem suarum copiarum, quae castra minora oppugnaret, misit.
+       ENG: Then at last Ariovistus sent a part of his own forces to attack the lesser camp, and both sides fought in spir
+
+CH 51: latin=3 eng_sentences=4 filled=3
+  51.0 LAT: Postridie eius diei Caesar praesidio utrisque castris quod satis esse visum est reliquit, alarios omnes in con
+       ENG: On the next day Caesar left what he deemed a sufficient garrison for each camp; in front of the lesser camp, i
+  51.1 LAT: Tum demum necessario Germani suas copias castris eduxerunt generatimque constituerunt paribus intervallis, Har
+       ENG: Then at last, compelled by necessity, the Germans led their own forces out of camp and posted them at equal in
+  51.2 LAT: Eo mulieres imposuerunt, quae ad proelium proficiscentes milites passis manibus flentes implorabant ne se in s
+       ENG: Upon these they set their women, who with tears and outstretched hands entreated the men, as they marched out 
+
+CH 52: latin=7 eng_sentences=8 filled=7
+  52.0 LAT: Caesar singulis legionibus singulos legatos et quaestorem praefecit, uti eos testes suae quisque virtutis habe
+       ENG: Caesar put the lieutenant-generals and the quartermaster-general each in command of a legion, that every man m
+  52.1 LAT: Ita nostri acriter in hostes signo dato impetum fecerunt itaque hostes repente celeriterque procurrerunt, ut s
+       ENG: Our troops attacked the enemy so fiercely when the signal was given, and the enemy dashed forward so suddenly 
+  52.2 LAT: Relictis pilis comminus gladiis pugnatum est.
+       ENG: So javelins were thrown aside, and it was a sword-fight at close quarters.
+
+CH 53: latin=8 eng_sentences=9 filled=8
+  53.0 LAT: Ita proelium restitutum est, atque omnes hostes terga verterunt nec prius fugere destiterunt quam ad flumen Rh
+       ENG: So the battle was restored, and all the enemy turned and ran: nor did they cease in their flight until they re
+  53.1 LAT: Ibi perpauci aut viribus confisi tranare contenderunt aut lintribus inventis sibi salutem reppererunt.
+       ENG: There a very few, trusting to their strength, set themselves to swim across, or discovered boats and so won sa
+  53.2 LAT: In his fuit Ariovistus, qui naviculam deligatam ad ripam nactus ea profugit; reliquos omnes consecuti equites 
+       ENG: Among these was Ariovistus, who found a skiff moored to the bank and escaped therein; all the rest our cavalry
+
+CH 54: latin=2 eng_sentences=2 filled=2
+  54.0 LAT: Hoc proelio trans Rhenum nuntiato, Suebi, qui ad ripas Rheni venerant, domum reverti coeperunt; quos ubi qui p
+       ENG: When the news of this battle was carried across the Rhine, the Suebi who had come to the banks of the river be
+  54.1 LAT: Caesar una aestate duobus maximis bellis confectis maturius paulo quam tempus anni postulabat in hiberna in Se
+       ENG: Two capital campaigns were thus finished in a single summer, and Caesar therefore withdrew his army a little e

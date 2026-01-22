@@ -1,0 +1,27 @@
+{
+  "grantsterlinghenry2008@gmail.com": {
+    "teacherId": "teacher_9ca80c9945de1053aa",
+    "email": "grantsterlinghenry2008@gmail.com",
+    "salt": "22e356cb1a7bb1f142d8deb0288a3bfb",
+    "pwHash": "e17e81f5b85d5970fc16a665625db90f33aeb0962a20721feb6be73392cd8f72",
+    "createdAt": 1766984503352,
+    "lastLoginAt": 1767128930756
+  },
+  "granthenry34@icloud.com": {
+    "teacherId": "teacher_89e398ebab9e028e0c",
+    "email": "granthenry34@icloud.com",
+    "salt": "f0d482785a5ea1f41bdf4777276428f8",
+    "pwHash": "7bf7b2bd82be89c96a7258f2f18eeb76255c5e9a10657d1d2dd56fc65c1c5640",
+    "createdAt": 1767110379807,
+    "lastLoginAt": 1768788072977
+  },
+  "granthenry2000@gmail.com": {
+    "teacherId": "teacher_d12e64a52da21765aec3",
+    "email": "granthenry2000@gmail.com",
+    "displayName": "Grant",
+    "salt": "32989c06929d165bd42b2e3e376d8ca3",
+    "pwHash": "c731b70925d56e5574db4af726cff08473d650bf6cda56e7b55335757a2dc376",
+    "createdAt": 1768846981626,
+    "lastLoginAt": 1768848433980
+  }
+}

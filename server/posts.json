@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Frontinus Article",
+    "slug": "frontinus-article",
+    "date": "2025-07-07",
+    "content": "n",
+    "coverImage": "https://i0.wp.com/zoejwalker.com/wp-content/uploads/2023/09/Screenshot-2023-09-18-121709.png?resize=555%2C562&ssl=1"
+  },
+  {
+    "title": "grant's new post",
+    "slug": "grants-new-post",
+    "date": "2025-07-07",
+    "content": "hi ",
+    "coverImage": ""
+  },
+  {
+    "title": "Welcome to LatinEd!",
+    "slug": "welcome-to-latined",
+    "date": "2025-07-07",
+    "content": "This is your first blog post. Start writing more to inspire Latin students!",
+    "coverImage": ""
+  }
+]

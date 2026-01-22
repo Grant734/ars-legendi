@@ -1,0 +1,1202 @@
+[
+  {
+    "lemma": "amicus",
+    "english": "friend",
+    "entry": "amicus, -i (m.)",
+    "declension": 2,
+    "category": "people",
+    "distractors": [
+      "enemy",
+      "stranger",
+      "king"
+    ]
+  },
+  {
+    "lemma": "animus",
+    "english": "spirit; mind",
+    "entry": "animus, -i (m.)",
+    "declension": 2,
+    "category": "abstract",
+    "distractors": [
+      "body",
+      "law",
+      "stone"
+    ]
+  },
+  {
+    "lemma": "annus",
+    "english": "year",
+    "entry": "annus, -i (m.)",
+    "declension": 2,
+    "category": "time",
+    "distractors": [
+      "day",
+      "hour",
+      "month"
+    ]
+  },
+  {
+    "lemma": "campus",
+    "english": "plain; field",
+    "entry": "campus, -i (m.)",
+    "declension": 2,
+    "category": "nature",
+    "distractors": [
+      "mountain",
+      "forest",
+      "river"
+    ]
+  },
+  {
+    "lemma": "cibus",
+    "english": "food",
+    "entry": "cibus, -i (m.)",
+    "declension": 2,
+    "category": "household",
+    "distractors": [
+      "water",
+      "fire",
+      "air"
+    ]
+  },
+  {
+    "lemma": "dominus",
+    "english": "master; lord",
+    "entry": "dominus, -i (m.)",
+    "declension": 2,
+    "category": "household",
+    "distractors": [
+      "slave",
+      "queen",
+      "priest"
+    ]
+  },
+  {
+    "lemma": "deus",
+    "english": "god",
+    "entry": "deus, -i (m.)",
+    "declension": 2,
+    "category": "religion",
+    "distractors": [
+      "king",
+      "hero",
+      "prophet"
+    ]
+  },
+  {
+    "lemma": "equus",
+    "english": "horse",
+    "entry": "equus, -i (m.)",
+    "declension": 2,
+    "category": "animals",
+    "distractors": [
+      "cow",
+      "sheep",
+      "wolf"
+    ]
+  },
+  {
+    "lemma": "filius",
+    "english": "son",
+    "entry": "filius, -i (m.)",
+    "declension": 2,
+    "category": "household",
+    "distractors": [
+      "daughter",
+      "mother",
+      "slave"
+    ]
+  },
+  {
+    "lemma": "gladius",
+    "english": "sword",
+    "entry": "gladius, -i (m.)",
+    "declension": 2,
+    "category": "war",
+    "distractors": [
+      "shield",
+      "helmet",
+      "spear"
+    ]
+  },
+  {
+    "lemma": "hortus",
+    "english": "garden",
+    "entry": "hortus, -i (m.)",
+    "declension": 2,
+    "category": "places",
+    "distractors": [
+      "house",
+      "temple",
+      "road"
+    ]
+  },
+  {
+    "lemma": "legatus",
+    "english": "envoy; lieutenant",
+    "entry": "legatus, -i (m.)",
+    "declension": 2,
+    "category": "war",
+    "distractors": [
+      "soldier",
+      "king",
+      "judge"
+    ]
+  },
+  {
+    "lemma": "lupus",
+    "english": "wolf",
+    "entry": "lupus, -i (m.)",
+    "declension": 2,
+    "category": "animals",
+    "distractors": [
+      "dog",
+      "lion",
+      "bear"
+    ]
+  },
+  {
+    "lemma": "murus",
+    "english": "wall",
+    "entry": "murus, -i (m.)",
+    "declension": 2,
+    "category": "city",
+    "distractors": [
+      "gate",
+      "tower",
+      "bridge"
+    ]
+  },
+  {
+    "lemma": "numerus",
+    "english": "number",
+    "entry": "numerus, -i (m.)",
+    "declension": 2,
+    "category": "education",
+    "distractors": [
+      "letter",
+      "word",
+      "map"
+    ]
+  },
+  {
+    "lemma": "oculus",
+    "english": "eye",
+    "entry": "oculus, -i (m.)",
+    "declension": 2,
+    "category": "the body",
+    "distractors": [
+      "ear",
+      "hand",
+      "foot"
+    ]
+  },
+  {
+    "lemma": "porcus",
+    "english": "pig",
+    "entry": "porcus, -i (m.)",
+    "declension": 2,
+    "category": "animals",
+    "distractors": [
+      "cow",
+      "goat",
+      "horse"
+    ]
+  },
+  {
+    "lemma": "servus",
+    "english": "slave",
+    "entry": "servus, -i (m.)",
+    "declension": 2,
+    "category": "people",
+    "distractors": [
+      "master",
+      "citizen",
+      "friend"
+    ]
+  },
+  {
+    "lemma": "taurus",
+    "english": "bull",
+    "entry": "taurus, -i (m.)",
+    "declension": 2,
+    "category": "animals",
+    "distractors": [
+      "cow",
+      "goat",
+      "horse"
+    ]
+  },
+  {
+    "lemma": "ventus",
+    "english": "wind",
+    "entry": "ventus, -i (m.)",
+    "declension": 2,
+    "category": "nature",
+    "distractors": [
+      "rain",
+      "snow",
+      "cloud"
+    ]
+  },
+  {
+    "lemma": "vulgus",
+    "english": "the common people",
+    "entry": "vulgus, -i (n.)",
+    "declension": 2,
+    "category": "society",
+    "distractors": [
+      "king",
+      "senate",
+      "army"
+    ]
+  },
+  {
+    "lemma": "carrus",
+    "english": "wagon",
+    "entry": "carrus, -i (m.)",
+    "declension": 2,
+    "category": "travel",
+    "distractors": [
+      "ship",
+      "horse",
+      "road"
+    ]
+  },
+  {
+    "lemma": "cervus",
+    "english": "stag",
+    "entry": "cervus, -i (m.)",
+    "declension": 2,
+    "category": "animals",
+    "distractors": [
+      "boar",
+      "wolf",
+      "eagle"
+    ]
+  },
+  {
+    "lemma": "cuculus",
+    "english": "cuckoo",
+    "entry": "cuculus, -i (m.)",
+    "declension": 2,
+    "category": "animals",
+    "distractors": [
+      "hawk",
+      "dove",
+      "goose"
+    ]
+  },
+  {
+    "lemma": "hortulus",
+    "english": "little garden",
+    "entry": "hortulus, -i (m.)",
+    "declension": 2,
+    "category": "places",
+    "distractors": [
+      "field",
+      "forest",
+      "river"
+    ]
+  },
+  {
+    "lemma": "loculus",
+    "english": "little box",
+    "entry": "loculus, -i (m.)",
+    "declension": 2,
+    "category": "objects",
+    "distractors": [
+      "table",
+      "door",
+      "wall"
+    ]
+  },
+  {
+    "lemma": "ager",
+    "english": "field",
+    "entry": "ager, agri (m.)",
+    "declension": 2,
+    "category": "nature",
+    "distractors": [
+      "forest",
+      "sea",
+      "mountain"
+    ]
+  },
+  {
+    "lemma": "ager publicus",
+    "english": "public land",
+    "entry": "ager publicus, agri publici (m.)",
+    "declension": 2,
+    "category": "society",
+    "distractors": [
+      "law",
+      "tax",
+      "market"
+    ]
+  },
+  {
+    "lemma": "magister",
+    "english": "teacher",
+    "entry": "magister, magistri (m.)",
+    "declension": 2,
+    "category": "education",
+    "distractors": [
+      "student",
+      "parent",
+      "judge"
+    ]
+  },
+  {
+    "lemma": "liber",
+    "english": "book",
+    "entry": "liber, libri (m.)",
+    "declension": 2,
+    "category": "objects",
+    "distractors": [
+      "pen",
+      "tablet",
+      "scroll"
+    ]
+  },
+  {
+    "lemma": "puer",
+    "english": "boy",
+    "entry": "puer, pueri (m.)",
+    "declension": 2,
+    "category": "people",
+    "distractors": [
+      "girl",
+      "man",
+      "soldier"
+    ]
+  },
+  {
+    "lemma": "vir",
+    "english": "man",
+    "entry": "vir, viri (m.)",
+    "declension": 2,
+    "category": "people",
+    "distractors": [
+      "woman",
+      "boy",
+      "king"
+    ]
+  },
+  {
+    "lemma": "socius",
+    "english": "ally; companion",
+    "entry": "socius, -i (m.)",
+    "declension": 2,
+    "category": "people",
+    "distractors": [
+      "enemy",
+      "stranger",
+      "slave"
+    ]
+  },
+  {
+    "lemma": "damnatus",
+    "english": "convict",
+    "entry": "damnatus, -i (m.)",
+    "declension": 2,
+    "category": "justice",
+    "distractors": [
+      "judge",
+      "lawyer",
+      "witness"
+    ]
+  },
+  {
+    "lemma": "auxilium",
+    "english": "help; aid",
+    "entry": "auxilium, -i (n.)",
+    "declension": 2,
+    "category": "abstract",
+    "distractors": [
+      "harm",
+      "war",
+      "anger"
+    ]
+  },
+  {
+    "lemma": "bellum",
+    "english": "war",
+    "entry": "bellum, -i (n.)",
+    "declension": 2,
+    "category": "war",
+    "distractors": [
+      "peace",
+      "treaty",
+      "friendship"
+    ]
+  },
+  {
+    "lemma": "bracchium",
+    "english": "arm",
+    "entry": "bracchium, -i (n.)",
+    "declension": 2,
+    "category": "the body",
+    "distractors": [
+      "leg",
+      "head",
+      "heart"
+    ]
+  },
+  {
+    "lemma": "caelum",
+    "english": "sky; heaven",
+    "entry": "caelum, -i (n.)",
+    "declension": 2,
+    "category": "nature",
+    "distractors": [
+      "sea",
+      "earth",
+      "mountain"
+    ]
+  },
+  {
+    "lemma": "consilium",
+    "english": "plan; advice",
+    "entry": "consilium, -i (n.)",
+    "declension": 2,
+    "category": "abstract",
+    "distractors": [
+      "battle",
+      "city",
+      "river"
+    ]
+  },
+  {
+    "lemma": "cubiculum",
+    "english": "bedroom",
+    "entry": "cubiculum, -i (n.)",
+    "declension": 2,
+    "category": "household",
+    "distractors": [
+      "kitchen",
+      "garden",
+      "hall"
+    ]
+  },
+  {
+    "lemma": "donum",
+    "english": "gift",
+    "entry": "donum, -i (n.)",
+    "declension": 2,
+    "category": "social",
+    "distractors": [
+      "tax",
+      "penalty",
+      "wage"
+    ]
+  },
+  {
+    "lemma": "exemplum",
+    "english": "example",
+    "entry": "exemplum, -i (n.)",
+    "declension": 2,
+    "category": "education",
+    "distractors": [
+      "law",
+      "weapon",
+      "disease"
+    ]
+  },
+  {
+    "lemma": "ferrum",
+    "english": "iron; sword",
+    "entry": "ferrum, -i (n.)",
+    "declension": 2,
+    "category": "war",
+    "distractors": [
+      "shield",
+      "helmet",
+      "sling"
+    ]
+  },
+  {
+    "lemma": "folium",
+    "english": "leaf",
+    "entry": "folium, -i (n.)",
+    "declension": 2,
+    "category": "nature",
+    "distractors": [
+      "root",
+      "seed",
+      "branch"
+    ]
+  },
+  {
+    "lemma": "forum",
+    "english": "forum; marketplace",
+    "entry": "forum, -i (n.)",
+    "declension": 2,
+    "category": "city",
+    "distractors": [
+      "temple",
+      "theater",
+      "bath"
+    ]
+  },
+  {
+    "lemma": "gaudium",
+    "english": "joy",
+    "entry": "gaudium, -i (n.)",
+    "declension": 2,
+    "category": "emotions",
+    "distractors": [
+      "anger",
+      "fear",
+      "pain"
+    ]
+  },
+  {
+    "lemma": "imperium",
+    "english": "command; empire",
+    "entry": "imperium, -i (n.)",
+    "declension": 2,
+    "category": "government",
+    "distractors": [
+      "senate",
+      "law",
+      "citizen"
+    ]
+  },
+  {
+    "lemma": "negotium",
+    "english": "business",
+    "entry": "negotium, -i (n.)",
+    "declension": 2,
+    "category": "business",
+    "distractors": [
+      "leisure",
+      "sleep",
+      "holiday"
+    ]
+  },
+  {
+    "lemma": "otium",
+    "english": "leisure",
+    "entry": "otium, -i (n.)",
+    "declension": 2,
+    "category": "abstract",
+    "distractors": [
+      "war",
+      "work",
+      "storm"
+    ]
+  },
+  {
+    "lemma": "oppidum",
+    "english": "town",
+    "entry": "oppidum, -i (n.)",
+    "declension": 2,
+    "category": "places",
+    "distractors": [
+      "forest",
+      "river",
+      "mountain"
+    ]
+  },
+  {
+    "lemma": "periculum",
+    "english": "danger",
+    "entry": "periculum, -i (n.)",
+    "declension": 2,
+    "category": "abstract",
+    "distractors": [
+      "safety",
+      "help",
+      "reward"
+    ]
+  },
+  {
+    "lemma": "praemium",
+    "english": "reward",
+    "entry": "praemium, -i (n.)",
+    "declension": 2,
+    "category": "social",
+    "distractors": [
+      "punishment",
+      "blame",
+      "debt"
+    ]
+  },
+  {
+    "lemma": "proelium",
+    "english": "battle",
+    "entry": "proelium, -i (n.)",
+    "declension": 2,
+    "category": "war",
+    "distractors": [
+      "treaty",
+      "banquet",
+      "journey"
+    ]
+  },
+  {
+    "lemma": "regnum",
+    "english": "kingdom",
+    "entry": "regnum, -i (n.)",
+    "declension": 2,
+    "category": "government",
+    "distractors": [
+      "senate",
+      "consulship",
+      "city"
+    ]
+  },
+  {
+    "lemma": "saxum",
+    "english": "rock; boulder",
+    "entry": "saxum, -i (n.)",
+    "declension": 2,
+    "category": "nature",
+    "distractors": [
+      "tree",
+      "river",
+      "cloud"
+    ]
+  },
+  {
+    "lemma": "signum",
+    "english": "sign; signal",
+    "entry": "signum, -i (n.)",
+    "declension": 2,
+    "category": "war",
+    "distractors": [
+      "sword",
+      "helmet",
+      "shield"
+    ]
+  },
+  {
+    "lemma": "studium",
+    "english": "eagerness; study",
+    "entry": "studium, -i (n.)",
+    "declension": 2,
+    "category": "education",
+    "distractors": [
+      "game",
+      "sleep",
+      "food"
+    ]
+  },
+  {
+    "lemma": "templum",
+    "english": "temple",
+    "entry": "templum, -i (n.)",
+    "declension": 2,
+    "category": "religion",
+    "distractors": [
+      "palace",
+      "house",
+      "road"
+    ]
+  },
+  {
+    "lemma": "telum",
+    "english": "spear; missile",
+    "entry": "telum, -i (n.)",
+    "declension": 2,
+    "category": "war",
+    "distractors": [
+      "shield",
+      "helmet",
+      "camp"
+    ]
+  },
+  {
+    "lemma": "verbum",
+    "english": "word",
+    "entry": "verbum, -i (n.)",
+    "declension": 2,
+    "category": "writing",
+    "distractors": [
+      "letter",
+      "book",
+      "speech"
+    ]
+  },
+  {
+    "lemma": "vinum",
+    "english": "wine",
+    "entry": "vinum, -i (n.)",
+    "declension": 2,
+    "category": "household",
+    "distractors": [
+      "water",
+      "bread",
+      "milk"
+    ]
+  },
+  {
+    "lemma": "vitium",
+    "english": "fault; vice",
+    "entry": "vitium, -i (n.)",
+    "declension": 2,
+    "category": "abstract",
+    "distractors": [
+      "virtue",
+      "law",
+      "gift"
+    ]
+  },
+  {
+    "lemma": "aurum",
+    "english": "gold",
+    "entry": "aurum, -i (n.)",
+    "declension": 2,
+    "category": "objects",
+    "distractors": [
+      "silver",
+      "bronze",
+      "iron"
+    ]
+  },
+  {
+    "lemma": "argentum",
+    "english": "silver",
+    "entry": "argentum, -i (n.)",
+    "declension": 2,
+    "category": "objects",
+    "distractors": [
+      "gold",
+      "bronze",
+      "iron"
+    ]
+  },
+  {
+    "lemma": "lignum",
+    "english": "wood; log",
+    "entry": "lignum, -i (n.)",
+    "declension": 2,
+    "category": "objects",
+    "distractors": [
+      "stone",
+      "clay",
+      "glass"
+    ]
+  },
+  {
+    "lemma": "tectum",
+    "english": "roof; house",
+    "entry": "tectum, -i (n.)",
+    "declension": 2,
+    "category": "household",
+    "distractors": [
+      "wall",
+      "gate",
+      "bridge"
+    ]
+  },
+  {
+    "lemma": "collum",
+    "english": "neck",
+    "entry": "collum, -i (n.)",
+    "declension": 2,
+    "category": "the body",
+    "distractors": [
+      "hand",
+      "foot",
+      "eye"
+    ]
+  },
+  {
+    "lemma": "humerus",
+    "english": "shoulder",
+    "entry": "humerus, -i (m.)",
+    "declension": 2,
+    "category": "the body",
+    "distractors": [
+      "knee",
+      "head",
+      "heart"
+    ]
+  },
+  {
+    "lemma": "malum",
+    "english": "apple",
+    "entry": "malum, -i (n.)",
+    "declension": 2,
+    "category": "food",
+    "distractors": [
+      "bread",
+      "meat",
+      "milk"
+    ]
+  },
+  {
+    "lemma": "frumentum",
+    "english": "grain",
+    "entry": "frumentum, -i (n.)",
+    "declension": 2,
+    "category": "business",
+    "distractors": [
+      "wine",
+      "oil",
+      "salt"
+    ]
+  },
+  {
+    "lemma": "oleum",
+    "english": "oil",
+    "entry": "oleum, -i (n.)",
+    "declension": 2,
+    "category": "household",
+    "distractors": [
+      "water",
+      "fire",
+      "air"
+    ]
+  },
+  {
+    "lemma": "caseus",
+    "english": "cheese",
+    "entry": "caseus, -i (m.)",
+    "declension": 2,
+    "category": "food",
+    "distractors": [
+      "bread",
+      "wine",
+      "salt"
+    ]
+  },
+  {
+    "lemma": "arcus",
+    "english": "arch; bow",
+    "entry": "arcus, -i (m.)",
+    "declension": 2,
+    "category": "objects",
+    "distractors": [
+      "bridge",
+      "gate",
+      "tower"
+    ]
+  },
+  {
+    "lemma": "balneum",
+    "english": "bath",
+    "entry": "balneum, -i (n.)",
+    "declension": 2,
+    "category": "city",
+    "distractors": [
+      "forum",
+      "theater",
+      "temple"
+    ]
+  },
+  {
+    "lemma": "castrum",
+    "english": "fort (usually pl. castra 'camp')",
+    "entry": "castrum, -i (n.)",
+    "declension": 2,
+    "category": "war",
+    "distractors": [
+      "tower",
+      "wall",
+      "gate"
+    ]
+  },
+  {
+    "lemma": "collegium",
+    "english": "guild",
+    "entry": "collegium, -i (n.)",
+    "declension": 2,
+    "category": "society",
+    "distractors": [
+      "army",
+      "senate",
+      "church"
+    ]
+  },
+  {
+    "lemma": "ministerium",
+    "english": "service; office",
+    "entry": "ministerium, -i (n.)",
+    "declension": 2,
+    "category": "government",
+    "distractors": [
+      "war",
+      "sleep",
+      "journey"
+    ]
+  },
+  {
+    "lemma": "monumentum",
+    "english": "monument",
+    "entry": "monumentum, -i (n.)",
+    "declension": 2,
+    "category": "city",
+    "distractors": [
+      "temple",
+      "forum",
+      "gate"
+    ]
+  },
+  {
+    "lemma": "oppidum Latinum",
+    "english": "Latin town",
+    "entry": "oppidum Latinum, -i (n.)",
+    "declension": 2,
+    "category": "places",
+    "distractors": [
+      "mountain",
+      "river",
+      "forest"
+    ]
+  },
+  {
+    "lemma": "ostium",
+    "english": "doorway; mouth (of river)",
+    "entry": "ostium, -i (n.)",
+    "declension": 2,
+    "category": "nature",
+    "distractors": [
+      "island",
+      "lake",
+      "field"
+    ]
+  },
+  {
+    "lemma": "scutum",
+    "english": "shield",
+    "entry": "scutum, -i (n.)",
+    "declension": 2,
+    "category": "war",
+    "distractors": [
+      "sword",
+      "helmet",
+      "spear"
+    ]
+  },
+  {
+    "lemma": "solium",
+    "english": "throne",
+    "entry": "solium, -i (n.)",
+    "declension": 2,
+    "category": "government",
+    "distractors": [
+      "senate",
+      "law",
+      "tax"
+    ]
+  },
+  {
+    "lemma": "theatrum",
+    "english": "theater",
+    "entry": "theatrum, -i (n.)",
+    "declension": 2,
+    "category": "city",
+    "distractors": [
+      "forum",
+      "bath",
+      "temple"
+    ]
+  },
+  {
+    "lemma": "vallum",
+    "english": "rampart",
+    "entry": "vallum, -i (n.)",
+    "declension": 2,
+    "category": "war",
+    "distractors": [
+      "tower",
+      "gate",
+      "road"
+    ]
+  },
+  {
+    "lemma": "vitellus",
+    "english": "calf",
+    "entry": "vitellus, -i (m.)",
+    "declension": 2,
+    "category": "animals",
+    "distractors": [
+      "cow",
+      "goat",
+      "sheep"
+    ]
+  },
+  {
+    "lemma": "bustum",
+    "english": "pyre; tomb",
+    "entry": "bustum, -i (n.)",
+    "declension": 2,
+    "category": "religion",
+    "distractors": [
+      "altar",
+      "temple",
+      "statue"
+    ]
+  },
+  {
+    "lemma": "clavus",
+    "english": "nail",
+    "entry": "clavus, -i (m.)",
+    "declension": 2,
+    "category": "objects",
+    "distractors": [
+      "hammer",
+      "saw",
+      "rope"
+    ]
+  },
+  {
+    "lemma": "digitus",
+    "english": "finger",
+    "entry": "digitus, -i (m.)",
+    "declension": 2,
+    "category": "the body",
+    "distractors": [
+      "toe",
+      "hand",
+      "arm"
+    ]
+  },
+  {
+    "lemma": "humus",
+    "english": "ground",
+    "entry": "humus, -i (f.)",
+    "declension": 2,
+    "category": "nature",
+    "distractors": [
+      "sky",
+      "sea",
+      "mountain"
+    ]
+  },
+  {
+    "lemma": "locus",
+    "english": "place",
+    "entry": "locus, -i (m.)",
+    "declension": 2,
+    "category": "places",
+    "distractors": [
+      "road",
+      "river",
+      "forest"
+    ]
+  },
+  {
+    "lemma": "modius",
+    "english": "measure; peck",
+    "entry": "modius, -i (m.)",
+    "declension": 2,
+    "category": "business",
+    "distractors": [
+      "coin",
+      "price",
+      "tax"
+    ]
+  },
+  {
+    "lemma": "modus",
+    "english": "manner; way",
+    "entry": "modus, -i (m.)",
+    "declension": 2,
+    "category": "abstract",
+    "distractors": [
+      "law",
+      "weapon",
+      "weather"
+    ]
+  },
+  {
+    "lemma": "mundus",
+    "english": "world",
+    "entry": "mundus, -i (m.)",
+    "declension": 2,
+    "category": "nature",
+    "distractors": [
+      "city",
+      "house",
+      "camp"
+    ]
+  },
+  {
+    "lemma": "nuntius",
+    "english": "messenger",
+    "entry": "nuntius, -i (m.)",
+    "declension": 2,
+    "category": "people",
+    "distractors": [
+      "soldier",
+      "king",
+      "judge"
+    ]
+  },
+  {
+    "lemma": "pilum",
+    "english": "javelin",
+    "entry": "pilum, -i (n.)",
+    "declension": 2,
+    "category": "war",
+    "distractors": [
+      "bow",
+      "arrow",
+      "spear"
+    ]
+  },
+  {
+    "lemma": "ramus",
+    "english": "branch",
+    "entry": "ramus, -i (m.)",
+    "declension": 2,
+    "category": "nature",
+    "distractors": [
+      "leaf",
+      "root",
+      "seed"
+    ]
+  },
+  {
+    "lemma": "sonus",
+    "english": "sound",
+    "entry": "sonus, -i (m.)",
+    "declension": 2,
+    "category": "abstract",
+    "distractors": [
+      "silence",
+      "light",
+      "color"
+    ]
+  },
+  {
+    "lemma": "somnus",
+    "english": "sleep",
+    "entry": "somnus, -i (m.)",
+    "declension": 2,
+    "category": "time",
+    "distractors": [
+      "day",
+      "work",
+      "war"
+    ]
+  },
+  {
+    "lemma": "stylus",
+    "english": "stylus",
+    "entry": "stylus, -i (m.)",
+    "declension": 2,
+    "category": "writing",
+    "distractors": [
+      "tablet",
+      "book",
+      "ink"
+    ]
+  },
+  {
+    "lemma": "tumulus",
+    "english": "mound; tomb",
+    "entry": "tumulus, -i (m.)",
+    "declension": 2,
+    "category": "places",
+    "distractors": [
+      "hill",
+      "river",
+      "road"
+    ]
+  }
+]

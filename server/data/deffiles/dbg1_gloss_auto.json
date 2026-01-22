@@ -1,0 +1,1563 @@
+{
+  "meta": {
+    "source": "Lewis & Short plaintext",
+    "generated_from": "/Users/grant/latin-edu-website/server/data/lexicon/lewis_short.txt",
+    "dbg1_lemma_count": 1688,
+    "matched": 270,
+    "missing": 1418
+  },
+  "by_lemma": {
+    "gallia": {
+      "gloss": "ae, v. 1. Galli, II. A.",
+      "source": "Lewis&Short",
+      "matched_key": "gallia"
+    },
+    "sum": {
+      "gloss": "fŭi, esse (2d pers. ĕs, but usu. ēs in Plaut and Ter; old forms, indic. pres. esum for sum, acc. to Varr. L. L. 9, § 100 Müll.: essis for es, Att. ap. Non. 200, 30, or Trag. Rel. p…",
+      "source": "Lewis&Short",
+      "matched_key": "sum"
+    },
+    "in": {
+      "gloss": "im; before l, m, and r, the n assimilates itself to these consonants), an inseparable particle [kindred with Sanscr. a-, an-; Gr. ἀ-, ἀν; Goth. and Germ. un-], which negatives the…",
+      "source": "Lewis&Short",
+      "matched_key": "in"
+    },
+    "tres": {
+      "gloss": "ōrum, m., three men holding an office together, or associated in public business, a board of three, three joint commissioners; as overseers of prisons, Plaut. Am. 1, 1, 3; id. Aul.…",
+      "source": "Lewis&Short",
+      "matched_key": "tres"
+    },
+    "qui": {
+      "gloss": "quae, quod (old forms: nom. quei; gen. quojus; dat. quoi, and in inscrr. QVOEI, QVOIEI, and QVEI; abl. qui; plur. ques or queis; fem. QVAI; neutr. qua; dat. and abl. queis and quĭs…",
+      "source": "Lewis&Short",
+      "matched_key": "qui"
+    },
+    "ipse": {
+      "gloss": "Cato, R. R. 70; 71; Plaut. Ps. 4, 7, 43; id. Trin. 2, 2, 40; 3, 1, 10 et saep.; Ter. And. 3, 2, 15; id. Eun. 3, 4, 8, id. Hec. 3, 5, 5; Jusjur. Milit. ap. Gell. 16, 4, 4 al.), a, u…",
+      "source": "Lewis&Short",
+      "matched_key": "ipse"
+    },
+    "lingua": {
+      "gloss": "lingua (ante-class. form dingua, like dagrima for lacrima, Mar. Victorin. p. 2457 and 2470 P.; cf. the letter D), ae, f. Sanscr. jihvā; original Lat. form. dingua; A. -S. tunga; Ge…",
+      "source": "Lewis&Short",
+      "matched_key": "lingua"
+    },
+    "noster": {
+      "gloss": "stra, strum (gen. sing. f. nostrāï, Vel. Long. p. 2222 P.; gen. plur. nostrum, Plaut. Men. 1, 2, 25; v. infra.), pron. poss. [nos], our, our own; ours, of us. In gen. For the poss.…",
+      "source": "Lewis&Short",
+      "matched_key": "noster"
+    },
+    "gallus": {
+      "gloss": "i, m. kindr. to Sanscr. grī, cry; Gr. γῆρυς, speech; Lat. garrio, garrulus; Engl. call, a cock, dunghill-cock, Varr. R. R. 2, 10, 4; 3, 9, 3; Cic. Div. 2, 26, 56 sq.; Juv. 13, 233;…",
+      "source": "Lewis&Short",
+      "matched_key": "gallus"
+    },
+    "appello": {
+      "gloss": "Fleck., Halm (in Tac.); app-, Merk., B. and K., Rib., Weissenb., Halm (in Nep.), pŭli, pulsum, 3, v. a. and n., to drive, move or bring a person or thing to or toward. In gen. Lit.…",
+      "source": "Lewis&Short",
+      "matched_key": "appello"
+    },
+    "lex": {
+      "gloss": "lēgis, f. perh. Sanscr. root lag-, lig-, to fasten; Lat. ligo, to bind, oblige; cf. religio, a proposition or motion for a law made to the people by a magistrate, a bill (cf. insti…",
+      "source": "Lewis&Short",
+      "matched_key": "lex"
+    },
+    "inter": {
+      "gloss": "adv., and prep. with acc. [kindred to in, intra; Sanscr. antar; Goth. undar; Germ. unter; Engl. under]. Adv., in the midst, in between (poet. and rare): dumque pii petit ora patris…",
+      "source": "Lewis&Short",
+      "matched_key": "inter"
+    },
+    "ab": {
+      "gloss": "āre, v. freq. a. ab or adbrevio, to shorten, abridge, Veg. Mil. 3 prol.; Vulg. Isa. 10, 22; ib. Rom. 9, 28.",
+      "source": "Lewis&Short",
+      "matched_key": "ab"
+    },
+    "fortis": {
+      "gloss": "fortis (archaic form FORCTIS, Fragm. XII. Tab. ap. Fest. s. v. sanates, p. 348 Müll.; cf. Paul. ex Fest. p. 84; and perh. also in the form FORCTUS; v. id. s. v. horctum, p. 102; cf…",
+      "source": "Lewis&Short",
+      "matched_key": "fortis"
+    },
+    "quod": {
+      "gloss": "conj. [acc. resp., from qui]. That, in that, because (cf.: quia, quoniam): cum tibi agam gratias quod me vivere coëgisti, Cic. Att. 3, 3, 1: mirari, Cato se aiebat, quod non ridere…",
+      "source": "Lewis&Short",
+      "matched_key": "quod"
+    },
+    "cultus": {
+      "gloss": "a, um, Part. and P. a., from 1. colo.",
+      "source": "Lewis&Short",
+      "matched_key": "cultus"
+    },
+    "atque": {
+      "gloss": "atque or āc (atque is used before vowels and consonants, ac, in class",
+      "source": "Lewis&Short",
+      "matched_key": "atque"
+    },
+    "absum": {
+      "gloss": "āfui (better than abfui), āfŭtārus (aforem, afore), v",
+      "source": "Lewis&Short",
+      "matched_key": "absum"
+    },
+    "ad": {
+      "gloss": "prep. with acc. (from the fourth century after Christ written also at; Etrusc. suf. -a; Osc. az; Umbr. and Old Lat. ar, as in Eug. Tab., in S. C. de Bacch., as arveho for adveho; a…",
+      "source": "Lewis&Short",
+      "matched_key": "ad"
+    },
+    "is": {
+      "gloss": "ĕa, id (m. eis, C. I. L. 1, 198; n. it, ib. 5, 875 al., and freq. in MSS. of Plaut.), gen. ējus (old form eiius, C. I. L. 3, 1365 et saep.; v. Prisc. 1, 4, 18, p. 545; also etius,…",
+      "source": "Lewis&Short",
+      "matched_key": "is"
+    },
+    "saepe": {
+      "gloss": "adv. old acc. n. of saepis. Often, oft, oftentimes, many times, frequently (at indefinite intervals, while crebro denotes in close succession): aperitur ostium, unde saturitate sae…",
+      "source": "Lewis&Short",
+      "matched_key": "saepe"
+    },
+    "importo": {
+      "gloss": "āvi, ātum, 1, v. a. inporto, to bring, carry, or convey into, to bring in from abroad, to import (class.). Lit.: qui (D. Laelius) commeatus Bullide atque Amantia importari in oppid…",
+      "source": "Lewis&Short",
+      "matched_key": "importo"
+    },
+    "trans": {
+      "gloss": "prep. with acc. [Sanscr. tar-, to put across; tiram, brink; Gr. τέρμα, goal; Lat. terminus, etc.], across, over, beyond, on the farther side of. With verbs of motion: trans mare hi…",
+      "source": "Lewis&Short",
+      "matched_key": "trans"
+    },
+    "bellum": {
+      "gloss": "bellum (ante-class. and poet. duel-lum), i, n. Sanscr. dva, dvi, dus; cf. Germ. zwei; Engl. two, twice; for the change from initial du- to b-, cf. bis for duis, and v. the letter B…",
+      "source": "Lewis&Short",
+      "matched_key": "bellum"
+    },
+    "cum": {
+      "gloss": "cum (archaic form COM, found in an inscr",
+      "source": "Lewis&Short",
+      "matched_key": "cum"
+    },
+    "contendo": {
+      "gloss": "di, tum, 3, v. a. and n., to stretch, stretch out vigorously, to draw tight, strain. Lit. (rare and mostly poet.): arcum, Verg. A. 12, 815; Ov. M. 6, 286; id. R. Am. 435: tormenta,…",
+      "source": "Lewis&Short",
+      "matched_key": "contendo"
+    },
+    "aut": {
+      "gloss": "conj. [aut, Osc. auti, Umbr. ote, ute, may be a modification of autem, as at of et, the suffix -t being a relic of the demonstrative -tem, which appears in item, and is the same as…",
+      "source": "Lewis&Short",
+      "matched_key": "aut"
+    },
+    "attingo": {
+      "gloss": "tĭgi, tactum, 3, v. a. tango (ante-class. form attĭgo, ĕre, v. infra; attinge = attingam, acc. to Paul. ex Fest. p. 26 Müll.; v. Müll. ad h. l.; concerning attigo, āre, v. fin.), t…",
+      "source": "Lewis&Short",
+      "matched_key": "attingo"
+    },
+    "vergo": {
+      "gloss": "ĕre (perf. and sup. wanting, acc. to Neue, Formenl. 2, pp. 507, 584; but versi is assumed as perf. by Prob. Cath. 1486, and is read, Ov. P. 1, 9, 52, by Merkel, ex conj. for the MS…",
+      "source": "Lewis&Short",
+      "matched_key": "vergo"
+    },
+    "mons": {
+      "gloss": "tis (archaic abl. montei, Enn. ap. Non. 222, 33; cf. Ann. v. 420 Vahl.), m. etym. dub., perh. from the root min, whence also, emineo, mentum, minari; cf. minae; lit. a projecting b…",
+      "source": "Lewis&Short",
+      "matched_key": "mons"
+    },
+    "m.": {
+      "gloss": "M",
+      "source": "Lewis&Short",
+      "matched_key": "m"
+    },
+    "p.": {
+      "gloss": "P",
+      "source": "Lewis&Short",
+      "matched_key": "p"
+    },
+    "m": {
+      "gloss": "M",
+      "source": "Lewis&Short",
+      "matched_key": "m"
+    },
+    "regnum": {
+      "gloss": "i, n. rex, kingly government, royal authority, kingship, royalty (cf.: imperium, principatus): cum penes unum est omnium summa rerum, regem illum unum vocamus et regnum ejus rei pu…",
+      "source": "Lewis&Short",
+      "matched_key": "regnum"
+    },
+    "ut": {
+      "gloss": "adv., as namely, namely, as being, as, seeing that, inasmuch as, since (rare but class.; cf. quippe); introducing an explanation. Usually with a pron. rel.: satis nequam sum, utpot…",
+      "source": "Lewis&Short",
+      "matched_key": "ut"
+    },
+    "ex": {
+      "gloss": "āre, to abound exceedingly (late Lat.): immensarum divitiarum copiis, Salv. adv. Avar. 4, 6.",
+      "source": "Lewis&Short",
+      "matched_key": "ex"
+    },
+    "altus": {
+      "gloss": "ūs, m. alo, a nourishing, support: terrae altu, Macr. S. 1, 20 fin. ālūcĭnātĭo (all- or hall-), ōnis, f. alucinor, a wandering of mind, dreaminess, revery (acc. to Non. 121, 20, us…",
+      "source": "Lewis&Short",
+      "matched_key": "altus"
+    },
+    "possum": {
+      "gloss": "pŏtŭi, posse, v. n. irreg. (old forms, potis sum, for possum, Plaut. Poen. 5, 2, 26; id. Curc. 5, 3, 23; so, potis est, id. Ps. 1, 1, 41: potis sunt, for possunt, id. Poen. 1, 2, 1…",
+      "source": "Lewis&Short",
+      "matched_key": "possum"
+    },
+    "bello": {
+      "gloss": "āvi, ātum, āre, 1, v. n. bellum. Prop., to wage or carry on war, to war, to fight in war (class.; cf.: milito, proelior). Absol.: fuit proprium populi Romani longe a domo bellare,…",
+      "source": "Lewis&Short",
+      "matched_key": "bello"
+    },
+    "magnus": {
+      "gloss": "i, m., a Roman surname, e. g. Cn. Pompeius Magnus; v. Pompeius. Māgo and Māgon, ōnis, m., Μάγων. A Carthaginian, the brother of Hannibal, Nep. Hann. 7, 4; 8, 2; Liv. 21, 47; 4, 6;…",
+      "source": "Lewis&Short",
+      "matched_key": "magnus"
+    },
+    "pro": {
+      "gloss": "āvi, ātum, 1, v. a., to call or cry out, to vociferate. In gen. (class.): assunt, defendunt, proclamant, Cic. Verr. 2, 5, 42, § 108: patre proclamante, se filiam jure caesam judica…",
+      "source": "Lewis&Short",
+      "matched_key": "pro"
+    },
+    "bellus": {
+      "gloss": "a, um, adj. as if for benulus, from benus = bonus, Prisc. p. 556 P.. In gen. Of persons, pretty, handsome, charming, fine, lovely, neat, pleasant, agreeable, etc. (of persons, thin…",
+      "source": "Lewis&Short",
+      "matched_key": "bellus"
+    },
+    "angustus": {
+      "gloss": "a, um. adj. v. ango, narrow, strait, esp. of local relations, close, contracted, small, not spacious (syn.: artus, brevis, contractus; opp. latus, Cic. Ac. 2, 29, 92). Lit.: fretus…",
+      "source": "Lewis&Short",
+      "matched_key": "angustus"
+    },
+    "passus": {
+      "gloss": "a, um, Part. and P. a. of 2. pando.",
+      "source": "Lewis&Short",
+      "matched_key": "passus"
+    },
+    "quam": {
+      "gloss": "quam (archaic form quamde or quande: quamde pro quam usos esse antiquos, cum multi veteres testimonio sunt, tum Ennius ... et Lucretius (1, 640), Fest. p. 261 Müll.; cf. Enn. Ann.…",
+      "source": "Lewis&Short",
+      "matched_key": "quam"
+    },
+    "pax": {
+      "gloss": "pācis, f. from the root pac, pag, pacisco, pango; whence also pagina, pagus, q. v.: pacem a pactione conditionum putat dictam Sinnius Capito, quae utrique inter se populo sit obser…",
+      "source": "Lewis&Short",
+      "matched_key": "pax"
+    },
+    "confirmo": {
+      "gloss": "āvi, ātum, 1, v. a., to make firm, establish, strengthen, confirm (class., esp. in prose). In gen. (prop. and trop.): stipites confirmare et stabilire, Caes. B. G. 7, 73: ali hōc v…",
+      "source": "Lewis&Short",
+      "matched_key": "confirmo"
+    },
+    "annus": {
+      "gloss": "i, m. acc. to some, as Corssen, Beitr. 16, for am-nus, from 2. an- am-; or acc. to others, directly from 2. anus, a ring, and kindred to the form appearing, in ἐνοαυτός, δί-ενος, τ…",
+      "source": "Lewis&Short",
+      "matched_key": "annus"
+    },
+    "tempus": {
+      "gloss": "ŏris (abl. temp. tempori or temperi; v. infra), n. etym. dub.; perh. root tem-; Gr. τέμνω; prop. a section; hence, in partic., of time. Lit., a portion or period of time, a time: t…",
+      "source": "Lewis&Short",
+      "matched_key": "tempus"
+    },
+    "magne": {
+      "gloss": "l. fals. for magna, Tac. A. 11, 36.",
+      "source": "Lewis&Short",
+      "matched_key": "magne"
+    },
+    "plebs": {
+      "gloss": "plebs (in inscriptions often PLEPS), -bis, and archaic plēbēs (‡ plēbis), is and ĕi (plebium, Prud",
+      "source": "Lewis&Short",
+      "matched_key": "plebs"
+    },
+    "do": {
+      "gloss": "dĕdi, dătum, dăre (also in a longer form, dănunt = dant, Pac",
+      "source": "Lewis&Short",
+      "matched_key": "do"
+    },
+    "factus": {
+      "gloss": "a, um, Part. and P. a., from facio.",
+      "source": "Lewis&Short",
+      "matched_key": "factus"
+    },
+    "ille": {
+      "gloss": "olle), a, ud (ollus, a, um, Enn. ap. Varr. L. L. 7, § 42 Müll.; Verg. A. 5, 197; in dramat. poets often ĭlle, v. Corss. Ausspr. II. p. 624), gen. illīus (usu. illĭus in epic and ly…",
+      "source": "Lewis&Short",
+      "matched_key": "ille"
+    },
+    "obtendo": {
+      "gloss": "di, tum, 3, v. a. To draw, stretch, spread, or place before (cf. obtego; not freq. till after the Aug. per.). Lit. Proque viro nebulam et ventos obtendere inanes, Verg. A. 10, 82:…",
+      "source": "Lewis&Short",
+      "matched_key": "obtendo"
+    },
+    "non": {
+      "gloss": "adv., the interrogative non, expecting an affirmative answer, not? In a direct interrogation: nonne ego hic sto? Plaut. Am. 1, 1, 250: nonne animadvertis? Cic. N. D. 3, 37, 89: te…",
+      "source": "Lewis&Short",
+      "matched_key": "non"
+    },
+    "ius": {
+      "gloss": "jurisjurandi (often separately jurisque jurandi, Cic",
+      "source": "Lewis&Short",
+      "matched_key": "ius"
+    },
+    "per": {
+      "gloss": "āre, v. a., to kiss heartily, Petr. 41, 8.",
+      "source": "Lewis&Short",
+      "matched_key": "per"
+    },
+    "firmus": {
+      "gloss": "a, um, adj. Sanscr. dhar-, dharā-mi, hold, support; Gr. θρᾶ-, θρή-σασθαι, to sit down, θρῆνυς, θρόνος; cf.: frētus, frēnum, firm (in opp. to frail, destructible), steadfast, stable…",
+      "source": "Lewis&Short",
+      "matched_key": "firmus"
+    },
+    "ignis": {
+      "gloss": "is (abl. usu. igni; poet. and postAug. igne; so Plin. ap. Charis. p. 98 P.; Charis. p. 33 P.; Prisc. p. 766 P.; and always in Mart., e. g. 1, 21, 5; 4, 57, 6; cf. Neue, Formenl. 1,…",
+      "source": "Lewis&Short",
+      "matched_key": "ignis"
+    },
+    "ne": {
+      "gloss": "īvi or ĭi, ītum, 4, v. a., not to know, to be ignorant (syn. ignoro): hunc nescire sat scio de illā amicā, Plaut. Merc. 2, 3, 48: nescis cui maledicas nunc viro, Ter. Eun. 4, 7, 29…",
+      "source": "Lewis&Short",
+      "matched_key": "ne"
+    },
+    "ob": {
+      "gloss": "false read. for adblaterantes, App. M. 9, p. 221, 25.",
+      "source": "Lewis&Short",
+      "matched_key": "ob"
+    },
+    "armus": {
+      "gloss": "i, m., = ἁρμός [ἄρω; v. arma inct.], pr., a joining together; the shoulder where it is fitted to the shoulder-blade, the fore quarter (opp. suffrago), and, with few exceptions, of…",
+      "source": "Lewis&Short",
+      "matched_key": "armus"
+    },
+    "mors": {
+      "gloss": "tis, f. root mor, v. morior (dat. morte, Varr. ap. Gell. 24), death in every form, natural or violent (syn.: letum, nex). Lit.: omnium rerum mors est extremum, Cic. Fam. 6, 21, 1:…",
+      "source": "Lewis&Short",
+      "matched_key": "mors"
+    },
+    "post": {
+      "gloss": "Enn. An. 235; Plaut. Most. 1, 3, 131; id. Stich. 2, 2, 56), adv. and prep. root pas-; Sanscr. pac-kas, behind; Gr. πύματος (for πόσματος); Lat. pone, postremus. Adv. Of place, behi…",
+      "source": "Lewis&Short",
+      "matched_key": "post"
+    },
+    "iam": {
+      "gloss": "adv. for diam, collat. form of diem, cf. pri-dem, du-dum, Corss. Ausspr. I. p. 213; II. p. 850; but acc. to Georg Curtius Gr. Etym. 398, 620; locat. form from pronom. stem ja. Of t…",
+      "source": "Lewis&Short",
+      "matched_key": "iam"
+    },
+    "incendo": {
+      "gloss": "di, sum, 3 (archaic form of the perf. subj. incensit = incenderit, sicut incepsit = inceperit, Paul. ex Fest. p. 107 Müll.), v. a. in-candeo; cf.: accendo and succendo, to set fire…",
+      "source": "Lewis&Short",
+      "matched_key": "incendo"
+    },
+    "praeter": {
+      "gloss": "adv. and prep. prae, with the demonstrative suffix ter, as in inter, subter, propter, signifies motion by or past, and hence, also, beyond, or rest outside a thing. Adv., past, by,…",
+      "source": "Lewis&Short",
+      "matched_key": "praeter"
+    },
+    "porto": {
+      "gloss": "āvi, ātum, v. freq. a. root porfor for-to, kindr. with fer-o; Sanscr. vhri, ferre, to bear or carry along; to convey any thing heavy (class.; syn.: fero, gero, veho). Lit.: ferri p…",
+      "source": "Lewis&Short",
+      "matched_key": "porto"
+    },
+    "spes": {
+      "gloss": "spēi (gen. spe, Liv. 1, 40, 7 dub.; Weissenb. spei; plur. nom. and acc. speres, Enn. ap. Fest. p. 333 Müll., or Ann. v. 410 and 132 Vahl.; gen. sperum, Eum. Paneg. Const. 15; abl.…",
+      "source": "Lewis&Short",
+      "matched_key": "spes"
+    },
+    "tollo": {
+      "gloss": "sustŭli, sublātum, 3, v. a. (perf. tollit, Pers. 4, 2: tollisse, Dig. 46, 4, 13) [root Sanscr. tul-, tulajāmi, lift up, weigh; Gr. ταλ-, τελ, in τλῆναι, τάλαντον; cf.: tuli, tlātus…",
+      "source": "Lewis&Short",
+      "matched_key": "tollo"
+    },
+    "mensus": {
+      "gloss": "a, um, Part., from metior.",
+      "source": "Lewis&Short",
+      "matched_key": "mensus"
+    },
+    "quisque": {
+      "gloss": "quaeque, quodque, and subst. quicque (quidque), pron. indef., whoever or whatever it be, each, every, every body, every one, every thing (prop. of more than two persons or things;…",
+      "source": "Lewis&Short",
+      "matched_key": "quisque"
+    },
+    "oppugno": {
+      "gloss": "āvi, ātum (old inf. fut. oppugnassere, Plaut. Am. 1, 1, 55; v. Roby, Gram. 1, 197 sq.), 1, v. a. obpugno, to fight against, to attack, assail, assault, storm, besiege, war with (cl…",
+      "source": "Lewis&Short",
+      "matched_key": "oppugno"
+    },
+    "vix": {
+      "gloss": "adv. etym. dub.; perh. from root vic- of vinco, with difficulty, with much ado, hardly, scarcely, barely. In gen.: quid est, sine his cur vivere velimus? mihi vero cum his ipsis vi…",
+      "source": "Lewis&Short",
+      "matched_key": "vix"
+    },
+    "impendo": {
+      "gloss": "di, sum, 3, v. a. inpendo, to weigh out, lay out, expend (class.; cf.: insumo, erogo). Lit.: accipe inquam, nam hoc inpendit puplicum, Plaut. Stich. 5, 4, 35: non erunt tam amentes…",
+      "source": "Lewis&Short",
+      "matched_key": "impendo"
+    },
+    "perpaucus": {
+      "gloss": "a, um, adj., very little, very few: homines, Ter. Eun. 3, 1, 19; cf. in tmesi: per pol quam paucos reperias amatores, id. Hec. 1, 1, 1: patres, Liv. 43, 11, 11: si perpauca mutavis…",
+      "source": "Lewis&Short",
+      "matched_key": "perpaucus"
+    },
+    "multo": {
+      "gloss": "multo (less correctly mulcto), āvi, ātum, 1, v",
+      "source": "Lewis&Short",
+      "matched_key": "multo"
+    },
+    "pons": {
+      "gloss": "ntis, m. kindred with Sanscr. pathi, a path; Gr. πάτος; old Germ. phat, pfat; mod. Germ. Pfad; Angl.-Sax. padh; hence prop. a board across a ditch, brook, etc., a bridge across a r…",
+      "source": "Lewis&Short",
+      "matched_key": "pons"
+    },
+    "nondum": {
+      "gloss": "adv., not yet: nondum sex menses, Plaut. Pers. 1, 3, 57: nondum centum et decem anni sunt, cum, etc., Cic. Off. 2, 21, 75: nondum Voconiā lege latā, id. Rep. 3, 10, 17; id. Div. 2,…",
+      "source": "Lewis&Short",
+      "matched_key": "nondum"
+    },
+    "a.": {
+      "gloss": "A",
+      "source": "Lewis&Short",
+      "matched_key": "a"
+    },
+    "l": {
+      "gloss": "L",
+      "source": "Lewis&Short",
+      "matched_key": "l"
+    },
+    "caeso": {
+      "gloss": "v. the letter K), ōnis, m. a caeso matris utero dictus, Plin. 7, 9, 7, § 47; cf. Paul. ex Fest. p. 57 Müll.; Isid. Orig. 9, 3, 12, and v. Caesar init., a Roman cognomen in the gens…",
+      "source": "Lewis&Short",
+      "matched_key": "caeso"
+    },
+    "urbs": {
+      "gloss": "urbis (dat. VRBEI, Corp. Inscr. Lat. 206), f. Sanscr. vardh-, to make strong; cf. Pers. vard-ana, city, a walled town, a city. Lit. In gen.: hi coetus sedem primum certo loco domic…",
+      "source": "Lewis&Short",
+      "matched_key": "urbs"
+    },
+    "adventus": {
+      "gloss": "ūs (gen. adventi, Ter. Phorm. 1, 3, 2; cf. Prisc. p. 712 P.), m. advenio, a coming, an approach, arrival (class., also in plur.). Lit.: Beluarum [haec] ferarum adventus ne taetret…",
+      "source": "Lewis&Short",
+      "matched_key": "adventus"
+    },
+    "princeps": {
+      "gloss": "cĭpis, adj. and subst. comm. [primus-capio], first in time or order (syn. primus).—Lit., in gen.: ut quisque in fugā postremus, ita periculo princeps erat, Cic. Verr. 2, 5, 34, § 9…",
+      "source": "Lewis&Short",
+      "matched_key": "princeps"
+    },
+    "ullus": {
+      "gloss": "a, um; gen. ullīus; dat. ulli (gen. sing. ulli, Plaut. Truc. 2, 2, 38), adj. dim. [for unulus, dim. of unus], any, any one (usu. in neg. sentences; corresp. with aliquis in affirma…",
+      "source": "Lewis&Short",
+      "matched_key": "ullus"
+    },
+    "caesar": {
+      "gloss": "ăris (CAESERIS, C. I. L. 4, 2308; Inscr. Orell. 4205: CAESARVS, C. I. L. 1, 696), m., = Καῖσαρ [a caeso matris utero, Plin. 7, 9, 7, § 47; cf. Non. p. 556, 32: a caesarie dictus, q…",
+      "source": "Lewis&Short",
+      "matched_key": "caesar"
+    },
+    "pulto": {
+      "gloss": "āre, v. freq. a. collat. form of pulso, from pello, to beat, strike, knock (ante-class.; cf. Quint. 1, 4, 14): pectus digitis pultat, Plaut. Mil. 2, 2, 47: ostium, Ter. Ad. 4, 5, 3…",
+      "source": "Lewis&Short",
+      "matched_key": "pulto"
+    },
+    "sub": {
+      "gloss": "acris, acre, adj., somewhat sharp (late Lat.): gustus, Isid. 17, 10, 8. sŭb-ăcĭdus, a, um, adj., somewhat sour, sourish: vinum, Cato, R. R. 108, 2: sucus, Plin. 12, 25, 54, § 120.…",
+      "source": "Lewis&Short",
+      "matched_key": "sub"
+    },
+    "quis": {
+      "gloss": "quid (old nom. plur. QVES, S. C. Bacch.), pron. interrog. [Sanscr. kis, in nakis = nemo; Gr. τίς], who? which? what? what man? (while qui, quae, quod, interrog. is used adject.; fo…",
+      "source": "Lewis&Short",
+      "matched_key": "quis"
+    },
+    "interdo": {
+      "gloss": "dăre. To give an interval, to give at intervals: nec mora nec requies interdatur ulla fluendi, Lucr. 4, 227. — To distribute: cibus interdatus (through the body), Lucr. 4, 868 (by…",
+      "source": "Lewis&Short",
+      "matched_key": "interdo"
+    },
+    "fossa": {
+      "gloss": "ae, f. fodio, i. e. fossa terra, a ditch, trench, fosse (syn.: fovea, scrobs, fossio). Lit. In gen.: salso suffudit gurgite fossas, Lucr. 5, 482: fodere fossam, Liv. 3, 26, 9: ut u…",
+      "source": "Lewis&Short",
+      "matched_key": "fossa"
+    },
+    "perfectus": {
+      "gloss": "a, um, Part. and P. a., from perficio.",
+      "source": "Lewis&Short",
+      "matched_key": "perfectus"
+    },
+    "exemplum": {
+      "gloss": "i, n. eximo, orig., what is taken out as a sample (cf. eximius, from eximo), a sample. Prop. (cf. exemplar, specimen): purpurae, tritici, Auct. Her. 4, 6, 9.—Hence, Transf. An imit…",
+      "source": "Lewis&Short",
+      "matched_key": "exemplum"
+    },
+    "ostendo": {
+      "gloss": "di, sum, and tum (ostensus, Varr. ap. Prisc. p. 892 P.; Luc. 2, 192: ostentus, Att. ap. Cic. Div. 1, 22, 45; Pac. and Varr. ap. Prisc. l. l.; Tac. H. 1, 78: ostensurus, Suet. Ner.…",
+      "source": "Lewis&Short",
+      "matched_key": "ostendo"
+    },
+    "iungo": {
+      "gloss": "nxi, nctum, 3, v. a. Sanscr. jug, junagmi, to unite; juk, joined; Goth. juk; O. H. Germ. joh, joch; Gr. ζυγ, ζεύγνυμι, ζυγός, ζυγόν, to join or unite together, connect, attach, fas…",
+      "source": "Lewis&Short",
+      "matched_key": "iungo"
+    },
+    "paruus": {
+      "gloss": "a, um, adj. (usual, irreg. comp. and sup.: mĭnor, mĭnĭmus.—Comp.: volantum parviores, Cael. Aur. Tard. 2, 1, 26.— Sup.: rictus parvissimus, Varr. ap. Non. 456, 10: parvissima corpo…",
+      "source": "Lewis&Short",
+      "matched_key": "paruus"
+    },
+    "numquam": {
+      "gloss": "numquam or nunquam (both in good use; the former prevails before the Augustan age), adv. ne-umquam, at no time, never: numquam edepol med istoc vinces, Plaut. Stich. 5, 5, 13: quod…",
+      "source": "Lewis&Short",
+      "matched_key": "numquam"
+    },
+    "noctus": {
+      "gloss": "ūs, v. nox init. noctūvĭgĭlus (noctīv-), a, um, adj. nox-vigilo, night-watching: Venus, Plaut. Curc. 1, 3, 40. nŏcŭus, a, um, adj. noceo, hurtful, injurious, noxious (very rare), O…",
+      "source": "Lewis&Short",
+      "matched_key": "noctus"
+    },
+    "perrumpo": {
+      "gloss": "rūpi, ruptum, 3, v. n. and a., to break through. Neutr., to break or rush through, to force one's way through: per medios hostes perrumpunt, Caes. B. G. 6, 39: in vestibulum templi…",
+      "source": "Lewis&Short",
+      "matched_key": "perrumpo"
+    },
+    "concursus": {
+      "gloss": "ūs, m. concurro. A running or flocking together, a concourse, assembly: fit concursus per vias, Plaut. Ep. 2, 2, 27; cf. in plur.: incredibilem in modum concursus fiunt ex agris, C…",
+      "source": "Lewis&Short",
+      "matched_key": "concursus"
+    },
+    "propter": {
+      "gloss": "adv. and prep. contr. for propiter, from prope; cf.: inter, subter. Adv., near, hard by, at hand (syn.: prope, juxta; rare but class.). serito in loco, ubi aqua propter siet, Cato,…",
+      "source": "Lewis&Short",
+      "matched_key": "propter"
+    },
+    "spons": {
+      "gloss": "v. sponte.",
+      "source": "Lewis&Short",
+      "matched_key": "spons"
+    },
+    "t.": {
+      "gloss": "T",
+      "source": "Lewis&Short",
+      "matched_key": "t"
+    },
+    "circum": {
+      "gloss": "circum properly acc. from circus = κίρκος, adv. and prep., designates either an entire encompassing or surrounding of an object, or a proximity only partially em. bracing or compre…",
+      "source": "Lewis&Short",
+      "matched_key": "circum"
+    },
+    "quinque": {
+      "gloss": "num. adj. Gr. πέντε; Sanscr. pancan; Germ. fünf; Engl. five, five: minae, Plaut. Merc. 2, 3, 98: sensus, Lucr. 3, 626: stellae, Cic. Rep. 1, 14, 22: formae, id. N. D. 1, 8, 19: qui…",
+      "source": "Lewis&Short",
+      "matched_key": "quinque"
+    },
+    "inde": {
+      "gloss": "adv. i-im, locative from is, and de = die; hence, Of place, from that place, thence: inde e promptuaria cella, Plaut. Am. 1, 1, 4: si quis me quaeret, inde me vocatote aliqui, id.…",
+      "source": "Lewis&Short",
+      "matched_key": "inde"
+    },
+    "haedus": {
+      "gloss": "haedus (less correctly hoedus, and archaic aedus or ēdus",
+      "source": "Lewis&Short",
+      "matched_key": "haedus"
+    },
+    "paene": {
+      "gloss": "paene (less correctly pēne), adv. etym. dub., nearly, almost, as I may say (class.): fores paene effregisti, Plaut. Bacch. 4, 2, 4; id. Am. 4, 2, 6; id. Bacch. 4, 9, 26; id. Truc.…",
+      "source": "Lewis&Short",
+      "matched_key": "paene"
+    },
+    "conspectus": {
+      "gloss": "a, um, Part. and P. a., from conspicio.",
+      "source": "Lewis&Short",
+      "matched_key": "conspectus"
+    },
+    "vasto": {
+      "gloss": "āvi, ātum, 1, v. a. id.; hence, Ital. guastar, and Fr. gāter, to make empty or vacant, to leave untenanted or uninhabited, to desert. Lit. (rare but class.): lex erat lata de vasta…",
+      "source": "Lewis&Short",
+      "matched_key": "vasto"
+    },
+    "expugno": {
+      "gloss": "āvi, ātum, 1 (archaic inf. fut. expugnassere, Plaut. Am. 1, 1, 55), v. a., to take by assault, to storm, capture, reduce, subdue (freq. and class.; syn.: obsideo, oppugno, capio).…",
+      "source": "Lewis&Short",
+      "matched_key": "expugno"
+    },
+    "arar": {
+      "gloss": "Claud. Ruf. 2, 111; Eutr. 1, 405; Inscr. Orell. 4018; acc. Ararim, Verg. E. 1, 63; Plin. 3, 4, 5, § 33; and Ararin, Claud. B. Get. 298: abl. Arari, Caes. B. G. 1, 13; 1, 16 MSS.; A…",
+      "source": "Lewis&Short",
+      "matched_key": "arar"
+    },
+    "linter": {
+      "gloss": "tris (nom. lintris, Sid. Carm. 5, 283), f. (m., Tib. 2, 5, 34) [old form lunter for plun-ter; root πλύνω, to wash; cf. pluvia; hence] Lit., a wash-tub; or in gen., a trough, vat, t…",
+      "source": "Lewis&Short",
+      "matched_key": "linter"
+    },
+    "quartus": {
+      "gloss": "a, um, num. adj. for quatertus from quattuor, kindr. with Gr. τέτϝαρτος and Sanscr. caturtha, the fourth, the fourth: perfidia, et peculatus ex urbe et avaritiā si exsulant, quarta…",
+      "source": "Lewis&Short",
+      "matched_key": "quartus"
+    },
+    "mando": {
+      "gloss": "āvi, ātum, 1, v. a. manusdo, to commit to one's charge, to enjoin, commission, order, command (syn.: praecipio, edico); constr. alicui aliquid, with ut, ne, the simple subj., or wi…",
+      "source": "Lewis&Short",
+      "matched_key": "mando"
+    },
+    "dux": {
+      "gloss": "dŭcis, com. duco, a leader, conductor, guide (for syn. cf.: imperator, ductor, tyrannus, rex, princeps, praetor, auctor). In gen.: illis non ducem locorum, non exploratorem fuisse,…",
+      "source": "Lewis&Short",
+      "matched_key": "dux"
+    },
+    "magis": {
+      "gloss": "adv., v. magnus fin. măgis, ĭdis, or măgĭda, ae, f., = μαγίς. A dish, platter, plate: magidam et longulam alterum a magnitudine, alterum a latitudine finxerunt, Varr. L. L. 5, § 12…",
+      "source": "Lewis&Short",
+      "matched_key": "magis"
+    },
+    "num": {
+      "gloss": "adv. an acc. m., of which nam is the acc. f., an interrog. particle, usually implying that a negative answer is expected. In a direct interrogation (no corresp. term in English). N…",
+      "source": "Lewis&Short",
+      "matched_key": "num"
+    },
+    "tam": {
+      "gloss": "adv. orig. acc. fem. of the demonstrative root ta-; cf.: tum, tamen, correlative of quam, so, so much, as. As comparative adverb, demonstrative with correlative quam, introducing c…",
+      "source": "Lewis&Short",
+      "matched_key": "tam"
+    },
+    "quodque": {
+      "gloss": "conj. [acc. resp., from qui]. That, in that, because (cf.: quia, quoniam): cum tibi agam gratias quod me vivere coëgisti, Cic. Att. 3, 3, 1: mirari, Cato se aiebat, quod non ridere…",
+      "source": "Lewis&Short",
+      "matched_key": "quod"
+    },
+    "ulcisco": {
+      "gloss": "ĕre, v. ulciscor fin.",
+      "source": "Lewis&Short",
+      "matched_key": "ulcisco"
+    },
+    "interdum": {
+      "gloss": "adv., sometimes, occasionally, now and then, = nonnumquam: interdum fio Juppiter, quando lubet, Plaut. Am. 3, 1, 4: interdum cursus est in oratione incitatior, interdum moderata in…",
+      "source": "Lewis&Short",
+      "matched_key": "interdum"
+    },
+    "testis": {
+      "gloss": "is, comm. (neutr. form: caelum teste vocat, Alcim. 6, 576), one who attests any thing (orally or in writing), a witness (cf. superstes): testes vinctos attines, Plaut. Truc. 4, 3,…",
+      "source": "Lewis&Short",
+      "matched_key": "testis"
+    },
+    "castra": {
+      "gloss": "ōrum and ae, v. castrum. castră-mētor, āri, 1, v. n., to pitch a camp, Jornand. 4, 54 al. Castrānus, a, um, adj., of Castrum Inui (v. castrum, I.): rura, Mart. 4, 60. castrātĭo, ōn…",
+      "source": "Lewis&Short",
+      "matched_key": "castra"
+    },
+    "praemitto": {
+      "gloss": "mīsi, missum, 3, v. a., to send forward or before, to despatch in advance. Lit. (class.): a portu me praemisisti domum, Plaut. Am. 2, 1, 55: nuntium, id. Truc. 2, 4, 58: legiones i…",
+      "source": "Lewis&Short",
+      "matched_key": "praemitto"
+    },
+    "paucus": {
+      "gloss": "a, um (gen. plur. paucūm, Enn. ap. Gell. 12, 4, fin.—Dat. plur. fem. paucabus, Cn. Gellius ap. Charis. p. 39 P.), adj. root pau-; Gr. παύω, to cause to cease, παῦλα, remnant, παῦρο…",
+      "source": "Lewis&Short",
+      "matched_key": "paucus"
+    },
+    "intersum": {
+      "gloss": "fŭi, esse (interfŭtūrus, Cic. Div. in Caecil. 11, 35; in tmesi: interque esse desiderat pugnis, Arn. 7, 255), v. n., to be between, lie between (class.; syn. interjaceo). In gen. O…",
+      "source": "Lewis&Short",
+      "matched_key": "intersum"
+    },
+    "comporto": {
+      "gloss": "āvi, ātum, 1, v. a., to bear, carry, or bring together, to collect (class.): nobis opus est rebus exquisitis, undique collectis, arcessitis, comportatis, Cic. de Or. 3, 24, 92: eo…",
+      "source": "Lewis&Short",
+      "matched_key": "comporto"
+    },
+    "adsum": {
+      "gloss": "ad-sum (Ribbeck has written assum in Novius by conj",
+      "source": "Lewis&Short",
+      "matched_key": "adsum"
+    },
+    "summus": {
+      "gloss": "a, um, adj., v. superus.",
+      "source": "Lewis&Short",
+      "matched_key": "summus"
+    },
+    "hostus": {
+      "gloss": "i, m. perh. a rustic term for haustus, the yield of an olive-tree, Cato, R. R. 6, 2; Varr. R. R. 1, 24, 2.",
+      "source": "Lewis&Short",
+      "matched_key": "hostus"
+    },
+    "praesertim": {
+      "gloss": "adv. prae-sero; cf. praecipue, from praecipio, qs. connected beforehand, serves to add an important argument or condition (hence most freq. joined with cum and si), especially, chi…",
+      "source": "Lewis&Short",
+      "matched_key": "praesertim"
+    },
+    "praesum": {
+      "gloss": "fūi, esse, v. n., to be before a thing; hence, to be set over, to preside or rule over, to have the charge or command of, to superintend (class.). With dat.: omnibus Druidibus prae…",
+      "source": "Lewis&Short",
+      "matched_key": "praesum"
+    },
+    "iacto": {
+      "gloss": "āvi, ātum (jactarier, Lucr. 6, 556; Enn. Tr. 130), 1, v. freq. a. jacio, to throw, cast, hurl. Lit.: semen, to scatter, Varr. R. R. 1, 42: semina per undas, Ov. M. 4, 748: jactato…",
+      "source": "Lewis&Short",
+      "matched_key": "iacto"
+    },
+    "quaero": {
+      "gloss": "quaero (old orthogr. QVAIRO, Epitaphs of the Scipios, 6; for the original form and etym. quaeso, ĕre, v. quaeso), sīvi or sĭi, sītum, 3, v. a., to seek. Lit. In gen.: aliquem, Enn.…",
+      "source": "Lewis&Short",
+      "matched_key": "quaero"
+    },
+    "conventus": {
+      "gloss": "a, um, Part. of convenio.",
+      "source": "Lewis&Short",
+      "matched_key": "conventus"
+    },
+    "parvus": {
+      "gloss": "a, um, adj. (usual, irreg. comp. and sup.: mĭnor, mĭnĭmus.—Comp.: volantum parviores, Cael. Aur. Tard. 2, 1, 26.— Sup.: rictus parvissimus, Varr. ap. Non. 456, 10: parvissima corpo…",
+      "source": "Lewis&Short",
+      "matched_key": "parvus"
+    },
+    "contra": {
+      "gloss": "psi, ptum, 3, v. a., to countersign, App. Mag. p. 324, 10.",
+      "source": "Lewis&Short",
+      "matched_key": "contra"
+    },
+    "semper": {
+      "gloss": "adv. root sam-; Gr. ἁμ-; v. semel and -per = παρά; cf. tantisper, ever, always, at all times, forever (cf. usque). In gen.: nequiter factum illud apud vos semper manebit, Cato ap.…",
+      "source": "Lewis&Short",
+      "matched_key": "semper"
+    },
+    "illic": {
+      "gloss": "acc. to Paul. ex Fest. p. 196 Müll.), illaec, illuc, or illoc, pron. [ille-ce]. He, she, or it yonder, that (only ante-class.): sed Amphitruonis illic est servos Sosia, A portu ill…",
+      "source": "Lewis&Short",
+      "matched_key": "illic"
+    },
+    "uxor": {
+      "gloss": "ōris (for the form VXSOR in inscrr. v. the letter X), f. etym. dub.; cf. Sanscr. vaca, wife, a wife, spouse, consort (syn. conjux). Lit.: licuit uxorem dotatam ducere, Plaut. Mil.…",
+      "source": "Lewis&Short",
+      "matched_key": "uxor"
+    },
+    "nuptus": {
+      "gloss": "a, um, Part. and P. a., from nubo.",
+      "source": "Lewis&Short",
+      "matched_key": "nuptus"
+    },
+    "cognosco": {
+      "gloss": "gnōvi, gnĭtum, 3 (tempp. perff. contr. cognosti, Ter. And. 3, 4, 7: cognostis, id. Hec. prol. 8: cognoram, Cic. de Or. 1, 31, 143; Cat. 66, 26: cognoro, Cic. Att. 7, 20, 2; id. Fam…",
+      "source": "Lewis&Short",
+      "matched_key": "cognosco"
+    },
+    "iniussus": {
+      "gloss": "a, um, adj. 2. in-jubeo, unbidden, voluntary, of one's own accord. Lit.: ut numquam inducant animum cantare rogati, injussi numquam desistant, Hor. S. 1, 3, 3: puer, Luc. 7, 38: in…",
+      "source": "Lewis&Short",
+      "matched_key": "iniussus"
+    },
+    "verto": {
+      "gloss": "ti, sum, 3 (inf. vortier, Plaut. Rud. 3, 6, 48; Lucr. 1, 710; 2, 927; 5, 1199 al.), v. a. and n. Sanscr. root vart-, to apply one's self, turn; cf. vart-ukas, round. Act., to turn,…",
+      "source": "Lewis&Short",
+      "matched_key": "verto"
+    },
+    "offendo": {
+      "gloss": "di, sum, 3, v. a. and n. obfendo. to hit, thrust, strike, or dash against something (syn.: illido, impingo; class.). Lit.: offendere caput ad fornicem, Quint. 6, 3, 67: latus vehem…",
+      "source": "Lewis&Short",
+      "matched_key": "offendo"
+    },
+    "quisquam": {
+      "gloss": "quis-quam (old form QVIQVAM, S. C. Bacch.), quaequam, quicquam or quidquam (abl. masc. quoquam, very rare, Liv. 3, 57, 6 Weissenb. ad loc., and 34, 35, 9; Suet. Caes. 59), pron. in…",
+      "source": "Lewis&Short",
+      "matched_key": "quisquam"
+    },
+    "nerva": {
+      "gloss": "ae, m., a Roman family name of the Licinii, Cocceii, and Silii. So M. Cocceius Nerva, the Roman emperor.—Hence, Nervĭus, a, um, adj., of or belonging to the emperor Nerva, Nervian:…",
+      "source": "Lewis&Short",
+      "matched_key": "nerva"
+    },
+    "vulgus": {
+      "gloss": "i, n. (masc., Att., Sisenn., and Varr. ap. Non. p. 230, 27 sq.; Verg. A. 2, 99; Phaedr. 4, 14; Liv. 6, 34, 5; 24, 32, 1; Lucr. 2, 920 et saep.) [Sanscr. várga, a group], the great…",
+      "source": "Lewis&Short",
+      "matched_key": "vulgus"
+    },
+    "verbum": {
+      "gloss": "i (gen. plur. verbūm, Plaut. As. 1, 3, 1; id. Bacch. 4, 8, 37; id. Truc. 2, 8, 14), n. from the root er; Gr. ΕΡω, whence εἴρω and ῥῆμα, what is spoken or said; cf. Goth. vaurd; Ger…",
+      "source": "Lewis&Short",
+      "matched_key": "verbum"
+    },
+    "prendo": {
+      "gloss": "ĕre, v. prehendo. prensātĭo, ōnis, f. prenso; v. prehenso, a soliciting, suing, canvassing for an office: praepropera prensatio, Cic. Att. 1, 1, 1. prensĭo, ōnis, f. prendo, a seiz…",
+      "source": "Lewis&Short",
+      "matched_key": "prendo"
+    },
+    "custos": {
+      "gloss": "ōdis, comm. root sku-, to cover, hide, etc.; cf. scutum, κεύθω, Germ. Haut, Haus, Corss. Ausspr. I. p. 353, a guard, watch, preserver, keeper, overseer, protector, defender, attend…",
+      "source": "Lewis&Short",
+      "matched_key": "custos"
+    },
+    "ascensus": {
+      "gloss": "a, um, Part. of ascendo.",
+      "source": "Lewis&Short",
+      "matched_key": "ascensus"
+    },
+    "praetor": {
+      "gloss": "ōris, m. for praeitor, from praeeo. Prop., a leader, head, chief, president: regio imperio duo sunto: iique praeeundo, judicando, consulendo, praetores, judices, consules appellant…",
+      "source": "Lewis&Short",
+      "matched_key": "praetor"
+    },
+    "ascendo": {
+      "gloss": "Jan; ads- and as-, Müller; as-, other editors), scendi, scensum, 3, v. n. scando, to ascend, mount up, climb; and in eccl. Lat. simply to go up, to rise, to spring up, grow up (syn…",
+      "source": "Lewis&Short",
+      "matched_key": "ascendo"
+    },
+    "p": {
+      "gloss": "P",
+      "source": "Lewis&Short",
+      "matched_key": "p"
+    },
+    "crassus": {
+      "gloss": "a, um, adj. Sanscr. kart-, to spin; cf.: crates, cartilago, etc.; as opp. to flowing, thin, lean, delicate, etc., solid, thick, dense, fat, gross, etc. (freq. and class. in prose a…",
+      "source": "Lewis&Short",
+      "matched_key": "crassus"
+    },
+    "lux": {
+      "gloss": "lūcis (adverb. abl. luce, luci, and lucu, and in these old forms also used as m.; v. infra; in Plaut. lux is usually m.; Brix ad Plaut. Capt. 5, 4, 11), f. luceo, light. Lit. In ge…",
+      "source": "Lewis&Short",
+      "matched_key": "lux"
+    },
+    "mille": {
+      "gloss": "in the plur. mīlia (or millia; archaic, MEILIA, Inscr. Orell. 3308; abl. sing. milli, Lucil. ap. Gell. 1, 16, and ap. Macr. S. 1, 5), num. adj. Sanscr. root mil-, combine, associat…",
+      "source": "Lewis&Short",
+      "matched_key": "mille"
+    },
+    "equus": {
+      "gloss": "i, m., a town in Samnium, now S. Eleuterio, Cic. Att. 6, 1, 1; cf. the interpreters of Hor. S. 1, 5, 87; and Mommsen in Bullett. d. Inst. 1847, p. 170, and 1848, p. 7 sq. ēr, ēris,…",
+      "source": "Lewis&Short",
+      "matched_key": "equus"
+    },
+    "admitto": {
+      "gloss": "mīsi, missum, 3, v. a. (admĭsse sync. for admisisse, Plaut. Mil. 4, 7, 4: admittier arch. for admitti, as Verg. A. 9, 231), orig. to send to; hence with the access. idea of leave,…",
+      "source": "Lewis&Short",
+      "matched_key": "admitto"
+    },
+    "accurro": {
+      "gloss": "cŭcurri and curri, cursum, 3, v. n., to run to a place, to come to by running, to hasten to. Lit. constr. absol., with ad and in: expeditus facito ut sis, si inclamāro ut accurras,…",
+      "source": "Lewis&Short",
+      "matched_key": "accurro"
+    },
+    "collis": {
+      "gloss": "is (abl. reg. colle, e. g. Ov. M. 1, 698; 14, 90; 14, 333; 14, 822; 14, 836; Caes. B. G. 1, 24; 2, 18; Sall. J. 52, 3: Aventino, Liv. 1, 3, 9 et saep.; colli, Lucr. 2, 317 and 322;…",
+      "source": "Lewis&Short",
+      "matched_key": "collis"
+    },
+    "praeceptum": {
+      "gloss": "i, n., v. praecipio fin.",
+      "source": "Lewis&Short",
+      "matched_key": "praeceptum"
+    },
+    "vallus": {
+      "gloss": "i, m. cf. Gr. ἧλος, nail, a stake, pale. In gen. (rare). For supporting vines, Verg. G. 1, 264; 2, 25.— A pole set with teeth and fastened to a cart, pushed forwards by oxen placed…",
+      "source": "Lewis&Short",
+      "matched_key": "vallus"
+    },
+    "bibracte": {
+      "gloss": "is (abl. Bibracte, but -ti, Caes. B. G. 7, 55), n., = Φρούριον Βίβρακτα, Strabo; Αὐγουστόδουνον, Ptolem., the chief town of the Aedui, later Augustodunum, now Autun en Bourgogne, D…",
+      "source": "Lewis&Short",
+      "matched_key": "bibracte"
+    },
+    "converso": {
+      "gloss": "āvi, ātum, 1, v. freq. * Act., to turn round: animus se ipse conversans, * Cic. Univ. 8 med.—More freq., In medial form conversor, ātus, 1 (post-Aug.; a favorite word of Seneca; no…",
+      "source": "Lewis&Short",
+      "matched_key": "converso"
+    },
+    "postquam": {
+      "gloss": "Att. ap. Non. 109, 26, acc. to Rib. Trag. Rel. v. 118; id. Verg. A. 3, 463; cf. Munro ad Lucr. 4, 1186; Rib. Prol. ad Verg. p. 442; also separately, post quam), conj. After that, a…",
+      "source": "Lewis&Short",
+      "matched_key": "postquam"
+    },
+    "iugo": {
+      "gloss": "ĕre, v. n., to utter the note of the kite (milvus), Varr. ap. Non. 179, 2; cf. Paul. ex Fest. p. 104 Müll., and jugit ικτὶν βοᾷ, Gloss. Philox. jŭgōsus, a, um, adj. jugum, mountain…",
+      "source": "Lewis&Short",
+      "matched_key": "iugo"
+    },
+    "confertus": {
+      "gloss": "a, um, Part. and P. a., from confercio, q. v.",
+      "source": "Lewis&Short",
+      "matched_key": "confertus"
+    },
+    "aequo": {
+      "gloss": "āvi, ātum, 1, v. a. and n. aequus. Act., to make one thing equal to another; constr. with cum and (in gen. in the histt.) with dat., and with cop. conj. (cf. adaequo). With cum: in…",
+      "source": "Lewis&Short",
+      "matched_key": "aequo"
+    },
+    "missa": {
+      "gloss": "ae, f. mitto, the mass (eccl. Lat.), Ambros. Ep. 5, 33. missārĭum, i, n., v. missum. mĭssĭbĭlia, ĭum, for missilia, Sid. Ep. 4, 20 missīcĭus or -tĭus, a, um, adj. mitto, discharged…",
+      "source": "Lewis&Short",
+      "matched_key": "missa"
+    },
+    "galla": {
+      "gloss": "ae, f. Oak-apple, gall-nut, Plin. 16, 6, 9, § 26; 24, 4, 5, § 9; Col. 9, 13, 7; Mart. Cap. 3, § 225.—Plur., Col. 6, 7, 2. —In a pun with Galla, a female Gaul; v. 1. Galli, I.— A ha…",
+      "source": "Lewis&Short",
+      "matched_key": "galla"
+    },
+    "pugna": {
+      "gloss": "ae, f. root pug, in pugno and pungo; cf. pugil, prop. a fight fist to fist, man to man; hence, in gen., a fight between individuals or armies, a battle, combat, action, engagement…",
+      "source": "Lewis&Short",
+      "matched_key": "pugna"
+    },
+    "ictus": {
+      "gloss": "a, um, Part., from ico.",
+      "source": "Lewis&Short",
+      "matched_key": "ictus"
+    },
+    "ferrum": {
+      "gloss": "i, n. cf. Sanscr. dharti, firmness; Lat. firmus, iron. Lit., Plin. 34, 14, 39, § 138; Lucr. 1, 571; 5, 1241; 1286; Cic. N. D. 2, 60, 151; id. Leg. 2, 18, 45; Caes. B. G. 5, 12, 5;…",
+      "source": "Lewis&Short",
+      "matched_key": "ferrum"
+    },
+    "pugno": {
+      "gloss": "āvi, ātum, 1, v. n. and very rarely a. [root pug-, to thrust, strike, whence pugil, pungo, etc.], to fight, either singly or in armies, to combat, give battle, engage, contend (ver…",
+      "source": "Lewis&Short",
+      "matched_key": "pugno"
+    },
+    "praeopto": {
+      "gloss": "āvi, ātum, 1, v. a., to choose or wish rather, to desire more, to prefer (class.; not in Cic.); constr. aliquid alicui, with an object-clause, or with ut: praeoptantes exsilio modi…",
+      "source": "Lewis&Short",
+      "matched_key": "praeopto"
+    },
+    "corpus": {
+      "gloss": "ŏris, n. cf. Sanscr. kar-, to make; Lat. creo, any object composed of materials perceptible by the senses, body, substance (opp. anima and animus; cf. the definition in Dig. 41, 3,…",
+      "source": "Lewis&Short",
+      "matched_key": "corpus"
+    },
+    "tandem": {
+      "gloss": "adv. tam and the demonstr. termination dem; prop. just so far; hence, transf. to time, after so long, after a long time, implying the end of long delay or expectation, at length, a…",
+      "source": "Lewis&Short",
+      "matched_key": "tandem"
+    },
+    "claudo": {
+      "gloss": "claudo (* clōdo: clodunt ita (oculos), Plin. 18, 33, 76, § 330 fin.; but some refer clodo to claudeo; and more freq., although not in Cic., clūdo, as always in the compounds; v. in…",
+      "source": "Lewis&Short",
+      "matched_key": "claudo"
+    },
+    "signum": {
+      "gloss": "i, n. perh. Sanscr. sag-, to cling to, adhere; cf. sigilla. In gen., a mark, token, sign, indication (very frequent in all styles and periods; cf. insigne): meo patri torulus ineri…",
+      "source": "Lewis&Short",
+      "matched_key": "signum"
+    },
+    "vesper": {
+      "gloss": "ĕris and ĕri (in class. prose mostly acc. vesperum, and abl. vespere, or adverb. vesperi; the plur. not used), m. (neutr., Varr. L. L. 7, § 50 and 9, § 73 Müll. acc. to Lachm.) [Gr…",
+      "source": "Lewis&Short",
+      "matched_key": "vesper"
+    },
+    "intermitto": {
+      "gloss": "mīsi, missum, 3, v. a. and n. Act. To leave off, intermit, omit, neglect; constr. with acc., aliquid ab, ad, or inf. With acc.: studia, Cic. Or. 10: iter, Caes. B. C. 3, 3: proeliu…",
+      "source": "Lewis&Short",
+      "matched_key": "intermitto"
+    },
+    "lingo": {
+      "gloss": "nxi (Prisc. 881), nctum, 3, v. a. Sanscr. lih, rih, to lick; Gr. λιχ-, λείχω, λιχανός; cf. ligurio, to lick, lick up: mel mihi videor lingere, Plaut. Cas. 2, 8, 21: crepidas carbat…",
+      "source": "Lewis&Short",
+      "matched_key": "lingo"
+    },
+    "arma": {
+      "gloss": "ōrum, n. (gen. plur. armūm, Pac. ap. Cic. Or. 46, 155; Att. ap. Non. p. 495, 23, considered by Cic. in the connection armūm judicium as less correct than armorum) [cf. ΑΡΩ, ἀραρίσκ…",
+      "source": "Lewis&Short",
+      "matched_key": "arma"
+    },
+    "servus": {
+      "gloss": "a, um, adj. referred by the ancients to servo: servi ex eo appellati sunt, quod imperatores servos vendere, ac per hoc servare, nec occidere solent, Just. Inst. 1, 3, 3; but prob.…",
+      "source": "Lewis&Short",
+      "matched_key": "servus"
+    },
+    "occulto": {
+      "gloss": "āvi, ātum, 1 (occultassis for occultaveris, Plaut",
+      "source": "Lewis&Short",
+      "matched_key": "occulto"
+    },
+    "purgo": {
+      "gloss": "āvi, ātum, 1, v. a. contr. for purigo, from purum ago, to make clean or pure, to clean, cleanse, purify (class.). Lit.: oleam a foliis et stercore purgato, Cato, R. R. 65, 1: cum f…",
+      "source": "Lewis&Short",
+      "matched_key": "purgo"
+    },
+    "graecus": {
+      "gloss": "a, um, v. Graeci, II. A.",
+      "source": "Lewis&Short",
+      "matched_key": "graecus"
+    },
+    "quot": {
+      "gloss": "adv., as many as pleases, as many as one will, Hyg. Astron. 1, 6. quot-quŏt, adj. indecl. [quot]. Lit., how many soever, as many soever as (class.): si leges duae aut si plures aut…",
+      "source": "Lewis&Short",
+      "matched_key": "quot"
+    },
+    "census": {
+      "gloss": "a, um, Part., from 1. censeo.",
+      "source": "Lewis&Short",
+      "matched_key": "census"
+    },
+    "c": {
+      "gloss": "C",
+      "source": "Lewis&Short",
+      "matched_key": "c"
+    },
+    "x.": {
+      "gloss": "X",
+      "source": "Lewis&Short",
+      "matched_key": "x"
+    },
+    "terra": {
+      "gloss": "Varr. L. L. 5, 4, 21), ae (gen. terras, Naev. ap. Prisc. p. 679 P.: terraï, Enn. ap. Charis. p. 7 ib. (Ann. v. 479 Vahl.); Lucr. 1, 212; 1, 251; 2, 1063; 3, 989 et saep.), f. perh.…",
+      "source": "Lewis&Short",
+      "matched_key": "terra"
+    },
+    "consensus": {
+      "gloss": "a, um, Part., from consentio",
+      "source": "Lewis&Short",
+      "matched_key": "consensus"
+    },
+    "occultus": {
+      "gloss": "a, um, Part. and P. a., from occulo. occumbo (obc-), cŭbui, cŭbĭtum, 3, v. n. ob-cumbo, cubo, to fall or sink down (cf.: occido, obeo, oppeto); hence, To go down, to set, of the he…",
+      "source": "Lewis&Short",
+      "matched_key": "occultus"
+    },
+    "merces": {
+      "gloss": "ēdis (irreg. acc. mercem, Claud. 6; Cons. Hon. 578), f. mereo, what is deserved or earned; hence, hire, pay, wages, salary, fee, reward, etc. (syn.: pretium, stipendium; class.). L…",
+      "source": "Lewis&Short",
+      "matched_key": "merces"
+    },
+    "nunc": {
+      "gloss": "adv. Sanscr. nu, nūnam, now; Gr. νύ, νῦν; cf. Lat. num, with demonstr. -ce, now, at present, at this time (prop of that which is present to the speaker or writer). In gen. Contrast…",
+      "source": "Lewis&Short",
+      "matched_key": "nunc"
+    },
+    "obstringo": {
+      "gloss": "strinxi, strictum, 3, v. a. To bind to or about; to bind, tie, or fasten up (rare): follem obstringit ob gulam, Plaut. Aul. 2, 4, 23: quom ego Amphitruonem collo hinc obstricto tra…",
+      "source": "Lewis&Short",
+      "matched_key": "obstringo"
+    },
+    "victor": {
+      "gloss": "ōris, m. vinco. In gen., a conqueror, vanquisher, victor. Prop. Absol.: quod (sc. stipendium) victores victis imponere consuērint, Caes. B. G. 1, 44: multa victori, eorum arbitrio,…",
+      "source": "Lewis&Short",
+      "matched_key": "victor"
+    },
+    "ariovistus": {
+      "gloss": "i, m., the king of a German tribe in the time of Coesar, Caes. B. G. 1, 31 al. ăris, ĭdis, f., = ἀρίς, Galen (ἄρον, ἀρίσαρον, in Theophr. and Dioscor.), a kind of arum, dragon - ro…",
+      "source": "Lewis&Short",
+      "matched_key": "ariovistus"
+    },
+    "rex": {
+      "gloss": "rēgis (gen. plur regerum, Gell. ap. Charis p. 40 P.), m. rego, a ruler of a country, a king. Lit.: omnis res publica, quae ut dixi populi res est, consilio quodam regenda est, ut d…",
+      "source": "Lewis&Short",
+      "matched_key": "rex"
+    },
+    "pello": {
+      "gloss": "pĕpŭli, pulsum, 3 (pluperf. pulserat, Amm. 30, 5, 19), v. a. kindred with Gr. πάλλω, πέλω, to beat, strike, knock any thing or at any thing; to push, drive, hurl, impel, propel. Li…",
+      "source": "Lewis&Short",
+      "matched_key": "pello"
+    },
+    "barba": {
+      "gloss": "ae, f. cf. O. H. Germ. part; Germ. Bart; Engl. beard. Lit., the beard, of men: alba, Plaut. Bacch. 5, 1, 15: hirquina, id. Ps. 4, 2, 12: mollis, Lucr. 5, 673: promissa, long, Nep.…",
+      "source": "Lewis&Short",
+      "matched_key": "barba"
+    },
+    "tristis": {
+      "gloss": "e, adj. etym. dub.; cf. Sanscr. trastas, frightened; and Lat. terreo, sad, sorrowful, mournful, dejected, melancholy, disconsolate, trist (syn.: maestus, severus, austerus, luctuos…",
+      "source": "Lewis&Short",
+      "matched_key": "tristis"
+    },
+    "occurro": {
+      "gloss": "curri, rarely cucurri (Plaut. Merc. 1, 2, 88; Phaedr. 3, 7, 2), cursum, 3 (archaic perf. occecurri, like memordi, peposci, Aelius Tubero ap. Gell. 7, 9, 11), v. n., to run up to, r…",
+      "source": "Lewis&Short",
+      "matched_key": "occurro"
+    },
+    "reddo": {
+      "gloss": "dĭdi, dĭtum, 3 (old fut. reddibo = reddam, Plaut. Cas. 1, 41; id. Men. 5, 7, 49, acc. to Non. 476, 27; id. Fragm. ap. Non. 508, 9; pass. reddibitur, id. Ep. 1, 1, 22), v. a. Lit.,…",
+      "source": "Lewis&Short",
+      "matched_key": "reddo"
+    },
+    "permitto": {
+      "gloss": "mīsi, missum, 3, v. a., to let go through, suffer to pass through. Lit. (very rare): fenestellae permittant columbas ad introitum exitumque, Pall. 1, 24, 1. — Transf., to let go, l…",
+      "source": "Lewis&Short",
+      "matched_key": "permitto"
+    },
+    "censeo": {
+      "gloss": "ēre, = succenseo, to be angry: ne vobis censeam, si, etc., Varr. ap. Non. p. 267, 24. cēnsĭo, ōnis, f. 1. censeo (only anteand post-class.). An estimating, taxing, esp. censor's es…",
+      "source": "Lewis&Short",
+      "matched_key": "censeo"
+    },
+    "pendo": {
+      "gloss": "pĕpendi, pensum, 3 (pendissent, for pependissent, Liv",
+      "source": "Lewis&Short",
+      "matched_key": "pendo"
+    },
+    "neglectus": {
+      "gloss": "a, um, Part. and P. a., from neglego.",
+      "source": "Lewis&Short",
+      "matched_key": "neglectus"
+    },
+    "tectus": {
+      "gloss": "a, um, Part. and P. a. of tego. tēcum, i. e. cum te; v. tu.",
+      "source": "Lewis&Short",
+      "matched_key": "tectus"
+    },
+    "questus": {
+      "gloss": "a, um, Part., from queror.",
+      "source": "Lewis&Short",
+      "matched_key": "questus"
+    },
+    "transporto": {
+      "gloss": "āvi, ātum, 1, v. a., to carry over or across, to carry or convey from one place to another; to remove, transport. Lit. (class.): ad onera ac multitudinem jumentorum transportandam,…",
+      "source": "Lewis&Short",
+      "matched_key": "transporto"
+    },
+    "centum": {
+      "gloss": "indecl. num. [Sanscr. catam; Gr. ἑ-κα-τόν; Goth. hund]. A hundred: dies, Cic. Mil. 22, 60: et septem anni, id. Sen. 5, 13.— Poet., for an indefinite, large number: mihi si linguae…",
+      "source": "Lewis&Short",
+      "matched_key": "centum"
+    },
+    "circumdo": {
+      "gloss": "dĕdi, dătum, dăre, v. a., lit. to put, set, or place around, i. e. both to wrap around (e. g. a mantle). and also to enclose (e. g. a town with a wall; syn.: cingo, vestio, saepio,…",
+      "source": "Lewis&Short",
+      "matched_key": "circumdo"
+    },
+    "cingo": {
+      "gloss": "xi, nctum, 3, v. a. cf. Gr κυλλός, κυρτός; Lat. curvus, and clingo, Georg Curtius Griech. Etym. p. 545 sq., to go round in a circle, to surround, encompass, environ, gird, wreathe,…",
+      "source": "Lewis&Short",
+      "matched_key": "cingo"
+    },
+    "contingo": {
+      "gloss": "tĭgi, tactum, 3, v. a. and n. tango, to touch on all sides. to touch, take hold of, seize (very freq. in all periods and species of composition). Lit. In gen.: facile cibum terrest…",
+      "source": "Lewis&Short",
+      "matched_key": "contingo"
+    },
+    "arx": {
+      "gloss": "arcis, f. arx ab arcendo, quod is locus munitissimus rubis, a quo facillime possit hostis prohiberi, Varr. L. L. 5, § 151 Müll; cf. Serv. ad Verg. A. 1, 20; Isid. Orig. 15, 2, 32;…",
+      "source": "Lewis&Short",
+      "matched_key": "arx"
+    },
+    "nocturnus": {
+      "gloss": "a, um, adj. from the adv. noctu, analog. to diurnus from diu, of or belonging to the night, nocturnal (class.): labores diurnos nocturnosque suscipere, Cic. Sen. 23, 82; opp. diurn…",
+      "source": "Lewis&Short",
+      "matched_key": "nocturnus"
+    },
+    "mercor": {
+      "gloss": "ātus, 1 (archaic form, mercassitur for mercatus fuerit, Inscr",
+      "source": "Lewis&Short",
+      "matched_key": "mercor"
+    },
+    "vultus": {
+      "gloss": "ūs, m. (neutr. collat. form, plur. volta, Enn. ap. Non. p. 230, 15, or Ann. v. 536 Vahl.; Lucr. 4, 1213) [etym. dub.; cf. Goth. vulthus, glory], an expression of countenance, the c…",
+      "source": "Lewis&Short",
+      "matched_key": "vultus"
+    },
+    "mens": {
+      "gloss": "mentis (nom. sing. mentis: terra corpus est, at mentis ignis est, Enn. ap. Prisc. p. 764 P.; so too, istic est de sole sumptus; isque totus mentis est, Enn. ap. Varr. L. L. 5, § 59…",
+      "source": "Lewis&Short",
+      "matched_key": "mens"
+    },
+    "perturbo": {
+      "gloss": "āvi, ātum, 1, v. a., to throw into confusion or disorder, to confuse, disturb (cf.: confundo, misceo). Lit.: omnia, Ter. And. 3, 4, 22: provinciam, Cic. Sull. 20, 56: aetatum ordin…",
+      "source": "Lewis&Short",
+      "matched_key": "perturbo"
+    },
+    "ortus": {
+      "gloss": "a, um, Part. and P. a., from orior, q. v. fin. B.",
+      "source": "Lewis&Short",
+      "matched_key": "ortus"
+    },
+    "praefectus": {
+      "gloss": "prae-fectus (praefactus), a, um, Part. [facio], done beforehand (postclass.), Cael. Aur. Acut. 3, 17, 174; id. Tard. 2, 14, 218; 5, 4, 71.",
+      "source": "Lewis&Short",
+      "matched_key": "praefectus"
+    },
+    "fingo": {
+      "gloss": "finxi, fictum, 3, v. a. Sanscr. dih-, dēhmi, smear; Gr. θιγ, θιγγάνω, touch; whence figulus, figura, etc.; prop., to handle. Lit. To touch, handle, stroke, touch gently (rare): mul…",
+      "source": "Lewis&Short",
+      "matched_key": "fingo"
+    },
+    "obsigno": {
+      "gloss": "āvi, ātum, 1, v. a., to seal, seal up a will, a letter, etc. (class.). Lit. In gen.: cedo tu ceram ac linum actutum: age obliga, obsigna cito, Plaut. Bacch. 4, 4, 96: cellas, id. C…",
+      "source": "Lewis&Short",
+      "matched_key": "obsigno"
+    },
+    "quique": {
+      "gloss": "quae, quod (old forms: nom. quei; gen. quojus; dat. quoi, and in inscrr. QVOEI, QVOIEI, and QVEI; abl. qui; plur. ques or queis; fem. QVAI; neutr. qua; dat. and abl. queis and quĭs…",
+      "source": "Lewis&Short",
+      "matched_key": "qui"
+    },
+    "supporto": {
+      "gloss": "āvi, ātum, 1, v. a., to carry, bring, or convey to a place (class.; perh. not in Cic.; syn. subveho): operi quaecumque usui sunt, Caes. B. C. 2, 15: rem frumentariam, id. B. G. 1,…",
+      "source": "Lewis&Short",
+      "matched_key": "supporto"
+    },
+    "impulsus": {
+      "gloss": "a, um, Part., from impello.",
+      "source": "Lewis&Short",
+      "matched_key": "impulsus"
+    },
+    "hostis": {
+      "gloss": "is, comm. Sanscr. root ghas-, to eat, consume, destroy; Germ. Gast; cf. also hasta, a stranger, foreigner; afterwards transf., an enemy (cf.: adversarius, inimicus, perduellis): eq…",
+      "source": "Lewis&Short",
+      "matched_key": "hostis"
+    },
+    "laus": {
+      "gloss": "laudis (gen. plur. laudium, Sid. Carm. 23, 32), f. for claus, from clavid, kindred to cluo and the Greek κλέϝος, praise, commendation, glory, fame, renown, esteem (cf.: gloria, pra…",
+      "source": "Lewis&Short",
+      "matched_key": "laus"
+    },
+    "quantum": {
+      "gloss": "adv., v. quantus fin.",
+      "source": "Lewis&Short",
+      "matched_key": "quantum"
+    },
+    "constantia": {
+      "gloss": "ae, f., a Roman proper name, Lact. Mort. Pers. 15, 1, 6; Amm. 21, 15, 6. Constantĭăcus, Constantĭānus, Constantĭensis, v. Constantius. Constantīna, ae, f. A daughter of Constantine…",
+      "source": "Lewis&Short",
+      "matched_key": "constantia"
+    },
+    "armo": {
+      "gloss": "āvi, ātum, 1, v. a. arma. Lit., to furnish with weapons, to arm, equip, aliquem or aliquem aliquā re: cum in pace multitudinem hominum coëgerit, armārit, instruxerit, Cic. Caecin.…",
+      "source": "Lewis&Short",
+      "matched_key": "armo"
+    },
+    "adversus": {
+      "gloss": "adversus (archaic advor-), a, um, turned toward, opposite, in front of, etc",
+      "source": "Lewis&Short",
+      "matched_key": "adversus"
+    },
+    "dispergo": {
+      "gloss": "in late Lat. and sometimes in MSS. of the older authors written di-spargo (cf. aspergo and conspergo), si, sum, 3, v. a., to scatter on all sides, to scatter about, disperse (freq.…",
+      "source": "Lewis&Short",
+      "matched_key": "dispergo"
+    },
+    "leucus": {
+      "gloss": "i, v. Leuci.",
+      "source": "Lewis&Short",
+      "matched_key": "leucus"
+    },
+    "iamque": {
+      "gloss": "adv. for diam, collat. form of diem, cf. pri-dem, du-dum, Corss. Ausspr. I. p. 213; II. p. 850; but acc. to Georg Curtius Gr. Etym. 398, 620; locat. form from pronom. stem ja. Of t…",
+      "source": "Lewis&Short",
+      "matched_key": "iam"
+    },
+    "an": {
+      "gloss": "v. ambi. -ăn. This word appears in forsan, forsitan, and fortasse an (Att. Trag. Rel. p. 151 Rib.) or fortassan, seeming to enhance the idea of uncertainty and doubt belonging to f…",
+      "source": "Lewis&Short",
+      "matched_key": "an"
+    },
+    "convergo": {
+      "gloss": "ĕre, 3, v. n., to incline together (late Lat.): punctus quo cuncta convergunt, Isid. Orig. 3, 12, 1. converrĭtor, ōris, m. converro, one who sweeps together, Cat. ap. App. Mag. p.…",
+      "source": "Lewis&Short",
+      "matched_key": "convergo"
+    },
+    "innascor": {
+      "gloss": "nātus sum, 3, v. dep., to be born in, to grow or spring up in a place. Lit.: neglectis urenda filix innascitur agris, Hor. S. 1, 3, 37: Fauni velut innati triviis, id. A. P. 245: i…",
+      "source": "Lewis&Short",
+      "matched_key": "innascor"
+    },
+    "umquam": {
+      "gloss": "adv. temp. [etym dub.], at any time, ever (opp. never; cf. aliquando); most freq. in neg. clauses, sometimes also in interrogations and in conditional clauses; but very seldom in a…",
+      "source": "Lewis&Short",
+      "matched_key": "umquam"
+    },
+    "i": {
+      "gloss": "I",
+      "source": "Lewis&Short",
+      "matched_key": "i"
+    },
+    "quintus": {
+      "gloss": "quintus (old form quinctus, Plaut. Trin. 2, 4, 123), a, um, num. adj. quinque, the fifth: quarta invidia, quinta ambitio, Plaut. Pers. 4, 4, 8: locus, Cic. Inv. 1, 53, 102; 1, 55,…",
+      "source": "Lewis&Short",
+      "matched_key": "quintus"
+    },
+    "ventus": {
+      "gloss": "i, m. Sanscr. vā, blow; vatas, wind; Gr. root αϝ-, ἄω, ἄημι, to blow; whence ἀήρ, αὔρα, etc.; Goth. vaia, to breathe; vinds, wind, wind (syn.: aura, flamen). Lit.: ventus est aëris…",
+      "source": "Lewis&Short",
+      "matched_key": "ventus"
+    },
+    "aequus": {
+      "gloss": "Pac. 32 Rib.; Lucr. 5, 1023 Lachm. and Munro; AIQVOS, S. C. de Bacch. 1. 26), a, um, adj. formerly referred to ΕΙΚΩ, ἔοικα, but Pott connects it with Sanscr. ēka = one, as if prope…",
+      "source": "Lewis&Short",
+      "matched_key": "aequus"
+    },
+    "iustus": {
+      "gloss": "a, um, adj. 2. jus, just, upright, righteous. Lit.: justus et bonus vir, Cic. Off. 2, 12, 42: digna esse justo homine, eoque quem virum bonum dicimus, id. ib. 1, 10, 31: in amiciti…",
+      "source": "Lewis&Short",
+      "matched_key": "iustus"
+    },
+    "auctus": {
+      "gloss": "a, um, v. augeo, P. a.",
+      "source": "Lewis&Short",
+      "matched_key": "auctus"
+    },
+    "at": {
+      "gloss": "conj. [Curtius connects the Sanscr. ati, ultra, nimis, the Gr. ἔτι, the Lat. et, and at in atavus; Vanicek connects with these at, atque, and atqui. Thus the original idea of addit…",
+      "source": "Lewis&Short",
+      "matched_key": "at"
+    },
+    "interpello": {
+      "gloss": "āvi, ātum, 1, v. a., to interrupt by speaking, to disturb, molest, etc. (syn. obloquor; class.). To interrupt by speaking, to disturb a person speaking: si interpellas, ego tacebo,…",
+      "source": "Lewis&Short",
+      "matched_key": "interpello"
+    },
+    "q.": {
+      "gloss": "Q",
+      "source": "Lewis&Short",
+      "matched_key": "q"
+    },
+    "quisquis": {
+      "gloss": "quaeque, quodquod, and subst. quicquid, quidquid, pron. rel., whoever, whosoever, whatever, whatsoever, every one who, each, every, all: hostem qui feriet, mihi erit Carthaginiensi…",
+      "source": "Lewis&Short",
+      "matched_key": "quisquis"
+    },
+    "etsi": {
+      "gloss": "conj. [et, II. H.], like etiamsi, a concessive conditional particle, though, although, albeit. Prop. With indic.: gaudeo, etsi nihil scio, quod gaudeam, Plaut. Capt. 4, 2, 62: etsi…",
+      "source": "Lewis&Short",
+      "matched_key": "etsi"
+    },
+    "flaccus": {
+      "gloss": "a, um, adj. etym. dub., flabby, hanging down. Lit.: auriculae, Varr. R. R. 2, 9, 4.— Transf., of persons, flap-eared: ecquos deos paetulos esse arbitramur? ecquos silos, flaccos, f…",
+      "source": "Lewis&Short",
+      "matched_key": "flaccus"
+    },
+    "longinquus": {
+      "gloss": "a, um, adj. longus, long, extensive. Lit., in space. In gen. (rare): linea, Plin. 9, 17, 26, § 59: aequora, Claud. Rapt. Pros. 3, 363: amnes, Tac. A. 1, 9.— In partic. Far removed,…",
+      "source": "Lewis&Short",
+      "matched_key": "longinquus"
+    },
+    "pecco": {
+      "gloss": "āvi, ātum, 1, v. n. and a. [often referred to Sanscr. pāpa, pāpaka, wicked; but better to root pik-, to be angry; cf.: piget, pigeo, and Fick, Vergl. Wört. 632], to miss or mistake…",
+      "source": "Lewis&Short",
+      "matched_key": "pecco"
+    },
+    "v": {
+      "gloss": "U",
+      "source": "Lewis&Short",
+      "matched_key": "v"
+    },
+    "verso": {
+      "gloss": "āvi, ātum, 1 (inf. vorsarier, Plaut. Poen. 1, 2, 53), v. freq. a. verto, to turn, wind, twist, or whirl about often or violently (freq. and class.; syn.: verto, contorqueo). Lit.:…",
+      "source": "Lewis&Short",
+      "matched_key": "verso"
+    },
+    "concurro": {
+      "gloss": "curri, cursum, 3 (perf. redupl. concucurrit, Flor. 4, 2, 33 Duker N. cr.: concucurrisse, Cato ap. Prisc. p. 901 P., and Suet. Caes. 15; cf. Liv. 1, 12 Oud., and Ind. Flor. s. h. v.…",
+      "source": "Lewis&Short",
+      "matched_key": "concurro"
+    },
+    "cursus": {
+      "gloss": "ūs, m. id., a running (on foot, on a horse, chariot, ship, etc.), a course, way, march, passage, voyage, journey, etc. (very freq.). Lit. Of living beings: ingressus, cursus, accub…",
+      "source": "Lewis&Short",
+      "matched_key": "cursus"
+    },
+    "paulus": {
+      "gloss": "a, um, adj. for paurulus; Gr. root παῦρος; cf. misellus for miserulus. In gen., little, small (anteclass. and poet.): paulo momento huc vel illuc impelli, Ter. And. 1, 5, 31: paulo…",
+      "source": "Lewis&Short",
+      "matched_key": "paulus"
+    },
+    "quaestor": {
+      "gloss": "quaestor (old orthogr., QVAISTOR, Epit. of the Scipios, et saep.), ōris, m. contr. from quaesitor, from quaero, a quaetor, the title of a class of Roman magistrates, some of whom h…",
+      "source": "Lewis&Short",
+      "matched_key": "quaestor"
+    },
+    "cornus": {
+      "gloss": "i, f. (cornus, ūs, f., Sil. 4, 552; Stat. Th. 7, 647), a cornel cherry-tree: Cornus mascula, Linn.; Plin. 16, 25, 42, § 103 sq.; Verg. G. 2, 448; Col. 5, 7, 1 al.— Meton., a javeli…",
+      "source": "Lewis&Short",
+      "matched_key": "cornus"
+    },
+    "missus": {
+      "gloss": "a, um, Part., from mitto.",
+      "source": "Lewis&Short",
+      "matched_key": "missus"
+    },
+    "ter": {
+      "gloss": "adv. num., thirteen times: quem circulum luna terdecies in duodecim mensibus percurrit, Vitr. 9, 4: respirare, Juv. 14, 28: HS. terdeciens, Cic. Verr. 2, 3, 80, § 184: binas terdec…",
+      "source": "Lewis&Short",
+      "matched_key": "ter"
+    }
+  },
+  "missing_lemmas_sample": [
+    "omnis",
+    "dico",
+    "pars",
+    "unus",
+    "incolo",
+    "belgus",
+    "alius",
+    "aquita",
+    "tertius",
+    "celta",
+    "hic",
+    "instituo",
+    "sui",
+    "differo",
+    "aquitanis",
+    "garumna",
+    "flumen",
+    "matrona",
+    "et",
+    "sequana",
+    "propterea",
+    "humanitas",
+    "provincia",
+    "longes",
+    "minimeque",
+    "mercator",
+    "commeo",
+    "effemino",
+    "animus",
+    "pertineo",
+    "proximiquus",
+    "germanis",
+    "rhenus",
+    "quicum",
+    "continenter",
+    "gero",
+    "de",
+    "causa",
+    "helvetium",
+    "quoque",
+    "reliquus",
+    "virtus",
+    "praecedo",
+    "fere",
+    "cotidianus",
+    "proelium",
+    "germanus",
+    "suus",
+    "finis",
+    "prohibeo",
+    "obtineo",
+    "initium",
+    "capio",
+    "rhodanus",
+    "contineo",
+    "oceanum",
+    "belga",
+    "etiam",
+    "sequanis",
+    "helvetia",
+    "septentrio",
+    "exterior",
+    "orior",
+    "inferus",
+    "specto",
+    "sol",
+    "aquitania",
+    "pyrenaeus",
+    "hispania",
+    "occasus",
+    "apud",
+    "helvetio",
+    "longe",
+    "nobilis",
+    "ditis",
+    "orgetorix",
+    "messalum",
+    "pison",
+    "consulus",
+    "cupiditas",
+    "induco",
+    "coniuratio",
+    "nobilitas",
+    "facio",
+    "civitas",
+    "persua",
+    "copius",
+    "exeo",
+    "perfacilis",
+    "praestaro",
+    "totus",
+    "imperium",
+    "potior",
+    "faciliter",
+    "unusquisque",
+    "locus",
+    "natura",
+    "latus",
+    "agrus",
+    "helvetius",
+    "alter",
+    "iura",
+    "sequanus",
+    "lacus",
+    "lemannus",
+    "res",
+    "fio",
+    "parue",
+    "vago",
+    "facilis",
+    "finitus",
+    "infero",
+    "homo",
+    "cupidus",
+    "dolor",
+    "adficio",
+    "multitudo",
+    "autem",
+    "gloria",
+    "fortitudo",
+    "habeo",
+    "arbitror",
+    "longitudo",
+    "milius",
+    "ccxl",
+    "latitudo",
+    "clxxx",
+    "patior",
+    "adduco",
+    "auctoritas",
+    "orgetorigus",
+    "permoueo",
+    "constituo",
+    "proficiscor",
+    "comparo",
+    "iumentum",
+    "careus",
+    "numerus",
+    "coemio",
+    "semeo",
+    "maximus",
+    "itinum",
+    "copia",
+    "frumentum",
+    "suppeto",
+    "proximus",
+    "amicitia",
+    "conficio",
+    "biennus",
+    "satis",
+    "duco",
+    "profectio",
+    "deligo",
+    "legatio",
+    "suscipio",
+    "persuadeo",
+    "casticus",
+    "catamantaloedus",
+    "filius",
+    "pater",
+    "multus",
+    "senatus",
+    "populus",
+    "romanus",
+    "amicus",
+    "occupo",
+    "ante",
+    "item",
+    "dumnorigus",
+    "haeduus",
+    "frater",
+    "diviciacus",
+    "principatus",
+    "accipio",
+    "idem",
+    "conor",
+    "filia",
+    "matrimonium",
+    "probo",
+    "perficio",
+    "dubius",
+    "quin",
+    "suoquis",
+    "exercitus",
+    "concilio",
+    "oratio",
+    "fides",
+    "iuro",
+    "potenedto",
+    "spero",
+    "indicium",
+    "enuntio",
+    "mos",
+    "orgetoricim",
+    "vinculus",
+    "coego",
+    "damno",
+    "poena",
+    "sequor",
+    "oportet"
+  ]
+}

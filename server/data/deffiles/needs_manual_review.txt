@@ -1,0 +1,93 @@
+LEMMA: animaduo
+SID: (none)
+LAT: (none)
+ENG: (none)
+
+-----------------------------
+LEMMA: castrisqui
+SID: 26.4
+LAT: Diu cum esset pugnatum, impedimentis castrisque nostri potiti sunt.
+ENG: However, after a long fight, our troops gained possession of the baggage and the camp.
+
+-----------------------------
+LEMMA: conuenisso
+SID: (none)
+LAT: (none)
+ENG: (none)
+
+-----------------------------
+LEMMA: grauissimus
+SID: (none)
+LAT: (none)
+ENG: (none)
+
+-----------------------------
+LEMMA: improuiso
+SID: (none)
+LAT: (none)
+ENG: (none)
+
+-----------------------------
+LEMMA: iuuo
+SID: (none)
+LAT: (none)
+ENG: (none)
+
+-----------------------------
+LEMMA: molitus
+SID: 5.1
+LAT: Ubi
+iam se ad eam rem paratos esse arbitrati sunt, oppida sua omnia, numero ad duodecim, vicos ad quadringentos,
+reliqua privata aedificia incendunt; frumentum omne, praeter quod secum portaturi erant, comburunt, ut
+domum reditionis spe sublata paratiores ad omnia pericula subeunda essent; trium mensum molita cibaria sibi
+quemque domo efferre iubent.
+ENG: When at length they deemed that they were prepared for that purpose, they set fire to all their strongholds, in number about twelve; their villages, in number about four hundred, and the rest of their private buildings; they burnt up all their corn save that which they were to carry with them, to the intent that by removing all hope of returning homeward they might prove the readier to undergo any perils; and they commanded every man to take for himself from home a three months' provision of victuals.
+
+-----------------------------
+LEMMA: repens
+SID: 52.1
+LAT: Ita nostri acriter in hostes signo dato impetum fecerunt itaque hostes repente celeriterque
+procurrerunt, ut spatium pila in hostes coiciendi non daretur.
+ENG: Our troops attacked the enemy so fiercely when the signal was given, and the enemy dashed forward so suddenly and swiftly, that there was no time to discharge javelins upon them.
+
+-----------------------------
+LEMMA: siluum
+SID: (none)
+LAT: (none)
+ENG: (none)
+
+-----------------------------
+LEMMA: uelleo
+SID: (none)
+LAT: (none)
+ENG: (none)
+
+-----------------------------
+LEMMA: uentur
+SID: (none)
+LAT: (none)
+ENG: (none)
+
+-----------------------------
+LEMMA: uerucloetus
+SID: (none)
+LAT: (none)
+ENG: (none)
+
+-----------------------------
+LEMMA: uexasso
+SID: (none)
+LAT: (none)
+ENG: (none)
+
+-----------------------------
+LEMMA: uulnera
+SID: (none)
+LAT: (none)
+ENG: (none)
+
+-----------------------------
+LEMMA: uulnis
+SID: (none)
+LAT: (none)
+ENG: (none)

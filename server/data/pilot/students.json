@@ -1,0 +1,17 @@
+{
+  "grantsterlinghenry2008@gmail.com": {
+    "studentId": "student_dc1dd83788abf85b9b56",
+    "email": "grantsterlinghenry2008@gmail.com",
+    "displayName": "Grant Henry",
+    "salt": "4c25bdcc3c183df60147eaf51897a928",
+    "pwHash": "7b0cc02837460fac48954619ada964cc8db60e6061a0c671cca7c4ff750bd1d8",
+    "createdAt": 1768846886094,
+    "lastLoginAt": 1768880893410,
+    "classIds": [
+      "class_70def0e88a303de55775"
+    ],
+    "joinedDates": {
+      "class_70def0e88a303de55775": 1768847090414
+    }
+  }
+}

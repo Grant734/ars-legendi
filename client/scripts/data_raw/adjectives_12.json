@@ -1,0 +1,155 @@
+[{ "lemma": "magnus", "english": "great, large", "entry": "magnus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["small", "old", "weak"] },
+      { "lemma": "parvus", "english": "small", "entry": "parvus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["great", "new", "heavy"] },
+      { "lemma": "multus", "english": "many, much", "entry": "multus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["few", "single", "empty"] },
+      { "lemma": "paucus", "english": "few", "entry": "paucus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["many", "wide", "loud"] },
+      { "lemma": "bonus", "english": "good", "entry": "bonus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["bad", "ugly", "sad"] },
+      { "lemma": "malus", "english": "bad, evil", "entry": "malus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["good", "safe", "true"] },
+      { "lemma": "novus", "english": "new", "entry": "novus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["old", "dark", "hard"] },
+      { "lemma": "antiquus", "english": "ancient, old", "entry": "antiquus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["new", "young", "fresh"] },
+      { "lemma": "longus", "english": "long, far", "entry": "longus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["short", "near", "small"] },
+      { "lemma": "latus", "english": "wide, broad", "entry": "latus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["narrow", "thin", "little"] },
+      { "lemma": "altus", "english": "high; deep", "entry": "altus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["low", "flat", "weak"] },
+      { "lemma": "medius", "english": "middle", "entry": "medius, -a, -um", "declension": 12, "category": "adjective", "distractors": ["first", "last", "outer"] },
+      { "lemma": "primus", "english": "first", "entry": "primus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["last", "middle", "second"] },
+      { "lemma": "ultimus", "english": "last, final", "entry": "ultimus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["first", "early", "near"] },
+      { "lemma": "totus", "english": "whole, entire", "entry": "totus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["partial", "broken", "few"] },
+      { "lemma": "solus", "english": "alone, only", "entry": "solus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["together", "many", "public"] },
+      { "lemma": "unus", "english": "one", "entry": "unus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["two", "many", "all"] },
+      { "lemma": "nullus", "english": "no, none", "entry": "nullus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["some", "many", "whole"] },
+      { "lemma": "alius", "english": "other, another", "entry": "alius, -a, -ud", "declension": 12, "category": "adjective", "distractors": ["same", "first", "single"] },
+      { "lemma": "alter", "english": "the other (of two)", "entry": "alter, altera, alterum", "declension": 12, "category": "adjective", "distractors": ["same", "many", "last"] },
+      { "lemma": "suus", "english": "his/her/its own", "entry": "suus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["public", "foreign", "new"] },
+      { "lemma": "meus", "english": "my", "entry": "meus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["your", "their", "his"] },
+      { "lemma": "tuus", "english": "your", "entry": "tuus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["my", "his", "our"] },
+      { "lemma": "noster", "english": "our", "entry": "noster, nostra, nostrum", "declension": 12, "category": "adjective", "distractors": ["your", "my", "their"] },
+      { "lemma": "vester", "english": "your (pl.)", "entry": "vester, vestra, vestrum", "declension": 12, "category": "adjective", "distractors": ["our", "his", "my"] },
+  
+      { "lemma": "clarus", "english": "clear; famous", "entry": "clārus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["dark", "uncertain", "silent"] },
+      { "lemma": "obscurus", "english": "dark; obscure", "entry": "obscūrus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["clear", "bright", "open"] },
+      { "lemma": "verus", "english": "true", "entry": "vērus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["false", "empty", "weak"] },
+      { "lemma": "falsus", "english": "false", "entry": "falsus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["true", "safe", "right"] },
+      { "lemma": "certus", "english": "sure, certain", "entry": "certus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["doubtful", "unclear", "weak"] },
+      { "lemma": "dubius", "english": "doubtful", "entry": "dubius, -a, -um", "declension": 12, "category": "adjective", "distractors": ["certain", "clear", "safe"] },
+  
+      { "lemma": "pulcher", "english": "beautiful", "entry": "pulcher, -chra, -chrum", "declension": 12, "category": "adjective", "distractors": ["ugly", "rough", "bad"] },
+      { "lemma": "foedus", "english": "foul, ugly", "entry": "foedus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["beautiful", "clean", "bright"] },
+      { "lemma": "niger", "english": "black", "entry": "niger, nigra, nigrum", "declension": 12, "category": "adjective", "distractors": ["white", "red", "golden"] },
+      { "lemma": "albus", "english": "white", "entry": "albus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["black", "dark", "blue"] },
+      { "lemma": "ruber", "english": "red", "entry": "ruber, rubra, rubrum", "declension": 12, "category": "adjective", "distractors": ["white", "black", "green"] },
+  
+      { "lemma": "durus", "english": "hard, harsh", "entry": "dūrus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["soft", "gentle", "light"] },
+      { "lemma": "sacer", "english": "sacred", "entry": "sacer, sacra, sacrum", "declension": 12, "category": "adjective", "distractors": ["common", "dirty", "empty"] },
+      { "lemma": "sanctus", "english": "sacred, holy", "entry": "sānctus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["profane", "ordinary", "shameful"] },
+      { "lemma": "humanus", "english": "human; humane", "entry": "hūmānus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["wild", "cruel", "strange"] },
+      { "lemma": "ferus", "english": "wild, fierce", "entry": "ferus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["tame", "gentle", "calm"] },
+  
+      { "lemma": "laetus", "english": "happy, joyful", "entry": "laetus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["sad", "angry", "tired"] },
+      { "lemma": "maestus", "english": "sad", "entry": "maestus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["happy", "glad", "safe"] },
+      { "lemma": "miser", "english": "wretched, pitiable", "entry": "miser, misera, miserum", "declension": 12, "category": "adjective", "distractors": ["fortunate", "strong", "rich"] },
+      { "lemma": "beatus", "english": "blessed, happy", "entry": "beātus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["wretched", "sad", "poor"] },
+  
+      { "lemma": "carus", "english": "dear", "entry": "cārus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["cheap", "hated", "distant"] },
+      { "lemma": "gratus", "english": "pleasing; grateful", "entry": "grātus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["unpleasant", "angry", "hostile"] },
+      { "lemma": "ingratus", "english": "unpleasant; ungrateful", "entry": "ingrātus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["pleasant", "grateful", "friendly"] },
+  
+      { "lemma": "publicus", "english": "public", "entry": "pūblicus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["private", "hidden", "secret"] },
+      { "lemma": "privatus", "english": "private", "entry": "prīvātus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["public", "open", "common"] },
+  
+      { "lemma": "tutus", "english": "safe", "entry": "tūtus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["dangerous", "risky", "weak"] },
+      { "lemma": "periculosus", "english": "dangerous", "entry": "perīculōsus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["safe", "secure", "protected"] },
+  
+      { "lemma": "dignus", "english": "worthy", "entry": "dīgnus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["unworthy", "small", "weak"] },
+      { "lemma": "indignus", "english": "unworthy", "entry": "indīgnus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["worthy", "honorable", "noble"] },
+      { "lemma": "honestus", "english": "honorable", "entry": "honestus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["shameful", "ugly", "false"] },
+      { "lemma": "turpis", "english": "shameful, disgraceful", "entry": "turpis, -e", "declension": 12, "category": "adjective", "distractors": ["honorable", "noble", "good"] },
+  
+      { "lemma": "validus", "english": "strong", "entry": "validus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["weak", "soft", "tired"] },
+      { "lemma": "infirmus", "english": "weak", "entry": "infirmus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["strong", "healthy", "firm"] },
+  
+      { "lemma": "celer", "english": "swift", "entry": "celer, celeris, celere", "declension": 12, "category": "adjective", "distractors": ["slow", "lazy", "late"] },
+      { "lemma": "tardus", "english": "slow", "entry": "tardus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["swift", "quick", "rapid"] },
+      { "lemma": "citus", "english": "quick", "entry": "citus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["slow", "late", "heavy"] },
+  
+      { "lemma": "facilis", "english": "easy", "entry": "facilis, -e", "declension": 12, "category": "adjective", "distractors": ["hard", "difficult", "rough"] },
+      { "lemma": "difficilis", "english": "difficult", "entry": "difficilis, -e", "declension": 12, "category": "adjective", "distractors": ["easy", "simple", "light"] },
+  
+      { "lemma": "frigidus", "english": "cold", "entry": "frīgidus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["hot", "warm", "burning"] },
+      { "lemma": "calidus", "english": "hot, warm", "entry": "calidus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["cold", "cool", "chilly"] },
+  
+      { "lemma": "acerbus", "english": "bitter, harsh", "entry": "acerbus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["sweet", "pleasant", "soft"] },
+      { "lemma": "dulcis", "english": "sweet", "entry": "dulcis, -e", "declension": 12, "category": "adjective", "distractors": ["bitter", "harsh", "sour"] },
+  
+      { "lemma": "rectus", "english": "straight, right", "entry": "rēctus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["crooked", "wrong", "bent"] },
+      { "lemma": "sinister", "english": "left; unlucky", "entry": "sinister, sinistra, sinistrum", "declension": 12, "category": "adjective", "distractors": ["right", "fortunate", "safe"] },
+      { "lemma": "dexter", "english": "right", "entry": "dexter, -tra, -trum", "declension": 12, "category": "adjective", "distractors": ["left", "wrong", "crooked"] },
+  
+      { "lemma": "gravis", "english": "serious; heavy", "entry": "gravis, -e", "declension": 12, "category": "adjective", "distractors": ["light", "trivial", "small"] },
+      { "lemma": "levis", "english": "light", "entry": "levis, -e", "declension": 12, "category": "adjective", "distractors": ["heavy", "serious", "hard"] },
+  
+      { "lemma": "pius", "english": "dutiful, loyal", "entry": "pius, -a, -um", "declension": 12, "category": "adjective", "distractors": ["faithless", "cruel", "hostile"] },
+      { "lemma": "impious", "english": "impious, wicked", "entry": "impius, -a, -um", "declension": 12, "category": "adjective", "distractors": ["dutiful", "holy", "loyal"] },
+  
+      { "lemma": "saevus", "english": "fierce, savage", "entry": "saevus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["gentle", "calm", "mild"] },
+      { "lemma": "lentus", "english": "slow; calm", "entry": "lentus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["fierce", "quick", "angry"] },
+  
+      { "lemma": "liber", "english": "free", "entry": "līber, lībera, līberum", "declension": 12, "category": "adjective", "distractors": ["enslaved", "bound", "captive"] },
+      { "lemma": "servus", "english": "enslaved; (also as noun) slave", "entry": "servus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["free", "noble", "safe"] },
+  
+      { "lemma": "clarissimus", "english": "very famous, most famous", "entry": "clārissimus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["unknown", "obscure", "silent"] },
+      { "lemma": "summus", "english": "highest, greatest", "entry": "summus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["lowest", "smallest", "weakest"] },
+  
+      { "lemma": "cunctus", "english": "all together, whole", "entry": "cūnctus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["separate", "partial", "few"] },
+      { "lemma": "ceterus", "english": "the other, the rest", "entry": "cēterus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["first", "single", "whole"] },
+  
+      { "lemma": "serus", "english": "late", "entry": "sērus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["early", "swift", "new"] },
+      { "lemma": "maturus", "english": "mature; ripe", "entry": "matūrus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["unripe", "young", "new"] },
+  
+      { "lemma": "aequus", "english": "equal; fair", "entry": "aequus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["unequal", "unfair", "crooked"] },
+      { "lemma": "iniquus", "english": "unfair, unjust", "entry": "inīquus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["fair", "equal", "just"] },
+      { "lemma": "iustus", "english": "just, right", "entry": "iūstus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["unjust", "wrong", "false"] },
+  
+      { "lemma": "romanus", "english": "Roman", "entry": "Rōmānus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["foreign", "Greek", "barbarian"] },
+      { "lemma": "alienus", "english": "foreign, strange", "entry": "aliēnus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["familiar", "own", "near"] },
+  
+      { "lemma": "vacuus", "english": "empty", "entry": "vacuus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["full", "crowded", "many"] },
+      { "lemma": "plenus", "english": "full", "entry": "plēnus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["empty", "hollow", "bare"] },
+  
+      { "lemma": "nudus", "english": "naked, bare", "entry": "nūdus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["clothed", "covered", "armed"] },
+      { "lemma": "armatus", "english": "armed", "entry": "armātus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["unarmed", "naked", "safe"] },
+  
+      { "lemma": "socius", "english": "allied; friendly", "entry": "socius, -a, -um", "declension": 12, "category": "adjective", "distractors": ["enemy", "hostile", "foreign"] },
+      { "lemma": "hostilis", "english": "hostile", "entry": "hostīlis, -e", "declension": 12, "category": "adjective", "distractors": ["friendly", "allied", "safe"] },
+  
+      { "lemma": "extrēmus", "english": "farthest; extreme", "entry": "extrēmus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["middle", "near", "small"] },
+      { "lemma": "proximus", "english": "nearest; next", "entry": "proximus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["farthest", "last", "distant"] },
+  
+      { "lemma": "varius", "english": "varied", "entry": "varius, -a, -um", "declension": 12, "category": "adjective", "distractors": ["same", "single", "fixed"] },
+      { "lemma": "diversus", "english": "different", "entry": "dīversus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["same", "equal", "similar"] },
+  
+      { "lemma": "superbus", "english": "proud, arrogant", "entry": "superbus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["humble", "modest", "mild"] },
+      { "lemma": "humilis", "english": "low; humble", "entry": "humilis, -e", "declension": 12, "category": "adjective", "distractors": ["proud", "high", "great"] },
+  
+      { "lemma": "aeger", "english": "sick", "entry": "aeger, aegra, aegrum", "declension": 12, "category": "adjective", "distractors": ["healthy", "strong", "safe"] },
+      { "lemma": "sānus", "english": "healthy, sound", "entry": "sānus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["sick", "weak", "tired"] },
+      { "lemma": "integer", "english": "whole; untouched", "entry": "integer, integra, integrum", "declension": 12, "category": "adjective", "distractors": ["broken", "partial", "damaged"] },
+      { "lemma": "rārus", "english": "rare", "entry": "rārus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["common", "frequent", "many"] },
+      { "lemma": "idoneus", "english": "suitable, fit", "entry": "idōneus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["unfit", "weak", "wrong"] },
+      { "lemma": "inutilis", "english": "useless", "entry": "inūtilis, -e", "declension": 12, "category": "adjective", "distractors": ["useful", "helpful", "good"] },
+      { "lemma": "opportunus", "english": "opportune, suitable", "entry": "opportūnus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["late", "wrong", "bad"] },
+      { "lemma": "improbus", "english": "wicked, bad", "entry": "improbus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["good", "honorable", "just"] },
+      { "lemma": "fidelis", "english": "faithful", "entry": "fidēlis, -e", "declension": 12, "category": "adjective", "distractors": ["faithless", "hostile", "false"] },
+      { "lemma": "infidus", "english": "faithless", "entry": "infidus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["faithful", "loyal", "true"] },
+      { "lemma": "gravis", "english": "heavy; serious", "entry": "gravis, -e", "declension": 12, "category": "adjective", "distractors": ["light", "trivial", "small"] },
+      { "lemma": "lentus", "english": "slow", "entry": "lentus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["swift", "quick", "rapid"] },
+      { "lemma": "simplex", "english": "simple", "entry": "simplex, simplicis", "declension": 12, "category": "adjective", "distractors": ["complex", "hard", "strange"] },
+      { "lemma": "gracilis", "english": "slender", "entry": "gracilis, -e", "declension": 12, "category": "adjective", "distractors": ["thick", "wide", "heavy"] },
+      { "lemma": "pinguis", "english": "fat, rich", "entry": "pinguis, -e", "declension": 12, "category": "adjective", "distractors": ["thin", "poor", "light"] },
+      { "lemma": "acer", "english": "sharp, keen", "entry": "ācer, ācris, ācre", "declension": 12, "category": "adjective", "distractors": ["dull", "soft", "weak"] },
+      { "lemma": "saepe", "english": "often (adverb used adjectivally in practice sets)", "entry": "saepe", "declension": 12, "category": "adjective", "distractors": ["rarely", "never", "once"] },
+      { "lemma": "stultus", "english": "foolish", "entry": "stultus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["wise", "smart", "learned"] },
+      { "lemma": "sapiens", "english": "wise", "entry": "sapiēns, sapientis", "declension": 12, "category": "adjective", "distractors": ["foolish", "rash", "mad"] },
+      { "lemma": "iratus", "english": "angry", "entry": "īrātus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["calm", "happy", "gentle"] },
+      { "lemma": "tranquillus", "english": "calm, quiet", "entry": "trānquillus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["angry", "stormy", "noisy"] },
+      { "lemma": "nocturnus", "english": "nightly, nocturnal", "entry": "noctūrnus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["daily", "bright", "sunny"] },
+      { "lemma": "diurnus", "english": "daily", "entry": "diūrnus, -a, -um", "declension": 12, "category": "adjective", "distractors": ["nightly", "rare", "hidden"] }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "lemma": "res",
+    "english": "thing; matter; affair",
+    "entry": "res, rei (f.)",
+    "declension": 5,
+    "category": "abstract",
+    "distractors": [
+      "law",
+      "army",
+      "road"
+    ]
+  },
+  {
+    "lemma": "dies",
+    "english": "day",
+    "entry": "dies, diei (m.)",
+    "declension": 5,
+    "category": "time",
+    "distractors": [
+      "night",
+      "year",
+      "hour"
+    ]
+  },
+  {
+    "lemma": "spes",
+    "english": "hope",
+    "entry": "spes, spei (f.)",
+    "declension": 5,
+    "category": "abstract",
+    "distractors": [
+      "fear",
+      "anger",
+      "shame"
+    ]
+  },
+  {
+    "lemma": "fides",
+    "english": "faith; trust",
+    "entry": "fides, fidei (f.)",
+    "declension": 5,
+    "category": "abstract",
+    "distractors": [
+      "law",
+      "gift",
+      "trick"
+    ]
+  },
+  {
+    "lemma": "acies",
+    "english": "battle line; sharp edge",
+    "entry": "acies, aciei (f.)",
+    "declension": 5,
+    "category": "war",
+    "distractors": [
+      "fortress",
+      "treaty",
+      "camp"
+    ]
+  },
+  {
+    "lemma": "facies",
+    "english": "face; appearance",
+    "entry": "facies, faciei (f.)",
+    "declension": 5,
+    "category": "perception",
+    "distractors": [
+      "voice",
+      "hand",
+      "mind"
+    ]
+  },
+  {
+    "lemma": "species",
+    "english": "appearance; kind",
+    "entry": "species, speciei (f.)",
+    "declension": 5,
+    "category": "perception",
+    "distractors": [
+      "number",
+      "law",
+      "song"
+    ]
+  },
+  {
+    "lemma": "meridies",
+    "english": "midday; south",
+    "entry": "meridies, meridiei (m.)",
+    "declension": 5,
+    "category": "time",
+    "distractors": [
+      "morning",
+      "winter",
+      "east"
+    ]
+  },
+  {
+    "lemma": "glacies",
+    "english": "ice",
+    "entry": "glacies, glaciei (f.)",
+    "declension": 5,
+    "category": "nature",
+    "distractors": [
+      "rain",
+      "wind",
+      "dust"
+    ]
+  },
+  {
+    "lemma": "superficies",
+    "english": "surface",
+    "entry": "superficies, superficiei (f.)",
+    "declension": 5,
+    "category": "objects",
+    "distractors": [
+      "angle",
+      "line",
+      "color"
+    ]
+  },
+  {
+    "lemma": "materies",
+    "english": "timber; material",
+    "entry": "materies, materiei (f.)",
+    "declension": 5,
+    "category": "objects",
+    "distractors": [
+      "stone",
+      "metal",
+      "coin"
+    ]
+  },
+  {
+    "lemma": "planities",
+    "english": "level ground; plain",
+    "entry": "planities, planitiei (f.)",
+    "declension": 5,
+    "category": "geography",
+    "distractors": [
+      "valley",
+      "mountain",
+      "river"
+    ]
+  },
+  {
+    "lemma": "series",
+    "english": "series; row",
+    "entry": "series, seriei (f.)",
+    "declension": 5,
+    "category": "abstract",
+    "distractors": [
+      "crowd",
+      "council",
+      "army"
+    ]
+  },
+  {
+    "lemma": "effigies",
+    "english": "image; likeness",
+    "entry": "effigies, effigiei (f.)",
+    "declension": 5,
+    "category": "art",
+    "distractors": [
+      "poem",
+      "law",
+      "song"
+    ]
+  },
+  {
+    "lemma": "pernicies",
+    "english": "ruin; destruction",
+    "entry": "pernicies, perniciei (f.)",
+    "declension": 5,
+    "category": "war",
+    "distractors": [
+      "victory",
+      "peace",
+      "truce"
+    ]
+  },
+  {
+    "lemma": "rabies",
+    "english": "rage; rabies",
+    "entry": "rabies, rabiei (f.)",
+    "declension": 5,
+    "category": "emotions",
+    "distractors": [
+      "joy",
+      "sleep",
+      "pity"
+    ]
+  },
+  {
+    "lemma": "sanies",
+    "english": "foul gore; discharge",
+    "entry": "sanies, saniei (f.)",
+    "declension": 5,
+    "category": "the body",
+    "distractors": [
+      "sweat",
+      "tear",
+      "saliva"
+    ]
+  },
+  {
+    "lemma": "macies",
+    "english": "leanness; thinness",
+    "entry": "macies, maciei (f.)",
+    "declension": 5,
+    "category": "the body",
+    "distractors": [
+      "fat",
+      "height",
+      "strength"
+    ]
+  },
+  {
+    "lemma": "esuries",
+    "english": "hunger",
+    "entry": "esuries, esuriei (f.)",
+    "declension": 5,
+    "category": "the body",
+    "distractors": [
+      "thirst",
+      "sleep",
+      "joy"
+    ]
+  },
+  {
+    "lemma": "progenies",
+    "english": "offspring; lineage",
+    "entry": "progenies, progeniei (f.)",
+    "declension": 5,
+    "category": "people",
+    "distractors": [
+      "king",
+      "citizen",
+      "slave"
+    ]
+  }
+]
