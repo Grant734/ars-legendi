@@ -51,12 +51,20 @@ const corsOptions = {
   origin: (origin, callback) => {
     // Allow requests with no origin (mobile apps, curl, etc.)
     if (!origin) return callback(null, true);
+
+    // Check exact match
     if (allowedOrigins.includes(origin)) {
-      callback(null, true);
-    } else {
-      console.warn(`CORS blocked origin: ${origin}`);
-      callback(new Error('Not allowed by CORS'));
+      return callback(null, true);
     }
+
+    // Allow all Vercel preview deployments for this project
+    // Pattern: https://ars-legendi-*-grant734s-projects.vercel.app
+    if (origin.match(/^https:\/\/ars-legendi-.*-grant734s-projects\.vercel\.app$/)) {
+      return callback(null, true);
+    }
+
+    console.warn(`CORS blocked origin: ${origin}`);
+    callback(new Error('Not allowed by CORS'));
   },
   credentials: true, // Enable if using cookies/sessions
 };
