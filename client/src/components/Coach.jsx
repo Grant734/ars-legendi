@@ -174,7 +174,7 @@ export function CoachOverlay({
       if (skillId?.startsWith("grammar:")) {
         navigate(`/grammar-practice?${params.toString()}`);
       } else if (skillId?.startsWith("vocab:")) {
-        navigate(`/vocab?${params.toString()}`);
+        navigate(`/CaesarDBG1?${params.toString()}`);
       }
     }
 

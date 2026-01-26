@@ -7,10 +7,6 @@ import path from "path";
 import multer from "multer";
 import { fileURLToPath } from "url";
 import rateLimit from 'express-rate-limit';
-import OpenAI from 'openai';
-import latinSentenceRouter from "./routes/latinSentence.mjs";
-import latinHintRouter from "./routes/latinHint.mjs";
-import mnemonicRouter from "./routes/mnemonic.mjs";
 import caesarRouter from "./routes/caesar.mjs";
 import authRouter from "./routes/auth.mjs";
 import classesRouter from "./routes/classes.mjs";
@@ -28,8 +24,6 @@ async function tryImport(modulePath) {
 
 const postsRouter = await tryImport("./routes/posts.mjs");
 const curriculumRouter = await tryImport("./routes/curriculum.mjs");
-const latinImageRouter = await tryImport("./routes/latinImage.mjs");
-const flashcardsRouter = await tryImport("./routes/flashcards.mjs");
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -41,9 +35,6 @@ const limiter = rateLimit({
   max: 100
 });
 
-const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY
-});
 // --- middleware ---
 app.use(cors());
 app.use(express.json({ limit: "2mb" }));
@@ -70,9 +61,6 @@ app.use("/uploads", express.static(uploadDir));
 app.get("/api/health", (req, res) => res.json({ ok: true }));
 
 // --- core routes ---
-app.use("/api/latinSentence", latinSentenceRouter);
-app.use("/api/latinHint", latinHintRouter);
-app.use("/api/mnemonic", mnemonicRouter);
 app.use("/api/caesar", caesarRouter);
 app.use("/api/auth", authRouter);
 app.use("/api/classes", classesRouter);
@@ -82,8 +70,6 @@ app.use("/api/student", studentDataRouter);
 // Optional (only mounts if file exists)
 if (postsRouter) app.use("/api/posts", postsRouter);
 if (curriculumRouter) app.use("/api/curriculum", curriculumRouter);
-if (latinImageRouter) app.use("/api/latinImage", latinImageRouter);
-if (flashcardsRouter) app.use("/api/flashcards", flashcardsRouter);
 
 // Example upload endpoint (safe to keep even if unused)
 app.post("/api/upload", upload.single("file"), (req, res) => {
@@ -95,11 +81,6 @@ app.post("/api/upload", upload.single("file"), (req, res) => {
 app.use((err, req, res, next) => {
   console.error("SERVER ERROR:", err);
   res.status(500).json({ error: "Server error", detail: String(err?.message || err) });
-});
-
-app.get("/api/latinHint", (req, res, next) => {
-  req.url = "/hint" + (req.url.includes("?") ? req.url.slice(req.url.indexOf("?")) : "")
-  caesarRouter(req, res, next);
 });
 
 const PORT = process.env.PORT || 3001;

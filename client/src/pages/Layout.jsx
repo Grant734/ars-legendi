@@ -11,7 +11,7 @@ export default function Layout() {
           <Link to="/" className="hover:underline">Home</Link>
           <Link to="/blog" className="hover:underline">Blog</Link>
           <Link to="/curriculum" className="hover:underline">Curriculum</Link>
-          <Link to="/vocab" className="hover:underline">Vocab Trainer</Link>
+          <Link to="/CaesarDBG1" className="hover:underline">Caesar Vocab</Link>
           <Link to="/contact" className="hover:underline">Contact Us</Link>
         </div>
 

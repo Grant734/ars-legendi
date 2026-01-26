@@ -9,7 +9,6 @@ import NewPost from './pages/NewPost';
 import EditPost from './pages/EditPost';
 import Curriculum from './pages/Curriculum';
 import Contact from './pages/Contact';
-import VocabTrainer from './vocab/VocabTrainer';
 import CaesarDBG1 from "./pages/CaesarDBG1";
 import ReadingGuideDebug from './pages/ReadingGuideDebug';
 import ReadingGuide from './pages/ReadingGuide';
@@ -45,7 +44,6 @@ function App() {
               <Route path="/blog/edit/:slug" element={<EditPost />} />
               <Route path="/curriculum" element={<Curriculum />} />
               <Route path="/contact" element={<Contact />} />
-              <Route path="/vocab" element={<VocabTrainer />} />
               <Route path="/reading-debug" element={<ReadingGuideDebug />} />
               <Route path="/reading-guide" element={<ReadingGuide />} />
               <Route path="/grammar" element={<GrammarLessons />} />
