@@ -2,6 +2,7 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
 import useCreator from "../hooks/useCreator";
+import { apiUrl } from "../lib/api";
 
 export default function Contact() {
   const [formData, setFormData] = useState({ name: "", email: "", message: "" });
@@ -18,7 +19,7 @@ export default function Contact() {
     setFeedback(null);
 
     try {
-      const res = await axios.post("http://localhost:3001/api/contact", formData);
+      const res = await axios.post(apiUrl("/api/contact"), formData);
       setFeedback({ success: true, text: res.data.message });
       setFormData({ name: "", email: "", message: "" });
     } catch (err) {
@@ -28,7 +29,7 @@ export default function Contact() {
 
   useEffect(() => {
     if (isCreator) {
-      axios.get("http://localhost:3001/api/contact/messages")
+      axios.get(apiUrl("/api/contact/messages"))
         .then(res => setMessages(res.data))
         .catch(err => console.error("Failed to fetch messages", err));
     }

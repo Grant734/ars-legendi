@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import axios from "axios";
 import useCreator from "../hooks/useCreator";
+import { apiUrl } from "../lib/api";
 import BlogPostCard from "../components/BlogPostCard";
 import { motion } from "framer-motion";
 
@@ -11,7 +12,7 @@ export default function Blog() {
 
   useEffect(() => {
     axios
-      .get("http://localhost:3001/api/posts")
+      .get(apiUrl("/api/posts"))
       .then((res) => setPosts(res.data))
       .catch((err) => console.error("Error fetching posts", err));
   }, []);

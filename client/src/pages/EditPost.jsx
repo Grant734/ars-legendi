@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { useParams, useNavigate, Navigate } from "react-router-dom";
 import axios from "axios";
 import useCreator from "../hooks/useCreator";
+import { apiUrl } from "../lib/api";
 
 export default function EditPost() {
   const { slug } = useParams();
@@ -20,7 +21,7 @@ export default function EditPost() {
 
   useEffect(() => {
     axios
-      .get(`http://localhost:3001/api/posts/${slug}`)
+      .get(apiUrl(`/api/posts/${slug}`))
       .then((res) => {
         const post = res.data;
         setTitle(post.title || "");
@@ -38,7 +39,7 @@ export default function EditPost() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      await axios.put(`http://localhost:3001/api/posts/${slug}`, {
+      await axios.put(apiUrl(`/api/posts/${slug}`), {
         title,
         content,
         coverImage,

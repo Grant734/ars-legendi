@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 import useCreator from "../hooks/useCreator";
+import { apiUrl } from "../lib/api";
 
 const LESSONS = Array.from({ length: 10 }, (_, i) => `Lesson${i + 1}`);
 
@@ -11,7 +12,7 @@ export default function Curriculum() {
 
   // Load files from backend
   useEffect(() => {
-    axios.get("http://localhost:3001/api/files").then((res) => {
+    axios.get(apiUrl("/api/files")).then((res) => {
       setFiles(res.data);
     });
   }, []);
@@ -41,8 +42,8 @@ export default function Curriculum() {
     Array.from(selectedFiles).forEach((file) => formData.append("pdfs", file));
 
     try {
-      await axios.post("http://localhost:3001/api/upload", formData);
-      const res = await axios.get("http://localhost:3001/api/files");
+      await axios.post(apiUrl("/api/upload"), formData);
+      const res = await axios.get(apiUrl("/api/files"));
       setFiles(res.data);
       setSelectedFiles([]);
     } catch (err) {
@@ -53,8 +54,8 @@ export default function Curriculum() {
   // Delete PDF
   const handleDelete = async (filename) => {
     try {
-      await axios.delete(`http://localhost:3001/api/files/${filename}`);
-      const res = await axios.get("http://localhost:3001/api/files");
+      await axios.delete(apiUrl(`/api/files/${filename}`));
+      const res = await axios.get(apiUrl("/api/files"));
       setFiles(res.data);
     } catch (err) {
       console.error("Delete failed", err);
@@ -94,7 +95,7 @@ export default function Curriculum() {
               {groupedFiles[lesson].map((file) => (
                 <li key={file} className="flex justify-between items-center">
                   <a
-                    href={`http://localhost:3001/uploads/${file}`}
+                    href={apiUrl(`/uploads/${file}`)}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-blue-600 hover:underline"

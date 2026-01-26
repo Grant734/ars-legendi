@@ -1,12 +1,13 @@
 import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import axios from 'axios';
+import { apiUrl } from "../lib/api";
 
 export default function BlogHome() {
   const [posts, setPosts] = useState([]);
 
   useEffect(() => {
-    axios.get('http://localhost:3001/api/posts')
+    axios.get(apiUrl('/api/posts'))
       .then(res => setPosts(res.data))
       .catch(err => console.error("Error fetching posts:", err));
   }, []);

@@ -2,6 +2,7 @@
 import { useState } from 'react';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
+import { apiUrl } from "../lib/api";
 
 export default function NewPost() {
   const [title, setTitle] = useState('');
@@ -14,7 +15,7 @@ export default function NewPost() {
     if (!title || !content) return;
 
     try {
-      await axios.post("http://localhost:3001/api/posts", {
+      await axios.post(apiUrl("/api/posts"), {
         title,
         content,
         coverImage,

@@ -3,6 +3,7 @@ import ReactMarkdown from 'react-markdown';
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 import useCreator from "../hooks/useCreator";
+import { apiUrl } from "../lib/api";
 
 export default function BlogPost() {
   const { slug } = useParams();
@@ -12,7 +13,7 @@ export default function BlogPost() {
   const { isCreator } = useCreator();
 
   useEffect(() => {
-    axios.get(`http://localhost:3001/api/posts/${slug}`)
+    axios.get(apiUrl(`/api/posts/${slug}`))
       .then(res => {
         setPost(res.data);
         setLoading(false);
@@ -25,7 +26,7 @@ export default function BlogPost() {
 
   const handleDelete = () => {
     if (!window.confirm("Are you sure you want to delete this post?")) return;
-    axios.delete(`http://localhost:3001/api/posts/${slug}`)
+    axios.delete(apiUrl(`/api/posts/${slug}`))
       .then(() => navigate('/blog'))
       .catch(err => alert("Failed to delete post"));
   };
