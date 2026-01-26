@@ -7,6 +7,7 @@ import {
   SKILLS,
   SUBSKILLS,
 } from "../lib/attemptEvents";
+import { API_BASE_URL } from "../lib/api";
 /**
  * Caesar DBG1 MVP
  * - Setup: choose chapter range
@@ -258,7 +259,7 @@ export default function CaesarDBG1() {
   async function fetchExampleBySid(sid) {
     if (!sid) return { sid: "", latin: "", english: "" };
     try {
-      const res = await fetch(`/api/caesar/example?sid=${encodeURIComponent(sid)}`);
+      const res = await fetch(`${API_BASE_URL}/api/caesar/example?sid=${encodeURIComponent(sid)}`);
       if (!res.ok) throw new Error("bad status");
       const data = await res.json();
       return {
@@ -275,7 +276,7 @@ export default function CaesarDBG1() {
     const s = String(sid || "").trim();
     if (!s) return null;
 
-    const res = await fetch(`/api/caesar/sentenceBundle?sid=${encodeURIComponent(s)}`);
+    const res = await fetch(`${API_BASE_URL}/api/caesar/sentenceBundle?sid=${encodeURIComponent(s)}`);
     if (!res.ok) return null;
 
     const data = await res.json();
@@ -665,7 +666,7 @@ export default function CaesarDBG1() {
     if (!l) return "";
 
     try {
-      const res = await fetch("/api/latinHint", {
+      const res = await fetch(`${API_BASE_URL}/api/latinHint`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
@@ -860,7 +861,7 @@ export default function CaesarDBG1() {
 
     async function load() {
       try {
-        const res = await fetch("/api/caesar/targets");
+        const res = await fetch(`${API_BASE_URL}/api/caesar/targets`);
         const data = await res.json();
         const arr = Array.isArray(data?.targets) ? data.targets : [];
 

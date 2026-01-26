@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { API_BASE_URL } from "../lib/api";
 import CaesarSentence from "../components/CaesarSentence";
 import WordInspector from "../components/WordInspector";
 
@@ -13,7 +14,7 @@ export default function CaesarTest() {
       setBundle(null);
       setSelected(null);
 
-      const res = await fetch(`/api/caesar/sentence/${sid}`);
+      const res = await fetch(`${API_BASE_URL}/api/caesar/sentence/${sid}`);
       if (!res.ok) {
         const txt = await res.text();
         throw new Error(txt);

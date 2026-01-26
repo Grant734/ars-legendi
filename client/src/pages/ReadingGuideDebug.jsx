@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
+import { API_BASE_URL } from "../lib/api";
 import CaesarSentence from "../components/CaesarSentence";
 
 function typeLabel(type) {
@@ -40,7 +41,7 @@ export default function ReadingGuideDebug() {
     setBundle(null);
 
     try {
-      const res = await fetch(`/api/caesar/sentenceBundle?sid=${encodeURIComponent(sid)}`);
+      const res = await fetch(`${API_BASE_URL}/api/caesar/sentenceBundle?sid=${encodeURIComponent(sid)}`);
       if (!res.ok) {
         const j = await res.json().catch(() => null);
         throw new Error(j?.error || `Request failed (${res.status})`);

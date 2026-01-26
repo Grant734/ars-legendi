@@ -1,6 +1,6 @@
 // src/pages/ReadingGuide.jsx
 import { useEffect, useMemo, useState } from "react";
-
+import { API_BASE_URL } from "../lib/api";
 import CaesarSentence from "../components/CaesarSentence.jsx";
 import TextSelector from "../components/TextSelector";
 import ClauseLegend from "../components/ClauseLegend.jsx";
@@ -196,7 +196,7 @@ export default function ReadingGuide() {
 
   async function loadChapters() {
     setErr("");
-    const r = await fetch("/api/caesar/chapters");
+    const r = await fetch(`${API_BASE_URL}/api/caesar/chapters`);
     if (!r.ok) {
       const j = await r.json().catch(() => null);
       throw new Error(j?.error || `chapters failed (HTTP ${r.status})`);
@@ -211,7 +211,7 @@ export default function ReadingGuide() {
     setLoading(true);
 
     try {
-      const r = await fetch(`/api/caesar/chapterBundle?chapter=${encodeURIComponent(ch)}`);
+      const r = await fetch(`${API_BASE_URL}/api/caesar/chapterBundle?chapter=${encodeURIComponent(ch)}`);
       if (!r.ok) {
         const j = await r.json().catch(() => null);
         throw new Error(j?.error || `chapterBundle failed (HTTP ${r.status})`);
@@ -246,7 +246,7 @@ export default function ReadingGuide() {
   }
 
   async function fetchGlossaryLemma(lemma) {
-    const r = await fetch(`/api/caesar/glossary?lemma=${encodeURIComponent(lemma)}`);
+    const r = await fetch(`${API_BASE_URL}/api/caesar/glossary?lemma=${encodeURIComponent(lemma)}`);
     if (!r.ok) return null;
     const j = await r.json().catch(() => null);
     if (j?.entry) {
@@ -294,7 +294,7 @@ export default function ReadingGuide() {
     // 1) Prefer backend normalizer if it exists (if you add it later).
     // If missing/404, we fall back to the chapter-based index below.
     try {
-      const rn = await fetch(`/api/caesar/glossaryByForm?form=${encodeURIComponent(qRaw)}`);
+      const rn = await fetch(`${API_BASE_URL}/api/caesar/glossaryByForm?form=${encodeURIComponent(qRaw)}`);
       if (rn.ok) {
         const jn = await rn.json().catch(() => null);
         const rawHits = Array.isArray(jn?.hits) ? jn.hits : [];

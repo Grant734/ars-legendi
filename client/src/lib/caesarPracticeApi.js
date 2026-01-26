@@ -1,4 +1,5 @@
 // client/src/lib/caesarPracticeApi.js
+import { API_BASE_URL } from "./api";
 
 function qs(obj) {
   const params = new URLSearchParams();
@@ -33,7 +34,7 @@ export async function fetchPracticeChunk({ type, n, exclude, mastered }) {
     nonce: Date.now()
   });
 
-  const res = await fetch(`/api/caesar/practiceChunk?${query}`, {
+  const res = await fetch(`${API_BASE_URL}/api/caesar/practiceChunk?${query}`, {
     method: "GET",
     headers: { Accept: "application/json" },
     cache: "no-store",
@@ -45,7 +46,7 @@ export async function fetchPracticeChunk({ type, n, exclude, mastered }) {
 export async function fetchPracticePoolSize({ type, n }) {
   const query = qs({ type, n });
 
-  const res = await fetch(`/api/caesar/practicePoolSize?${query}`, {
+  const res = await fetch(`${API_BASE_URL}/api/caesar/practicePoolSize?${query}`, {
     method: "GET",
     headers: { Accept: "application/json" },
     cache: "no-store",
@@ -58,7 +59,7 @@ export async function fetchExamplesIndex({ types }) {
   const t = Array.isArray(types) ? types : String(types || "").split(",").filter(Boolean);
   const query = qs({ types: t.join(",") });
 
-  const res = await fetch(`/api/caesar/examples?${query}`, {
+  const res = await fetch(`${API_BASE_URL}/api/caesar/examples?${query}`, {
     method: "GET",
     headers: { Accept: "application/json" },
     cache: "no-store",

@@ -12,6 +12,7 @@ import {
 import { loadLocalEvents } from "../lib/attemptEvents";
 import { getStudentIdentity } from "../lib/studentIdentity";
 import { ELO_CONSTANTS, ratingToLevel, getProgressToNextLevel as getEloProgress } from "../lib/eloRating";
+import { API_BASE_URL } from "../lib/api";
 
 // ============================================================================
 // SKILL DEFINITIONS - Aggregated at concept level
@@ -1716,7 +1717,7 @@ export default function MasteryPage() {
     setLoading(false);
 
     // Fetch construction counts from server
-    fetch("/api/caesar/constructionCounts")
+    fetch(`${API_BASE_URL}/api/caesar/constructionCounts`)
       .then((res) => res.json())
       .then((data) => {
         if (data.ok && data.counts) {
@@ -1726,7 +1727,7 @@ export default function MasteryPage() {
       .catch(() => {});
 
     // Fetch vocab counts from server
-    fetch("/api/caesar/vocabCounts")
+    fetch(`${API_BASE_URL}/api/caesar/vocabCounts`)
       .then((res) => res.json())
       .then((data) => {
         if (data.ok && data.byChapter) {

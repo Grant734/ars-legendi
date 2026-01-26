@@ -1,5 +1,6 @@
 // src/components/WordInspector.jsx
 import { useEffect, useMemo, useState } from "react";
+import { API_BASE_URL } from "../lib/api";
 import { prettyUpos, prettyDeprel, prettyFeats } from "../utils/udPretty";
 
 function humanizeConditionalLabel(label) {
@@ -124,7 +125,7 @@ export default function WordInspector({ token, tokenIndex, sentence, constructio
 
       try {
         setGlossLoading(true);
-        const res = await fetch(`/api/caesar/glossary?lemma=${encodeURIComponent(lemma)}`);
+        const res = await fetch(`${API_BASE_URL}/api/caesar/glossary?lemma=${encodeURIComponent(lemma)}`);
         if (!res.ok) return;
 
         const data = await res.json();

@@ -5,6 +5,7 @@
 
 import { getCurrentStudentId } from "./studentIdentity";
 import { storage } from "./storage";
+import { API_BASE_URL } from "./api";
 
 // ============================================================================
 // EVENT TYPES
@@ -519,7 +520,7 @@ async function syncEventsToServer(assignmentId, events) {
   // In a production system, you'd batch these into a single call
   for (const event of events) {
     try {
-      await fetch("/api/caesar/assignments/event", {
+      await fetch(`${API_BASE_URL}/api/caesar/assignments/event`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
@@ -732,7 +733,7 @@ async function syncEventsToAuth() {
 
     if (!eventsToSync.length) return;
 
-    const res = await fetch("/api/student/sync", {
+    const res = await fetch(`${API_BASE_URL}/api/student/sync`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
