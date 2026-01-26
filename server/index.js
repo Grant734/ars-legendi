@@ -30,9 +30,14 @@ const __dirname = path.dirname(__filename);
 
 const app = express();
 
+// Trust proxy for Railway/Vercel (required for rate limiting behind reverse proxy)
+app.set('trust proxy', 1);
+
 const limiter = rateLimit({
   windowMs: 15 * 60 * 1000,
-  max: 100
+  max: 100,
+  standardHeaders: true,
+  legacyHeaders: false,
 });
 
 // --- CORS configuration ---
