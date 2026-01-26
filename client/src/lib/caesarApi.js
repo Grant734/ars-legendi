@@ -1,4 +1,6 @@
-const CAESAR_API_BASE = "/api/caesar";
+import { API_BASE_URL } from "./api";
+
+const CAESAR_API_BASE = `${API_BASE_URL}/api/caesar`;
 
 function withDevRefresh(url) {
   // only in dev
@@ -9,7 +11,8 @@ function withDevRefresh(url) {
 }
 
 async function fetchJson(url) {
-  const res = await fetch(withDevRefresh(url), { cache: "no-store" });
+  const fullUrl = url.startsWith("http") ? url : url;
+  const res = await fetch(fullUrl, { cache: "no-store" });
   const data = await res.json().catch(() => ({}));
   if (!res.ok) throw new Error(data?.error || `Request failed: ${res.status}`);
   return data;
