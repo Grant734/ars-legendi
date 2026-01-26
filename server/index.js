@@ -35,8 +35,29 @@ const limiter = rateLimit({
   max: 100
 });
 
+// --- CORS configuration ---
+// In production, set CORS_ORIGIN to your Vercel domain (e.g., https://your-site.vercel.app)
+// Multiple origins can be comma-separated: https://site1.com,https://site2.com
+const allowedOrigins = process.env.CORS_ORIGIN
+  ? process.env.CORS_ORIGIN.split(',').map(o => o.trim())
+  : ['http://localhost:5173', 'http://localhost:3000']; // Dev defaults
+
+const corsOptions = {
+  origin: (origin, callback) => {
+    // Allow requests with no origin (mobile apps, curl, etc.)
+    if (!origin) return callback(null, true);
+    if (allowedOrigins.includes(origin)) {
+      callback(null, true);
+    } else {
+      console.warn(`CORS blocked origin: ${origin}`);
+      callback(new Error('Not allowed by CORS'));
+    }
+  },
+  credentials: true, // Enable if using cookies/sessions
+};
+
 // --- middleware ---
-app.use(cors());
+app.use(cors(corsOptions));
 app.use(express.json({ limit: "2mb" }));
 
 // --- uploads (if you use it elsewhere in the site) ---
