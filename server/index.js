@@ -57,6 +57,11 @@ const corsOptions = {
       return callback(null, true);
     }
 
+    // Allow main Vercel domain
+    if (origin === 'https://ars-legendi.vercel.app') {
+      return callback(null, true);
+    }
+
     // Allow all Vercel preview deployments for this project
     // Pattern: https://ars-legendi-*-grant734s-projects.vercel.app
     if (origin.match(/^https:\/\/ars-legendi-.*-grant734s-projects\.vercel\.app$/)) {
