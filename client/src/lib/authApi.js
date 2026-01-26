@@ -1,11 +1,12 @@
 // client/src/lib/authApi.js
 // API helper functions for authentication
+import { API_BASE_URL } from "./api";
 
 function getToken() {
   return localStorage.getItem("auth_token");
 }
 
-async function apiFetch(url, options = {}) {
+async function apiFetch(path, options = {}) {
   const token = getToken();
   const headers = {
     "Content-Type": "application/json",
@@ -16,7 +17,7 @@ async function apiFetch(url, options = {}) {
     headers.Authorization = `Bearer ${token}`;
   }
 
-  const res = await fetch(url, {
+  const res = await fetch(`${API_BASE_URL}${path}`, {
     ...options,
     headers,
   });
