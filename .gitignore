@@ -30,3 +30,6 @@ server/uploads/
 
 # Archive
 zarchive/
+
+# Claude Code
+.claude/
