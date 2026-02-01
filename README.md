@@ -4,7 +4,7 @@
 
 Ars Legendi is a mastery-based reading and learning platform for Latin. The first module teaches students to read Caesar's *De Bello Gallico* Book 1 by combining vocabulary training, grammar support anchored to real passages, and adaptive progress tracking.
 
--
+
 
 ## What it does
 
@@ -17,7 +17,7 @@ Ars Legendi helps students do four things in one place:
 
 Teachers have access to a dashboard that surfaces class-wide patterns, flags skills that need reteaching, and tracks individual student progress.
 
--
+
 
 ## How it works
 
@@ -27,7 +27,7 @@ This means grammatical support is generated systematically rather than written b
 
 The adaptive learning system uses an Elo rating algorithm (adapted from chess) to measure student skill per topic, calibrate item difficulty from aggregate performance data, and detect behavioral patterns like guessing, fatigue, or momentum to trigger appropriate interventions.
 
--
+
 
 ## Tech stack
 
@@ -40,7 +40,7 @@ The adaptive learning system uses an Elo rating algorithm (adapted from chess) t
 | Auth | Custom JWT (HMAC-SHA256) |
 | Deployment | Vercel (frontend) + Railway (backend) |
 
--
+
 
 ## Key data files
 
@@ -57,7 +57,7 @@ All Latin text data lives in `/server/data/caesar/`:
 | `dbg1_lemma_index.json` | Form-to-lemma lookup (powers the Word Inspector) |
 | `dbg1_form_index.json` | Lemma-to-forms lookup |
 
--
+
 
 ## Core systems
 
@@ -97,7 +97,7 @@ Aggregates class data to surface reteaching decisions, misconception patterns, a
 
 **Key files:** `client/src/pages/TeacherDashboard.jsx`, `client/src/lib/classInsights.js`
 
--
+
 
 ## Running locally
 
@@ -125,7 +125,7 @@ The client runs on `localhost:5173` by default, the server on `localhost:3001`.
 
 If you want LLM-powered features (example sentences, mnemonics, hints), add `OPENAI_API_KEY` to the server environment.
 
--
+
 
 ## Adapting for another Latin text
 
@@ -142,7 +142,7 @@ The high-level process:
 
 For a detailed walkthrough with code snippets and implementation guidance, see the Methodology page on the site.
 
--
+
 
 ## Background
 
@@ -150,7 +150,7 @@ I started learning Latin the way most students do: vocabulary lists and grammar 
 
 I built Ars Legendi to function as a teacher tool inside and outside the classroom. I chose Caesar because his prose is straightforward while covering most fundamental constructions, and nearly all Latin students encounter him at some point. The system is designed to recreate teacher support in an efficient, text-anchored way for both students and teachers.
 
--
+
 
 ## Contact
 
