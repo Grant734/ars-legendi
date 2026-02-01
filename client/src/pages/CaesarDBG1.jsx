@@ -58,9 +58,11 @@ function MCQuestion({
   selected,
   onSelect,
   onSubmit,
+  onNext,
   feedback,
   showCorrect,
   disabled,
+  showNextButton,
 }) {
   return (
     <div className="bg-white border-2 border-gray-200 rounded-xl p-6">
@@ -99,6 +101,15 @@ function MCQuestion({
         >
           Submit
         </button>
+
+        {showNextButton && (
+          <button
+            onClick={onNext}
+            className="px-5 py-2 bg-accent text-primary font-bold rounded-lg hover:bg-yellow-400 transition-colors"
+          >
+            Next
+          </button>
+        )}
 
         <div className="min-h-6 text-gray-700">{feedback}</div>
       </div>
@@ -1081,6 +1092,21 @@ export default function CaesarDBG1() {
 
       {phase === "p1" || phase === "p2" ? (
         <div className="mt-4">
+          {/* Progress indicator */}
+          <div className="mb-4 flex items-center justify-between bg-gray-50 rounded-lg px-4 py-2">
+            <div className="text-sm text-gray-600">
+              <span className="font-semibold text-primary">{phase === "p1" ? "Phase 1" : "Phase 2"}</span>
+              {" · "}
+              <span className="font-medium">{currentIndex + 1}</span>
+              <span className="text-gray-400"> / </span>
+              <span className="font-medium">{queue.length}</span>
+              <span className="text-gray-500"> words</span>
+            </div>
+            <div className="text-xs text-gray-500">
+              {sessionIndicesRef.current?.length || 0} words in session
+            </div>
+          </div>
+
           {queue.length ? (
             <MCQuestion
               lemma={currentTarget()?.lemma}
@@ -1089,16 +1115,18 @@ export default function CaesarDBG1() {
               selected={selectedChoice}
               onSelect={setSelectedChoice}
               onSubmit={phase === "p1" ? submitPhase1Answer : submitPhase2Answer}
+              onNext={handleNextMC}
               feedback={feedback}
               showCorrect={showCorrect}
               disabled={mcLocked}
+              showNextButton={mcLocked}
             />
           ) : (
             <div className="text-gray-600">No items in queue.</div>
           )}
 
           {mcLocked && resultBundle ? (
-            <div className="mt-4 space-y-4">
+            <div className="mt-4">
               <div
                 className={`p-5 rounded-xl border-2 ${
                   resultBundle.isCorrect
@@ -1142,14 +1170,7 @@ export default function CaesarDBG1() {
                 )}
               </div>
 
-              <button
-                onClick={handleNextMC}
-                className="px-5 py-2 bg-accent text-primary font-bold rounded-lg hover:bg-yellow-400 transition-colors"
-              >
-                Next
-              </button>
-
-              <p className="text-xs text-gray-500">Tip: Enter also advances.</p>
+              <p className="text-xs text-gray-500 mt-2">Tip: Enter also advances.</p>
             </div>
           ) : null}
         </div>
@@ -1157,6 +1178,21 @@ export default function CaesarDBG1() {
 
       {phase === "p3" ? (
         <div className="mt-4">
+          {/* Progress indicator */}
+          <div className="mb-4 flex items-center justify-between bg-gray-50 rounded-lg px-4 py-2">
+            <div className="text-sm text-gray-600">
+              <span className="font-semibold text-primary">Phase 3</span>
+              {" · "}
+              <span className="font-medium">{typingIndex + 1}</span>
+              <span className="text-gray-400"> / </span>
+              <span className="font-medium">{typingQueue.length}</span>
+              <span className="text-gray-500"> words</span>
+            </div>
+            <div className="text-xs text-gray-500">
+              {sessionIndicesRef.current?.length || 0} words in session
+            </div>
+          </div>
+
           {!mcLocked ? (
             <div className="bg-white border-2 border-gray-200 rounded-xl p-6">
               <h3 className="text-lg font-bold text-primary mb-2">Phase 3: Type-back</h3>
@@ -1212,7 +1248,7 @@ export default function CaesarDBG1() {
           ) : null}
 
           {mcLocked && resultBundle ? (
-            <div className="mt-4 space-y-4">
+            <div className="mt-4">
               <div
                 className={`p-5 rounded-xl border-2 ${
                   resultBundle.isCorrect
@@ -1220,8 +1256,16 @@ export default function CaesarDBG1() {
                     : "border-red-300 bg-red-50"
                 }`}
               >
-                <div className={`font-bold text-lg mb-2 ${resultBundle.isCorrect ? "text-green-700" : "text-red-700"}`}>
-                  {resultBundle.isCorrect ? "Correct" : "Incorrect"}
+                <div className="flex items-center justify-between mb-3">
+                  <div className={`font-bold text-lg ${resultBundle.isCorrect ? "text-green-700" : "text-red-700"}`}>
+                    {resultBundle.isCorrect ? "Correct" : "Incorrect"}
+                  </div>
+                  <button
+                    onClick={handleNextMC}
+                    className="px-5 py-2 bg-accent text-primary font-bold rounded-lg hover:bg-yellow-400 transition-colors"
+                  >
+                    Next
+                  </button>
                 </div>
 
                 <div className="text-gray-700">
@@ -1255,14 +1299,7 @@ export default function CaesarDBG1() {
                 )}
               </div>
 
-              <button
-                onClick={handleNextMC}
-                className="px-5 py-2 bg-accent text-primary font-bold rounded-lg hover:bg-yellow-400 transition-colors"
-              >
-                Next
-              </button>
-
-              <p className="text-xs text-gray-500">Tip: Enter also advances.</p>
+              <p className="text-xs text-gray-500 mt-2">Tip: Enter also advances.</p>
             </div>
           ) : null}
         </div>

@@ -471,7 +471,7 @@ export default function ReadingGuide() {
           <div className="font-bold text-primary mb-2">Caesar vocab search</div>
           <p className="text-sm text-gray-600 mb-3">
             Enter a word exactly as it appears in the text (e.g., "miserunt", "castris").
-            The system will find the dictionary entry for you.
+            The system will find the dictionary entry for you. Some words are not included.
           </p>
 
           <div className="flex gap-3">
