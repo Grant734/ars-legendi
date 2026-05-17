@@ -21,28 +21,542 @@
       {
         "type": "relative_clause",
         "subtype": "indicative",
-        "start": 8,
-        "end": 12,
+        "start": 7,
+        "end": 11,
         "highlight_spans": [
           [
-            8,
-            8
+            7,
+            7
           ],
           [
-            12,
-            12
+            11,
+            11
           ]
         ],
         "confidence": 0.91,
         "trigger": {
-          "rel_pron_index": 8,
-          "verb_index": 12,
+          "rel_pron_index": 7,
+          "verb_index": 11,
           "rule": "PronType=Rel+finite"
         },
         "span_quality": "good"
       }
     ],
     "pliny_6_16.3": [
+      {
+        "type": "relative_clause",
+        "subtype": "indicative",
+        "start": 0,
+        "end": 3,
+        "highlight_spans": [
+          [
+            3,
+            3
+          ],
+          [
+            0,
+            0
+          ]
+        ],
+        "confidence": 0.91,
+        "trigger": {
+          "rel_pron_index": 3,
+          "verb_index": 0,
+          "rule": "PronType=Rel+finite"
+        },
+        "span_quality": "good"
+      },
+      {
+        "type": "relative_clause",
+        "subtype": "indicative",
+        "start": 0,
+        "end": 17,
+        "highlight_spans": [
+          [
+            17,
+            17
+          ],
+          [
+            0,
+            0
+          ]
+        ],
+        "confidence": 0.91,
+        "trigger": {
+          "rel_pron_index": 17,
+          "verb_index": 0,
+          "rule": "PronType=Rel+finite"
+        },
+        "span_quality": "good"
+      },
+      {
+        "type": "gerundive",
+        "start": 10,
+        "end": 10,
+        "confidence": 0.92,
+        "trigger": {
+          "index": 10,
+          "rule": "FPP_other"
+        },
+        "span_quality": "good"
+      },
+      {
+        "type": "gerundive",
+        "start": 13,
+        "end": 13,
+        "confidence": 0.92,
+        "trigger": {
+          "index": 13,
+          "rule": "FPP_other"
+        },
+        "span_quality": "good"
+      }
+    ],
+    "pliny_6_16.5": [
+      {
+        "type": "relative_clause",
+        "subtype": "indicative",
+        "start": 0,
+        "end": 3,
+        "highlight_spans": [
+          [
+            0,
+            0
+          ],
+          [
+            3,
+            3
+          ]
+        ],
+        "confidence": 0.91,
+        "trigger": {
+          "rel_pron_index": 0,
+          "verb_index": 3,
+          "rule": "PronType=Rel+finite"
+        },
+        "span_quality": "good"
+      }
+    ],
+    "pliny_6_16.8": [
+      {
+        "type": "relative_clause",
+        "subtype": "indicative",
+        "start": 10,
+        "end": 16,
+        "highlight_spans": [
+          [
+            16,
+            16
+          ],
+          [
+            10,
+            10
+          ]
+        ],
+        "confidence": 0.91,
+        "trigger": {
+          "rel_pron_index": 16,
+          "verb_index": 10,
+          "rule": "PronType=Rel+finite"
+        },
+        "span_quality": "good"
+      }
+    ],
+    "pliny_6_16.9": [
+      {
+        "type": "relative_clause",
+        "subtype": "indicative",
+        "start": 5,
+        "end": 15,
+        "highlight_spans": [
+          [
+            5,
+            5
+          ],
+          [
+            15,
+            15
+          ]
+        ],
+        "confidence": 0.91,
+        "trigger": {
+          "rel_pron_index": 5,
+          "verb_index": 15,
+          "rule": "PronType=Rel+finite"
+        },
+        "span_quality": "good"
+      },
+      {
+        "type": "relative_clause",
+        "subtype": "indicative",
+        "start": 15,
+        "end": 17,
+        "highlight_spans": [
+          [
+            17,
+            17
+          ],
+          [
+            15,
+            15
+          ]
+        ],
+        "confidence": 0.91,
+        "trigger": {
+          "rel_pron_index": 17,
+          "verb_index": 15,
+          "rule": "PronType=Rel+finite"
+        },
+        "span_quality": "good"
+      }
+    ],
+    "pliny_6_16.11": [
+      {
+        "type": "gerund",
+        "start": 2,
+        "end": 2,
+        "confidence": 0.94,
+        "trigger": {
+          "index": 1,
+          "rule": "FPP_neut_sing_substantive"
+        },
+        "span_quality": "good",
+        "highlight_spans": [
+          [
+            2,
+            2
+          ]
+        ]
+      }
+    ],
+    "pliny_6_16.16": [
+      {
+        "type": "result_clause",
+        "subtype": "ut_correlative_result",
+        "start": 16,
+        "end": 27,
+        "highlight_spans": [
+          [
+            16,
+            16
+          ],
+          [
+            27,
+            27
+          ]
+        ],
+        "confidence": 0.93,
+        "trigger": {
+          "marker_index": 16,
+          "verb_index": 27,
+          "rule": "ut/uti+subj+correlative",
+          "correlative_index": 12
+        },
+        "span_quality": "good"
+      }
+    ],
+    "pliny_6_16.17": [
+      {
+        "type": "subjunctive_relative_clause",
+        "subtype": "qui_subj",
+        "start": 4,
+        "end": 6,
+        "highlight_spans": [
+          [
+            4,
+            4
+          ],
+          [
+            6,
+            6
+          ]
+        ],
+        "confidence": 0.9,
+        "trigger": {
+          "rel_pron_index": 4,
+          "verb_index": 6,
+          "rule": "rel+subj"
+        },
+        "span_quality": "good"
+      },
+      {
+        "type": "relative_clause",
+        "subtype": "subjunctive",
+        "start": 4,
+        "end": 6,
+        "highlight_spans": [
+          [
+            4,
+            4
+          ],
+          [
+            6,
+            6
+          ]
+        ],
+        "confidence": 0.9,
+        "trigger": {
+          "rel_pron_index": 4,
+          "verb_index": 6,
+          "rule": "PronType=Rel+finite"
+        },
+        "span_quality": "good"
+      }
+    ],
+    "pliny_6_16.18": [
+      {
+        "type": "purpose_clause",
+        "subtype": "ut_ne",
+        "start": 8,
+        "end": 10,
+        "highlight_spans": [
+          [
+            8,
+            8
+          ],
+          [
+            9,
+            9
+          ],
+          [
+            10,
+            10
+          ]
+        ],
+        "confidence": 0.93,
+        "trigger": {
+          "marker_index": 7,
+          "verb_index": 9,
+          "rule": "mark+subj"
+        },
+        "span_quality": "good"
+      }
+    ],
+    "pliny_6_16.20": [
+      {
+        "type": "relative_clause",
+        "subtype": "indicative",
+        "start": 0,
+        "end": 6,
+        "highlight_spans": [
+          [
+            0,
+            0
+          ],
+          [
+            6,
+            6
+          ]
+        ],
+        "confidence": 0.91,
+        "trigger": {
+          "rel_pron_index": 0,
+          "verb_index": 6,
+          "rule": "PronType=Rel+finite"
+        },
+        "span_quality": "good"
+      }
+    ],
+    "pliny_6_16.21": [
+      {
+        "type": "relative_clause",
+        "subtype": "indicative",
+        "start": 11,
+        "end": 17,
+        "highlight_spans": [
+          [
+            11,
+            11
+          ],
+          [
+            17,
+            17
+          ]
+        ],
+        "confidence": 0.91,
+        "trigger": {
+          "rel_pron_index": 11,
+          "verb_index": 17,
+          "rule": "PronType=Rel+finite"
+        },
+        "span_quality": "good"
+      }
+    ],
+    "pliny_6_16.24": [
+      {
+        "type": "result_clause",
+        "subtype": "ut_correlative_result",
+        "start": 13,
+        "end": 21,
+        "highlight_spans": [
+          [
+            13,
+            13
+          ],
+          [
+            21,
+            21
+          ]
+        ],
+        "confidence": 0.93,
+        "trigger": {
+          "marker_index": 13,
+          "verb_index": 21,
+          "rule": "ut/uti+subj+correlative",
+          "correlative_index": 5
+        },
+        "span_quality": "good"
+      },
+      {
+        "type": "relative_clause",
+        "subtype": "subjunctive",
+        "start": 2,
+        "end": 4,
+        "highlight_spans": [
+          [
+            2,
+            2
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        "confidence": 0.9,
+        "trigger": {
+          "rel_pron_index": 2,
+          "verb_index": 4,
+          "rule": "PronType=Rel+finite"
+        },
+        "span_quality": "good"
+      }
+    ],
+    "pliny_6_16.25": [
+      {
+        "type": "relative_clause",
+        "subtype": "indicative",
+        "start": 5,
+        "end": 6,
+        "highlight_spans": [
+          [
+            5,
+            5
+          ],
+          [
+            6,
+            6
+          ]
+        ],
+        "confidence": 0.91,
+        "trigger": {
+          "rel_pron_index": 5,
+          "verb_index": 6,
+          "rule": "PronType=Rel+finite"
+        },
+        "span_quality": "good"
+      }
+    ],
+    "pliny_6_16.34": [
+      {
+        "type": "abl_abs",
+        "start": 12,
+        "end": 15,
+        "highlight_spans": [
+          [
+            12,
+            12
+          ],
+          [
+            13,
+            13
+          ],
+          [
+            14,
+            14
+          ],
+          [
+            15,
+            15
+          ]
+        ],
+        "confidence": 0.88,
+        "trigger": {
+          "part_index": 14,
+          "abl_noun_index": 13
+        },
+        "span_quality": "good"
+      },
+      {
+        "type": "abl_abs",
+        "start": 17,
+        "end": 18,
+        "highlight_spans": [
+          [
+            17,
+            17
+          ],
+          [
+            18,
+            18
+          ]
+        ],
+        "confidence": 0.88,
+        "trigger": {
+          "part_index": 16,
+          "abl_noun_index": 17
+        },
+        "span_quality": "good"
+      },
+      {
+        "type": "relative_clause",
+        "subtype": "indicative",
+        "start": 2,
+        "end": 18,
+        "highlight_spans": [
+          [
+            18,
+            18
+          ],
+          [
+            2,
+            2
+          ]
+        ],
+        "confidence": 0.91,
+        "trigger": {
+          "rel_pron_index": 18,
+          "verb_index": 2,
+          "rule": "PronType=Rel+finite"
+        },
+        "span_quality": "good"
+      }
+    ],
+    "pliny_6_16.35": [
+      {
+        "type": "relative_clause",
+        "subtype": "indicative",
+        "start": 6,
+        "end": 8,
+        "highlight_spans": [
+          [
+            6,
+            6
+          ],
+          [
+            8,
+            8
+          ]
+        ],
+        "confidence": 0.91,
+        "trigger": {
+          "rel_pron_index": 6,
+          "verb_index": 8,
+          "rule": "PronType=Rel+finite"
+        },
+        "span_quality": "good"
+      }
+    ],
+    "pliny_6_16.38": [
       {
         "type": "relative_clause",
         "subtype": "indicative",
@@ -65,16 +579,301 @@
           "rule": "PronType=Rel+finite"
         },
         "span_quality": "good"
+      }
+    ],
+    "pliny_7_27.0": [
+      {
+        "type": "gerund",
+        "start": 2,
+        "end": 2,
+        "confidence": 0.94,
+        "trigger": {
+          "index": 1,
+          "rule": "FPP_neut_sing_substantive"
+        },
+        "span_quality": "good",
+        "highlight_spans": [
+          [
+            2,
+            2
+          ]
+        ]
       },
+      {
+        "type": "gerund",
+        "start": 5,
+        "end": 5,
+        "confidence": 0.94,
+        "trigger": {
+          "index": 4,
+          "rule": "FPP_neut_sing_substantive"
+        },
+        "span_quality": "good",
+        "highlight_spans": [
+          [
+            5,
+            5
+          ]
+        ]
+      }
+    ],
+    "pliny_7_27.11": [
+      {
+        "type": "conditional_protasis",
+        "subtype": "mixed",
+        "start": 7,
+        "end": 9,
+        "highlight_spans": [
+          [
+            7,
+            7
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            9,
+            9
+          ]
+        ],
+        "confidence": 0.83,
+        "conditional": {
+          "label": "mixed",
+          "discourse": "direct",
+          "sequence": null,
+          "statement": "direct",
+          "head_verb_index": null,
+          "head_verb_tense": null,
+          "protasis": {
+            "verb_index": 8,
+            "mood": null,
+            "tense": null,
+            "aspect": "Imp",
+            "verbForm": "Inf",
+            "compound": null
+          },
+          "apodosis": {
+            "verb_index": 19,
+            "mood": "Ind",
+            "tense": "Past",
+            "aspect": "Imp",
+            "verbForm": "Fin",
+            "compound": null,
+            "form": "finite",
+            "inf_time": null
+          }
+        },
+        "trigger": {
+          "si_index": 6,
+          "protasis_verb_index": 7,
+          "apodosis_verb_index": 18,
+          "rule": "si+head"
+        },
+        "span_quality": "good"
+      },
+      {
+        "type": "conditional_apodosis",
+        "subtype": "mixed",
+        "start": 11,
+        "end": 19,
+        "highlight_spans": [
+          [
+            11,
+            11
+          ],
+          [
+            12,
+            12
+          ],
+          [
+            19,
+            19
+          ]
+        ],
+        "confidence": 0.8,
+        "conditional": {
+          "label": "mixed",
+          "discourse": "direct",
+          "sequence": null,
+          "statement": "direct",
+          "head_verb_index": null,
+          "head_verb_tense": null,
+          "protasis": {
+            "verb_index": 8,
+            "mood": null,
+            "tense": null,
+            "aspect": "Imp",
+            "verbForm": "Inf",
+            "compound": null
+          },
+          "apodosis": {
+            "verb_index": 19,
+            "mood": "Ind",
+            "tense": "Past",
+            "aspect": "Imp",
+            "verbForm": "Fin",
+            "compound": null,
+            "form": "finite",
+            "inf_time": null
+          }
+        },
+        "trigger": {
+          "si_index": 6,
+          "protasis_verb_index": 7,
+          "apodosis_verb_index": 18,
+          "rule": "main-clause-bound-by-commas"
+        },
+        "span_quality": "good"
+      }
+    ],
+    "pliny_7_27.16": [
+      {
+        "type": "gerund",
+        "start": 2,
+        "end": 26,
+        "confidence": 0.94,
+        "trigger": {
+          "index": 25,
+          "rule": "FPP_neut_sing_substantive"
+        },
+        "span_quality": "good",
+        "highlight_spans": [
+          [
+            2,
+            2
+          ],
+          [
+            26,
+            26
+          ]
+        ]
+      }
+    ],
+    "pliny_7_27.22": [
+      {
+        "type": "purpose_clause",
+        "subtype": "ut_ne",
+        "start": 2,
+        "end": 4,
+        "highlight_spans": [
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        "confidence": 0.93,
+        "trigger": {
+          "marker_index": 1,
+          "verb_index": 3,
+          "rule": "mark+subj"
+        },
+        "span_quality": "good"
+      }
+    ],
+    "pliny_7_27.27": [
+      {
+        "type": "purpose_clause",
+        "subtype": "ut_ne",
+        "start": 6,
+        "end": 10,
+        "highlight_spans": [
+          [
+            6,
+            6
+          ],
+          [
+            7,
+            7
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            9,
+            9
+          ],
+          [
+            10,
+            10
+          ]
+        ],
+        "confidence": 0.93,
+        "trigger": {
+          "marker_index": 5,
+          "verb_index": 9,
+          "rule": "mark+subj"
+        },
+        "span_quality": "good"
+      }
+    ],
+    "pliny_7_27.28": [
+      {
+        "type": "relative_clause",
+        "subtype": "indicative",
+        "start": 6,
+        "end": 14,
+        "highlight_spans": [
+          [
+            6,
+            6
+          ],
+          [
+            14,
+            14
+          ]
+        ],
+        "confidence": 0.91,
+        "trigger": {
+          "rel_pron_index": 6,
+          "verb_index": 14,
+          "rule": "PronType=Rel+finite"
+        },
+        "span_quality": "good"
+      }
+    ],
+    "pliny_7_27.29": [
+      {
+        "type": "abl_abs",
+        "start": 3,
+        "end": 4,
+        "highlight_spans": [
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        "confidence": 0.88,
+        "trigger": {
+          "part_index": 2,
+          "abl_noun_index": 3
+        },
+        "span_quality": "good"
+      }
+    ],
+    "pliny_7_27.37": [
       {
         "type": "relative_clause",
         "subtype": "indicative",
         "start": 0,
-        "end": 18,
+        "end": 14,
         "highlight_spans": [
           [
-            18,
-            18
+            14,
+            14
           ],
           [
             0,
@@ -83,20 +882,232 @@
         ],
         "confidence": 0.91,
         "trigger": {
-          "rel_pron_index": 18,
+          "rel_pron_index": 14,
           "verb_index": 0,
+          "rule": "PronType=Rel+finite"
+        },
+        "span_quality": "good"
+      }
+    ],
+    "pliny_7_27.39": [
+      {
+        "type": "relative_clause",
+        "subtype": "indicative",
+        "start": 15,
+        "end": 17,
+        "highlight_spans": [
+          [
+            15,
+            15
+          ],
+          [
+            17,
+            17
+          ]
+        ],
+        "confidence": 0.91,
+        "trigger": {
+          "rel_pron_index": 15,
+          "verb_index": 17,
           "rule": "PronType=Rel+finite"
         },
         "span_quality": "good"
       },
       {
-        "type": "gerundive",
+        "type": "conditional_protasis",
+        "subtype": "mixed",
+        "start": 13,
+        "end": 20,
+        "highlight_spans": [
+          [
+            13,
+            13
+          ],
+          [
+            14,
+            14
+          ],
+          [
+            19,
+            19
+          ],
+          [
+            20,
+            20
+          ]
+        ],
+        "confidence": 0.83,
+        "conditional": {
+          "label": "mixed",
+          "discourse": "direct",
+          "sequence": null,
+          "statement": "direct",
+          "head_verb_index": null,
+          "head_verb_tense": null,
+          "protasis": {
+            "verb_index": 20,
+            "mood": "Sub",
+            "tense": "Pqp",
+            "aspect": "Perf",
+            "verbForm": "Fin",
+            "compound": null
+          },
+          "apodosis": {
+            "verb_index": 8,
+            "mood": "Ind",
+            "tense": "Pres",
+            "aspect": "Imp",
+            "verbForm": "Fin",
+            "compound": null,
+            "form": "finite",
+            "inf_time": null
+          }
+        },
+        "trigger": {
+          "si_index": 12,
+          "protasis_verb_index": 19,
+          "apodosis_verb_index": 7,
+          "rule": "si+head"
+        },
+        "span_quality": "good"
+      },
+      {
+        "type": "conditional_apodosis",
+        "subtype": "mixed",
         "start": 11,
         "end": 11,
-        "confidence": 0.92,
+        "highlight_spans": [
+          [
+            11,
+            11
+          ]
+        ],
+        "confidence": 0.8,
+        "conditional": {
+          "label": "mixed",
+          "discourse": "direct",
+          "sequence": null,
+          "statement": "direct",
+          "head_verb_index": null,
+          "head_verb_tense": null,
+          "protasis": {
+            "verb_index": 20,
+            "mood": "Sub",
+            "tense": "Pqp",
+            "aspect": "Perf",
+            "verbForm": "Fin",
+            "compound": null
+          },
+          "apodosis": {
+            "verb_index": 8,
+            "mood": "Ind",
+            "tense": "Pres",
+            "aspect": "Imp",
+            "verbForm": "Fin",
+            "compound": null,
+            "form": "finite",
+            "inf_time": null
+          }
+        },
         "trigger": {
-          "index": 11,
-          "rule": "FPP_other"
+          "si_index": 12,
+          "protasis_verb_index": 19,
+          "apodosis_verb_index": 7,
+          "rule": "main-clause-bound-by-commas"
+        },
+        "span_quality": "good"
+      }
+    ],
+    "pliny_7_27.43": [
+      {
+        "type": "gerund",
+        "start": 24,
+        "end": 24,
+        "confidence": 0.94,
+        "trigger": {
+          "index": 23,
+          "rule": "FPP_neut_sing_substantive"
+        },
+        "span_quality": "good",
+        "highlight_spans": [
+          [
+            24,
+            24
+          ]
+        ]
+      }
+    ],
+    "pliny_10_96.0": [
+      {
+        "type": "relative_clause",
+        "subtype": "indicative",
+        "start": 7,
+        "end": 8,
+        "highlight_spans": [
+          [
+            7,
+            7
+          ],
+          [
+            8,
+            8
+          ]
+        ],
+        "confidence": 0.91,
+        "trigger": {
+          "rel_pron_index": 7,
+          "verb_index": 8,
+          "rule": "PronType=Rel+finite"
+        },
+        "span_quality": "good"
+      }
+    ],
+    "pliny_10_96.4": [
+      {
+        "type": "relative_clause",
+        "subtype": "indicative",
+        "start": 3,
+        "end": 8,
+        "highlight_spans": [
+          [
+            3,
+            3
+          ],
+          [
+            8,
+            8
+          ]
+        ],
+        "confidence": 0.91,
+        "trigger": {
+          "rel_pron_index": 3,
+          "verb_index": 8,
+          "rule": "PronType=Rel+finite"
+        },
+        "span_quality": "good"
+      }
+    ],
+    "pliny_10_96.8": [
+      {
+        "type": "relative_clause",
+        "subtype": "indicative",
+        "start": 0,
+        "end": 4,
+        "highlight_spans": [
+          [
+            4,
+            4
+          ],
+          [
+            0,
+            0
+          ]
+        ],
+        "confidence": 0.91,
+        "trigger": {
+          "rel_pron_index": 4,
+          "verb_index": 0,
+          "rule": "PronType=Rel+finite"
         },
         "span_quality": "good"
       },
@@ -112,1037 +1123,26 @@
         "span_quality": "good"
       }
     ],
-    "pliny_6_16.5": [
-      {
-        "type": "relative_clause",
-        "subtype": "indicative",
-        "start": 0,
-        "end": 4,
-        "highlight_spans": [
-          [
-            0,
-            0
-          ],
-          [
-            4,
-            4
-          ]
-        ],
-        "confidence": 0.91,
-        "trigger": {
-          "rel_pron_index": 0,
-          "verb_index": 4,
-          "rule": "PronType=Rel+finite"
-        },
-        "span_quality": "good"
-      }
-    ],
-    "pliny_6_16.8": [
-      {
-        "type": "relative_clause",
-        "subtype": "indicative",
-        "start": 11,
-        "end": 17,
-        "highlight_spans": [
-          [
-            17,
-            17
-          ],
-          [
-            11,
-            11
-          ]
-        ],
-        "confidence": 0.91,
-        "trigger": {
-          "rel_pron_index": 17,
-          "verb_index": 11,
-          "rule": "PronType=Rel+finite"
-        },
-        "span_quality": "good"
-      }
-    ],
-    "pliny_6_16.9": [
-      {
-        "type": "relative_clause",
-        "subtype": "indicative",
-        "start": 6,
-        "end": 16,
-        "highlight_spans": [
-          [
-            6,
-            6
-          ],
-          [
-            16,
-            16
-          ]
-        ],
-        "confidence": 0.91,
-        "trigger": {
-          "rel_pron_index": 6,
-          "verb_index": 16,
-          "rule": "PronType=Rel+finite"
-        },
-        "span_quality": "good"
-      },
-      {
-        "type": "relative_clause",
-        "subtype": "indicative",
-        "start": 16,
-        "end": 18,
-        "highlight_spans": [
-          [
-            18,
-            18
-          ],
-          [
-            16,
-            16
-          ]
-        ],
-        "confidence": 0.91,
-        "trigger": {
-          "rel_pron_index": 18,
-          "verb_index": 16,
-          "rule": "PronType=Rel+finite"
-        },
-        "span_quality": "good"
-      }
-    ],
-    "pliny_6_16.11": [
-      {
-        "type": "gerund",
-        "start": 3,
-        "end": 3,
-        "confidence": 0.94,
-        "trigger": {
-          "index": 2,
-          "rule": "FPP_neut_sing_substantive"
-        },
-        "span_quality": "good",
-        "highlight_spans": [
-          [
-            3,
-            3
-          ]
-        ]
-      }
-    ],
-    "pliny_6_16.16": [
-      {
-        "type": "result_clause",
-        "subtype": "ut_correlative_result",
-        "start": 17,
-        "end": 28,
-        "highlight_spans": [
-          [
-            17,
-            17
-          ],
-          [
-            28,
-            28
-          ]
-        ],
-        "confidence": 0.93,
-        "trigger": {
-          "marker_index": 17,
-          "verb_index": 28,
-          "rule": "ut/uti+subj+correlative",
-          "correlative_index": 13
-        },
-        "span_quality": "good"
-      }
-    ],
-    "pliny_6_16.17": [
-      {
-        "type": "subjunctive_relative_clause",
-        "subtype": "qui_subj",
-        "start": 5,
-        "end": 7,
-        "highlight_spans": [
-          [
-            5,
-            5
-          ],
-          [
-            7,
-            7
-          ]
-        ],
-        "confidence": 0.9,
-        "trigger": {
-          "rel_pron_index": 5,
-          "verb_index": 7,
-          "rule": "rel+subj"
-        },
-        "span_quality": "good"
-      },
-      {
-        "type": "relative_clause",
-        "subtype": "subjunctive",
-        "start": 5,
-        "end": 7,
-        "highlight_spans": [
-          [
-            5,
-            5
-          ],
-          [
-            7,
-            7
-          ]
-        ],
-        "confidence": 0.9,
-        "trigger": {
-          "rel_pron_index": 5,
-          "verb_index": 7,
-          "rule": "PronType=Rel+finite"
-        },
-        "span_quality": "good"
-      }
-    ],
-    "pliny_6_16.18": [
-      {
-        "type": "purpose_clause",
-        "subtype": "ut_ne",
-        "start": 9,
-        "end": 11,
-        "highlight_spans": [
-          [
-            9,
-            9
-          ],
-          [
-            10,
-            10
-          ],
-          [
-            11,
-            11
-          ]
-        ],
-        "confidence": 0.93,
-        "trigger": {
-          "marker_index": 8,
-          "verb_index": 10,
-          "rule": "mark+subj"
-        },
-        "span_quality": "good"
-      }
-    ],
-    "pliny_6_16.20": [
-      {
-        "type": "relative_clause",
-        "subtype": "indicative",
-        "start": 0,
-        "end": 7,
-        "highlight_spans": [
-          [
-            0,
-            0
-          ],
-          [
-            7,
-            7
-          ]
-        ],
-        "confidence": 0.91,
-        "trigger": {
-          "rel_pron_index": 0,
-          "verb_index": 7,
-          "rule": "PronType=Rel+finite"
-        },
-        "span_quality": "good"
-      }
-    ],
-    "pliny_6_16.21": [
-      {
-        "type": "relative_clause",
-        "subtype": "indicative",
-        "start": 12,
-        "end": 18,
-        "highlight_spans": [
-          [
-            12,
-            12
-          ],
-          [
-            18,
-            18
-          ]
-        ],
-        "confidence": 0.91,
-        "trigger": {
-          "rel_pron_index": 12,
-          "verb_index": 18,
-          "rule": "PronType=Rel+finite"
-        },
-        "span_quality": "good"
-      }
-    ],
-    "pliny_6_16.24": [
-      {
-        "type": "result_clause",
-        "subtype": "ut_correlative_result",
-        "start": 14,
-        "end": 22,
-        "highlight_spans": [
-          [
-            14,
-            14
-          ],
-          [
-            22,
-            22
-          ]
-        ],
-        "confidence": 0.93,
-        "trigger": {
-          "marker_index": 14,
-          "verb_index": 22,
-          "rule": "ut/uti+subj+correlative",
-          "correlative_index": 6
-        },
-        "span_quality": "good"
-      },
-      {
-        "type": "relative_clause",
-        "subtype": "subjunctive",
-        "start": 3,
-        "end": 5,
-        "highlight_spans": [
-          [
-            3,
-            3
-          ],
-          [
-            5,
-            5
-          ]
-        ],
-        "confidence": 0.9,
-        "trigger": {
-          "rel_pron_index": 3,
-          "verb_index": 5,
-          "rule": "PronType=Rel+finite"
-        },
-        "span_quality": "good"
-      }
-    ],
-    "pliny_6_16.25": [
-      {
-        "type": "relative_clause",
-        "subtype": "indicative",
-        "start": 6,
-        "end": 7,
-        "highlight_spans": [
-          [
-            6,
-            6
-          ],
-          [
-            7,
-            7
-          ]
-        ],
-        "confidence": 0.91,
-        "trigger": {
-          "rel_pron_index": 6,
-          "verb_index": 7,
-          "rule": "PronType=Rel+finite"
-        },
-        "span_quality": "good"
-      }
-    ],
-    "pliny_6_16.34": [
-      {
-        "type": "abl_abs",
-        "start": 13,
-        "end": 16,
-        "highlight_spans": [
-          [
-            13,
-            13
-          ],
-          [
-            14,
-            14
-          ],
-          [
-            15,
-            15
-          ],
-          [
-            16,
-            16
-          ]
-        ],
-        "confidence": 0.88,
-        "trigger": {
-          "part_index": 15,
-          "abl_noun_index": 14
-        },
-        "span_quality": "good"
-      },
-      {
-        "type": "abl_abs",
-        "start": 18,
-        "end": 19,
-        "highlight_spans": [
-          [
-            18,
-            18
-          ],
-          [
-            19,
-            19
-          ]
-        ],
-        "confidence": 0.88,
-        "trigger": {
-          "part_index": 17,
-          "abl_noun_index": 18
-        },
-        "span_quality": "good"
-      },
-      {
-        "type": "relative_clause",
-        "subtype": "indicative",
-        "start": 3,
-        "end": 19,
-        "highlight_spans": [
-          [
-            19,
-            19
-          ],
-          [
-            3,
-            3
-          ]
-        ],
-        "confidence": 0.91,
-        "trigger": {
-          "rel_pron_index": 19,
-          "verb_index": 3,
-          "rule": "PronType=Rel+finite"
-        },
-        "span_quality": "good"
-      }
-    ],
-    "pliny_6_16.35": [
-      {
-        "type": "relative_clause",
-        "subtype": "indicative",
-        "start": 7,
-        "end": 9,
-        "highlight_spans": [
-          [
-            7,
-            7
-          ],
-          [
-            9,
-            9
-          ]
-        ],
-        "confidence": 0.91,
-        "trigger": {
-          "rel_pron_index": 7,
-          "verb_index": 9,
-          "rule": "PronType=Rel+finite"
-        },
-        "span_quality": "good"
-      }
-    ],
-    "pliny_6_16.38": [
-      {
-        "type": "relative_clause",
-        "subtype": "indicative",
-        "start": 1,
-        "end": 5,
-        "highlight_spans": [
-          [
-            5,
-            5
-          ],
-          [
-            1,
-            1
-          ]
-        ],
-        "confidence": 0.91,
-        "trigger": {
-          "rel_pron_index": 5,
-          "verb_index": 1,
-          "rule": "PronType=Rel+finite"
-        },
-        "span_quality": "good"
-      }
-    ],
-    "pliny_7_27.0": [
-      {
-        "type": "gerund",
-        "start": 3,
-        "end": 3,
-        "confidence": 0.94,
-        "trigger": {
-          "index": 2,
-          "rule": "FPP_neut_sing_substantive"
-        },
-        "span_quality": "good",
-        "highlight_spans": [
-          [
-            3,
-            3
-          ]
-        ]
-      },
-      {
-        "type": "gerund",
-        "start": 6,
-        "end": 6,
-        "confidence": 0.94,
-        "trigger": {
-          "index": 5,
-          "rule": "FPP_neut_sing_substantive"
-        },
-        "span_quality": "good",
-        "highlight_spans": [
-          [
-            6,
-            6
-          ]
-        ]
-      }
-    ],
-    "pliny_7_27.11": [
-      {
-        "type": "conditional_protasis",
-        "subtype": "mixed",
-        "start": 8,
-        "end": 10,
-        "highlight_spans": [
-          [
-            8,
-            8
-          ],
-          [
-            9,
-            9
-          ],
-          [
-            10,
-            10
-          ]
-        ],
-        "confidence": 0.83,
-        "conditional": {
-          "label": "mixed",
-          "discourse": "direct",
-          "sequence": null,
-          "statement": "direct",
-          "head_verb_index": null,
-          "head_verb_tense": null,
-          "protasis": {
-            "verb_index": 8,
-            "mood": null,
-            "tense": null,
-            "aspect": "Imp",
-            "verbForm": "Inf",
-            "compound": null
-          },
-          "apodosis": {
-            "verb_index": 19,
-            "mood": "Ind",
-            "tense": "Past",
-            "aspect": "Imp",
-            "verbForm": "Fin",
-            "compound": null,
-            "form": "finite",
-            "inf_time": null
-          }
-        },
-        "trigger": {
-          "si_index": 7,
-          "protasis_verb_index": 8,
-          "apodosis_verb_index": 19,
-          "rule": "si+head"
-        },
-        "span_quality": "good"
-      },
-      {
-        "type": "conditional_apodosis",
-        "subtype": "mixed",
-        "start": 12,
-        "end": 20,
-        "highlight_spans": [
-          [
-            12,
-            12
-          ],
-          [
-            13,
-            13
-          ],
-          [
-            20,
-            20
-          ]
-        ],
-        "confidence": 0.8,
-        "conditional": {
-          "label": "mixed",
-          "discourse": "direct",
-          "sequence": null,
-          "statement": "direct",
-          "head_verb_index": null,
-          "head_verb_tense": null,
-          "protasis": {
-            "verb_index": 8,
-            "mood": null,
-            "tense": null,
-            "aspect": "Imp",
-            "verbForm": "Inf",
-            "compound": null
-          },
-          "apodosis": {
-            "verb_index": 19,
-            "mood": "Ind",
-            "tense": "Past",
-            "aspect": "Imp",
-            "verbForm": "Fin",
-            "compound": null,
-            "form": "finite",
-            "inf_time": null
-          }
-        },
-        "trigger": {
-          "si_index": 7,
-          "protasis_verb_index": 8,
-          "apodosis_verb_index": 19,
-          "rule": "main-clause-bound-by-commas"
-        },
-        "span_quality": "good"
-      }
-    ],
-    "pliny_7_27.16": [
-      {
-        "type": "gerund",
-        "start": 3,
-        "end": 27,
-        "confidence": 0.94,
-        "trigger": {
-          "index": 26,
-          "rule": "FPP_neut_sing_substantive"
-        },
-        "span_quality": "good",
-        "highlight_spans": [
-          [
-            3,
-            3
-          ],
-          [
-            27,
-            27
-          ]
-        ]
-      }
-    ],
-    "pliny_7_27.22": [
-      {
-        "type": "purpose_clause",
-        "subtype": "ut_ne",
-        "start": 3,
-        "end": 5,
-        "highlight_spans": [
-          [
-            3,
-            3
-          ],
-          [
-            4,
-            4
-          ],
-          [
-            5,
-            5
-          ]
-        ],
-        "confidence": 0.93,
-        "trigger": {
-          "marker_index": 2,
-          "verb_index": 4,
-          "rule": "mark+subj"
-        },
-        "span_quality": "good"
-      }
-    ],
-    "pliny_7_27.27": [
-      {
-        "type": "purpose_clause",
-        "subtype": "ut_ne",
-        "start": 7,
-        "end": 11,
-        "highlight_spans": [
-          [
-            7,
-            7
-          ],
-          [
-            8,
-            8
-          ],
-          [
-            9,
-            9
-          ],
-          [
-            10,
-            10
-          ],
-          [
-            11,
-            11
-          ]
-        ],
-        "confidence": 0.93,
-        "trigger": {
-          "marker_index": 6,
-          "verb_index": 10,
-          "rule": "mark+subj"
-        },
-        "span_quality": "good"
-      }
-    ],
-    "pliny_7_27.28": [
-      {
-        "type": "relative_clause",
-        "subtype": "indicative",
-        "start": 7,
-        "end": 15,
-        "highlight_spans": [
-          [
-            7,
-            7
-          ],
-          [
-            15,
-            15
-          ]
-        ],
-        "confidence": 0.91,
-        "trigger": {
-          "rel_pron_index": 7,
-          "verb_index": 15,
-          "rule": "PronType=Rel+finite"
-        },
-        "span_quality": "good"
-      }
-    ],
-    "pliny_7_27.29": [
-      {
-        "type": "abl_abs",
-        "start": 4,
-        "end": 5,
-        "highlight_spans": [
-          [
-            4,
-            4
-          ],
-          [
-            5,
-            5
-          ]
-        ],
-        "confidence": 0.88,
-        "trigger": {
-          "part_index": 3,
-          "abl_noun_index": 4
-        },
-        "span_quality": "good"
-      }
-    ],
-    "pliny_7_27.37": [
-      {
-        "type": "relative_clause",
-        "subtype": "indicative",
-        "start": 0,
-        "end": 15,
-        "highlight_spans": [
-          [
-            15,
-            15
-          ],
-          [
-            0,
-            0
-          ]
-        ],
-        "confidence": 0.91,
-        "trigger": {
-          "rel_pron_index": 15,
-          "verb_index": 0,
-          "rule": "PronType=Rel+finite"
-        },
-        "span_quality": "good"
-      }
-    ],
-    "pliny_7_27.39": [
-      {
-        "type": "relative_clause",
-        "subtype": "indicative",
-        "start": 16,
-        "end": 18,
-        "highlight_spans": [
-          [
-            16,
-            16
-          ],
-          [
-            18,
-            18
-          ]
-        ],
-        "confidence": 0.91,
-        "trigger": {
-          "rel_pron_index": 16,
-          "verb_index": 18,
-          "rule": "PronType=Rel+finite"
-        },
-        "span_quality": "good"
-      },
-      {
-        "type": "conditional_protasis",
-        "subtype": "mixed",
-        "start": 14,
-        "end": 21,
-        "highlight_spans": [
-          [
-            14,
-            14
-          ],
-          [
-            15,
-            15
-          ],
-          [
-            20,
-            20
-          ],
-          [
-            21,
-            21
-          ]
-        ],
-        "confidence": 0.83,
-        "conditional": {
-          "label": "mixed",
-          "discourse": "direct",
-          "sequence": null,
-          "statement": "direct",
-          "head_verb_index": null,
-          "head_verb_tense": null,
-          "protasis": {
-            "verb_index": 20,
-            "mood": "Sub",
-            "tense": "Pqp",
-            "aspect": "Perf",
-            "verbForm": "Fin",
-            "compound": null
-          },
-          "apodosis": {
-            "verb_index": 8,
-            "mood": "Ind",
-            "tense": "Pres",
-            "aspect": "Imp",
-            "verbForm": "Fin",
-            "compound": null,
-            "form": "finite",
-            "inf_time": null
-          }
-        },
-        "trigger": {
-          "si_index": 13,
-          "protasis_verb_index": 20,
-          "apodosis_verb_index": 8,
-          "rule": "si+head"
-        },
-        "span_quality": "good"
-      },
-      {
-        "type": "conditional_apodosis",
-        "subtype": "mixed",
-        "start": 12,
-        "end": 12,
-        "highlight_spans": [
-          [
-            12,
-            12
-          ]
-        ],
-        "confidence": 0.8,
-        "conditional": {
-          "label": "mixed",
-          "discourse": "direct",
-          "sequence": null,
-          "statement": "direct",
-          "head_verb_index": null,
-          "head_verb_tense": null,
-          "protasis": {
-            "verb_index": 20,
-            "mood": "Sub",
-            "tense": "Pqp",
-            "aspect": "Perf",
-            "verbForm": "Fin",
-            "compound": null
-          },
-          "apodosis": {
-            "verb_index": 8,
-            "mood": "Ind",
-            "tense": "Pres",
-            "aspect": "Imp",
-            "verbForm": "Fin",
-            "compound": null,
-            "form": "finite",
-            "inf_time": null
-          }
-        },
-        "trigger": {
-          "si_index": 13,
-          "protasis_verb_index": 20,
-          "apodosis_verb_index": 8,
-          "rule": "main-clause-bound-by-commas"
-        },
-        "span_quality": "good"
-      }
-    ],
-    "pliny_7_27.43": [
-      {
-        "type": "gerund",
-        "start": 25,
-        "end": 25,
-        "confidence": 0.94,
-        "trigger": {
-          "index": 24,
-          "rule": "FPP_neut_sing_substantive"
-        },
-        "span_quality": "good",
-        "highlight_spans": [
-          [
-            25,
-            25
-          ]
-        ]
-      }
-    ],
-    "pliny_10_96.0": [
-      {
-        "type": "relative_clause",
-        "subtype": "indicative",
-        "start": 8,
-        "end": 9,
-        "highlight_spans": [
-          [
-            8,
-            8
-          ],
-          [
-            9,
-            9
-          ]
-        ],
-        "confidence": 0.91,
-        "trigger": {
-          "rel_pron_index": 8,
-          "verb_index": 9,
-          "rule": "PronType=Rel+finite"
-        },
-        "span_quality": "good"
-      }
-    ],
-    "pliny_10_96.4": [
-      {
-        "type": "relative_clause",
-        "subtype": "indicative",
-        "start": 4,
-        "end": 9,
-        "highlight_spans": [
-          [
-            4,
-            4
-          ],
-          [
-            9,
-            9
-          ]
-        ],
-        "confidence": 0.91,
-        "trigger": {
-          "rel_pron_index": 4,
-          "verb_index": 9,
-          "rule": "PronType=Rel+finite"
-        },
-        "span_quality": "good"
-      }
-    ],
-    "pliny_10_96.8": [
-      {
-        "type": "relative_clause",
-        "subtype": "indicative",
-        "start": 0,
-        "end": 5,
-        "highlight_spans": [
-          [
-            5,
-            5
-          ],
-          [
-            0,
-            0
-          ]
-        ],
-        "confidence": 0.91,
-        "trigger": {
-          "rel_pron_index": 5,
-          "verb_index": 0,
-          "rule": "PronType=Rel+finite"
-        },
-        "span_quality": "good"
-      },
-      {
-        "type": "gerundive",
-        "start": 15,
-        "end": 15,
-        "confidence": 0.92,
-        "trigger": {
-          "index": 15,
-          "rule": "FPP_other"
-        },
-        "span_quality": "good"
-      }
-    ],
     "pliny_10_96.11": [
       {
         "type": "relative_clause",
         "subtype": "subjunctive",
         "start": 0,
-        "end": 33,
+        "end": 32,
         "highlight_spans": [
           [
             0,
             0
           ],
           [
-            33,
-            33
+            32,
+            32
           ]
         ],
         "confidence": 0.9,
         "trigger": {
           "rel_pron_index": 0,
-          "verb_index": 33,
+          "verb_index": 32,
           "rule": "PronType=Rel+finite"
         },
         "span_quality": "good"
@@ -1150,56 +1150,56 @@
       {
         "type": "relative_clause",
         "subtype": "indicative",
-        "start": 36,
+        "start": 35,
+        "end": 39,
+        "highlight_spans": [
+          [
+            35,
+            35
+          ],
+          [
+            39,
+            39
+          ]
+        ],
+        "confidence": 0.91,
+        "trigger": {
+          "rel_pron_index": 35,
+          "verb_index": 39,
+          "rule": "PronType=Rel+finite"
+        },
+        "span_quality": "good"
+      },
+      {
+        "type": "relative_clause",
+        "subtype": "indicative",
+        "start": 39,
         "end": 40,
         "highlight_spans": [
           [
-            36,
-            36
-          ],
-          [
             40,
             40
+          ],
+          [
+            39,
+            39
           ]
         ],
         "confidence": 0.91,
         "trigger": {
-          "rel_pron_index": 36,
-          "verb_index": 40,
-          "rule": "PronType=Rel+finite"
-        },
-        "span_quality": "good"
-      },
-      {
-        "type": "relative_clause",
-        "subtype": "indicative",
-        "start": 40,
-        "end": 41,
-        "highlight_spans": [
-          [
-            41,
-            41
-          ],
-          [
-            40,
-            40
-          ]
-        ],
-        "confidence": 0.91,
-        "trigger": {
-          "rel_pron_index": 41,
-          "verb_index": 40,
+          "rel_pron_index": 40,
+          "verb_index": 39,
           "rule": "PronType=Rel+finite"
         },
         "span_quality": "good"
       },
       {
         "type": "gerundive",
-        "start": 47,
-        "end": 47,
+        "start": 46,
+        "end": 46,
         "confidence": 0.92,
         "trigger": {
-          "index": 47,
+          "index": 46,
           "rule": "FPP_other"
         },
         "span_quality": "good"
@@ -1208,16 +1208,16 @@
     "pliny_10_96.14": [
       {
         "type": "indirect_statement",
-        "start": 32,
-        "end": 34,
+        "start": 31,
+        "end": 33,
         "highlight_spans": [
           [
-            32,
-            32
+            31,
+            31
           ],
           [
-            34,
-            34
+            33,
+            33
           ]
         ],
         "full_span": [
@@ -1226,36 +1226,36 @@
         ],
         "confidence": 0.9,
         "trigger": {
-          "speech_verb_index": 24,
-          "inf_index": 34,
-          "acc_subject_index": 32
+          "speech_verb_index": 23,
+          "inf_index": 33,
+          "acc_subject_index": 31
         },
         "span_quality": "good"
       },
       {
         "type": "purpose_clause",
-        "start": 38,
-        "end": 44,
+        "start": 37,
+        "end": 43,
         "highlight_spans": [
+          [
+            37,
+            37
+          ],
           [
             38,
             38
           ],
           [
-            39,
-            39
+            40,
+            40
           ],
           [
-            41,
-            41
+            42,
+            42
           ],
           [
             43,
             43
-          ],
-          [
-            44,
-            44
           ]
         ],
         "confidence": 0.85,
@@ -1263,9 +1263,13 @@
       },
       {
         "type": "purpose_clause",
-        "start": 46,
-        "end": 48,
+        "start": 45,
+        "end": 47,
         "highlight_spans": [
+          [
+            45,
+            45
+          ],
           [
             46,
             46
@@ -1273,10 +1277,6 @@
           [
             47,
             47
-          ],
-          [
-            48,
-            48
           ]
         ],
         "confidence": 0.85,
@@ -1284,20 +1284,20 @@
       },
       {
         "type": "purpose_clause",
-        "start": 50,
-        "end": 53,
+        "start": 49,
+        "end": 52,
         "highlight_spans": [
+          [
+            49,
+            49
+          ],
           [
             50,
             50
           ],
           [
-            51,
-            51
-          ],
-          [
-            53,
-            53
+            52,
+            52
           ]
         ],
         "confidence": 0.85,
@@ -1308,9 +1308,13 @@
       {
         "type": "purpose_clause",
         "subtype": "ad_gerund",
-        "start": 9,
-        "end": 11,
+        "start": 8,
+        "end": 10,
         "highlight_spans": [
+          [
+            8,
+            8
+          ],
           [
             9,
             9
@@ -1318,44 +1322,57 @@
           [
             10,
             10
-          ],
-          [
-            11,
-            11
           ]
         ],
         "confidence": 0.92,
         "trigger": {
-          "ad_index": 8,
-          "gerund_index": 9,
+          "ad_index": 7,
+          "gerund_index": 8,
           "rule": "ad+gerund"
         },
         "span_quality": "good"
       },
       {
         "type": "gerund",
-        "start": 5,
-        "end": 5,
+        "start": 4,
+        "end": 4,
         "confidence": 0.94,
         "trigger": {
-          "index": 4,
+          "index": 3,
           "rule": "FPP_neut_sing_substantive"
         },
         "span_quality": "good",
         "highlight_spans": [
           [
-            5,
-            5
+            4,
+            4
+          ]
+        ]
+      },
+      {
+        "type": "gerund",
+        "start": 7,
+        "end": 7,
+        "confidence": 0.94,
+        "trigger": {
+          "index": 6,
+          "rule": "FPP_neut_sing_substantive"
+        },
+        "span_quality": "good",
+        "highlight_spans": [
+          [
+            7,
+            7
           ]
         ]
       },
       {
         "type": "gerund",
         "start": 8,
-        "end": 8,
+        "end": 9,
         "confidence": 0.94,
         "trigger": {
-          "index": 7,
+          "index": 8,
           "rule": "FPP_neut_sing_substantive"
         },
         "span_quality": "good",
@@ -1363,49 +1380,32 @@
           [
             8,
             8
-          ]
-        ]
-      },
-      {
-        "type": "gerund",
-        "start": 9,
-        "end": 10,
-        "confidence": 0.94,
-        "trigger": {
-          "index": 9,
-          "rule": "FPP_neut_sing_substantive"
-        },
-        "span_quality": "good",
-        "highlight_spans": [
+          ],
           [
             9,
             9
-          ],
-          [
-            10,
-            10
           ]
         ]
       },
       {
         "type": "gerund_gerundive_flip",
         "subtype": "gerund_form_with_object",
-        "start": 9,
-        "end": 10,
+        "start": 8,
+        "end": 9,
         "highlight_spans": [
+          [
+            8,
+            8
+          ],
           [
             9,
             9
-          ],
-          [
-            10,
-            10
           ]
         ],
         "confidence": 0.86,
         "trigger": {
-          "gerund_index": 9,
-          "obj_index": 10,
+          "gerund_index": 8,
+          "obj_index": 9,
           "rule": "gerund+obj"
         },
         "span_quality": "good"
@@ -1416,21 +1416,21 @@
         "type": "relative_clause",
         "subtype": "indicative",
         "start": 0,
-        "end": 3,
+        "end": 2,
         "highlight_spans": [
           [
             0,
             0
           ],
           [
-            3,
-            3
+            2,
+            2
           ]
         ],
         "confidence": 0.91,
         "trigger": {
           "rel_pron_index": 0,
-          "verb_index": 3,
+          "verb_index": 2,
           "rule": "PronType=Rel+finite"
         },
         "span_quality": "good"
@@ -1438,22 +1438,22 @@
       {
         "type": "relative_clause",
         "subtype": "indicative",
-        "start": 8,
-        "end": 10,
+        "start": 7,
+        "end": 9,
         "highlight_spans": [
           [
-            8,
-            8
+            7,
+            7
           ],
           [
-            10,
-            10
+            9,
+            9
           ]
         ],
         "confidence": 0.91,
         "trigger": {
-          "rel_pron_index": 8,
-          "verb_index": 10,
+          "rel_pron_index": 7,
+          "verb_index": 9,
           "rule": "PronType=Rel+finite"
         },
         "span_quality": "good"
@@ -1463,9 +1463,13 @@
       {
         "type": "purpose_clause",
         "subtype": "ad_gerund",
-        "start": 4,
-        "end": 6,
+        "start": 3,
+        "end": 5,
         "highlight_spans": [
+          [
+            3,
+            3
+          ],
           [
             4,
             4
@@ -1473,60 +1477,56 @@
           [
             5,
             5
-          ],
-          [
-            6,
-            6
           ]
         ],
         "confidence": 0.92,
         "trigger": {
-          "ad_index": 3,
-          "gerund_index": 4,
+          "ad_index": 2,
+          "gerund_index": 3,
           "rule": "ad+gerund"
         },
         "span_quality": "good"
       },
       {
         "type": "gerund",
-        "start": 4,
-        "end": 5,
+        "start": 3,
+        "end": 4,
         "confidence": 0.94,
         "trigger": {
-          "index": 4,
+          "index": 3,
           "rule": "FPP_neut_sing_substantive"
         },
         "span_quality": "good",
         "highlight_spans": [
           [
-            4,
-            4
+            3,
+            3
           ],
           [
-            5,
-            5
+            4,
+            4
           ]
         ]
       },
       {
         "type": "gerund_gerundive_flip",
         "subtype": "gerund_form_with_object",
-        "start": 4,
-        "end": 5,
+        "start": 3,
+        "end": 4,
         "highlight_spans": [
+          [
+            3,
+            3
+          ],
           [
             4,
             4
-          ],
-          [
-            5,
-            5
           ]
         ],
         "confidence": 0.86,
         "trigger": {
-          "gerund_index": 4,
-          "obj_index": 5,
+          "gerund_index": 3,
+          "obj_index": 4,
           "rule": "gerund+obj"
         },
         "span_quality": "good"
@@ -1536,22 +1536,22 @@
       {
         "type": "relative_clause",
         "subtype": "indicative",
-        "start": 20,
-        "end": 24,
+        "start": 19,
+        "end": 23,
         "highlight_spans": [
           [
-            20,
-            20
+            19,
+            19
           ],
           [
-            24,
-            24
+            23,
+            23
           ]
         ],
         "confidence": 0.91,
         "trigger": {
-          "rel_pron_index": 20,
-          "verb_index": 24,
+          "rel_pron_index": 19,
+          "verb_index": 23,
           "rule": "PronType=Rel+finite"
         },
         "span_quality": "good"
@@ -1561,22 +1561,22 @@
       {
         "type": "subjunctive_relative_clause",
         "subtype": "qui_subj",
-        "start": 6,
-        "end": 10,
+        "start": 5,
+        "end": 9,
         "highlight_spans": [
           [
-            6,
-            6
+            5,
+            5
           ],
           [
-            10,
-            10
+            9,
+            9
           ]
         ],
         "confidence": 0.9,
         "trigger": {
-          "rel_pron_index": 6,
-          "verb_index": 10,
+          "rel_pron_index": 5,
+          "verb_index": 9,
           "rule": "rel+subj"
         },
         "span_quality": "good"
@@ -1584,22 +1584,22 @@
       {
         "type": "relative_clause",
         "subtype": "subjunctive",
-        "start": 6,
-        "end": 10,
+        "start": 5,
+        "end": 9,
         "highlight_spans": [
           [
-            6,
-            6
+            5,
+            5
           ],
           [
-            10,
-            10
+            9,
+            9
           ]
         ],
         "confidence": 0.9,
         "trigger": {
-          "rel_pron_index": 6,
-          "verb_index": 10,
+          "rel_pron_index": 5,
+          "verb_index": 9,
           "rule": "PronType=Rel+finite"
         },
         "span_quality": "good"
@@ -1609,22 +1609,22 @@
       {
         "type": "relative_clause",
         "subtype": "indicative",
-        "start": 1,
-        "end": 2,
+        "start": 0,
+        "end": 1,
         "highlight_spans": [
+          [
+            0,
+            0
+          ],
           [
             1,
             1
-          ],
-          [
-            2,
-            2
           ]
         ],
         "confidence": 0.91,
         "trigger": {
-          "rel_pron_index": 1,
-          "verb_index": 2,
+          "rel_pron_index": 0,
+          "verb_index": 1,
           "rule": "PronType=Rel+finite"
         },
         "span_quality": "good"
@@ -1632,33 +1632,33 @@
       {
         "type": "relative_clause",
         "subtype": "indicative",
-        "start": 4,
-        "end": 12,
+        "start": 3,
+        "end": 11,
         "highlight_spans": [
           [
-            12,
-            12
+            11,
+            11
           ],
           [
-            4,
-            4
+            3,
+            3
           ]
         ],
         "confidence": 0.91,
         "trigger": {
-          "rel_pron_index": 12,
-          "verb_index": 4,
+          "rel_pron_index": 11,
+          "verb_index": 3,
           "rule": "PronType=Rel+finite"
         },
         "span_quality": "good"
       },
       {
         "type": "gerundive",
-        "start": 8,
-        "end": 8,
+        "start": 7,
+        "end": 7,
         "confidence": 0.92,
         "trigger": {
-          "index": 8,
+          "index": 7,
           "rule": "FPP_other"
         },
         "span_quality": "good"
@@ -1668,22 +1668,22 @@
       {
         "type": "subjunctive_relative_clause",
         "subtype": "qui_subj",
-        "start": 6,
-        "end": 10,
+        "start": 5,
+        "end": 9,
         "highlight_spans": [
           [
-            6,
-            6
+            5,
+            5
           ],
           [
-            10,
-            10
+            9,
+            9
           ]
         ],
         "confidence": 0.9,
         "trigger": {
-          "rel_pron_index": 6,
-          "verb_index": 10,
+          "rel_pron_index": 5,
+          "verb_index": 9,
           "rule": "rel+subj"
         },
         "span_quality": "good"
@@ -1691,22 +1691,22 @@
       {
         "type": "relative_clause",
         "subtype": "subjunctive",
-        "start": 6,
-        "end": 10,
+        "start": 5,
+        "end": 9,
         "highlight_spans": [
           [
-            6,
-            6
+            5,
+            5
           ],
           [
-            10,
-            10
+            9,
+            9
           ]
         ],
         "confidence": 0.9,
         "trigger": {
-          "rel_pron_index": 6,
-          "verb_index": 10,
+          "rel_pron_index": 5,
+          "verb_index": 9,
           "rule": "PronType=Rel+finite"
         },
         "span_quality": "good"
@@ -1726,29 +1726,29 @@
       },
       {
         "type": "gerundive",
-        "start": 9,
-        "end": 9,
+        "start": 8,
+        "end": 8,
         "confidence": 0.92,
         "trigger": {
-          "index": 9,
+          "index": 8,
           "rule": "FPP_other"
         },
         "span_quality": "good"
       },
       {
         "type": "gerund",
-        "start": 30,
-        "end": 30,
+        "start": 29,
+        "end": 29,
         "confidence": 0.94,
         "trigger": {
-          "index": 29,
+          "index": 28,
           "rule": "FPP_neut_sing_substantive"
         },
         "span_quality": "good",
         "highlight_spans": [
           [
-            30,
-            30
+            29,
+            29
           ]
         ]
       }
@@ -1757,22 +1757,22 @@
       {
         "type": "relative_clause",
         "subtype": "indicative",
-        "start": 9,
-        "end": 16,
+        "start": 8,
+        "end": 15,
         "highlight_spans": [
           [
-            16,
-            16
+            15,
+            15
           ],
           [
-            9,
-            9
+            8,
+            8
           ]
         ],
         "confidence": 0.91,
         "trigger": {
-          "rel_pron_index": 16,
-          "verb_index": 9,
+          "rel_pron_index": 15,
+          "verb_index": 8,
           "rule": "PronType=Rel+finite"
         },
         "span_quality": "good"
@@ -1782,22 +1782,22 @@
       {
         "type": "relative_clause",
         "subtype": "indicative",
-        "start": 14,
-        "end": 17,
+        "start": 13,
+        "end": 16,
         "highlight_spans": [
           [
-            14,
-            14
+            13,
+            13
           ],
           [
-            17,
-            17
+            16,
+            16
           ]
         ],
         "confidence": 0.91,
         "trigger": {
-          "rel_pron_index": 14,
-          "verb_index": 17,
+          "rel_pron_index": 13,
+          "verb_index": 16,
           "rule": "PronType=Rel+finite"
         },
         "span_quality": "good"
@@ -1808,21 +1808,21 @@
         "type": "relative_clause",
         "subtype": "indicative",
         "start": 0,
-        "end": 2,
+        "end": 1,
         "highlight_spans": [
           [
             0,
             0
           ],
           [
-            2,
-            2
+            1,
+            1
           ]
         ],
         "confidence": 0.91,
         "trigger": {
           "rel_pron_index": 0,
-          "verb_index": 2,
+          "verb_index": 1,
           "rule": "PronType=Rel+finite"
         },
         "span_quality": "good"
