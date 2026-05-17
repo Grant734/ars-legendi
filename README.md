@@ -2,7 +2,7 @@
 
 **A classical reading framework for Latin**
 
-Ars Legendi is a mastery-based reading and learning platform for Latin. The first module teaches students to read Caesar's *De Bello Gallico* Book 1 by combining vocabulary training, grammar support anchored to real passages, and adaptive progress tracking.
+Ars Legendi is a mastery-based reading and learning platform for Latin. The first module teaches students to read Caesar's *De Bello Gallico* Book 1 by combining vocabulary training, grammar support anchored to real passages, and adaptive progress tracking. The second module continues this with selected letters of Pliny the Younger.
 
 
 
@@ -42,8 +42,9 @@ The adaptive learning system uses an Elo rating algorithm (adapted from chess) t
 
 
 
-## Key data files
+## Key data files 
 
+Note: this walks through the Caesar data files. A similar structure has been replicated for Pliny.
 All Latin text data lives in `/server/data/caesar/`:
 
 | File | Purpose |
