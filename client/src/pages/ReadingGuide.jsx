@@ -2,7 +2,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { API_BASE_URL } from "../lib/api";
 import CaesarSentence from "../components/CaesarSentence.jsx";
-import TextSelector from "../components/TextSelector";
+import TextSelector, { useText } from "../components/TextSelector";
 import ClauseLegend from "../components/ClauseLegend.jsx";
 import { CONSTRUCTION_STYLES } from "../lib/constructionStyles";
 import { defaultEnabledTypes } from "../lib/constructionStyles";
@@ -122,13 +122,18 @@ function normalizeLatinForm(s) {
 }
 
 export default function ReadingGuide() {
+  const { currentTextId, currentText } = useText();
   const [chaptersMeta, setChaptersMeta] = useState([]); // [{chapter, sentence_count}]
-  const [chapters, setChapters] = useState([]); // [1,2,3...]
-  const [chapter, setChapter] = useState(1);
+  const [chapters, setChapters] = useState([]); // chapter IDs (numeric or string)
+  const [chapter, setChapter] = useState(null);
 
-  const [bundles, setBundles] = useState([]); // normalized sentence objects
+  const [bundles, setBundles] = useState([]); // normalized sentence objects (all for chapter)
   const [loading, setLoading] = useState(false);
   const [err, setErr] = useState("");
+
+  // Parts support
+  const [partsData, setPartsData] = useState(null); // {chapterId: [{part, title, startSidIndex, endSidIndex}]}
+  const [currentPart, setCurrentPart] = useState(1);
 
   // View toggles (ONLY keep what you still want)
   const [showTranslation, setShowTranslation] = useState(false);
@@ -146,16 +151,18 @@ export default function ReadingGuide() {
   function normalizeChapterList(payload) {
     // backend returns { chapters: [{chapter, sentence_count}] }
     const meta = Array.isArray(payload?.chapters) ? payload.chapters : [];
-    const nums = meta
-      .map((x) => Number(x?.chapter))
-      .filter((n) => Number.isFinite(n))
-      .sort((a, b) => a - b);
+    const ids = meta
+      .map((x) => x?.chapter)
+      .filter((c) => c != null && c !== "");
 
     setChaptersMeta(meta);
-    setChapters(nums);
+    setChapters(ids);
 
-    if (nums.length) {
-      setChapter((prev) => (nums.includes(prev) ? prev : nums[0]));
+    if (ids.length) {
+      setChapter((prev) => {
+        if (prev != null && ids.map(String).includes(String(prev))) return prev;
+        return ids[0];
+      });
     }
   }
 
@@ -196,7 +203,7 @@ export default function ReadingGuide() {
 
   async function loadChapters() {
     setErr("");
-    const r = await fetch(`${API_BASE_URL}/api/caesar/chapters`);
+    const r = await fetch(`${API_BASE_URL}/api/text/${currentTextId}/chapters`);
     if (!r.ok) {
       const j = await r.json().catch(() => null);
       throw new Error(j?.error || `chapters failed (HTTP ${r.status})`);
@@ -211,7 +218,7 @@ export default function ReadingGuide() {
     setLoading(true);
 
     try {
-      const r = await fetch(`${API_BASE_URL}/api/caesar/chapterBundle?chapter=${encodeURIComponent(ch)}`);
+      const r = await fetch(`${API_BASE_URL}/api/text/${currentTextId}/chapterBundle?chapter=${encodeURIComponent(ch)}`);
       if (!r.ok) {
         const j = await r.json().catch(() => null);
         throw new Error(j?.error || `chapterBundle failed (HTTP ${r.status})`);
@@ -246,7 +253,7 @@ export default function ReadingGuide() {
   }
 
   async function fetchGlossaryLemma(lemma) {
-    const r = await fetch(`${API_BASE_URL}/api/caesar/glossary?lemma=${encodeURIComponent(lemma)}`);
+    const r = await fetch(`${API_BASE_URL}/api/text/${currentTextId}/glossary?lemma=${encodeURIComponent(lemma)}`);
     if (!r.ok) return null;
     const j = await r.json().catch(() => null);
     if (j?.entry) {
@@ -294,7 +301,7 @@ export default function ReadingGuide() {
     // 1) Prefer backend normalizer if it exists (if you add it later).
     // If missing/404, we fall back to the chapter-based index below.
     try {
-      const rn = await fetch(`${API_BASE_URL}/api/caesar/glossaryByForm?form=${encodeURIComponent(qRaw)}`);
+      const rn = await fetch(`${API_BASE_URL}/api/text/${currentTextId}/glossaryByForm?form=${encodeURIComponent(qRaw)}`);
       if (rn.ok) {
         const jn = await rn.json().catch(() => null);
         const rawHits = Array.isArray(jn?.hits) ? jn.hits : [];
@@ -373,12 +380,24 @@ export default function ReadingGuide() {
   }
 
   useEffect(() => {
+    setChapter(null);
+    setChapters([]);
+    setChaptersMeta([]);
+    setBundles([]);
+    setPartsData(null);
+    setCurrentPart(1);
     loadChapters().catch((e) => setErr(String(e?.message || e)));
-  }, []);
+    // Load parts
+    fetch(`${API_BASE_URL}/api/text/${currentTextId}/parts`)
+      .then((r) => r.json())
+      .then((d) => setPartsData(d?.parts || null))
+      .catch(() => {});
+  }, [currentTextId]);
 
   useEffect(() => {
-    if (!chapters.length) return;
-    if (!chapters.includes(chapter)) return;
+    if (!chapters.length || chapter == null) return;
+    if (!chapters.map(String).includes(String(chapter))) return;
+    setCurrentPart(1); // Reset to part 1 when chapter changes
     loadChapter(chapter);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [chapter, chapters]);
@@ -413,6 +432,20 @@ export default function ReadingGuide() {
 
   const commentary = CHAPTER_COMMENTARY?.[chapter] || null;
 
+  // Parts-aware filtering
+  const chapterParts = partsData?.[chapter] || [];
+  const hasMultipleParts = chapterParts.length > 1;
+  const activePartDef = chapterParts.find((p) => p.part === currentPart) || chapterParts[0] || null;
+
+  const displayedBundles = useMemo(() => {
+    if (!hasMultipleParts || !activePartDef) return filteredBundles;
+    return filteredBundles.filter((s) => {
+      const idx = s?.index;
+      if (idx == null) return true;
+      return idx >= activePartDef.startSidIndex && idx <= activePartDef.endSidIndex;
+    });
+  }, [filteredBundles, hasMultipleParts, activePartDef]);
+
   return (
     <>
       <TextSelector className="-mx-6 -mt-6 mb-6" />
@@ -426,20 +459,26 @@ export default function ReadingGuide() {
       <div className="bg-white border-2 border-gray-200 rounded-xl p-5 mb-4">
         <div className="flex gap-4 flex-wrap items-center">
           <label className="flex gap-2 items-center">
-            <span className="font-semibold text-gray-700">Chapter</span>
+            <span className="font-semibold text-gray-700">
+              {currentText?.chapterLabel || "Chapter"}
+            </span>
             <select
-              value={chapter}
-              onChange={(e) => setChapter(Number(e.target.value))}
+              value={chapter ?? ""}
+              onChange={(e) => setChapter(e.target.value)}
               aria-label="Select chapter"
               className="px-3 py-2 border-2 border-gray-200 rounded-lg focus:border-accent focus:outline-none"
             >
               {chaptersMeta.map((m) => {
-                const ch = Number(m?.chapter);
-                if (!Number.isFinite(ch)) return null;
+                const ch = m?.chapter;
+                if (ch == null) return null;
                 const count = Number(m?.sentence_count);
+                const displayName = m?.displayName;
+                const label = displayName
+                  ? `${displayName}${Number.isFinite(count) ? ` (${count})` : ""}`
+                  : `${currentText?.chapterLabel || "Chapter"} ${ch}${Number.isFinite(count) ? ` (${count} sentences)` : ""}`;
                 return (
                   <option key={ch} value={ch}>
-                    {Number.isFinite(count) ? `Chapter ${ch} (${count} sentences)` : `Chapter ${ch}`}
+                    {label}
                   </option>
                 );
               })}
@@ -586,7 +625,7 @@ export default function ReadingGuide() {
                 <span className="text-xs font-normal text-gray-500">{filteredBundles.length} sentences</span>
               </div>
               <div className="text-lg leading-loose">
-                {filteredBundles.map((s, idx) => (
+                {displayedBundles.map((s, idx) => (
                   <CaesarSentence
                     key={s.sid || `ch${chapter}_i${idx + 1}`}
                     sentence={s}
@@ -600,7 +639,7 @@ export default function ReadingGuide() {
           )}
 
           {/* Separated sentences mode (with translation) */}
-          {showTranslation && filteredBundles.map((s, idx) => {
+          {showTranslation && displayedBundles.map((s, idx) => {
             const sid = String(s.sid || `ch${chapter}_i${idx + 1}`);
             return (
               <div key={sid} id={`sid_${sid}`} className="bg-white border-2 border-gray-200 rounded-xl p-5 mt-3">
@@ -620,6 +659,40 @@ export default function ReadingGuide() {
               </div>
             );
           })}
+
+          {/* Part Navigation (for multi-part chapters) */}
+          {!loading && hasMultipleParts && activePartDef && (
+            <div className="bg-white border-2 border-accent/20 rounded-xl p-4 mt-4 flex justify-between items-center">
+              <button
+                onClick={() => setCurrentPart((p) => Math.max(1, p - 1))}
+                disabled={currentPart <= 1}
+                className={`px-4 py-2 border-2 rounded-lg font-semibold transition-colors text-sm ${
+                  currentPart <= 1
+                    ? "border-gray-200 bg-gray-100 text-gray-400 cursor-not-allowed"
+                    : "border-accent/30 bg-white text-primary hover:border-accent"
+                }`}
+              >
+                ← Previous Part
+              </button>
+              <div className="text-center">
+                <div className="font-semibold text-primary text-sm">
+                  Part {currentPart} of {chapterParts.length}
+                </div>
+                <div className="text-xs text-gray-500">{activePartDef.title}</div>
+              </div>
+              <button
+                onClick={() => setCurrentPart((p) => Math.min(chapterParts.length, p + 1))}
+                disabled={currentPart >= chapterParts.length}
+                className={`px-4 py-2 border-2 rounded-lg font-semibold transition-colors text-sm ${
+                  currentPart >= chapterParts.length
+                    ? "border-gray-200 bg-gray-100 text-gray-400 cursor-not-allowed"
+                    : "border-accent/30 bg-white text-primary hover:border-accent"
+                }`}
+              >
+                Next Part →
+              </button>
+            </div>
+          )}
 
           {/* Chapter Navigation */}
           {!loading && bundles.length > 0 && (

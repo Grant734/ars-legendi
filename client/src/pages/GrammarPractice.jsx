@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { Link, useSearchParams } from "react-router-dom";
-import TextSelector from "../components/TextSelector";
-import { fetchPracticeChunk, fetchExamplesIndex, fetchPracticePoolSize } from "../lib/caesarPracticeApi";
+import TextSelector, { useText } from "../components/TextSelector";
+import { fetchPracticeChunk, fetchPracticePoolSize, fetchExamples as fetchExamplesIndex } from "../lib/textApi";
 import WordInspector from "../components/WordInspector";
 import { ClausePill, styleForType, getBoundaryIndicator, ConstructionTooltip } from "../components/ClauseLegend";
 import {
@@ -288,6 +288,7 @@ function trimSelectionPunct(tokens, start, end) {
 }
 
 export default function GrammarPractice() {
+  const { currentTextId } = useText();
   // URL parameters for launching from Mastery page
   const [searchParams] = useSearchParams();
   const urlMode = searchParams.get("mode");
@@ -421,7 +422,7 @@ export default function GrammarPractice() {
     async function run() {
       try {
         const types = [...ALL_NON_CONDITIONAL_TYPES, "conditional_protasis", "conditional_apodosis"];
-        const data = await fetchExamplesIndex({ types });
+        const data = await fetchExamplesIndex(currentTextId, types);
         if (!mounted) return;
         setCorpusTotals(data);
       } catch {
@@ -442,7 +443,7 @@ export default function GrammarPractice() {
 
     async function run() {
       try {
-        const data = await fetchPracticePoolSize({ type: mode, n: sentenceCap });
+        const data = await fetchPracticePoolSize(currentTextId, { type: mode, n: sentenceCap });
         if (!mounted) return;
         setPoolSize(data.totalWindows);
 
@@ -1112,7 +1113,7 @@ export default function GrammarPractice() {
       const exclude = mode === "all" ? getExcludeString(studentId, mode, mode) : "";
       // Get mastered instance IDs for server-side filtering (prevents seeing already-mastered instances)
       const mastered = getMasteredIdsForMode(mode);
-      const raw = await fetchPracticeChunk({ type: mode, exclude, mastered });
+      const raw = await fetchPracticeChunk(currentTextId, { type: mode, exclude, mastered });
       const clipped = truncateChunk(raw, sentenceCap);
       setChunk(clipped);
 

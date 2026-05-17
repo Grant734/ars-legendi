@@ -1,0 +1,667 @@
+[
+  {
+    "lemma": "tu",
+    "upos": "PRON",
+    "count": 10
+  },
+  {
+    "lemma": "magne",
+    "upos": "ADV",
+    "count": 5
+  },
+  {
+    "lemma": "christus",
+    "upos": "ADJ",
+    "count": 3
+  },
+  {
+    "lemma": "dein",
+    "upos": "CCONJ",
+    "count": 2
+  },
+  {
+    "lemma": "desertus",
+    "upos": "NOUN",
+    "count": 2
+  },
+  {
+    "lemma": "ecquid",
+    "upos": "SCONJ",
+    "count": 2
+  },
+  {
+    "lemma": "litor",
+    "upos": "NOUN",
+    "count": 2
+  },
+  {
+    "lemma": "pumicus",
+    "upos": "ADJ",
+    "count": 2
+  },
+  {
+    "lemma": "rectinus",
+    "upos": "ADJ",
+    "count": 2
+  },
+  {
+    "lemma": "vertix",
+    "upos": "NOUN",
+    "count": 2
+  },
+  {
+    "lemma": "vesuvium",
+    "upos": "NOUN",
+    "count": 2
+  },
+  {
+    "lemma": "abominus",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "acre",
+    "upos": "ADV",
+    "count": 1
+  },
+  {
+    "lemma": "advisceo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "aetatus",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "aevus",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "altaqus",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "anguo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "ardente",
+    "upos": "ADV",
+    "count": 1
+  },
+  {
+    "lemma": "athenodorus",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "auditus",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "auribo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "carmenque",
+    "upos": "ADV",
+    "count": 1
+  },
+  {
+    "lemma": "cervicalis",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "cineremve",
+    "upos": "ADV",
+    "count": 1
+  },
+  {
+    "lemma": "circumo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "claeo",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "classemquus",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "concirgo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "curtio",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "curvatusquus",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "decucuro",
+    "upos": "X",
+    "count": 1
+  },
+  {
+    "lemma": "denses",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "densiorqus",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "depulo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "dilapdo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "dilatus",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "dio",
+    "upos": "NUM",
+    "count": 1
+  },
+  {
+    "lemma": "discriminus",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "dispo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "effono",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "elascor",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "erudites",
+    "upos": "ADV",
+    "count": 1
+  },
+  {
+    "lemma": "excirlo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "excuto",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "exesorumquus",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "exesus",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "exterro",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "fateo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "flammarus",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "gustaveo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "hetaerius",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "hilarus",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "huo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "idqum",
+    "upos": "DET",
+    "count": 1
+  },
+  {
+    "lemma": "igitur",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "ignarus",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "illaedeo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "illitto",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "imagio",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "incertumquus",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "innitens",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "innuebo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "innuenio",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "interdius",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "interfuerus",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "interfuo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "inusito",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "invici",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "invingo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "invono",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "iste",
+    "upos": "DET",
+    "count": 1
+  },
+  {
+    "lemma": "iuss",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "leger",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "lenieo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "longiusqus",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "mallo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "mansura",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "minister",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "miseni",
+    "upos": "PART",
+    "count": 1
+  },
+  {
+    "lemma": "misenus",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "mistio",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "nav",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "nescio",
+    "upos": "ADV",
+    "count": 1
+  },
+  {
+    "lemma": "nigeos",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "nigriquus",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "nonus",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "obuo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "opertus",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "oraes",
+    "upos": "PROPN",
+    "count": 1
+  },
+  {
+    "lemma": "percuncto",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "periclito",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "pomponia",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "pomponianus",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "procul",
+    "upos": "ADP",
+    "count": 1
+  },
+  {
+    "lemma": "proiecio",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "promiscuus",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "pulchriorqus",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "pus",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "quamo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "quatieo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "quievo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "quilibet",
+    "upos": "DET",
+    "count": 1
+  },
+  {
+    "lemma": "resedio",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "respo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "ruino",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "sarcinus",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "seceo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "sedus",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "septembe",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "sequs",
+    "upos": "DET",
+    "count": 1
+  },
+  {
+    "lemma": "sollemnes",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "solo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "sparsus",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "spatio",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "studius",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "studo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "sulpus",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "surrexo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "tascus",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "tenuis",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "terraqus",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "totaqus",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "tunicus",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "turs",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "vagatus",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "variaqus",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "vastisquus",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "vastus",
+    "upos": "NOUN",
+    "count": 1
+  },
+  {
+    "lemma": "velleo",
+    "upos": "VERB",
+    "count": 1
+  },
+  {
+    "lemma": "venias",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "victum",
+    "upos": "ADJ",
+    "count": 1
+  },
+  {
+    "lemma": "vigintus",
+    "upos": "NUM",
+    "count": 1
+  }
+]

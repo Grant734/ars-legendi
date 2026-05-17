@@ -1,0 +1,697 @@
+{
+    "summary": {
+      "total_corrections": 87,
+      "to_delete": 23
+    },
+    "corrections": {
+      "iuro": {
+        "dictionary": {"pos": "verb", "principal_parts": ["iuro", "iurare", "iuravi", "iuratus"]},
+        "dictionary_entry": "iuro, iurare, iuravi, iuratus",
+        "glosses": ["swear", "take an oath", "vow"],
+        "source": "ManualReview",
+        "source_key": "iuro"
+      },
+      "uico": {
+        "dictionary": {"gen_abbrev": "-i", "gen_sg": null, "gender": "m", "nom_sg": "uicus", "pos": "noun"},
+        "dictionary_entry": "uicus, -i m.",
+        "glosses": ["village", "hamlet", "row of houses", "street"],
+        "source": "ManualReview",
+        "source_key": "vicus"
+      },
+      "hostius": {
+        "dictionary": {"gen_abbrev": "-i", "gen_sg": null, "gender": "m", "nom_sg": "Hostius", "pos": "noun"},
+        "dictionary_entry": "Hostius, -i m.",
+        "glosses": ["Hostius (a Roman gens name)"],
+        "source": "ManualReview",
+        "source_key": "Hostius"
+      },
+      "interfacio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["interficio", "interficere", "interfeci", "interfectus"]},
+        "dictionary_entry": "interficio, interficere, interfeci, interfectus",
+        "glosses": ["kill", "destroy", "put to death"],
+        "source": "ManualReview",
+        "source_key": "interficio"
+      },
+      "iusso": {
+        "dictionary": {"pos": "verb", "principal_parts": ["iubeo", "iubere", "iussi", "iussus"]},
+        "dictionary_entry": "iubeo, iubere, iussi, iussus",
+        "glosses": ["order", "command", "bid", "decree"],
+        "source": "ManualReview",
+        "source_key": "iubeo"
+      },
+      "parue": {
+        "dictionary": {"form": "parum", "pos": "adv"},
+        "dictionary_entry": "parum",
+        "glosses": ["too little", "not enough", "insufficiently"],
+        "source": "ManualReview",
+        "source_key": "parum"
+      },
+      "pollicitus": {
+        "dictionary": {"pos": "verb", "principal_parts": ["polliceor", "polliceri", "pollicitus sum", null]},
+        "dictionary_entry": "polliceor, polliceri, pollicitus sum",
+        "glosses": ["promise", "offer", "pledge"],
+        "source": "ManualReview",
+        "source_key": "polliceor"
+      },
+      "semel": {
+        "dictionary": {"form": "semel", "pos": "adv"},
+        "dictionary_entry": "semel",
+        "glosses": ["once", "a single time", "one time"],
+        "source": "ManualReview",
+        "source_key": "semel"
+      },
+      "superior": {
+        "dictionary": {"forms": ["superior", "superior", "superius"], "pos": "adjective"},
+        "dictionary_entry": "superior, superior, superius",
+        "glosses": ["higher", "upper", "previous", "former", "superior"],
+        "source": "ManualReview",
+        "source_key": "superior"
+      },
+      "ultimus": {
+        "dictionary": {"forms": ["ultimus", "ultima", "ultimum"], "pos": "adjective"},
+        "dictionary_entry": "ultimus, ultima, ultimum",
+        "glosses": ["furthest", "last", "final", "most distant", "extreme"],
+        "source": "ManualReview",
+        "source_key": "ultimus"
+      },
+      "absentio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["absento", "absentare", "absentavi", "absentatus"]},
+        "dictionary_entry": "absento, absentare, absentavi, absentatus",
+        "glosses": ["be absent", "keep at a distance"],
+        "source": "ManualReview",
+        "source_key": "absento"
+      },
+      "aemilium": {
+        "dictionary": {"gen_abbrev": "-i", "gen_sg": null, "gender": "m", "nom_sg": "Aemilius", "pos": "noun"},
+        "dictionary_entry": "Aemilius, -i m.",
+        "glosses": ["Aemilius (Roman family name)"],
+        "source": "ManualReview",
+        "source_key": "Aemilius"
+      },
+      "amens": {
+        "dictionary": {"forms": ["amens", "amentis"], "pos": "adjective"},
+        "dictionary_entry": "amens, amentis",
+        "glosses": ["mad", "frantic", "out of one's mind", "senseless"],
+        "source": "ManualReview",
+        "source_key": "amens"
+      },
+      "annuus": {
+        "dictionary": {"forms": ["annuus", "annua", "annuum"], "pos": "adjective"},
+        "dictionary_entry": "annuus, annua, annuum",
+        "glosses": ["yearly", "annual", "lasting a year"],
+        "source": "ManualReview",
+        "source_key": "annuus"
+      },
+      "ariouisto": {
+        "dictionary": {"gen_abbrev": "-i", "gen_sg": null, "gender": "m", "nom_sg": "Ariouistus", "pos": "noun"},
+        "dictionary_entry": "Ariouistus, -i m.",
+        "glosses": ["Ariovistus (king of the Suebi, defeated by Caesar)"],
+        "source": "ManualReview",
+        "source_key": "Ariovistus"
+      },
+      "at": {
+        "dictionary": {"form": "at", "pos": "conjunction"},
+        "dictionary_entry": "at",
+        "glosses": ["but", "yet", "however", "on the other hand"],
+        "source": "ManualReview",
+        "source_key": "at"
+      },
+      "auido": {
+        "dictionary": {"forms": ["auidus", "auida", "auidum"], "pos": "adjective"},
+        "dictionary_entry": "auidus, auida, auidum",
+        "glosses": ["eager", "greedy", "desirous", "longing for"],
+        "source": "ManualReview",
+        "source_key": "avidus"
+      },
+      "bibracte": {
+        "dictionary": {"gen_abbrev": "-is", "gen_sg": null, "gender": "n", "nom_sg": "Bibracte", "pos": "noun"},
+        "dictionary_entry": "Bibracte, -is n.",
+        "glosses": ["Bibracte (chief town of the Aedui in Gaul)"],
+        "source": "ManualReview",
+        "source_key": "Bibracte"
+      },
+      "biduus": {
+        "dictionary": {"forms": ["biduus", "bidua", "biduum"], "pos": "adjective"},
+        "dictionary_entry": "biduus, bidua, biduum",
+        "glosses": ["lasting two days", "of two days"],
+        "source": "ManualReview",
+        "source_key": "biduus"
+      },
+      "cabo": {
+        "dictionary": {"gen_abbrev": "-i", "gen_sg": null, "gender": "m", "nom_sg": "Caburus", "pos": "noun"},
+        "dictionary_entry": "Caburus, -i m.",
+        "glosses": ["Caburus (C. Valerius Caburus, a Gaul granted Roman citizenship)"],
+        "source": "ManualReview",
+        "source_key": "Caburus"
+      },
+      "cassianus": {
+        "dictionary": {"forms": ["Cassianus", "Cassiana", "Cassianum"], "pos": "adjective"},
+        "dictionary_entry": "Cassianus, Cassiana, Cassianum",
+        "glosses": ["of Cassius", "Cassian (referring to L. Cassius Longinus, defeated by the Helvetii)"],
+        "source": "ManualReview",
+        "source_key": "Cassianus"
+      },
+      "citrus": {
+        "dictionary": {"forms": ["citer", "citra", "citrum"], "pos": "adjective"},
+        "dictionary_entry": "citer, citra, citrum",
+        "glosses": ["on this side", "nearer", "hither"],
+        "source": "ManualReview",
+        "source_key": "citer"
+      },
+      "coemio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["coemo", "coemere", "coemi", "coemptus"]},
+        "dictionary_entry": "coemo, coemere, coemi, coemptus",
+        "glosses": ["buy up", "purchase together"],
+        "source": "ManualReview",
+        "source_key": "coemo"
+      },
+      "comminus": {
+        "dictionary": {"form": "comminus", "pos": "adv"},
+        "dictionary_entry": "comminus",
+        "glosses": ["hand to hand", "at close quarters", "in close combat"],
+        "source": "ManualReview",
+        "source_key": "comminus"
+      },
+      "decem": {
+        "dictionary": {"form": "decem", "pos": "numeral"},
+        "dictionary_entry": "decem",
+        "glosses": ["ten"],
+        "source": "ManualReview",
+        "source_key": "decem"
+      },
+      "desuper": {
+        "dictionary": {"form": "desuper", "pos": "adv"},
+        "dictionary_entry": "desuper",
+        "glosses": ["from above", "from overhead"],
+        "source": "ManualReview",
+        "source_key": "desuper"
+      },
+      "deterius": {
+        "dictionary": {"form": "deterius", "pos": "adv"},
+        "dictionary_entry": "deterius",
+        "glosses": ["worse", "less favorably"],
+        "source": "ManualReview",
+        "source_key": "deterius"
+      },
+      "diuo": {
+        "dictionary": {"pos": "verb", "principal_parts": ["diuido", "diuidere", "diuisi", "diuisus"]},
+        "dictionary_entry": "diuido, diuidere, diuisi, diuisus",
+        "glosses": ["divide", "separate", "distribute"],
+        "source": "ManualReview",
+        "source_key": "divido"
+      },
+      "ego": {
+        "dictionary": {"form": "ego", "pos": "pronoun"},
+        "dictionary_entry": "ego, mei",
+        "glosses": ["I", "me"],
+        "source": "ManualReview",
+        "source_key": "ego"
+      },
+      "emeo": {
+        "dictionary": {"pos": "verb", "principal_parts": ["emo", "emere", "emi", "emptus"]},
+        "dictionary_entry": "emo, emere, emi, emptus",
+        "glosses": ["buy", "purchase", "obtain"],
+        "source": "ManualReview",
+        "source_key": "emo"
+      },
+      "fabio": {
+        "dictionary": {"gen_abbrev": "-i", "gen_sg": null, "gender": "m", "nom_sg": "Fabius", "pos": "noun"},
+        "dictionary_entry": "Fabius, -i m.",
+        "glosses": ["Fabius (a Roman family name; e.g., C. Fabius, legate of Caesar)"],
+        "source": "ManualReview",
+        "source_key": "Fabius"
+      },
+      "factus": {
+        "dictionary": {"form": "factu", "pos": "noun"},
+        "dictionary_entry": "factu (supine)",
+        "glosses": ["to do", "in the doing", "supine of facio"],
+        "source": "ManualReview",
+        "source_key": "factu"
+      },
+      "fas": {
+        "dictionary": {"gen_abbrev": "indecl.", "gen_sg": null, "gender": "n", "nom_sg": "fas", "pos": "noun"},
+        "dictionary_entry": "fas, n. indecl.",
+        "glosses": ["divine law", "what is right", "lawful", "permitted by the gods"],
+        "source": "ManualReview",
+        "source_key": "fas"
+      },
+      "finitus": {
+        "dictionary": {"forms": ["finitimus", "finitima", "finitimum"], "pos": "adjective"},
+        "dictionary_entry": "finitimus, finitima, finitimum",
+        "glosses": ["neighboring", "bordering", "adjacent"],
+        "source": "ManualReview",
+        "source_key": "finitimus"
+      },
+      "fossa": {
+        "dictionary": {"gen_abbrev": "-ae", "gen_sg": null, "gender": "f", "nom_sg": "fossa", "pos": "noun"},
+        "dictionary_entry": "fossa, -ae f.",
+        "glosses": ["ditch", "trench", "moat"],
+        "source": "ManualReview",
+        "source_key": "fossa"
+      },
+      "graioceli": {
+        "dictionary": {"gen_abbrev": "-orum", "gen_sg": null, "gender": "m", "nom_sg": "Graioceli", "pos": "noun"},
+        "dictionary_entry": "Graioceli, -orum m. pl.",
+        "glosses": ["Graioceli (a Gallic tribe in the Alps)"],
+        "source": "ManualReview",
+        "source_key": "Graioceli"
+      },
+      "iniicio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["iniicio", "iniicere", "iniieci", "iniiectus"]},
+        "dictionary_entry": "iniicio, iniicere, iniieci, iniiectus",
+        "glosses": ["throw in", "hurl into", "inspire", "instill"],
+        "source": "ManualReview",
+        "source_key": "inicio"
+      },
+      "inuo": {
+        "dictionary": {"forms": ["inuitus", "inuita", "inuitum"], "pos": "adjective"},
+        "dictionary_entry": "inuitus, inuita, inuitum",
+        "glosses": ["unwilling", "against one's will", "reluctant"],
+        "source": "ManualReview",
+        "source_key": "invitus"
+      },
+      "hospitus": {
+        "dictionary": {"forms": ["hospitus", "hospita", "hospitum"], "pos": "adjective"},
+        "dictionary_entry": "hospitus, hospita, hospitum",
+        "glosses": ["hospitable", "of a guest", "foreign"],
+        "source": "ManualReview",
+        "source_key": "hospitus"
+      },
+      "insto": {
+        "dictionary": {"pos": "verb", "principal_parts": ["insto", "instare", "institi", null]},
+        "dictionary_entry": "insto, instare, institi",
+        "glosses": ["press on", "pursue", "threaten", "be at hand"],
+        "source": "ManualReview",
+        "source_key": "insto"
+      },
+      "laboro": {
+        "dictionary": {"pos": "verb", "principal_parts": ["laboro", "laborare", "laboraui", "laboratus"]},
+        "dictionary_entry": "laboro, laborare, laboraui, laboratus",
+        "glosses": ["work", "toil", "suffer", "be in distress"],
+        "source": "ManualReview",
+        "source_key": "laboro"
+      },
+      "lateo": {
+        "dictionary": {"pos": "verb", "principal_parts": ["lateo", "latere", "latui", null]},
+        "dictionary_entry": "lateo, latere, latui",
+        "glosses": ["lie hidden", "be concealed", "escape notice"],
+        "source": "ManualReview",
+        "source_key": "lateo"
+      },
+      "maturo": {
+        "dictionary": {"pos": "verb", "principal_parts": ["maturo", "maturare", "maturaui", "maturatus"]},
+        "dictionary_entry": "maturo, maturare, maturaui, maturatus",
+        "glosses": ["hasten", "hurry", "ripen", "bring to maturity"],
+        "source": "ManualReview",
+        "source_key": "maturo"
+      },
+      "nonaginta": {
+        "dictionary": {"form": "nonaginta", "pos": "numeral"},
+        "dictionary_entry": "nonaginta",
+        "glosses": ["ninety"],
+        "source": "ManualReview",
+        "source_key": "nonaginta"
+      },
+      "offendo": {
+        "dictionary": {"pos": "verb", "principal_parts": ["offendo", "offendere", "offendi", "offensus"]},
+        "dictionary_entry": "offendo, offendere, offendi, offensus",
+        "glosses": ["strike against", "encounter", "offend", "displease"],
+        "source": "ManualReview",
+        "source_key": "offendo"
+      },
+      "par": {
+        "dictionary": {"forms": ["par", "paris"], "pos": "adjective"},
+        "dictionary_entry": "par, paris",
+        "glosses": ["equal", "like", "matching", "a match for"],
+        "source": "ManualReview",
+        "source_key": "par"
+      },
+      "pario": {
+        "dictionary": {"pos": "verb", "principal_parts": ["pario", "parere", "peperi", "partus"]},
+        "dictionary_entry": "pario, parere, peperi, partus",
+        "glosses": ["bring forth", "produce", "give birth to", "acquire"],
+        "source": "ManualReview",
+        "source_key": "pario"
+      },
+      "posterus": {
+        "dictionary": {"forms": ["posterus", "postera", "posterum"], "pos": "adjective"},
+        "dictionary_entry": "posterus, postera, posterum",
+        "glosses": ["next", "following", "subsequent", "later"],
+        "source": "ManualReview",
+        "source_key": "posterus"
+      },
+      "postridie": {
+        "dictionary": {"form": "postridie", "pos": "adv"},
+        "dictionary_entry": "postridie",
+        "glosses": ["on the next day", "the following day"],
+        "source": "ManualReview",
+        "source_key": "postridie"
+      },
+      "praetereo": {
+        "dictionary": {"pos": "verb", "principal_parts": ["praetereo", "praeterire", "praeterii", "praeteritus"]},
+        "dictionary_entry": "praetereo, praeterire, praeterii, praeteritus",
+        "glosses": ["pass by", "go past", "omit", "neglect"],
+        "source": "ManualReview",
+        "source_key": "praetereo"
+      },
+      "progressus": {
+        "dictionary": {"gen_abbrev": "-us", "gen_sg": null, "gender": "m", "nom_sg": "progressus", "pos": "noun"},
+        "dictionary_entry": "progressus, -us m.",
+        "glosses": ["advance", "progress", "going forward"],
+        "source": "ManualReview",
+        "source_key": "progressus"
+      },
+      "prope": {
+        "dictionary": {"form": "prope", "pos": "adv"},
+        "dictionary_entry": "prope (adv. and prep. + acc.)",
+        "glosses": ["near", "nearly", "almost", "close by"],
+        "source": "ManualReview",
+        "source_key": "prope"
+      },
+      "quis": {
+        "dictionary": {"form": "quis", "pos": "pronoun"},
+        "dictionary_entry": "quis, quid",
+        "glosses": ["who?", "what?", "anyone", "anything"],
+        "source": "ManualReview",
+        "source_key": "quis"
+      },
+      "quisquam": {
+        "dictionary": {"form": "quisquam", "pos": "pronoun"},
+        "dictionary_entry": "quisquam, quidquam",
+        "glosses": ["anyone", "anything", "any (used in negative contexts)"],
+        "source": "ManualReview",
+        "source_key": "quisquam"
+      },
+      "quot": {
+        "dictionary": {"form": "quot", "pos": "adjective"},
+        "dictionary_entry": "quot (indecl.)",
+        "glosses": ["how many", "as many as"],
+        "source": "ManualReview",
+        "source_key": "quot"
+      },
+      "quoto": {
+        "dictionary": {"forms": ["quotus", "quota", "quotum"], "pos": "adjective"},
+        "dictionary_entry": "quotus, quota, quotum",
+        "glosses": ["which (in numerical order)", "what number"],
+        "source": "ManualReview",
+        "source_key": "quotus"
+      },
+      "spiritus": {
+        "dictionary": {"gen_abbrev": "-us", "gen_sg": null, "gender": "m", "nom_sg": "spiritus", "pos": "noun"},
+        "dictionary_entry": "spiritus, -us m.",
+        "glosses": ["breath", "spirit", "life", "soul"],
+        "source": "ManualReview",
+        "source_key": "spiritus"
+      },
+      "suppeto": {
+        "dictionary": {"pos": "verb", "principal_parts": ["suppeto", "suppetere", "suppetiui", "suppetitus"]},
+        "dictionary_entry": "suppeto, suppetere, suppetiui, suppetitus",
+        "glosses": ["be at hand", "be available", "suffice"],
+        "source": "ManualReview",
+        "source_key": "suppeto"
+      },
+      "suspicor": {
+        "dictionary": {"pos": "verb", "principal_parts": ["suspicor", "suspicari", "suspicatus sum", null]},
+        "dictionary_entry": "suspicor, suspicari, suspicatus sum",
+        "glosses": ["suspect", "mistrust", "suppose"],
+        "source": "ManualReview",
+        "source_key": "suspicor"
+      },
+      "totis": {
+        "dictionary": {"forms": ["totus", "tota", "totum"], "pos": "adjective"},
+        "dictionary_entry": "totus, tota, totum",
+        "glosses": ["whole", "entire", "all", "complete"],
+        "source": "ManualReview",
+        "source_key": "totus"
+      },
+      "umquam": {
+        "dictionary": {"form": "umquam", "pos": "adv"},
+        "dictionary_entry": "umquam",
+        "glosses": ["ever", "at any time"],
+        "source": "ManualReview",
+        "source_key": "umquam"
+      },
+      "uoco": {
+        "dictionary": {"pos": "verb", "principal_parts": ["uoco", "uocare", "uocaui", "uocatus"]},
+        "dictionary_entry": "uoco, uocare, uocaui, uocatus",
+        "glosses": ["call", "summon", "name", "invoke"],
+        "source": "ManualReview",
+        "source_key": "voco"
+      },
+      "usum": {
+        "dictionary": {"pos": "verb", "principal_parts": ["utor", "uti", "usus sum", null]},
+        "dictionary_entry": "utor, uti, usus sum + abl.",
+        "glosses": ["use", "make use of", "enjoy"],
+        "source": "ManualReview",
+        "source_key": "utor"
+      },
+      "citerus": {
+        "dictionary": {"forms": ["citer", "citra", "citrum"], "pos": "adjective"},
+        "dictionary_entry": "citer, citra, citrum",
+        "glosses": ["on this side", "nearer", "hither"],
+        "source": "ManualReview",
+        "source_key": "citer"
+      },
+      "coepis": {
+        "dictionary": {"pos": "verb", "principal_parts": ["coepi", "coepisse", "coepi", "coeptus"]},
+        "dictionary_entry": "coepi, coepisse, coeptus (defective)",
+        "glosses": ["have begun", "began", "commenced"],
+        "source": "ManualReview",
+        "source_key": "coepi"
+      },
+      "consuero": {
+        "dictionary": {"pos": "verb", "principal_parts": ["consuesco", "consuescere", "consueui", "consuetus"]},
+        "dictionary_entry": "consuesco, consuescere, consueui, consuetus",
+        "glosses": ["become accustomed", "be in the habit of"],
+        "source": "ManualReview",
+        "source_key": "consuesco"
+      },
+      "denus": {
+        "dictionary": {"forms": ["deni", "denae", "dena"], "pos": "adjective"},
+        "dictionary_entry": "deni, denae, dena (distributive)",
+        "glosses": ["ten each", "ten at a time", "by tens"],
+        "source": "ManualReview",
+        "source_key": "deni"
+      },
+      "egridio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["egredior", "egredi", "egressus sum", null]},
+        "dictionary_entry": "egredior, egredi, egressus sum",
+        "glosses": ["go out", "march out", "disembark", "depart"],
+        "source": "ManualReview",
+        "source_key": "egredior"
+      },
+      "equitas": {
+        "dictionary": {"gen_abbrev": "-us", "gen_sg": null, "gender": "m", "nom_sg": "equitatus", "pos": "noun"},
+        "dictionary_entry": "equitatus, -us m.",
+        "glosses": ["cavalry", "horsemen"],
+        "source": "ManualReview",
+        "source_key": "equitatus"
+      },
+      "equitus": {
+        "dictionary": {"gen_abbrev": "-itis", "gen_sg": null, "gender": "m", "nom_sg": "eques", "pos": "noun"},
+        "dictionary_entry": "eques, equitis m.",
+        "glosses": ["horseman", "cavalryman", "knight"],
+        "source": "ManualReview",
+        "source_key": "eques"
+      },
+      "frug": {
+        "dictionary": {"gen_abbrev": "-is", "gen_sg": null, "gender": "f", "nom_sg": "frux", "pos": "noun"},
+        "dictionary_entry": "frux, frugis f. (usually pl. fruges, frugum)",
+        "glosses": ["fruits of the earth", "crops", "produce", "grain"],
+        "source": "ManualReview",
+        "source_key": "frux"
+      },
+      "frumentaris": {
+        "dictionary": {"pos": "verb", "principal_parts": ["frumentor", "frumentari", "frumentatus sum", null]},
+        "dictionary_entry": "frumentor, frumentari, frumentatus sum",
+        "glosses": ["forage", "get grain", "obtain provisions"],
+        "source": "ManualReview",
+        "source_key": "frumentor"
+      },
+      "indiceo": {
+        "dictionary": {"pos": "verb", "principal_parts": ["indico", "indicere", "indixi", "indictus"]},
+        "dictionary_entry": "indico, indicere, indixi, indictus",
+        "glosses": ["proclaim", "declare publicly", "appoint", "impose"],
+        "source": "ManualReview",
+        "source_key": "indico"
+      },
+      "inuitor": {
+        "dictionary": {"pos": "verb", "principal_parts": ["inuito", "inuitare", "inuitaui", "inuitatus"]},
+        "dictionary_entry": "inuito, inuitare, inuitaui, inuitatus",
+        "glosses": ["invite", "summon", "entertain", "encourage"],
+        "source": "ManualReview",
+        "source_key": "invito"
+      },
+      "italis": {
+        "dictionary": {"gen_abbrev": "-ae", "gen_sg": null, "gender": "f", "nom_sg": "Italia", "pos": "noun"},
+        "dictionary_entry": "Italia, -ae f.",
+        "glosses": ["Italy"],
+        "source": "ManualReview",
+        "source_key": "Italia"
+      },
+      "iussisto": {
+        "dictionary": {"pos": "verb", "principal_parts": ["iubeo", "iubere", "iussi", "iussus"]},
+        "dictionary_entry": "iubeo, iubere, iussi, iussus",
+        "glosses": ["order", "command", "bid"],
+        "source": "ManualReview",
+        "source_key": "iubeo"
+      },
+      "latobrigus": {
+        "dictionary": {"gen_abbrev": "-orum", "gen_sg": null, "gender": "m", "nom_sg": "Latobrigi", "pos": "noun"},
+        "dictionary_entry": "Latobrigi, -orum m. pl.",
+        "glosses": ["Latobrigi (a Gallic tribe, neighbors of the Helvetii)"],
+        "source": "ManualReview",
+        "source_key": "Latobrigi"
+      },
+      "laturus": {
+        "dictionary": {"pos": "verb", "principal_parts": ["fero", "ferre", "tuli", "latus"]},
+        "dictionary_entry": "fero, ferre, tuli, latus",
+        "glosses": ["bring", "carry", "bear", "endure", "report"],
+        "source": "ManualReview",
+        "source_key": "fero"
+      },
+      "menses": {
+        "dictionary": {"gen_abbrev": "-is", "gen_sg": null, "gender": "m", "nom_sg": "mensis", "pos": "noun"},
+        "dictionary_entry": "mensis, -is m.",
+        "glosses": ["month"],
+        "source": "ManualReview",
+        "source_key": "mensis"
+      },
+      "milis": {
+        "dictionary": {"gen_abbrev": "-is", "gen_sg": null, "gender": "n", "nom_sg": "mille", "pos": "noun"},
+        "dictionary_entry": "mille (sing., indecl.); milia, milium n. pl.",
+        "glosses": ["thousand", "thousands", "a mile (with passuum)"],
+        "source": "ManualReview",
+        "source_key": "mille"
+      },
+      "mouio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["moueo", "mouere", "moui", "motus"]},
+        "dictionary_entry": "moueo, mouere, moui, motus",
+        "glosses": ["move", "stir", "disturb", "influence"],
+        "source": "ManualReview",
+        "source_key": "moveo"
+      },
+      "pae": {
+        "dictionary": {"form": "paene", "pos": "adv"},
+        "dictionary_entry": "paene",
+        "glosses": ["almost", "nearly"],
+        "source": "ManualReview",
+        "source_key": "paene"
+      },
+      "paratissimam": {
+        "dictionary": {"forms": ["paratus", "parata", "paratum"], "pos": "adjective"},
+        "dictionary_entry": "paratus, parata, paratum",
+        "glosses": ["prepared", "ready", "equipped"],
+        "source": "ManualReview",
+        "source_key": "paratus"
+      },
+      "postridio": {
+        "dictionary": {"form": "postridie", "pos": "adv"},
+        "dictionary_entry": "postridie",
+        "glosses": ["on the next day", "the following day"],
+        "source": "ManualReview",
+        "source_key": "postridie"
+      },
+      "principibus": {
+        "dictionary": {"gen_abbrev": "-ipis", "gen_sg": null, "gender": "m", "nom_sg": "princeps", "pos": "noun"},
+        "dictionary_entry": "princeps, principis m.",
+        "glosses": ["chief", "leader", "first man", "principal citizen"],
+        "source": "ManualReview",
+        "source_key": "princeps"
+      },
+      "querio": {
+        "dictionary": {"form": "que", "pos": "conjunction"},
+        "dictionary_entry": "-que (enclitic conjunction)",
+        "glosses": ["and"],
+        "source": "ManualReview",
+        "source_key": "que"
+      },
+      "reliquas": {
+        "dictionary": {"forms": ["reliquus", "reliqua", "reliquum"], "pos": "adjective"},
+        "dictionary_entry": "reliquus, reliqua, reliquum",
+        "glosses": ["remaining", "rest of", "the other"],
+        "source": "ManualReview",
+        "source_key": "reliquus"
+      },
+      "repullo": {
+        "dictionary": {"pos": "verb", "principal_parts": ["repello", "repellere", "reppuli", "repulsus"]},
+        "dictionary_entry": "repello, repellere, reppuli, repulsus",
+        "glosses": ["drive back", "repel", "repulse"],
+        "source": "ManualReview",
+        "source_key": "repello"
+      },
+      "semeo": {
+        "dictionary": {"gen_abbrev": "-inis", "gen_sg": null, "gender": "n", "nom_sg": "semen", "pos": "noun"},
+        "dictionary_entry": "semen, -inis n.",
+        "glosses": ["seed", "offspring", "origin"],
+        "source": "ManualReview",
+        "source_key": "semen"
+      },
+      "siluum": {
+        "dictionary": {"gen_abbrev": "-ae", "gen_sg": null, "gender": "f", "nom_sg": "silua", "pos": "noun"},
+        "dictionary_entry": "silua, -ae f.",
+        "glosses": ["forest", "wood", "woodland"],
+        "source": "ManualReview",
+        "source_key": "silva"
+      },
+      "sueba": {
+        "dictionary": {"gen_abbrev": "-orum", "gen_sg": null, "gender": "m", "nom_sg": "Suebi", "pos": "noun"},
+        "dictionary_entry": "Suebi, -orum m. pl.",
+        "glosses": ["Suebi (a powerful Germanic tribe)"],
+        "source": "ManualReview",
+        "source_key": "Suebi"
+      },
+      "teuto": {
+        "dictionary": {"gen_abbrev": "-orum", "gen_sg": null, "gender": "m", "nom_sg": "Teutoni", "pos": "noun"},
+        "dictionary_entry": "Teutoni, -orum m. pl.",
+        "glosses": ["Teutones (a Germanic tribe defeated by Marius)"],
+        "source": "ManualReview",
+        "source_key": "Teutoni"
+      },
+      "teuton": {
+        "dictionary": {"gen_abbrev": "-orum", "gen_sg": null, "gender": "m", "nom_sg": "Teutoni", "pos": "noun"},
+        "dictionary_entry": "Teutoni, -orum m. pl.",
+        "glosses": ["Teutones (a Germanic tribe defeated by Marius)"],
+        "source": "ManualReview",
+        "source_key": "Teutoni"
+      },
+      "troucillum": {
+        "dictionary": {"gen_abbrev": "-i", "gen_sg": null, "gender": "m", "nom_sg": "Troucillus", "pos": "noun"},
+        "dictionary_entry": "Troucillus, -i m.",
+        "glosses": ["Troucillus (C. Valerius Troucillus, a Gaul and Caesar's interpreter)"],
+        "source": "ManualReview",
+        "source_key": "Troucillus"
+      },
+      "uerbigenus": {
+        "dictionary": {"gen_abbrev": "-i", "gen_sg": null, "gender": "m", "nom_sg": "Verbigenus", "pos": "noun"},
+        "dictionary_entry": "Verbigenus, -i m.",
+        "glosses": ["Verbigenus (a canton/pagus of the Helvetii)"],
+        "source": "ManualReview",
+        "source_key": "Verbigenus"
+      },
+      "uido": {
+        "dictionary": {"pos": "verb", "principal_parts": ["uideo", "uidere", "uidi", "uisus"]},
+        "dictionary_entry": "uideo, uidere, uidi, uisus",
+        "glosses": ["see", "perceive", "understand"],
+        "source": "ManualReview",
+        "source_key": "video"
+      }
+    },
+    "delete": [
+      "cc",
+      "xx",
+      "xxxii",
+      "xiiii",
+      "xxxui",
+      "xxiius",
+      "xxiiius",
+      "sequanisquusqui",
+      "summaqus",
+      "occupatoqus",
+      "supserfuo",
+      "persolueo",
+      "poltulo",
+      "hux",
+      "iussisto"
+    ]
+  }

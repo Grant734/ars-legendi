@@ -1,0 +1,652 @@
+{
+    "summary": {
+      "total_corrections": 71,
+      "to_delete": 12
+    },
+    "corrections": {
+      "admiror": {
+        "dictionary": {"pos": "verb", "principal_parts": ["admiror", "admirari", "admiratus sum", null]},
+        "dictionary_entry": "admiror, admirari, admiratus sum",
+        "glosses": ["wonder at", "admire", "be astonished at", "regard with admiration"],
+        "source": "ManualReview",
+        "source_key": "admiror"
+      },
+      "ascisco": {
+        "dictionary": {"pos": "verb", "principal_parts": ["ascisco", "asciscere", "asciui", "ascitus"]},
+        "dictionary_entry": "ascisco, asciscere, asciui, ascitus",
+        "glosses": ["adopt", "receive", "admit", "approve of", "associate"],
+        "source": "ManualReview",
+        "source_key": "ascisco"
+      },
+      "cauio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["cauo", "cauare", "cauaui", "cauatus"]},
+        "dictionary_entry": "cauo, cauare, cauaui, cauatus",
+        "glosses": ["hollow out", "make hollow", "excavate"],
+        "source": "ManualReview",
+        "source_key": "cavo"
+      },
+      "cohorto": {
+        "dictionary": {"pos": "verb", "principal_parts": ["cohortor", "cohortari", "cohortatus sum", null]},
+        "dictionary_entry": "cohortor, cohortari, cohortatus sum",
+        "glosses": ["encourage", "exhort", "urge on"],
+        "source": "ManualReview",
+        "source_key": "cohortor"
+      },
+      "concilio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["concilio", "conciliare", "conciliaui", "conciliatus"]},
+        "dictionary_entry": "concilio, conciliare, conciliaui, conciliatus",
+        "glosses": ["unite", "bring together", "win over", "reconcile"],
+        "source": "ManualReview",
+        "source_key": "concilio"
+      },
+      "confido": {
+        "dictionary": {"pos": "verb", "principal_parts": ["confido", "confidere", "confisus sum", null]},
+        "dictionary_entry": "confido, confidere, confisus sum (semi-deponent)",
+        "glosses": ["trust", "rely on", "be confident", "have confidence in"],
+        "source": "ManualReview",
+        "source_key": "confido"
+      },
+      "confidio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["confido", "confidere", "confisus sum", null]},
+        "dictionary_entry": "confido, confidere, confisus sum (semi-deponent)",
+        "glosses": ["trust", "rely on", "be confident", "have confidence in"],
+        "source": "ManualReview",
+        "source_key": "confido"
+      },
+      "congredior": {
+        "dictionary": {"pos": "verb", "principal_parts": ["congredior", "congredi", "congressus sum", null]},
+        "dictionary_entry": "congredior, congredi, congressus sum",
+        "glosses": ["meet", "approach", "engage in battle", "come to grips"],
+        "source": "ManualReview",
+        "source_key": "congredior"
+      },
+      "conicio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["conicio", "conicere", "conieci", "coniectus"]},
+        "dictionary_entry": "conicio, conicere, conieci, coniectus",
+        "glosses": ["throw together", "hurl", "infer", "conclude"],
+        "source": "ManualReview",
+        "source_key": "conicio"
+      },
+      "conuergo": {
+        "dictionary": {"pos": "verb", "principal_parts": ["conuergo", "conuergere", null, null]},
+        "dictionary_entry": "conuergo, conuergere",
+        "glosses": ["incline together", "converge"],
+        "source": "ManualReview",
+        "source_key": "convergo"
+      },
+      "crucio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["crucio", "cruciare", "cruciaui", "cruciatus"]},
+        "dictionary_entry": "crucio, cruciare, cruciaui, cruciatus",
+        "glosses": ["torment", "torture", "cause anguish", "crucify"],
+        "source": "ManualReview",
+        "source_key": "crucio"
+      },
+      "cupio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["cupio", "cupere", "cupiui", "cupitus"]},
+        "dictionary_entry": "cupio, cupere, cupiui, cupitus",
+        "glosses": ["desire", "wish", "long for", "be eager for"],
+        "source": "ManualReview",
+        "source_key": "cupio"
+      },
+      "decipio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["decipio", "decipere", "decepi", "deceptus"]},
+        "dictionary_entry": "decipio, decipere, decepi, deceptus",
+        "glosses": ["deceive", "cheat", "mislead", "trap"],
+        "source": "ManualReview",
+        "source_key": "decipio"
+      },
+      "denuntio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["denuntio", "denuntiare", "denuntiaui", "denuntiatus"]},
+        "dictionary_entry": "denuntio, denuntiare, denuntiaui, denuntiatus",
+        "glosses": ["announce", "give official notice", "warn", "declare"],
+        "source": "ManualReview",
+        "source_key": "denuntio"
+      },
+      "duodecim": {
+        "dictionary": {"form": "duodecim", "pos": "numeral"},
+        "dictionary_entry": "duodecim (indecl.)",
+        "glosses": ["twelve"],
+        "source": "ManualReview",
+        "source_key": "duodecim"
+      },
+      "efficio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["efficio", "efficere", "effeci", "effectus"]},
+        "dictionary_entry": "efficio, efficere, effeci, effectus",
+        "glosses": ["accomplish", "bring about", "cause", "make", "produce"],
+        "source": "ManualReview",
+        "source_key": "efficio"
+      },
+      "equester": {
+        "dictionary": {"forms": ["equester", "equestris", "equestre"], "pos": "adjective"},
+        "dictionary_entry": "equester, equestris, equestre",
+        "glosses": ["of cavalry", "equestrian", "of the equestrian order", "mounted on horseback"],
+        "source": "ManualReview",
+        "source_key": "equester"
+      },
+      "eripio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["eripio", "eripere", "eripui", "ereptus"]},
+        "dictionary_entry": "eripio, eripere, eripui, ereptus",
+        "glosses": ["snatch away", "tear away", "rescue", "take by force"],
+        "source": "ManualReview",
+        "source_key": "eripio"
+      },
+      "excipio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["excipio", "excipere", "excepi", "exceptus"]},
+        "dictionary_entry": "excipio, excipere, excepi, exceptus",
+        "glosses": ["take out", "receive", "follow", "ward off", "make exception of"],
+        "source": "ManualReview",
+        "source_key": "excipio"
+      },
+      "fames": {
+        "dictionary": {"gen_abbrev": "-is", "gen_sg": null, "gender": "f", "nom_sg": "fames", "pos": "noun"},
+        "dictionary_entry": "fames, -is f.",
+        "glosses": ["hunger", "famine", "want", "craving"],
+        "source": "ManualReview",
+        "source_key": "fames"
+      },
+      "fugitiuus": {
+        "dictionary": {"forms": ["fugitiuus", "fugitiua", "fugitiuum"], "pos": "adjective"},
+        "dictionary_entry": "fugitiuus, fugitiua, fugitiuum",
+        "glosses": ["fugitive", "runaway", "fleeing"],
+        "source": "ManualReview",
+        "source_key": "fugitivus"
+      },
+      "graecus": {
+        "dictionary": {"forms": ["Graecus", "Graeca", "Graecum"], "pos": "adjective"},
+        "dictionary_entry": "Graecus, Graeca, Graecum",
+        "glosses": ["Greek", "of the Greeks"],
+        "source": "ManualReview",
+        "source_key": "Graecus"
+      },
+      "iacto": {
+        "dictionary": {"pos": "verb", "principal_parts": ["iacto", "iactare", "iactaui", "iactatus"]},
+        "dictionary_entry": "iacto, iactare, iactaui, iactatus",
+        "glosses": ["throw", "hurl", "cast about", "boast", "discuss"],
+        "source": "ManualReview",
+        "source_key": "iacto"
+      },
+      "impulsus": {
+        "dictionary": {"gen_abbrev": "-us", "gen_sg": null, "gender": "m", "nom_sg": "impulsus", "pos": "noun"},
+        "dictionary_entry": "impulsus, -us m.",
+        "glosses": ["impulse", "shock", "incitement", "instigation"],
+        "source": "ManualReview",
+        "source_key": "impulsus"
+      },
+      "innascor": {
+        "dictionary": {"pos": "verb", "principal_parts": ["innascor", "innasci", "innatus sum", null]},
+        "dictionary_entry": "innascor, innasci, innatus sum",
+        "glosses": ["be born in", "grow up in", "spring up in"],
+        "source": "ManualReview",
+        "source_key": "innascor"
+      },
+      "instituo": {
+        "dictionary": {"pos": "verb", "principal_parts": ["instituo", "instituere", "institui", "institutus"]},
+        "dictionary_entry": "instituo, instituere, institui, institutus",
+        "glosses": ["set up", "establish", "found", "decide", "instruct"],
+        "source": "ManualReview",
+        "source_key": "instituo"
+      },
+      "interdum": {
+        "dictionary": {"form": "interdum", "pos": "adv"},
+        "dictionary_entry": "interdum",
+        "glosses": ["sometimes", "occasionally", "now and then"],
+        "source": "ManualReview",
+        "source_key": "interdum"
+      },
+      "labor": {
+        "dictionary": {"gen_abbrev": "-oris", "gen_sg": null, "gender": "m", "nom_sg": "labor", "pos": "noun"},
+        "dictionary_entry": "labor, -oris m.",
+        "glosses": ["labor", "toil", "effort", "hardship", "work"],
+        "source": "ManualReview",
+        "source_key": "labor"
+      },
+      "lacrima": {
+        "dictionary": {"gen_abbrev": "-ae", "gen_sg": null, "gender": "f", "nom_sg": "lacrima", "pos": "noun"},
+        "dictionary_entry": "lacrima, -ae f.",
+        "glosses": ["tear", "weeping"],
+        "source": "ManualReview",
+        "source_key": "lacrima"
+      },
+      "lacus": {
+        "dictionary": {"gen_abbrev": "-us", "gen_sg": null, "gender": "m", "nom_sg": "lacus", "pos": "noun"},
+        "dictionary_entry": "lacus, -us m.",
+        "glosses": ["lake", "pond", "basin", "tank"],
+        "source": "ManualReview",
+        "source_key": "lacus"
+      },
+      "largior": {
+        "dictionary": {"pos": "verb", "principal_parts": ["largior", "largiri", "largitus sum", null]},
+        "dictionary_entry": "largior, largiri, largitus sum",
+        "glosses": ["bestow", "give generously", "lavish", "grant"],
+        "source": "ManualReview",
+        "source_key": "largior"
+      },
+      "legionarius": {
+        "dictionary": {"forms": ["legionarius", "legionaria", "legionarium"], "pos": "adjective"},
+        "dictionary_entry": "legionarius, legionaria, legionarium",
+        "glosses": ["of a legion", "legionary"],
+        "source": "ManualReview",
+        "source_key": "legionarius"
+      },
+      "leucus": {
+        "dictionary": {"gen_abbrev": "-orum", "gen_sg": null, "gender": "m", "nom_sg": "Leuci", "pos": "noun"},
+        "dictionary_entry": "Leuci, -orum m. pl.",
+        "glosses": ["Leuci (a Gallic tribe in eastern Gaul)"],
+        "source": "ManualReview",
+        "source_key": "Leuci"
+      },
+      "libenter": {
+        "dictionary": {"form": "libenter", "pos": "adv"},
+        "dictionary_entry": "libenter",
+        "glosses": ["willingly", "gladly", "with pleasure"],
+        "source": "ManualReview",
+        "source_key": "libenter"
+      },
+      "lingo": {
+        "dictionary": {"pos": "verb", "principal_parts": ["lingo", "lingere", "linxi", "linctus"]},
+        "dictionary_entry": "lingo, lingere, linxi, linctus",
+        "glosses": ["lick", "lick up"],
+        "source": "ManualReview",
+        "source_key": "lingo"
+      },
+      "loquor": {
+        "dictionary": {"pos": "verb", "principal_parts": ["loquor", "loqui", "locutus sum", null]},
+        "dictionary_entry": "loquor, loqui, locutus sum",
+        "glosses": ["speak", "say", "talk", "tell"],
+        "source": "ManualReview",
+        "source_key": "loquor"
+      },
+      "maneo": {
+        "dictionary": {"pos": "verb", "principal_parts": ["maneo", "manere", "mansi", "mansus"]},
+        "dictionary_entry": "maneo, manere, mansi, mansus",
+        "glosses": ["remain", "stay", "abide", "wait for", "endure"],
+        "source": "ManualReview",
+        "source_key": "maneo"
+      },
+      "melius": {
+        "dictionary": {"form": "melius", "pos": "adv"},
+        "dictionary_entry": "melius (comparative of bene)",
+        "glosses": ["better", "more rightly"],
+        "source": "ManualReview",
+        "source_key": "melius"
+      },
+      "merces": {
+        "dictionary": {"gen_abbrev": "-edis", "gen_sg": null, "gender": "f", "nom_sg": "merces", "pos": "noun"},
+        "dictionary_entry": "merces, -edis f.",
+        "glosses": ["pay", "wages", "reward", "hire", "bribe"],
+        "source": "ManualReview",
+        "source_key": "merces"
+      },
+      "mercor": {
+        "dictionary": {"pos": "verb", "principal_parts": ["mercor", "mercari", "mercatus sum", null]},
+        "dictionary_entry": "mercor, mercari, mercatus sum",
+        "glosses": ["trade", "buy", "deal in"],
+        "source": "ManualReview",
+        "source_key": "mercor"
+      },
+      "metior": {
+        "dictionary": {"pos": "verb", "principal_parts": ["metior", "metiri", "mensus sum", null]},
+        "dictionary_entry": "metior, metiri, mensus sum",
+        "glosses": ["measure", "estimate", "traverse", "distribute"],
+        "source": "ManualReview",
+        "source_key": "metior"
+      },
+      "militaris": {
+        "dictionary": {"forms": ["militaris", "militaris", "militare"], "pos": "adjective"},
+        "dictionary_entry": "militaris, militaris, militare",
+        "glosses": ["military", "of soldiers", "warlike", "of war"],
+        "source": "ManualReview",
+        "source_key": "militaris"
+      },
+      "miror": {
+        "dictionary": {"pos": "verb", "principal_parts": ["miror", "mirari", "miratus sum", null]},
+        "dictionary_entry": "miror, mirari, miratus sum",
+        "glosses": ["wonder at", "marvel at", "admire", "be astonished"],
+        "source": "ManualReview",
+        "source_key": "miror"
+      },
+      "morior": {
+        "dictionary": {"pos": "verb", "principal_parts": ["morior", "mori", "mortuus sum", null]},
+        "dictionary_entry": "morior, mori, mortuus sum",
+        "glosses": ["die", "expire", "perish"],
+        "source": "ManualReview",
+        "source_key": "morior"
+      },
+      "moror": {
+        "dictionary": {"pos": "verb", "principal_parts": ["moror", "morari", "moratus sum", null]},
+        "dictionary_entry": "moror, morari, moratus sum",
+        "glosses": ["delay", "linger", "stay", "hinder"],
+        "source": "ManualReview",
+        "source_key": "moror"
+      },
+      "mus": {
+        "dictionary": {"gen_abbrev": "-uris", "gen_sg": null, "gender": "c", "nom_sg": "mus", "pos": "noun"},
+        "dictionary_entry": "mus, muris c.",
+        "glosses": ["mouse"],
+        "source": "ManualReview",
+        "source_key": "mus"
+      },
+      "nec": {
+        "dictionary": {"form": "nec", "pos": "conjunction"},
+        "dictionary_entry": "nec / neque",
+        "glosses": ["nor", "and not", "not even", "neither"],
+        "source": "ManualReview",
+        "source_key": "nec"
+      },
+      "neco": {
+        "dictionary": {"pos": "verb", "principal_parts": ["neco", "necare", "necaui", "necatus"]},
+        "dictionary_entry": "neco, necare, necaui, necatus",
+        "glosses": ["kill", "slay", "put to death"],
+        "source": "ManualReview",
+        "source_key": "neco"
+      },
+      "nolo": {
+        "dictionary": {"pos": "verb", "principal_parts": ["nolo", "nolle", "nolui", null]},
+        "dictionary_entry": "nolo, nolle, nolui",
+        "glosses": ["be unwilling", "wish not to", "refuse"],
+        "source": "ManualReview",
+        "source_key": "nolo"
+      },
+      "nuper": {
+        "dictionary": {"form": "nuper", "pos": "adv"},
+        "dictionary_entry": "nuper",
+        "glosses": ["recently", "lately", "not long ago"],
+        "source": "ManualReview",
+        "source_key": "nuper"
+      },
+      "obicio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["obicio", "obicere", "obieci", "obiectus"]},
+        "dictionary_entry": "obicio, obicere, obieci, obiectus",
+        "glosses": ["throw before", "oppose", "expose", "object"],
+        "source": "ManualReview",
+        "source_key": "obicio"
+      },
+      "pereo": {
+        "dictionary": {"pos": "verb", "principal_parts": ["pereo", "perire", "perii", "peritus"]},
+        "dictionary_entry": "pereo, perire, perii, peritus",
+        "glosses": ["perish", "die", "be destroyed", "be ruined"],
+        "source": "ManualReview",
+        "source_key": "pereo"
+      },
+      "persequor": {
+        "dictionary": {"pos": "verb", "principal_parts": ["persequor", "persequi", "persecutus sum", null]},
+        "dictionary_entry": "persequor, persequi, persecutus sum",
+        "glosses": ["pursue", "follow up", "overtake", "take vengeance on"],
+        "source": "ManualReview",
+        "source_key": "persequor"
+      },
+      "perspicio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["perspicio", "perspicere", "perspexi", "perspectus"]},
+        "dictionary_entry": "perspicio, perspicere, perspexi, perspectus",
+        "glosses": ["see through", "examine", "perceive clearly", "observe"],
+        "source": "ManualReview",
+        "source_key": "perspicio"
+      },
+      "petio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["peto", "petere", "petiui", "petitus"]},
+        "dictionary_entry": "peto, petere, petiui, petitus",
+        "glosses": ["seek", "ask", "attack", "make for", "request"],
+        "source": "ManualReview",
+        "source_key": "peto"
+      },
+      "potior": {
+        "dictionary": {"pos": "verb", "principal_parts": ["potior", "potiri", "potitus sum", null]},
+        "dictionary_entry": "potior, potiri, potitus sum + abl./gen.",
+        "glosses": ["take possession of", "obtain", "acquire", "gain control of"],
+        "source": "ManualReview",
+        "source_key": "potior"
+      },
+      "praecipue": {
+        "dictionary": {"form": "praecipue", "pos": "adv"},
+        "dictionary_entry": "praecipue",
+        "glosses": ["especially", "chiefly", "particularly"],
+        "source": "ManualReview",
+        "source_key": "praecipue"
+      },
+      "praeficio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["praeficio", "praeficere", "praefeci", "praefectus"]},
+        "dictionary_entry": "praeficio, praeficere, praefeci, praefectus",
+        "glosses": ["put in charge", "place in command", "set over"],
+        "source": "ManualReview",
+        "source_key": "praeficio"
+      },
+      "praesertim": {
+        "dictionary": {"form": "praesertim", "pos": "adv"},
+        "dictionary_entry": "praesertim",
+        "glosses": ["especially", "particularly"],
+        "source": "ManualReview",
+        "source_key": "praesertim"
+      },
+      "prendo": {
+        "dictionary": {"pos": "verb", "principal_parts": ["prendo", "prendere", "prendi", "prensus"]},
+        "dictionary_entry": "prendo, prendere, prendi, prensus",
+        "glosses": ["seize", "grasp", "catch", "take hold of"],
+        "source": "ManualReview",
+        "source_key": "prendo"
+      },
+      "promo": {
+        "dictionary": {"pos": "verb", "principal_parts": ["promo", "promere", "prompsi", "promptus"]},
+        "dictionary_entry": "promo, promere, prompsi, promptus",
+        "glosses": ["bring out", "produce", "draw forth", "display"],
+        "source": "ManualReview",
+        "source_key": "promo"
+      },
+      "puer": {
+        "dictionary": {"gen_abbrev": "-i", "gen_sg": null, "gender": "m", "nom_sg": "puer", "pos": "noun"},
+        "dictionary_entry": "puer, -i m.",
+        "glosses": ["boy", "lad", "young man", "child", "servant"],
+        "source": "ManualReview",
+        "source_key": "puer"
+      },
+      "pulto": {
+        "dictionary": {"pos": "verb", "principal_parts": ["pulto", "pultare", "pultaui", "pultatus"]},
+        "dictionary_entry": "pulto, pultare, pultaui, pultatus",
+        "glosses": ["knock", "strike", "beat"],
+        "source": "ManualReview",
+        "source_key": "pulto"
+      },
+      "quisquis": {
+        "dictionary": {"form": "quisquis", "pos": "pronoun"},
+        "dictionary_entry": "quisquis, quaequae, quidquid (or quicquid)",
+        "glosses": ["whoever", "whatever", "everyone who"],
+        "source": "ManualReview",
+        "source_key": "quisquis"
+      },
+      "quod": {
+        "dictionary": {"form": "quod", "pos": "conjunction"},
+        "dictionary_entry": "quod (conj. and rel. pron. n.)",
+        "glosses": ["because", "that", "which", "the fact that"],
+        "source": "ManualReview",
+        "source_key": "quod"
+      },
+      "redeo": {
+        "dictionary": {"pos": "verb", "principal_parts": ["redeo", "redire", "redii", "reditus"]},
+        "dictionary_entry": "redeo, redire, redii, reditus",
+        "glosses": ["return", "go back", "come back"],
+        "source": "ManualReview",
+        "source_key": "redeo"
+      },
+      "reiicio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["reiicio", "reiicere", "reieci", "reiectus"]},
+        "dictionary_entry": "reiicio, reiicere, reieci, reiectus",
+        "glosses": ["throw back", "drive back", "reject", "repel"],
+        "source": "ManualReview",
+        "source_key": "reicio"
+      },
+      "reminiscor": {
+        "dictionary": {"pos": "verb", "principal_parts": ["reminiscor", "reminisci", null, null]},
+        "dictionary_entry": "reminiscor, reminisci",
+        "glosses": ["recall", "remember", "call to mind"],
+        "source": "ManualReview",
+        "source_key": "reminiscor"
+      },
+      "renuntio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["renuntio", "renuntiare", "renuntiaui", "renuntiatus"]},
+        "dictionary_entry": "renuntio, renuntiare, renuntiaui, renuntiatus",
+        "glosses": ["report", "announce", "declare officially", "give notice"],
+        "source": "ManualReview",
+        "source_key": "renuntio"
+      },
+      "repudio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["repudio", "repudiare", "repudiaui", "repudiatus"]},
+        "dictionary_entry": "repudio, repudiare, repudiaui, repudiatus",
+        "glosses": ["reject", "scorn", "repudiate", "divorce"],
+        "source": "ManualReview",
+        "source_key": "repudio"
+      },
+      "repperio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["repperio", "repperire", "repperi", "reppertus"]},
+        "dictionary_entry": "repperio, repperire, repperi, reppertus",
+        "glosses": ["find", "discover", "learn", "find out"],
+        "source": "ManualReview",
+        "source_key": "repperio"
+      },
+      "secretum": {
+        "dictionary": {"forms": ["secretus", "secreta", "secretum"], "pos": "adjective"},
+        "dictionary_entry": "secretus, secreta, secretum",
+        "glosses": ["separate", "secret", "private", "hidden", "remote"],
+        "source": "ManualReview",
+        "source_key": "secretus"
+      },
+      "semper": {
+        "dictionary": {"form": "semper", "pos": "adv"},
+        "dictionary_entry": "semper",
+        "glosses": ["always", "ever", "at all times"],
+        "source": "ManualReview",
+        "source_key": "semper"
+      },
+      "separatim": {
+        "dictionary": {"form": "separatim", "pos": "adv"},
+        "dictionary_entry": "separatim",
+        "glosses": ["separately", "apart", "individually"],
+        "source": "ManualReview",
+        "source_key": "separatim"
+      },
+      "septimus": {
+        "dictionary": {"forms": ["septimus", "septima", "septimum"], "pos": "adjective"},
+        "dictionary_entry": "septimus, septima, septimum",
+        "glosses": ["seventh"],
+        "source": "ManualReview",
+        "source_key": "septimus"
+      },
+      "sibi": {
+        "dictionary": {"form": "sui", "pos": "pronoun"},
+        "dictionary_entry": "sui, sibi, se, se (reflexive)",
+        "glosses": ["himself", "herself", "itself", "themselves"],
+        "source": "ManualReview",
+        "source_key": "sui"
+      },
+      "simulo": {
+        "dictionary": {"pos": "verb", "principal_parts": ["simulo", "simulare", "simulaui", "simulatus"]},
+        "dictionary_entry": "simulo, simulare, simulaui, simulatus",
+        "glosses": ["imitate", "pretend", "feign", "simulate"],
+        "source": "ManualReview",
+        "source_key": "simulo"
+      },
+      "speculor": {
+        "dictionary": {"pos": "verb", "principal_parts": ["speculor", "speculari", "speculatus sum", null]},
+        "dictionary_entry": "speculor, speculari, speculatus sum",
+        "glosses": ["spy out", "watch", "observe", "examine"],
+        "source": "ManualReview",
+        "source_key": "speculor"
+      },
+      "spons": {
+        "dictionary": {"gen_abbrev": "-tis", "gen_sg": null, "gender": "f", "nom_sg": "spons", "pos": "noun"},
+        "dictionary_entry": "spons, spontis f. (used mostly in abl.)",
+        "glosses": ["free will", "of one's own accord", "voluntarily"],
+        "source": "ManualReview",
+        "source_key": "spons"
+      },
+      "statim": {
+        "dictionary": {"form": "statim", "pos": "adv"},
+        "dictionary_entry": "statim",
+        "glosses": ["at once", "immediately", "right away"],
+        "source": "ManualReview",
+        "source_key": "statim"
+      },
+      "studeo": {
+        "dictionary": {"pos": "verb", "principal_parts": ["studeo", "studere", "studui", null]},
+        "dictionary_entry": "studeo, studere, studui",
+        "glosses": ["be eager", "strive", "be devoted to", "study"],
+        "source": "ManualReview",
+        "source_key": "studeo"
+      },
+      "subicio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["subicio", "subicere", "subieci", "subiectus"]},
+        "dictionary_entry": "subicio, subicere, subieci, subiectus",
+        "glosses": ["throw under", "place under", "subject", "expose"],
+        "source": "ManualReview",
+        "source_key": "subicio"
+      },
+      "suscipio": {
+        "dictionary": {"pos": "verb", "principal_parts": ["suscipio", "suscipere", "suscepi", "susceptus"]},
+        "dictionary_entry": "suscipio, suscipere, suscepi, susceptus",
+        "glosses": ["undertake", "take up", "accept", "support", "receive"],
+        "source": "ManualReview",
+        "source_key": "suscipio"
+      },
+      "tametsi": {
+        "dictionary": {"form": "tametsi", "pos": "conjunction"},
+        "dictionary_entry": "tametsi",
+        "glosses": ["although", "even though", "even if"],
+        "source": "ManualReview",
+        "source_key": "tametsi"
+      },
+      "tanto": {
+        "dictionary": {"forms": ["tantus", "tanta", "tantum"], "pos": "adjective"},
+        "dictionary_entry": "tantus, tanta, tantum",
+        "glosses": ["so great", "so much", "so large"],
+        "source": "ManualReview",
+        "source_key": "tantus"
+      },
+      "uehementer": {
+        "dictionary": {"form": "uehementer", "pos": "adv"},
+        "dictionary_entry": "uehementer",
+        "glosses": ["vehemently", "vigorously", "exceedingly", "very much"],
+        "source": "ManualReview",
+        "source_key": "vehementer"
+      },
+      "uergo": {
+        "dictionary": {"pos": "verb", "principal_parts": ["uergo", "uergere", null, null]},
+        "dictionary_entry": "uergo, uergere",
+        "glosses": ["incline", "lie toward", "slope", "border on"],
+        "source": "ManualReview",
+        "source_key": "vergo"
+      },
+      "uicis": {
+        "dictionary": {"gen_abbrev": "-is", "gen_sg": null, "gender": "f", "nom_sg": "uicis", "pos": "noun"},
+        "dictionary_entry": "uicis, f. (gen.; no nom.)",
+        "glosses": ["change", "turn", "succession", "exchange", "in turn"],
+        "source": "ManualReview",
+        "source_key": "vicis"
+      },
+      "uita": {
+        "dictionary": {"gen_abbrev": "-ae", "gen_sg": null, "gender": "f", "nom_sg": "uita", "pos": "noun"},
+        "dictionary_entry": "uita, -ae f.",
+        "glosses": ["life", "way of life", "livelihood"],
+        "source": "ManualReview",
+        "source_key": "vita"
+      },
+      "ulcisco": {
+        "dictionary": {"pos": "verb", "principal_parts": ["ulciscor", "ulcisci", "ultus sum", null]},
+        "dictionary_entry": "ulciscor, ulcisci, ultus sum",
+        "glosses": ["avenge", "take vengeance on", "punish"],
+        "source": "ManualReview",
+        "source_key": "ulciscor"
+      }
+    },
+    "delete": [
+      "agmus",
+      "alduus",
+      "alies",
+      "ccclxuius",
+      "cclxiius",
+      "uoccio",
+      "transfacio",
+      "superauio",
+      "perfrabio",
+      "eripuio",
+      "auorio",
+      "ancipio"
+    ]
+  }

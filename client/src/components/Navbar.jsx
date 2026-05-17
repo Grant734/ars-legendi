@@ -1,12 +1,13 @@
 import { Link, useLocation } from 'react-router-dom';
 import useAuth from '../hooks/useAuth.jsx';
+import { TextSelectorDropdown } from './TextSelector';
 
 export default function Navbar() {
   const location = useLocation();
   const { user, isLoggedIn, isTeacher, logout } = useAuth();
 
   const navLinks = [
-    { name: 'Vocab', path: '/CaesarDBG1' },
+    { name: 'Vocab', path: '/vocab' },
     { name: 'Reading', path: '/reading-guide' },
     { name: 'Lessons', path: '/grammar' },
     { name: 'Practice', path: '/grammar-practice' },
@@ -17,9 +18,12 @@ export default function Navbar() {
   return (
     <nav className="bg-primary text-white shadow-md sticky top-0 z-50">
       <div className="container mx-auto flex justify-between items-center py-4 px-6 gap-8">
-        <Link to="/" className="text-xl font-bold tracking-tight text-accent hover:bg-accent/15 px-2 py-1 -mx-2 -my-1 rounded transition-colors shrink-0">
-          Ars Legendi - About
-        </Link>
+        <div className="flex items-center gap-3 shrink-0">
+          <Link to="/" className="text-xl font-bold tracking-tight text-accent hover:bg-accent/15 px-2 py-1 -mx-2 -my-1 rounded transition-colors">
+            Ars Legendi
+          </Link>
+          <TextSelectorDropdown />
+        </div>
 
         <div className="flex gap-2 items-center">
           {navLinks.map(link => (

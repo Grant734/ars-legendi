@@ -1,0 +1,1796 @@
+{
+  "summary": {
+    "auto": 224,
+    "review": 88,
+    "skip": 24
+  },
+  "auto": {
+    "castris|castr": "castra",
+    "helvetii|helvetium": "heluetius",
+    "helvetios|helvetio": "heluetius",
+    "copias|copus": "copia",
+    "hostes|hoss": "hostis",
+    "gallorum|gallum": "gallus",
+    "germani|germanis": "germanus",
+    "haedui|haedus": "haeduus",
+    "vellet|velleo": "uolo",
+    "equitatu|equitas": "equitatus",
+    "gallis|galla": "gallus",
+    "conloquium|conloqui": "conloquium",
+    "copiis|copius": "copia",
+    "agris|agr": "ager",
+    "vellent|velleo": "uolo",
+    "hostibus|hostus": "hostis",
+    "dividit|dico": "divido",
+    "maxime|magne": "magnus",
+    "hostem|hostim": "hostis",
+    "equitatui|equitas": "equitatus",
+    "consulibus|consulus": "consul",
+    "agrum|agrus": "ager",
+    "orgetorigis|orgetorigus": "orgetorix",
+    "pulsis|pulto": "pello",
+    "romano|romanum": "romanus",
+    "equitatumque|equitas": "equitatus",
+    "equitibus|equitus": "eques",
+    "equitum|equitus": "eques",
+    "praeerat|praeero": "praesum",
+    "frumentariae|frumentaris": "frumentarius",
+    "carros|carer": "carrus",
+    "imperavit|imperavo": "impero",
+    "divisa|dico": "divido",
+    "persuasit|persua": "persuadeo",
+    "finitimis|finitus": "finitimus",
+    "extremum|exterior": "extremus",
+    "legio|legium": "legio",
+    "consulem|consulus": "consul",
+    "imperaverat|imperavo": "impero",
+    "destiterunt|destituo": "desisto",
+    "hibernis|hibero": "hibernus",
+    "exisset|ixsisto": "exeo",
+    "divico|divicus": "uicus",
+    "caesare|caesaris": "caesar",
+    "egit|ego": "ago",
+    "veteris|veterus": "ueter",
+    "tulisse|tuleo": "fero",
+    "agmine|agmus": "agmen",
+    "equitatum|equitas": "equitatus",
+    "valerium|valer": "ualerius",
+    "perterritos|perterro": "perterreo",
+    "frumentaria|frumentaris": "frumentarius",
+    "carris|caro": "carrus",
+    "phalange|phalan": "phalanx",
+    "pervenerunt|pervo": "peruenio",
+    "omniumque|omnisque": "omnis",
+    "velit|vigo": "uolo",
+    "populique|populique": "populus",
+    "congressi|congrido": "congredior",
+    "iamque|iamque": "eo",
+    "hoste|hos": "hostis",
+    "minimeque|minimeque": "minime",
+    "proximique|proximiquus": "proximus",
+    "extremis|exterior": "extremus",
+    "praestarent|praestaro": "praesto",
+    "patebant|patior": "pateo",
+    "carrorum|careus": "carrus",
+    "suoque|suoquis": "suus",
+    "coegerunt|coego": "cogo",
+    "eripuit|eripuio": "eripio",
+    "suspicio|suspicium": "suspicio",
+    "mensum|mensus": "metior",
+    "tulingis|tulinga": "tulingus",
+    "vicisque|vicisque": "uicus",
+    "incoluerant|incoluero": "incolo",
+    "carri|caro": "carrus",
+    "isque|isque": "eo",
+    "proximumque|proximumquus": "proximus",
+    "genava|genavus": "genaua",
+    "persuasuros|persua": "persuadeo",
+    "existimabant|exsistimo": "existimo",
+    "vi|vies": "uis",
+    "coacturos|coacito": "cogo",
+    "maturat|mateo": "maturo",
+    "pulsum|pulto": "pello",
+    "interea|interdo": "interea",
+    "militibusque|militus": "miles",
+    "vadis|vadus": "uado",
+    "obstrictas|obstribuo": "obstringo",
+    "maximeque|magnex": "magnus",
+    "finitimos|finitus": "finitimus",
+    "compluribus|complerus": "complus",
+    "citerioris|citerus": "citer",
+    "pervenerant|pervenero": "peruenio",
+    "fortunis|fortunus": "fortuna",
+    "sociorum|socium": "socius",
+    "intulerat|intulo": "infero",
+    "insidiis|insidium": "insidia",
+    "recentium|recentius": "recens",
+    "quodque|quodque": "quod",
+    "intulerint|intulo": "infero",
+    "principibus|principis": "princeps",
+    "romanorum|romanum": "romanus",
+    "superaverint|superavio": "supero",
+    "erepturi|ersepio": "eripio",
+    "liscum|liscus": "cum",
+    "novarum|novas": "nouus",
+    "sumptu|sumptum": "sumo",
+    "sororum|sorus": "soror",
+    "romanis|roma": "romanus",
+    "equestre|equestrus": "equester",
+    "adversum|adverdo": "aduerto",
+    "traduxisset|trado": "traduco",
+    "cognoverat|cognovo": "cognosco",
+    "cognoverant|cognoho": "cognosco",
+    "proelioque|proelius": "proelium",
+    "cognovit|cognoho": "cognosco",
+    "movisse|movio": "moueo",
+    "vidisset|vido": "uideo",
+    "tulingi|tulinga": "tulingus",
+    "receperant|recipero": "recipio",
+    "intulerunt|intuldo": "infero",
+    "aversum|avorio": "auerto",
+    "videre|vido": "uideo",
+    "nostrosque|nosterqui": "noster",
+    "castrisque|castrisqui": "castra",
+    "potiti|poscum": "potior",
+    "filia|filius": "filia",
+    "ierunt|iero": "eo",
+    "noctis|noctus": "nox",
+    "occisorum|occisus": "occido",
+    "nuntiosque|nuntiosqus": "nuntius",
+    "suppliciterque|suppliciterque": "suppliciter",
+    "egressi|egridio": "egredior",
+    "finesque|finisque": "finis",
+    "perfugis|perfux": "perfugio",
+    "tulingos|tulinga": "tulingus",
+    "vicosque|vicosqus": "uicus",
+    "libertatisque|libertasqus": "libertas",
+    "tabulis|tabulus": "tabula",
+    "imperioque|imperioqus": "imperium",
+    "potirentur|possum": "potior",
+    "reliquasque|reliquasque": "reliquus",
+    "petierunt|petio": "peto",
+    "permissa|peimitto": "permitto",
+    "arvernis|arver": "aruernus",
+    "sequanisque|sequanisquusqui": "sequanus",
+    "pulsos|pulto": "pello",
+    "repetituros|repito": "repeto",
+    "capite|capitus": "capio",
+    "quaesiit|quaesco": "quaero",
+    "vocem|vocus": "uoco",
+    "divideret|divo": "divido",
+    "videretur|vido": "uideo",
+    "venturum|vo": "uenio",
+    "sequanisque|sequanisque": "sequana",
+    "ceterosque|ceterosqui": "ceterus",
+    "inlaturum|inlatuo": "infero",
+    "stipendiumque|stipendiumque": "stipendium",
+    "congrederetur|congredo": "congredior",
+    "subissent|subsum": "subeo",
+    "commotus|commo": "commoueo",
+    "usui|usuus": "usus",
+    "idque|idque": "is",
+    "diurnisque|diurnusque": "diurnus",
+    "occupatoque|occupatoqus": "occupo",
+    "animosque|animosqus": "animus",
+    "inlata|inlascor": "infero",
+    "vitarent|vitaro": "uito",
+    "familiaribus|familias": "familiaris",
+    "quique|quique": "qui",
+    "praeerant|praeero": "praesum",
+    "frumentariam|frumentaris": "frumentarius",
+    "vertisset|vero": "uerto",
+    "consule|consulus": "consul",
+    "intulisset|intulles": "infero",
+    "plerumque|plerusque": "plerus",
+    "laturi|lateo": "fero",
+    "defuisse|disum": "desum",
+    "conlaturus|conlaro": "confero",
+    "cohortem|cohor": "cohorto",
+    "summaque|summaqus": "summus",
+    "existimavisse|exsistimo": "existimo",
+    "magnamque|magnamquus": "magnus",
+    "citroque|citeroque": "citrus",
+    "venerunt|venero": "uenio",
+    "ventum|vo": "uenio",
+    "senatusque|senatusqus": "senatus",
+    "attulissent|atfero": "affero",
+    "dederat|dedero": "do",
+    "postulata|poltulo": "postulo",
+    "propinquosque|propinquosqus": "propinquus",
+    "intulisse|intulo": "infero",
+    "pependerint|pependeo": "pendo",
+    "venerit|venero": "uenio",
+    "intulerit|intulo": "infero",
+    "usos|usum": "utor",
+    "potius|pote": "potior",
+    "telaque|telaqum": "tela",
+    "elatum|elo": "effero",
+    "studiumque|studiumque": "studium",
+    "coicerent|coicero": "coicio",
+    "feris|fer": "ferus",
+    "commeatuque|commeatue": "commeatus",
+    "delegerant|delego": "deligo",
+    "celerius|melero": "celeriter",
+    "delegit|delego": "deligo",
+    "hostibusque|hostibusqus": "hostis",
+    "inlatis|inlato": "infero",
+    "eduxerunt|edo": "educo",
+    "generatimque|generatimque": "generatim",
+    "proficiscentes|proficisceo": "proficiscor",
+    "praefecit|praefacio": "praeficio",
+    "verterat|vero": "uerto",
+    "celeriterque|celeriterque": "celeriter",
+    "gladiorum|gladium": "gladius",
+    "complures|compler": "complus",
+    "verterunt|vero": "uerto",
+    "eduxerat|eduxero": "educo",
+    "catenis|caten": "catena",
+    "victoria|victorius": "uictor",
+    "ereptum|ersum": "eripio",
+    "suebi|sueb": "suebus",
+    "aestate|aesta": "aestas"
+  },
+  "review": [
+    {
+      "form": "milia",
+      "stanza_lemma": "milius",
+      "proposed_target": "mille",
+      "occurrences": 15,
+      "whitakers_options": [
+        "mille (N)",
+        "mili.a (N)",
+        "mili.a (N)",
+        "mili.a (N)",
+        "milium (N)"
+      ],
+      "headword_lemmas": [
+        "milium",
+        "mille"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "minus",
+      "stanza_lemma": "parue",
+      "proposed_target": "paruus",
+      "occurrences": 14,
+      "whitakers_options": [
+        "parvus (ADJ)",
+        "minus (ADV)",
+        "minus (ADV)",
+        "parum (ADV)",
+        "min.us (ADJ)"
+      ],
+      "headword_lemmas": [
+        "minus",
+        "parum"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "hostium",
+      "stanza_lemma": "hostius",
+      "proposed_target": "hostis",
+      "occurrences": 14,
+      "whitakers_options": [
+        "hostis (N)",
+        "hosti.um (N)",
+        "hostia (N)",
+        "host.ium (N)"
+      ],
+      "headword_lemmas": [
+        "hostia",
+        "hostis"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "helvetiorum",
+      "stanza_lemma": "helvetio",
+      "proposed_target": "heluetius",
+      "occurrences": 13,
+      "whitakers_options": [
+        "helvetius (N)",
+        "helvetius (ADJ)",
+        "helveti.orum (N)",
+        "helveti.orum (ADJ)",
+        "helveti.orum (ADJ)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "quam",
+      "stanza_lemma": "qui",
+      "proposed_target": "quam",
+      "occurrences": 11,
+      "whitakers_options": [
+        "quam (ADV)",
+        "quam (ADV)",
+        "quam (CONJ)",
+        "quam (CONJ)",
+        "qu.am (PRON)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "itinere",
+      "stanza_lemma": "itinum",
+      "proposed_target": "iter",
+      "occurrences": 11,
+      "whitakers_options": [
+        "iter (N)",
+        "itiner.e (N)",
+        "itiner.e (N)",
+        "itiner.e (N)",
+        "itiner (N)"
+      ],
+      "headword_lemmas": [
+        "iter",
+        "itiner"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "quod",
+      "stanza_lemma": "qui",
+      "proposed_target": "quod",
+      "occurrences": 10,
+      "whitakers_options": [
+        "quod (ADV)",
+        "quod (ADV)",
+        "quod (CONJ)",
+        "quod (CONJ)",
+        "qu.od (PRON)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "caesari",
+      "stanza_lemma": "caeso",
+      "proposed_target": "caesar",
+      "occurrences": 8,
+      "whitakers_options": [
+        "caesar (N)",
+        "caesar.i (N)",
+        "caesar.i (N)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "caesarem",
+      "stanza_lemma": "caesaris",
+      "proposed_target": "caesar",
+      "occurrences": 8,
+      "whitakers_options": [
+        "caesar (N)",
+        "caesar.em (N)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "milium",
+      "stanza_lemma": "milius",
+      "proposed_target": "mille",
+      "occurrences": 6,
+      "whitakers_options": [
+        "mille (N)",
+        "mili.um (N)",
+        "mili.um (N)",
+        "mili.um (N)",
+        "mili.um (N)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "itineribus",
+      "stanza_lemma": "itieer",
+      "proposed_target": "iter",
+      "occurrences": 5,
+      "whitakers_options": [
+        "iter (N)",
+        "itiner.ibus (N)",
+        "itiner.ibus (N)",
+        "itiner.ibus (N)",
+        "itiner (N)"
+      ],
+      "headword_lemmas": [
+        "iter",
+        "itiner"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "milibus",
+      "stanza_lemma": "milis",
+      "proposed_target": "mille",
+      "occurrences": 5,
+      "whitakers_options": [
+        "mille (N)",
+        "mil.ibus (N)",
+        "mil.ibus (N)",
+        "mil.ibus (N)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "diutius",
+      "stanza_lemma": "diute",
+      "proposed_target": "diu",
+      "occurrences": 4,
+      "whitakers_options": [
+        "diu (ADV)",
+        "diutius (ADV)"
+      ],
+      "headword_lemmas": [
+        "diu",
+        "diutius"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "galliae",
+      "stanza_lemma": "gallias",
+      "proposed_target": "gallia",
+      "occurrences": 4,
+      "whitakers_options": [
+        "gallia (N)",
+        "galli.ae (N)",
+        "galli.ae (N)",
+        "galli.ae (N)",
+        "galli.ae (N)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "facilius",
+      "stanza_lemma": "faciliter",
+      "proposed_target": "facilis",
+      "occurrences": 3,
+      "whitakers_options": [
+        "facilis (ADJ)",
+        "facilius (ADV)",
+        "facile (ADV)",
+        "facili.us (ADJ)",
+        "facili.us (ADJ)"
+      ],
+      "headword_lemmas": [
+        "facile",
+        "facilius"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "eorumque",
+      "stanza_lemma": "idem",
+      "proposed_target": "is",
+      "occurrences": 3,
+      "whitakers_options": [
+        "is (PRON)",
+        "e.orum (PRON)",
+        "e.orum (PRON)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "pluribus",
+      "stanza_lemma": "multus",
+      "proposed_target": "plus",
+      "occurrences": 3,
+      "whitakers_options": [
+        "plus (N)",
+        "plus (ADJ)",
+        "plur.ibus (N)",
+        "plur.ibus (N)",
+        "plur.ibus (N)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "quarta",
+      "stanza_lemma": "quartus",
+      "proposed_target": "quattuor",
+      "occurrences": 3,
+      "whitakers_options": [
+        "quattuor (NUM)",
+        "quart.a (NUM)",
+        "quart.a (NUM)",
+        "quart.a (NUM)",
+        "quart.a (NUM)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "reverti",
+      "stanza_lemma": "reverio",
+      "proposed_target": "reuerto",
+      "occurrences": 3,
+      "whitakers_options": [
+        "reverto (V)",
+        "revert.i (V)",
+        "revert.i (V)",
+        "revert.i (V)",
+        "revertor (V)"
+      ],
+      "headword_lemmas": [
+        "reuerto",
+        "reuertor"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "venit",
+      "stanza_lemma": "vigo",
+      "proposed_target": "uenio",
+      "occurrences": 2,
+      "whitakers_options": [
+        "venio (V)",
+        "veni.t (V)",
+        "veneo (V)",
+        "ven.it (V)",
+        "ven.it (V)"
+      ],
+      "headword_lemmas": [
+        "ueneo",
+        "uenio"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "saepius",
+      "stanza_lemma": "saepus",
+      "proposed_target": "saepe",
+      "occurrences": 2,
+      "whitakers_options": [
+        "saepe (ADV)",
+        "saepius (ADV)"
+      ],
+      "headword_lemmas": [
+        "saepe",
+        "saepius"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "sociisque",
+      "stanza_lemma": "sociisqus",
+      "proposed_target": "socia",
+      "occurrences": 2,
+      "whitakers_options": [
+        "socia (N)",
+        "socius (N)",
+        "socius (ADJ)",
+        "soci.is (N)",
+        "soci.is (N)"
+      ],
+      "headword_lemmas": [
+        "socia",
+        "socius"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "consuerint",
+      "stanza_lemma": "consuero",
+      "proposed_target": "consuesco",
+      "occurrences": 2,
+      "whitakers_options": [
+        "consuesco (V)",
+        "consu.erint (V)",
+        "consu.erint (V)",
+        "consuo (V)",
+        "consuev.erint (V)"
+      ],
+      "headword_lemmas": [
+        "consuesco",
+        "consuo"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "perterritum",
+      "stanza_lemma": "perterre",
+      "proposed_target": "perterreo",
+      "occurrences": 2,
+      "whitakers_options": [
+        "perterreo (V)",
+        "perterrit.um (ADJ)",
+        "perterrit.um (ADJ)",
+        "perterrit.um (ADJ)",
+        "perterrit.um (ADJ)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "ierant",
+      "stanza_lemma": "ieranes",
+      "proposed_target": "eo",
+      "occurrences": 2,
+      "whitakers_options": [
+        "eo (V)",
+        "iv.erant (V)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "velle",
+      "stanza_lemma": "vo",
+      "proposed_target": "uolo",
+      "occurrences": 2,
+      "whitakers_options": [
+        "volo (V)",
+        "vell.e (V)",
+        "vello (V)",
+        "vello (V)",
+        "vello (V)"
+      ],
+      "headword_lemmas": [
+        "uello",
+        "uolo"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "quamque",
+      "stanza_lemma": "quisque",
+      "proposed_target": "quam",
+      "occurrences": 2,
+      "whitakers_options": [
+        "quam (ADV)",
+        "quam (ADV)",
+        "quam (CONJ)",
+        "quam (CONJ)",
+        "qu.am (PRON)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "longissime",
+      "stanza_lemma": "longes",
+      "proposed_target": "longe",
+      "occurrences": 1,
+      "whitakers_options": [
+        "longe (ADV)",
+        "longus (ADJ)",
+        "longissime (ADV)",
+        "longissi.me (ADJ)"
+      ],
+      "headword_lemmas": [
+        "longe",
+        "longissime"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "castico",
+      "stanza_lemma": "casticus",
+      "proposed_target": "casus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "casus (N)",
+        "castic.o (ADJ)",
+        "castic.o (ADJ)",
+        "castic.o (ADJ)",
+        "castic.o (ADJ)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "factu",
+      "stanza_lemma": "factus",
+      "proposed_target": "facio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "facio (V)",
+        "fio (V)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "convenerant",
+      "stanza_lemma": "convenero",
+      "proposed_target": "conuenio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "convenio (V)",
+        "conven.erant (V)",
+        "convenit (V)"
+      ],
+      "headword_lemmas": [
+        "conuenio",
+        "conuenit"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "invitis",
+      "stanza_lemma": "invo",
+      "proposed_target": "inuitus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "invitus (ADJ)",
+        "invit.is (ADJ)",
+        "invit.is (ADJ)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "quartam",
+      "stanza_lemma": "quartus",
+      "proposed_target": "quattuor",
+      "occurrences": 1,
+      "whitakers_options": [
+        "quattuor (NUM)",
+        "quart.am (NUM)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "ararim",
+      "stanza_lemma": "arari",
+      "proposed_target": "aro",
+      "occurrences": 1,
+      "whitakers_options": [
+        "aro (V)",
+        "arar.im (N)",
+        "araris (N)",
+        "arav.erim (V)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "ituros",
+      "stanza_lemma": "iturus",
+      "proposed_target": "eo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "eo (V)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "isdem",
+      "stanza_lemma": "unus",
+      "proposed_target": "idem",
+      "occurrences": 1,
+      "whitakers_options": [
+        "idem (PRON)",
+        "i.s (PRON)",
+        "i.s (PRON)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "liberius",
+      "stanza_lemma": "libere",
+      "proposed_target": "liber",
+      "occurrences": 1,
+      "whitakers_options": [
+        "liber (ADJ)",
+        "liberi.us (ADJ)",
+        "liberi.us (ADJ)",
+        "liberi.us (ADJ)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "diviciacum",
+      "stanza_lemma": "diviciax",
+      "proposed_target": "diuiciacus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "diviciacus (N)",
+        "diviciac.um (N)",
+        "diviciac.um (N)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "viso",
+      "stanza_lemma": "visus",
+      "proposed_target": "uideo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "video (V)",
+        "vis.o (N)",
+        "vis.o (N)",
+        "visum (N)",
+        "vis.o (V)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "consuerat",
+      "stanza_lemma": "consuero",
+      "proposed_target": "consuesco",
+      "occurrences": 1,
+      "whitakers_options": [
+        "consuesco (V)",
+        "consu.erat (V)",
+        "consuo (V)",
+        "consuev.erat (V)",
+        "consueo (V)"
+      ],
+      "headword_lemmas": [
+        "consueo",
+        "consuesco",
+        "consuo"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "novissimis",
+      "stanza_lemma": "novitus",
+      "proposed_target": "nouus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "novus (ADJ)",
+        "novissimus (ADJ)",
+        "novissi.mis (ADJ)",
+        "novissi.mis (ADJ)",
+        "novissim.is (ADJ)"
+      ],
+      "headword_lemmas": [
+        "nouissimus",
+        "nouus"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "conversa",
+      "stanza_lemma": "converdo",
+      "proposed_target": "conuerso",
+      "occurrences": 1,
+      "whitakers_options": [
+        "converso (V)",
+        "converro (V)",
+        "convers.a (V)",
+        "converto (V)",
+        "convertor (V)"
+      ],
+      "headword_lemmas": [
+        "conuerro",
+        "conuerso",
+        "conuerto",
+        "conuertor"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "continenter",
+      "stanza_lemma": "contineo",
+      "proposed_target": "continenter",
+      "occurrences": 1,
+      "whitakers_options": [
+        "continenter (ADV)",
+        "continenter (ADV)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "quarto",
+      "stanza_lemma": "quartus",
+      "proposed_target": "quattuor",
+      "occurrences": 1,
+      "whitakers_options": [
+        "quattuor (NUM)",
+        "quart.o (NUM)",
+        "quart.o (NUM)",
+        "quart.o (NUM)",
+        "quart.o (NUM)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "lingonas",
+      "stanza_lemma": "lingona",
+      "proposed_target": "lingo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "lingo (V)",
+        "ling.o (V)",
+        "n.as (V)",
+        "no (V)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "convenissent",
+      "stanza_lemma": "convenisso",
+      "proposed_target": "conuenio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "convenio (V)",
+        "conven.issent (V)",
+        "convenit (V)"
+      ],
+      "headword_lemmas": [
+        "conuenio",
+        "conuenit"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "petissent",
+      "stanza_lemma": "pesisso",
+      "proposed_target": "peto",
+      "occurrences": 1,
+      "whitakers_options": [
+        "peto (V)",
+        "petiss.ent (V)",
+        "petisso (V)",
+        "petiv.issent (V)"
+      ],
+      "headword_lemmas": [
+        "petisso",
+        "peto"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "finitimi",
+      "stanza_lemma": "finio",
+      "proposed_target": "finitimus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "finitimus (N)",
+        "finitimus (ADJ)",
+        "finitim.i (N)",
+        "finitim.i (N)",
+        "finitim.i (N)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "locumque",
+      "stanza_lemma": "locumqais",
+      "proposed_target": "locus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "locus (N)",
+        "loc.um (N)",
+        "loc.um (N)",
+        "loc.um (N)",
+        "loc.um (N)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "petieruntque",
+      "stanza_lemma": "petior",
+      "proposed_target": "peto",
+      "occurrences": 1,
+      "whitakers_options": [
+        "peto (V)",
+        "sum (V)",
+        "pet.i (V)"
+      ],
+      "headword_lemmas": [
+        "peto",
+        "sum"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "venturos",
+      "stanza_lemma": "ventur",
+      "proposed_target": "uenio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "venio (V)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "plures",
+      "stanza_lemma": "multus",
+      "proposed_target": "plus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "plus (ADJ)",
+        "plur.es (ADJ)",
+        "plur.es (ADJ)",
+        "plur.es (ADJ)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "calamitatibusque",
+      "stanza_lemma": "calamito",
+      "proposed_target": "calamitas",
+      "occurrences": 1,
+      "whitakers_options": [
+        "calamitas (N)",
+        "calamitat.ibus (N)",
+        "calamitat.ibus (N)",
+        "calamitat.ibus (N)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "romam",
+      "stanza_lemma": "romo",
+      "proposed_target": "roma",
+      "occurrences": 1,
+      "whitakers_options": [
+        "roma (N)",
+        "rom.am (N)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "aderant",
+      "stanza_lemma": "adero",
+      "proposed_target": "adsum",
+      "occurrences": 1,
+      "whitakers_options": [
+        "adsum (V)",
+        "adsum (V)",
+        "ad.erant (V)",
+        "assum (V)"
+      ],
+      "headword_lemmas": [
+        "adsum",
+        "assum"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "ullam",
+      "stanza_lemma": "ulllus",
+      "proposed_target": "ullus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "ullus (ADJ)",
+        "ull.am (ADJ)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "convenisset",
+      "stanza_lemma": "convenisco",
+      "proposed_target": "conuenio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "convenio (V)",
+        "conven.isset (V)",
+        "convenit (V)"
+      ],
+      "headword_lemmas": [
+        "conuenio",
+        "conuenit"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "afuturum",
+      "stanza_lemma": "afutor",
+      "proposed_target": "absum",
+      "occurrences": 1,
+      "whitakers_options": [
+        "absum (V)",
+        "apsum (V)"
+      ],
+      "headword_lemmas": [
+        "absum",
+        "apsum"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "neglecturum",
+      "stanza_lemma": "neglectus",
+      "proposed_target": "neglego",
+      "occurrences": 1,
+      "whitakers_options": [
+        "neglego (V)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "nasuam",
+      "stanza_lemma": "nasua",
+      "proposed_target": "suus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "suus (ADJ)",
+        "n.a (V)",
+        "no (V)",
+        "su.am (ADJ)",
+        "su.am (V)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "reliquisque",
+      "stanza_lemma": "reliqui",
+      "proposed_target": "reliquus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "reliquus (ADJ)",
+        "reliqu.is (N)",
+        "reliqu.is (N)",
+        "reliqu.is (N)",
+        "reliquum (N)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "laturos",
+      "stanza_lemma": "laturus",
+      "proposed_target": "fero",
+      "occurrences": 1,
+      "whitakers_options": [
+        "fero (V)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "cupidissime",
+      "stanza_lemma": "cupus",
+      "proposed_target": "cupidus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "cupidus (ADJ)",
+        "cupidissime (ADV)",
+        "cupide (ADV)",
+        "cupidissi.me (ADJ)"
+      ],
+      "headword_lemmas": [
+        "cupide",
+        "cupidissime"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "adpetisse",
+      "stanza_lemma": "adpisceo",
+      "proposed_target": "adpeto",
+      "occurrences": 1,
+      "whitakers_options": [
+        "adpeto (V)",
+        "adpetiss.e (V)",
+        "adpetisso (V)",
+        "adpetiv.isse (V)"
+      ],
+      "headword_lemmas": [
+        "adpetisso",
+        "adpeto"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "decima",
+      "stanza_lemma": "decimus",
+      "proposed_target": "decem",
+      "occurrences": 1,
+      "whitakers_options": [
+        "decem (NUM)",
+        "decim.a (NUM)",
+        "decim.a (NUM)",
+        "decim.a (NUM)",
+        "decim.a (NUM)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "iturum",
+      "stanza_lemma": "iturus",
+      "proposed_target": "eo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "eo (V)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "venturum",
+      "stanza_lemma": "ventus",
+      "proposed_target": "uenio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "venio (V)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "denos",
+      "stanza_lemma": "denus",
+      "proposed_target": "decem",
+      "occurrences": 1,
+      "whitakers_options": [
+        "decem (NUM)",
+        "den.os (NUM)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "pulsas",
+      "stanza_lemma": "pulto",
+      "proposed_target": "pello",
+      "occurrences": 1,
+      "whitakers_options": [
+        "pello (V)",
+        "puls.as (V)",
+        "pulso (V)"
+      ],
+      "headword_lemmas": [
+        "pello",
+        "pulso"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "petisse",
+      "stanza_lemma": "pesum",
+      "proposed_target": "peto",
+      "occurrences": 1,
+      "whitakers_options": [
+        "peto (V)",
+        "petiss.e (V)",
+        "petisso (V)",
+        "petiv.isse (V)"
+      ],
+      "headword_lemmas": [
+        "petisso",
+        "peto"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "optime",
+      "stanza_lemma": "melius",
+      "proposed_target": "bonus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "bonus (ADJ)",
+        "optime (ADV)",
+        "bene (ADV)",
+        "opti.me (ADJ)"
+      ],
+      "headword_lemmas": [
+        "bene",
+        "optime"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "quodque",
+      "stanza_lemma": "quisquis",
+      "proposed_target": "quod",
+      "occurrences": 1,
+      "whitakers_options": [
+        "quod (ADV)",
+        "quod (ADV)",
+        "quod (CONJ)",
+        "quod (CONJ)",
+        "qu.od (PRON)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "suisque",
+      "stanza_lemma": "sui",
+      "proposed_target": "suus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "suus (N)",
+        "suus (ADJ)",
+        "su.is (N)",
+        "su.is (N)",
+        "su.is (N)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "telum",
+      "stanza_lemma": "telus",
+      "proposed_target": "telis",
+      "occurrences": 1,
+      "whitakers_options": [
+        "telis (N)",
+        "tel.um (N)",
+        "tel.um (N)",
+        "tel.um (N)",
+        "telum (N)"
+      ],
+      "headword_lemmas": [
+        "telis",
+        "telum"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "circumventos",
+      "stanza_lemma": "circumvens",
+      "proposed_target": "circumuenio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "circumvenio (V)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "visa",
+      "stanza_lemma": "vido",
+      "proposed_target": "uideo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "video (V)",
+        "viso (V)",
+        "vis.a (N)",
+        "vis.a (N)",
+        "vis.a (N)"
+      ],
+      "headword_lemmas": [
+        "uideo",
+        "uiso"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "valerii",
+      "stanza_lemma": "valeria",
+      "proposed_target": "ualerius",
+      "occurrences": 1,
+      "whitakers_options": [
+        "valerius (N)",
+        "valerius (ADJ)",
+        "valeri.i (N)",
+        "valeri.i (N)",
+        "valeri.i (N)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "coniecit",
+      "stanza_lemma": "coniicio",
+      "proposed_target": "conicio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "conicio (V)",
+        "coniec.it (V)",
+        "conjicio (V)"
+      ],
+      "headword_lemmas": [
+        "conicio",
+        "conjicio"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "postridie",
+      "stanza_lemma": "postridio",
+      "proposed_target": "postridie",
+      "occurrences": 1,
+      "whitakers_options": [
+        "postridie (ADV)",
+        "postridie (ADV)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "visum",
+      "stanza_lemma": "vido",
+      "proposed_target": "uideo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "video (V)",
+        "visus (N)",
+        "viso (V)",
+        "vis.um (N)",
+        "vis.um (N)"
+      ],
+      "headword_lemmas": [
+        "uideo",
+        "uiso"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "nemetes",
+      "stanza_lemma": "nemet",
+      "proposed_target": "ne",
+      "occurrences": 1,
+      "whitakers_options": [
+        "ne (ADV)",
+        "ne (ADV)",
+        "ne (CONJ)",
+        "ne (CONJ)",
+        "met.es (V)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "minime",
+      "stanza_lemma": "parue",
+      "proposed_target": "minime",
+      "occurrences": 1,
+      "whitakers_options": [
+        "minime (ADV)",
+        "parvus (ADJ)",
+        "parum (ADV)",
+        "mini.me (ADJ)"
+      ],
+      "headword_lemmas": [
+        "minime",
+        "parum"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "pulsa",
+      "stanza_lemma": "pulio",
+      "proposed_target": "pello",
+      "occurrences": 1,
+      "whitakers_options": [
+        "pello (V)",
+        "puls.a (V)",
+        "pulso (V)"
+      ],
+      "headword_lemmas": [
+        "pello",
+        "pulso"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "coniecta",
+      "stanza_lemma": "coniicio",
+      "proposed_target": "conicio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "conicio (V)",
+        "coniect.a (V)",
+        "conjecto (V)",
+        "conjicio (V)"
+      ],
+      "headword_lemmas": [
+        "conicio",
+        "conjecto",
+        "conjicio"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "confisi",
+      "stanza_lemma": "confidio",
+      "proposed_target": "confideo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "confideo (V)",
+        "confido (V)"
+      ],
+      "headword_lemmas": [
+        "confideo",
+        "confido"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "missam",
+      "stanza_lemma": "missus",
+      "proposed_target": "missa",
+      "occurrences": 1,
+      "whitakers_options": [
+        "missa (N)",
+        "mitto (V)",
+        "miss.am (N)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    },
+    {
+      "form": "metius",
+      "stanza_lemma": "metius",
+      "proposed_target": "ius",
+      "occurrences": 1,
+      "whitakers_options": [
+        "ius (N)",
+        "ius (N)",
+        "ius (N)",
+        "jus (N)"
+      ],
+      "headword_lemmas": [
+        "ius",
+        "jus"
+      ],
+      "is_gibberish": false,
+      "reason_for_review": "ambiguous_headwords"
+    },
+    {
+      "form": "maturius",
+      "stanza_lemma": "maturits",
+      "proposed_target": "maturus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "maturus (ADJ)",
+        "maturi.us (ADJ)",
+        "maturi.us (ADJ)",
+        "maturi.us (ADJ)"
+      ],
+      "headword_lemmas": [],
+      "is_gibberish": false,
+      "reason_for_review": "no_headword_match"
+    }
+  ],
+  "skip": [
+    {
+      "form": "sequanis",
+      "stanza_lemma": "sequanis",
+      "proposed_target": "sequana",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "caesaris",
+      "stanza_lemma": "caesaris",
+      "proposed_target": "caesar",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "germanis",
+      "stanza_lemma": "germanis",
+      "proposed_target": "germanus",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "dumnorigem",
+      "stanza_lemma": "dumnorigus",
+      "proposed_target": "dumnorix",
+      "reason": "propn"
+    },
+    {
+      "form": "sui",
+      "stanza_lemma": "sui",
+      "proposed_target": "suus",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "arma",
+      "stanza_lemma": "arma",
+      "proposed_target": "armo",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "dumnorigi",
+      "stanza_lemma": "dumnorigus",
+      "proposed_target": "dumnorix",
+      "reason": "propn"
+    },
+    {
+      "form": "dumnorige",
+      "stanza_lemma": "dumnorigus",
+      "proposed_target": "dumnorix",
+      "reason": "propn"
+    },
+    {
+      "form": "pilis",
+      "stanza_lemma": "pilis",
+      "proposed_target": "pilum",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "senatum",
+      "stanza_lemma": "senatum",
+      "proposed_target": "senatus",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "tanto",
+      "stanza_lemma": "tanto",
+      "proposed_target": "tantus",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "esse",
+      "stanza_lemma": "esse",
+      "proposed_target": "edo",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "itinera",
+      "stanza_lemma": "itinera",
+      "proposed_target": "iter",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "suaque",
+      "stanza_lemma": "sua",
+      "proposed_target": "suus",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "reliquas",
+      "stanza_lemma": "reliquas",
+      "proposed_target": "reliquus",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "vulnera",
+      "stanza_lemma": "vulnera",
+      "proposed_target": "uulnero",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "adventum",
+      "stanza_lemma": "adventum",
+      "proposed_target": "aduentus",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "ariovisto",
+      "stanza_lemma": "ariovisto",
+      "proposed_target": "ariouistus",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "totis",
+      "stanza_lemma": "totis",
+      "proposed_target": "totus",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "angustiasque",
+      "stanza_lemma": "angustias",
+      "proposed_target": "angustia",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "principibusque",
+      "stanza_lemma": "principibus",
+      "proposed_target": "princeps",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "impetumque",
+      "stanza_lemma": "impetum",
+      "proposed_target": "impetus",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "metium",
+      "stanza_lemma": "metium",
+      "proposed_target": "metior",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "hiberna",
+      "stanza_lemma": "hiberna",
+      "proposed_target": "hibernus",
+      "reason": "original_actually_valid"
+    }
+  ]
+}

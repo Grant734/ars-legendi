@@ -1,0 +1,4402 @@
+{
+  "meta": {
+    "source": "Pliny Epistulae",
+    "format": "chapter_vocab"
+  },
+  "by_chapter": {
+    "6_16": {
+      "chapter": "6_16",
+      "displayName": "Letter 6.16 (to Tacitus, on the death of Pliny the Elder)",
+      "uniqueContentLemmas": 30,
+      "targetCount": 30,
+      "targets": [
+        {
+          "lemma": "etiam",
+          "upos": "ADV",
+          "count": 11,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.5",
+            "token_index": 5,
+            "form": "etiam"
+          }
+        },
+        {
+          "lemma": "iam",
+          "upos": "ADV",
+          "count": 10,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.17",
+            "token_index": 0,
+            "form": "Iam"
+          }
+        },
+        {
+          "lemma": "facio",
+          "upos": "VERB",
+          "count": 9,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.3",
+            "token_index": 10,
+            "form": "facere"
+          }
+        },
+        {
+          "lemma": "possum",
+          "upos": "VERB",
+          "count": 9,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.0",
+            "token_index": 12,
+            "form": "possis"
+          }
+        },
+        {
+          "lemma": "magnus",
+          "upos": "ADV",
+          "count": 8,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.8",
+            "token_index": 18,
+            "form": "maxime"
+          }
+        },
+        {
+          "lemma": "scribo",
+          "upos": "VERB",
+          "count": 8,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.0",
+            "token_index": 6,
+            "form": "scribam"
+          }
+        },
+        {
+          "lemma": "video",
+          "upos": "VERB",
+          "count": 8,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.1",
+            "token_index": 4,
+            "form": "video"
+          }
+        },
+        {
+          "lemma": "audio",
+          "upos": "VERB",
+          "count": 6,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.23",
+            "token_index": 29,
+            "form": "audiebatur"
+          }
+        },
+        {
+          "lemma": "dies",
+          "upos": "NOUN",
+          "count": 6,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.30",
+            "token_index": 1,
+            "form": "dies"
+          }
+        },
+        {
+          "lemma": "domus",
+          "upos": "NOUN",
+          "count": 6,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.13",
+            "token_index": 1,
+            "form": "domo"
+          }
+        },
+        {
+          "lemma": "locus",
+          "upos": "NOUN",
+          "count": 6,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.8",
+            "token_index": 15,
+            "form": "locum"
+          }
+        },
+        {
+          "lemma": "nox",
+          "upos": "NOUN",
+          "count": 6,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.21",
+            "token_index": 17,
+            "form": "noctis"
+          }
+        },
+        {
+          "lemma": "periculum",
+          "upos": "NOUN",
+          "count": 6,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.13",
+            "token_index": 8,
+            "form": "periculo"
+          }
+        },
+        {
+          "lemma": "timor",
+          "upos": "NOUN",
+          "count": 6,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.20",
+            "token_index": 13,
+            "form": "timorem"
+          }
+        },
+        {
+          "lemma": "credo",
+          "upos": "VERB",
+          "count": 5,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.10",
+            "token_index": 11,
+            "form": "credo"
+          }
+        },
+        {
+          "lemma": "do",
+          "upos": "VERB",
+          "count": 5,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.3",
+            "token_index": 7,
+            "form": "datum"
+          }
+        },
+        {
+          "lemma": "invenio",
+          "upos": "VERB",
+          "count": 5,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.35",
+            "token_index": 14,
+            "form": "inventum"
+          }
+        },
+        {
+          "lemma": "magis",
+          "upos": "ADV",
+          "count": 5,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.9",
+            "token_index": 24,
+            "form": "magis"
+          }
+        },
+        {
+          "lemma": "oculus",
+          "upos": "NOUN",
+          "count": 5,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.16",
+            "token_index": 26,
+            "form": "oculis"
+          }
+        },
+        {
+          "lemma": "quasi",
+          "upos": "ADV",
+          "count": 5,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.2",
+            "token_index": 13,
+            "form": "quasi"
+          }
+        },
+        {
+          "lemma": "similis",
+          "upos": "ADJ",
+          "count": 5,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.20",
+            "token_index": 36,
+            "form": "similis"
+          }
+        },
+        {
+          "lemma": "soleo",
+          "upos": "VERB",
+          "count": 5,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.8",
+            "token_index": 12,
+            "form": "soleas"
+          }
+        },
+        {
+          "lemma": "venio",
+          "upos": "VERB",
+          "count": 5,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.12",
+            "token_index": 6,
+            "form": "venire"
+          }
+        },
+        {
+          "lemma": "corpus",
+          "upos": "NOUN",
+          "count": 4,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.23",
+            "token_index": 18,
+            "form": "corporis"
+          }
+        },
+        {
+          "lemma": "defero",
+          "upos": "VERB",
+          "count": 4,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.20",
+            "token_index": 19,
+            "form": "deferri"
+          }
+        },
+        {
+          "lemma": "deus",
+          "upos": "NOUN",
+          "count": 4,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.3",
+            "token_index": 5,
+            "form": "deorum"
+          }
+        },
+        {
+          "lemma": "figura",
+          "upos": "NOUN",
+          "count": 4,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.16",
+            "token_index": 23,
+            "form": "figuras"
+          }
+        },
+        {
+          "lemma": "ita",
+          "upos": "ADV",
+          "count": 4,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.18",
+            "token_index": 9,
+            "form": "ita"
+          }
+        },
+        {
+          "lemma": "iubeo",
+          "upos": "VERB",
+          "count": 4,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.12",
+            "token_index": 0,
+            "form": "Iubet"
+          }
+        },
+        {
+          "lemma": "lego",
+          "upos": "VERB",
+          "count": 4,
+          "firstChapter": "6_16",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_16.3",
+            "token_index": 14,
+            "form": "legenda"
+          }
+        }
+      ],
+      "parts": {
+        "1": {
+          "title": "The dedication and frame",
+          "startSidIndex": 0,
+          "endSidIndex": 5,
+          "targetCount": 12,
+          "targets": [
+            {
+              "lemma": "scribo",
+              "upos": "VERB",
+              "count": 8,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.0",
+                "token_index": 6,
+                "form": "scribam"
+              }
+            },
+            {
+              "lemma": "avunculus",
+              "upos": "NOUN",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.0",
+                "token_index": 3,
+                "form": "avunculi"
+              }
+            },
+            {
+              "lemma": "beatus",
+              "upos": "ADJ",
+              "count": 2,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.3",
+                "token_index": 1,
+                "form": "beatos"
+              }
+            },
+            {
+              "lemma": "etiam",
+              "upos": "ADV",
+              "count": 11,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.5",
+                "token_index": 5,
+                "form": "etiam"
+              }
+            },
+            {
+              "lemma": "facio",
+              "upos": "VERB",
+              "count": 9,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.3",
+                "token_index": 10,
+                "form": "facere"
+              }
+            },
+            {
+              "lemma": "possum",
+              "upos": "VERB",
+              "count": 9,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.0",
+                "token_index": 12,
+                "form": "possis"
+              }
+            },
+            {
+              "lemma": "video",
+              "upos": "VERB",
+              "count": 8,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.1",
+                "token_index": 4,
+                "form": "video"
+              }
+            },
+            {
+              "lemma": "do",
+              "upos": "VERB",
+              "count": 5,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.3",
+                "token_index": 7,
+                "form": "datum"
+              }
+            },
+            {
+              "lemma": "quasi",
+              "upos": "ADV",
+              "count": 5,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.2",
+                "token_index": 13,
+                "form": "quasi"
+              }
+            },
+            {
+              "lemma": "deus",
+              "upos": "NOUN",
+              "count": 4,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.3",
+                "token_index": 5,
+                "form": "deorum"
+              }
+            },
+            {
+              "lemma": "lego",
+              "upos": "VERB",
+              "count": 4,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.3",
+                "token_index": 14,
+                "form": "legenda"
+              }
+            },
+            {
+              "lemma": "exitus",
+              "upos": "NOUN",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.0",
+                "token_index": 5,
+                "form": "exitum"
+              }
+            }
+          ]
+        },
+        "2": {
+          "title": "The cloud appears",
+          "startSidIndex": 6,
+          "endSidIndex": 12,
+          "targetCount": 14,
+          "targets": [
+            {
+              "lemma": "magnus",
+              "upos": "ADJ",
+              "count": 8,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.8",
+                "token_index": 18,
+                "form": "maxime"
+              }
+            },
+            {
+              "lemma": "interdum",
+              "upos": "ADV",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.10",
+                "token_index": 31,
+                "form": "interdum"
+              }
+            },
+            {
+              "lemma": "nubes",
+              "upos": "NOUN",
+              "count": 2,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.7",
+                "token_index": 12,
+                "form": "nubem"
+              }
+            },
+            {
+              "lemma": "studeo",
+              "upos": "VERB",
+              "count": 2,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.8",
+                "token_index": 9,
+                "form": "studebatque"
+              }
+            },
+            {
+              "lemma": "locus",
+              "upos": "NOUN",
+              "count": 6,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.8",
+                "token_index": 15,
+                "form": "locum"
+              }
+            },
+            {
+              "lemma": "credo",
+              "upos": "VERB",
+              "count": 5,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.10",
+                "token_index": 11,
+                "form": "credo"
+              }
+            },
+            {
+              "lemma": "magis",
+              "upos": "ADV",
+              "count": 5,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.9",
+                "token_index": 24,
+                "form": "magis"
+              }
+            },
+            {
+              "lemma": "mox",
+              "upos": "ADV",
+              "count": 5,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.8",
+                "token_index": 4,
+                "form": "mox"
+              }
+            },
+            {
+              "lemma": "soleo",
+              "upos": "VERB",
+              "count": 5,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.8",
+                "token_index": 12,
+                "form": "soleas"
+              }
+            },
+            {
+              "lemma": "venio",
+              "upos": "VERB",
+              "count": 5,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.12",
+                "token_index": 6,
+                "form": "venire"
+              }
+            },
+            {
+              "lemma": "iubeo",
+              "upos": "VERB",
+              "count": 4,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.12",
+                "token_index": 0,
+                "form": "Iubet"
+              }
+            },
+            {
+              "lemma": "cinis",
+              "upos": "ADV",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.10",
+                "token_index": 39,
+                "form": "cineremve"
+              }
+            },
+            {
+              "lemma": "incertus",
+              "upos": "ADJ",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.9",
+                "token_index": 2,
+                "form": "incertum"
+              }
+            },
+            {
+              "lemma": "longus",
+              "upos": "ADV",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.10",
+                "token_index": 1,
+                "form": "longissimo"
+              }
+            }
+          ]
+        },
+        "3": {
+          "title": "The rescue mission",
+          "startSidIndex": 13,
+          "endSidIndex": 18,
+          "targetCount": 12,
+          "targets": [
+            {
+              "lemma": "iam",
+              "upos": "ADV",
+              "count": 10,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.17",
+                "token_index": 0,
+                "form": "Iam"
+              }
+            },
+            {
+              "lemma": "periculum",
+              "upos": "NOUN",
+              "count": 6,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.13",
+                "token_index": 8,
+                "form": "periculo"
+              }
+            },
+            {
+              "lemma": "navis",
+              "upos": "NOUN",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.13",
+                "token_index": 19,
+                "form": "navibus"
+              }
+            },
+            {
+              "lemma": "rectum",
+              "upos": "ADJ",
+              "count": 2,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.13",
+                "token_index": 5,
+                "form": "Rectinae"
+              }
+            },
+            {
+              "lemma": "rectus",
+              "upos": "ADJ",
+              "count": 2,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.16",
+                "token_index": 6,
+                "form": "rectumque"
+              }
+            },
+            {
+              "lemma": "domus",
+              "upos": "NOUN",
+              "count": 6,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.13",
+                "token_index": 1,
+                "form": "domo"
+              }
+            },
+            {
+              "lemma": "oculus",
+              "upos": "NOUN",
+              "count": 5,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.16",
+                "token_index": 26,
+                "form": "oculis"
+              }
+            },
+            {
+              "lemma": "figura",
+              "upos": "NOUN",
+              "count": 4,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.16",
+                "token_index": 23,
+                "form": "figuras"
+              }
+            },
+            {
+              "lemma": "ita",
+              "upos": "ADV",
+              "count": 4,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.18",
+                "token_index": 9,
+                "form": "ita"
+              }
+            },
+            {
+              "lemma": "metus",
+              "upos": "NOUN",
+              "count": 4,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.16",
+                "token_index": 15,
+                "form": "metu"
+              }
+            },
+            {
+              "lemma": "accipio",
+              "upos": "VERB",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.13",
+                "token_index": 3,
+                "form": "accipit"
+              }
+            },
+            {
+              "lemma": "adeo",
+              "upos": "ADV",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.16",
+                "token_index": 13,
+                "form": "adeo"
+              }
+            }
+          ]
+        },
+        "4": {
+          "title": "At Stabiae",
+          "startSidIndex": 19,
+          "endSidIndex": 29,
+          "targetCount": 18,
+          "targets": [
+            {
+              "lemma": "timor",
+              "upos": "NOUN",
+              "count": 6,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.20",
+                "token_index": 13,
+                "form": "timorem"
+              }
+            },
+            {
+              "lemma": "nunc",
+              "upos": "ADV",
+              "count": 4,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.27",
+                "token_index": 12,
+                "form": "nunc"
+              }
+            },
+            {
+              "lemma": "excito",
+              "upos": "VERB",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.21",
+                "token_index": 18,
+                "form": "excitabatur"
+              }
+            },
+            {
+              "lemma": "pumex",
+              "upos": "ADJ",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.24",
+                "token_index": 10,
+                "form": "pumicibus"
+              }
+            },
+            {
+              "lemma": "ratio",
+              "upos": "NOUN",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.28",
+                "token_index": 20,
+                "form": "ratio"
+              }
+            },
+            {
+              "lemma": "audio",
+              "upos": "VERB",
+              "count": 6,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.23",
+                "token_index": 29,
+                "form": "audiebatur"
+              }
+            },
+            {
+              "lemma": "nox",
+              "upos": "NOUN",
+              "count": 6,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.21",
+                "token_index": 17,
+                "form": "noctis"
+              }
+            },
+            {
+              "lemma": "rursus",
+              "upos": "ADV",
+              "count": 5,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.28",
+                "token_index": 2,
+                "form": "rursus"
+              }
+            },
+            {
+              "lemma": "similis",
+              "upos": "ADJ",
+              "count": 5,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.20",
+                "token_index": 36,
+                "form": "similis"
+              }
+            },
+            {
+              "lemma": "corpus",
+              "upos": "NOUN",
+              "count": 4,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.23",
+                "token_index": 18,
+                "form": "corporis"
+              }
+            },
+            {
+              "lemma": "defero",
+              "upos": "VERB",
+              "count": 4,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.20",
+                "token_index": 19,
+                "form": "deferri"
+              }
+            },
+            {
+              "lemma": "nego",
+              "upos": "VERB",
+              "count": 4,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.24",
+                "token_index": 22,
+                "form": "negaretur"
+              }
+            },
+            {
+              "lemma": "caput",
+              "upos": "NOUN",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.29",
+                "token_index": 1,
+                "form": "capitibus"
+              }
+            },
+            {
+              "lemma": "flamma",
+              "upos": "NOUN",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.21",
+                "token_index": 7,
+                "form": "flammae"
+              }
+            },
+            {
+              "lemma": "fuga",
+              "upos": "NOUN",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.19",
+                "token_index": 34,
+                "form": "fugae"
+              }
+            },
+            {
+              "lemma": "ibi",
+              "upos": "ADV",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.19",
+                "token_index": 15,
+                "form": "ibi"
+              }
+            },
+            {
+              "lemma": "interim",
+              "upos": "ADV",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.21",
+                "token_index": 0,
+                "form": "Interim"
+              }
+            },
+            {
+              "lemma": "limen",
+              "upos": "NOUN",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.23",
+                "token_index": 27,
+                "form": "limini"
+              }
+            }
+          ]
+        },
+        "5": {
+          "title": "The death and aftermath",
+          "startSidIndex": 30,
+          "endSidIndex": 40,
+          "targetCount": 16,
+          "targets": [
+            {
+              "lemma": "dies",
+              "upos": "NOUN",
+              "count": 6,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.30",
+                "token_index": 1,
+                "form": "dies"
+              }
+            },
+            {
+              "lemma": "statim",
+              "upos": "ADV",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.34",
+                "token_index": 5,
+                "form": "statim"
+              }
+            },
+            {
+              "lemma": "historia",
+              "upos": "NOUN",
+              "count": 2,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.36",
+                "token_index": 9,
+                "form": "historiam"
+              }
+            },
+            {
+              "lemma": "invenio",
+              "upos": "VERB",
+              "count": 5,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.35",
+                "token_index": 14,
+                "form": "inventum"
+              }
+            },
+            {
+              "lemma": "adhuc",
+              "upos": "ADV",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.31",
+                "token_index": 16,
+                "form": "adhuc"
+              }
+            },
+            {
+              "lemma": "egredior",
+              "upos": "VERB",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.31",
+                "token_index": 1,
+                "form": "egredi"
+              }
+            },
+            {
+              "lemma": "litus",
+              "upos": "NOUN",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.31",
+                "token_index": 3,
+                "form": "litus"
+              }
+            },
+            {
+              "lemma": "lumen",
+              "upos": "NOUN",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.30",
+                "token_index": 16,
+                "form": "lumina"
+              }
+            },
+            {
+              "lemma": "posco",
+              "upos": "VERB",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.32",
+                "token_index": 10,
+                "form": "poposcit"
+              }
+            },
+            {
+              "lemma": "proximus",
+              "upos": "ADJ",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.31",
+                "token_index": 7,
+                "form": "proximo"
+              }
+            },
+            {
+              "lemma": "quiesco",
+              "upos": "VERB",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.35",
+                "token_index": 24,
+                "form": "quiescenti"
+              }
+            },
+            {
+              "lemma": "reddo",
+              "upos": "VERB",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.35",
+                "token_index": 2,
+                "form": "redditus"
+              }
+            },
+            {
+              "lemma": "scio",
+              "upos": "VERB",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.36",
+                "token_index": 18,
+                "form": "scire"
+              }
+            },
+            {
+              "lemma": "senex",
+              "upos": "NOUN",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.36",
+                "token_index": 1,
+                "form": "Miseni"
+              }
+            },
+            {
+              "lemma": "valeo",
+              "upos": "VERB",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.40",
+                "token_index": 0,
+                "form": "Vale"
+              }
+            },
+            {
+              "lemma": "verus",
+              "upos": "ADJ",
+              "count": 3,
+              "firstChapter": "6_16",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_16.38",
+                "token_index": 12,
+                "form": "vera"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "7_27": {
+      "chapter": "7_27",
+      "displayName": "Letter 7.27 (to Sura, on ghosts and apparitions)",
+      "uniqueContentLemmas": 30,
+      "targetCount": 30,
+      "targets": [
+        {
+          "lemma": "dico",
+          "upos": "VERB",
+          "count": 7,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.5",
+            "token_index": 5,
+            "form": "dixit"
+          }
+        },
+        {
+          "lemma": "capillus",
+          "upos": "NOUN",
+          "count": 6,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.11",
+            "token_index": 34,
+            "form": "capillo"
+          }
+        },
+        {
+          "lemma": "imago",
+          "upos": "NOUN",
+          "count": 5,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.1",
+            "token_index": 21,
+            "form": "imaginem"
+          }
+        },
+        {
+          "lemma": "res",
+          "upos": "NOUN",
+          "count": 5,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.40",
+            "token_index": 19,
+            "form": "reis"
+          }
+        },
+        {
+          "lemma": "sequor",
+          "upos": "VERB",
+          "count": 5,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.12",
+            "token_index": 15,
+            "form": "sequebatur"
+          }
+        },
+        {
+          "lemma": "causa",
+          "upos": "NOUN",
+          "count": 4,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.13",
+            "token_index": 14,
+            "form": "causis"
+          }
+        },
+        {
+          "lemma": "desino",
+          "upos": "VERB",
+          "count": 4,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.43",
+            "token_index": 30,
+            "form": "desinerem"
+          }
+        },
+        {
+          "lemma": "habeo",
+          "upos": "VERB",
+          "count": 4,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.1",
+            "token_index": 8,
+            "form": "habere"
+          }
+        },
+        {
+          "lemma": "manus",
+          "upos": "NOUN",
+          "count": 4,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.11",
+            "token_index": 39,
+            "form": "manibus"
+          }
+        },
+        {
+          "lemma": "vinculus",
+          "upos": "NOUN",
+          "count": 4,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.11",
+            "token_index": 12,
+            "form": "vinculorum"
+          }
+        },
+        {
+          "lemma": "affirmo",
+          "upos": "VERB",
+          "count": 3,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.30",
+            "token_index": 3,
+            "form": "affirmantibus"
+          }
+        },
+        {
+          "lemma": "catena",
+          "upos": "NOUN",
+          "count": 3,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.11",
+            "token_index": 40,
+            "form": "catenas"
+          }
+        },
+        {
+          "lemma": "consulo",
+          "upos": "VERB",
+          "count": 3,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.43",
+            "token_index": 24,
+            "form": "consulendi"
+          }
+        },
+        {
+          "lemma": "dimitto",
+          "upos": "VERB",
+          "count": 3,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.16",
+            "token_index": 22,
+            "form": "dimittit"
+          }
+        },
+        {
+          "lemma": "diu",
+          "upos": "ADV",
+          "count": 3,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.39",
+            "token_index": 19,
+            "form": "diutius"
+          }
+        },
+        {
+          "lemma": "dubito",
+          "upos": "VERB",
+          "count": 3,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.43",
+            "token_index": 29,
+            "form": "dubitare"
+          }
+        },
+        {
+          "lemma": "libellus",
+          "upos": "NOUN",
+          "count": 3,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.40",
+            "token_index": 9,
+            "form": "libellus"
+          }
+        },
+        {
+          "lemma": "narro",
+          "upos": "VERB",
+          "count": 3,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.7",
+            "token_index": 10,
+            "form": "narratur"
+          }
+        },
+        {
+          "lemma": "simulacrum",
+          "upos": "NOUN",
+          "count": 3,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.16",
+            "token_index": 36,
+            "form": "simulacra"
+          }
+        },
+        {
+          "lemma": "stilus",
+          "upos": "ADJ",
+          "count": 3,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.16",
+            "token_index": 15,
+            "form": "stilum"
+          }
+        },
+        {
+          "lemma": "voco",
+          "upos": "VERB",
+          "count": 3,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.21",
+            "token_index": 4,
+            "form": "vocanti"
+          }
+        },
+        {
+          "lemma": "accido",
+          "upos": "VERB",
+          "count": 2,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.2",
+            "token_index": 11,
+            "form": "accidisse"
+          }
+        },
+        {
+          "lemma": "africa",
+          "upos": "NOUN",
+          "count": 2,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.3",
+            "token_index": 6,
+            "form": "Africam"
+          }
+        },
+        {
+          "lemma": "careo",
+          "upos": "VERB",
+          "count": 2,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.29",
+            "token_index": 5,
+            "form": "caruit"
+          }
+        },
+        {
+          "lemma": "coepi",
+          "upos": "VERB",
+          "count": 2,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.16",
+            "token_index": 1,
+            "form": "coepit"
+          }
+        },
+        {
+          "lemma": "conduco",
+          "upos": "VERB",
+          "count": 2,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.14",
+            "token_index": 19,
+            "form": "conducere"
+          }
+        },
+        {
+          "lemma": "dignus",
+          "upos": "ADJ",
+          "count": 2,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.42",
+            "token_index": 0,
+            "form": "Digna"
+          }
+        },
+        {
+          "lemma": "doceo",
+          "upos": "VERB",
+          "count": 2,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.0",
+            "token_index": 5,
+            "form": "docendi"
+          }
+        },
+        {
+          "lemma": "duco",
+          "upos": "VERB",
+          "count": 2,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.2",
+            "token_index": 7,
+            "form": "ducor"
+          }
+        },
+        {
+          "lemma": "eo",
+          "upos": "NOUN",
+          "count": 2,
+          "firstChapter": "7_27",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_7_27.5",
+            "token_index": 7,
+            "form": "iturum"
+          }
+        }
+      ],
+      "parts": {
+        "1": {
+          "title": "Frame",
+          "startSidIndex": 0,
+          "endSidIndex": 1,
+          "targetCount": 8,
+          "targets": [
+            {
+              "lemma": "imago",
+              "upos": "NOUN",
+              "count": 5,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.1",
+                "token_index": 21,
+                "form": "imaginem"
+              }
+            },
+            {
+              "lemma": "figura",
+              "upos": "NOUN",
+              "count": 4,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.1",
+                "token_index": 10,
+                "form": "figuram"
+              }
+            },
+            {
+              "lemma": "habeo",
+              "upos": "VERB",
+              "count": 4,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.1",
+                "token_index": 8,
+                "form": "habere"
+              }
+            },
+            {
+              "lemma": "metus",
+              "upos": "NOUN",
+              "count": 4,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.1",
+                "token_index": 19,
+                "form": "metu"
+              }
+            },
+            {
+              "lemma": "accipio",
+              "upos": "VERB",
+              "count": 3,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.1",
+                "token_index": 22,
+                "form": "accipere"
+              }
+            },
+            {
+              "lemma": "puto",
+              "upos": "VERB",
+              "count": 3,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.1",
+                "token_index": 13,
+                "form": "putes"
+              }
+            },
+            {
+              "lemma": "scio",
+              "upos": "VERB",
+              "count": 3,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.1",
+                "token_index": 3,
+                "form": "scire"
+              }
+            },
+            {
+              "lemma": "volo",
+              "upos": "VERB",
+              "count": 3,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.1",
+                "token_index": 2,
+                "form": "velim"
+              }
+            }
+          ]
+        },
+        "2": {
+          "title": "The Curtius Rufus story",
+          "startSidIndex": 2,
+          "endSidIndex": 8,
+          "targetCount": 14,
+          "targets": [
+            {
+              "lemma": "africa",
+              "upos": "NOUN",
+              "count": 2,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.3",
+                "token_index": 6,
+                "form": "Africam"
+              }
+            },
+            {
+              "lemma": "futurus",
+              "upos": "ADJ",
+              "count": 2,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.5",
+                "token_index": 3,
+                "form": "futurorum"
+              }
+            },
+            {
+              "lemma": "etiam",
+              "upos": "ADV",
+              "count": 11,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.5",
+                "token_index": 14,
+                "form": "etiam"
+              }
+            },
+            {
+              "lemma": "facio",
+              "upos": "VERB",
+              "count": 9,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.6",
+                "token_index": 0,
+                "form": "Facta"
+              }
+            },
+            {
+              "lemma": "dico",
+              "upos": "VERB",
+              "count": 7,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.5",
+                "token_index": 5,
+                "form": "dixit"
+              }
+            },
+            {
+              "lemma": "audio",
+              "upos": "VERB",
+              "count": 6,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.2",
+                "token_index": 10,
+                "form": "audio"
+              }
+            },
+            {
+              "lemma": "dies",
+              "upos": "NOUN",
+              "count": 6,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.4",
+                "token_index": 1,
+                "form": "die"
+              }
+            },
+            {
+              "lemma": "credo",
+              "upos": "VERB",
+              "count": 5,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.2",
+                "token_index": 3,
+                "form": "credam"
+              }
+            },
+            {
+              "lemma": "adhuc",
+              "upos": "ADV",
+              "count": 3,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.3",
+                "token_index": 1,
+                "form": "adhuc"
+              }
+            },
+            {
+              "lemma": "egredior",
+              "upos": "VERB",
+              "count": 3,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.7",
+                "token_index": 3,
+                "form": "egredientique"
+              }
+            },
+            {
+              "lemma": "ibi",
+              "upos": "ADV",
+              "count": 3,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.5",
+                "token_index": 23,
+                "form": "ibique"
+              }
+            },
+            {
+              "lemma": "litus",
+              "upos": "NOUN",
+              "count": 3,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.7",
+                "token_index": 8,
+                "form": "litore"
+              }
+            },
+            {
+              "lemma": "narro",
+              "upos": "VERB",
+              "count": 3,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.7",
+                "token_index": 10,
+                "form": "narratur"
+              }
+            },
+            {
+              "lemma": "secundus",
+              "upos": "ADJ",
+              "count": 3,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.8",
+                "token_index": 8,
+                "form": "secundis"
+              }
+            }
+          ]
+        },
+        "3": {
+          "title": "The haunted house: setup",
+          "startSidIndex": 9,
+          "endSidIndex": 22,
+          "targetCount": 17,
+          "targets": [
+            {
+              "lemma": "iam",
+              "upos": "ADV",
+              "count": 10,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.9",
+                "token_index": 0,
+                "form": "Iam"
+              }
+            },
+            {
+              "lemma": "domus",
+              "upos": "NOUN",
+              "count": 6,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.10",
+                "token_index": 5,
+                "form": "domus"
+              }
+            },
+            {
+              "lemma": "nox",
+              "upos": "NOUN",
+              "count": 6,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.11",
+                "token_index": 2,
+                "form": "noctis"
+              }
+            },
+            {
+              "lemma": "oculus",
+              "upos": "NOUN",
+              "count": 5,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.13",
+                "token_index": 10,
+                "form": "oculis"
+              }
+            },
+            {
+              "lemma": "manus",
+              "upos": "NOUN",
+              "count": 4,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.11",
+                "token_index": 39,
+                "form": "manibus"
+              }
+            },
+            {
+              "lemma": "stilus",
+              "upos": "NOUN",
+              "count": 3,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.16",
+                "token_index": 15,
+                "form": "stilum"
+              }
+            },
+            {
+              "lemma": "scribo",
+              "upos": "VERB",
+              "count": 8,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.16",
+                "token_index": 26,
+                "form": "scribendum"
+              }
+            },
+            {
+              "lemma": "timor",
+              "upos": "NOUN",
+              "count": 6,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.13",
+                "token_index": 15,
+                "form": "timoris"
+              }
+            },
+            {
+              "lemma": "magis",
+              "upos": "ADV",
+              "count": 5,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.9",
+                "token_index": 4,
+                "form": "magis"
+              }
+            },
+            {
+              "lemma": "vinculus",
+              "upos": "NOUN",
+              "count": 4,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.11",
+                "token_index": 12,
+                "form": "vinculorum"
+              }
+            },
+            {
+              "lemma": "animus",
+              "upos": "NOUN",
+              "count": 3,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.16",
+                "token_index": 27,
+                "form": "animum"
+              }
+            },
+            {
+              "lemma": "catena",
+              "upos": "NOUN",
+              "count": 3,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.11",
+                "token_index": 40,
+                "form": "catenas"
+              }
+            },
+            {
+              "lemma": "limen",
+              "upos": "NOUN",
+              "count": 3,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.19",
+                "token_index": 9,
+                "form": "limine"
+              }
+            },
+            {
+              "lemma": "conduco",
+              "upos": "VERB",
+              "count": 2,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.14",
+                "token_index": 19,
+                "form": "conducere"
+              }
+            },
+            {
+              "lemma": "inde",
+              "upos": "ADV",
+              "count": 2,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.12",
+                "token_index": 0,
+                "form": "Inde"
+              }
+            },
+            {
+              "lemma": "parue",
+              "upos": "ADV",
+              "count": 2,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.9",
+                "token_index": 8,
+                "form": "minus"
+              }
+            },
+            {
+              "lemma": "silentium",
+              "upos": "NOUN",
+              "count": 2,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.11",
+                "token_index": 1,
+                "form": "silentium"
+              }
+            }
+          ]
+        },
+        "4": {
+          "title": "The haunted house: resolution",
+          "startSidIndex": 23,
+          "endSidIndex": 29,
+          "targetCount": 12,
+          "targets": [
+            {
+              "lemma": "locus",
+              "upos": "NOUN",
+              "count": 6,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.26",
+                "token_index": 6,
+                "form": "loco"
+              }
+            },
+            {
+              "lemma": "invenio",
+              "upos": "VERB",
+              "count": 5,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.28",
+                "token_index": 0,
+                "form": "Inveniuntur"
+              }
+            },
+            {
+              "lemma": "quasi",
+              "upos": "ADV",
+              "count": 5,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.24",
+                "token_index": 4,
+                "form": "quasi"
+              }
+            },
+            {
+              "lemma": "rursus",
+              "upos": "ADV",
+              "count": 5,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.23",
+                "token_index": 1,
+                "form": "rursus"
+              }
+            },
+            {
+              "lemma": "sequor",
+              "upos": "VERB",
+              "count": 5,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.23",
+                "token_index": 12,
+                "form": "sequitur"
+              }
+            },
+            {
+              "lemma": "corpus",
+              "upos": "NOUN",
+              "count": 4,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.28",
+                "token_index": 8,
+                "form": "corpus"
+              }
+            },
+            {
+              "lemma": "iubeo",
+              "upos": "VERB",
+              "count": 4,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.27",
+                "token_index": 10,
+                "form": "iubeant"
+              }
+            },
+            {
+              "lemma": "adeo",
+              "upos": "VERB",
+              "count": 3,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.27",
+                "token_index": 2,
+                "form": "adit"
+              }
+            },
+            {
+              "lemma": "lumen",
+              "upos": "NOUN",
+              "count": 3,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.23",
+                "token_index": 10,
+                "form": "lumen"
+              }
+            },
+            {
+              "lemma": "relinquo",
+              "upos": "VERB",
+              "count": 3,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.28",
+                "token_index": 15,
+                "form": "reliquerat"
+              }
+            },
+            {
+              "lemma": "terra",
+              "upos": "NOUN",
+              "count": 3,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.28",
+                "token_index": 10,
+                "form": "terraque"
+              }
+            },
+            {
+              "lemma": "tollo",
+              "upos": "VERB",
+              "count": 3,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.23",
+                "token_index": 9,
+                "form": "tollit"
+              }
+            }
+          ]
+        },
+        "5": {
+          "title": "Pliny's own household",
+          "startSidIndex": 30,
+          "endSidIndex": 44,
+          "targetCount": 18,
+          "targets": [
+            {
+              "lemma": "capillus",
+              "upos": "NOUN",
+              "count": 6,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.33",
+                "token_index": 21,
+                "form": "capillos"
+              }
+            },
+            {
+              "lemma": "possum",
+              "upos": "VERB",
+              "count": 9,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.30",
+                "token_index": 9,
+                "form": "possum"
+              }
+            },
+            {
+              "lemma": "res",
+              "upos": "NOUN",
+              "count": 5,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.40",
+                "token_index": 19,
+                "form": "reis"
+              }
+            },
+            {
+              "lemma": "affirmo",
+              "upos": "VERB",
+              "count": 3,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.30",
+                "token_index": 3,
+                "form": "affirmantibus"
+              }
+            },
+            {
+              "lemma": "diu",
+              "upos": "ADV",
+              "count": 3,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.39",
+                "token_index": 19,
+                "form": "diutius"
+              }
+            },
+            {
+              "lemma": "tondo",
+              "upos": "VERB",
+              "count": 2,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.34",
+                "token_index": 6,
+                "form": "tonsus"
+              }
+            },
+            {
+              "lemma": "uertex",
+              "upos": "NOUN",
+              "count": 2,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.33",
+                "token_index": 19,
+                "form": "vertice"
+              }
+            },
+            {
+              "lemma": "multus",
+              "upos": "ADV",
+              "count": 11,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.42",
+                "token_index": 5,
+                "form": "multumque"
+              }
+            },
+            {
+              "lemma": "video",
+              "upos": "VERB",
+              "count": 8,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.33",
+                "token_index": 1,
+                "form": "visus"
+              }
+            },
+            {
+              "lemma": "periculum",
+              "upos": "NOUN",
+              "count": 6,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.40",
+                "token_index": 31,
+                "form": "periculi"
+              }
+            },
+            {
+              "lemma": "do",
+              "upos": "VERB",
+              "count": 5,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.40",
+                "token_index": 4,
+                "form": "datus"
+              }
+            },
+            {
+              "lemma": "similis",
+              "upos": "ADJ",
+              "count": 5,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.35",
+                "token_index": 6,
+                "form": "simile"
+              }
+            },
+            {
+              "lemma": "soleo",
+              "upos": "VERB",
+              "count": 5,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.43",
+                "token_index": 7,
+                "form": "soles"
+              }
+            },
+            {
+              "lemma": "venio",
+              "upos": "VERB",
+              "count": 5,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.37",
+                "token_index": 0,
+                "form": "Venerunt"
+              }
+            },
+            {
+              "lemma": "causa",
+              "upos": "NOUN",
+              "count": 4,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.43",
+                "token_index": 25,
+                "form": "causa"
+              }
+            },
+            {
+              "lemma": "desino",
+              "upos": "VERB",
+              "count": 4,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.43",
+                "token_index": 30,
+                "form": "desinerem"
+              }
+            },
+            {
+              "lemma": "ita",
+              "upos": "ADV",
+              "count": 4,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.37",
+                "token_index": 4,
+                "form": "ita"
+              }
+            },
+            {
+              "lemma": "caput",
+              "upos": "NOUN",
+              "count": 3,
+              "firstChapter": "7_27",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_7_27.33",
+                "token_index": 11,
+                "form": "capiti"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "10_96": {
+      "chapter": "10_96",
+      "displayName": "Letter 10.96 (to Trajan, on the Christians)",
+      "uniqueContentLemmas": 30,
+      "targetCount": 30,
+      "targets": [
+        {
+          "lemma": "christianus",
+          "upos": "ADJ",
+          "count": 9,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.2",
+            "token_index": 2,
+            "form": "Christianis"
+          }
+        },
+        {
+          "lemma": "punio",
+          "upos": "VERB",
+          "count": 4,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.2",
+            "token_index": 12,
+            "form": "puniri"
+          }
+        },
+        {
+          "lemma": "debeo",
+          "upos": "VERB",
+          "count": 3,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.7",
+            "token_index": 14,
+            "form": "debere"
+          }
+        },
+        {
+          "lemma": "nomen",
+          "upos": "NOUN",
+          "count": 3,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.3",
+            "token_index": 33,
+            "form": "nomen"
+          }
+        },
+        {
+          "lemma": "paenitentia",
+          "upos": "NOUN",
+          "count": 3,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.3",
+            "token_index": 18,
+            "form": "paenitentiae"
+          }
+        },
+        {
+          "lemma": "aetas",
+          "upos": "NOUN",
+          "count": 2,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.3",
+            "token_index": 7,
+            "form": "aetatum"
+          }
+        },
+        {
+          "lemma": "appello",
+          "upos": "VERB",
+          "count": 2,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.11",
+            "token_index": 12,
+            "form": "appellarent"
+          }
+        },
+        {
+          "lemma": "auctor",
+          "upos": "NOUN",
+          "count": 2,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.10",
+            "token_index": 4,
+            "form": "auctore"
+          }
+        },
+        {
+          "lemma": "bonus",
+          "upos": "ADJ",
+          "count": 2,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.1",
+            "token_index": 3,
+            "form": "melius"
+          }
+        },
+        {
+          "lemma": "certe",
+          "upos": "ADV",
+          "count": 2,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.7",
+            "token_index": 10,
+            "form": "certe"
+          }
+        },
+        {
+          "lemma": "cognitio",
+          "upos": "NOUN",
+          "count": 2,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.2",
+            "token_index": 0,
+            "form": "Cognitionibus"
+          }
+        },
+        {
+          "lemma": "crimen",
+          "upos": "NOUN",
+          "count": 2,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.9",
+            "token_index": 10,
+            "form": "crimine"
+          }
+        },
+        {
+          "lemma": "differo",
+          "upos": "VERB",
+          "count": 2,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.3",
+            "token_index": 15,
+            "form": "differant"
+          }
+        },
+        {
+          "lemma": "flagitium",
+          "upos": "NOUN",
+          "count": 2,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.3",
+            "token_index": 37,
+            "form": "flagitiis"
+          }
+        },
+        {
+          "lemma": "ideo",
+          "upos": "ADV",
+          "count": 2,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.2",
+            "token_index": 6,
+            "form": "ideo"
+          }
+        },
+        {
+          "lemma": "interrogo",
+          "upos": "VERB",
+          "count": 2,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.5",
+            "token_index": 0,
+            "form": "Interrogavi"
+          }
+        },
+        {
+          "lemma": "male",
+          "upos": "ADV",
+          "count": 2,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.11",
+            "token_index": 32,
+            "form": "male"
+          }
+        },
+        {
+          "lemma": "numquam",
+          "upos": "ADV",
+          "count": 2,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.2",
+            "token_index": 4,
+            "form": "numquam"
+          }
+        },
+        {
+          "lemma": "quaero",
+          "upos": "VERB",
+          "count": 2,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.2",
+            "token_index": 15,
+            "form": "quaeri"
+          }
+        },
+        {
+          "lemma": "superstitio",
+          "upos": "NOUN",
+          "count": 2,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.17",
+            "token_index": 4,
+            "form": "superstitionem"
+          }
+        },
+        {
+          "lemma": "supplico",
+          "upos": "VERB",
+          "count": 2,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.11",
+            "token_index": 29,
+            "form": "supplicarent"
+          }
+        },
+        {
+          "lemma": "abnego",
+          "upos": "VERB",
+          "count": 1,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.14",
+            "token_index": 52,
+            "form": "abnegarent"
+          }
+        },
+        {
+          "lemma": "adnoto",
+          "upos": "VERB",
+          "count": 1,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.8",
+            "token_index": 12,
+            "form": "adnotavi"
+          }
+        },
+        {
+          "lemma": "adulterium",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.14",
+            "token_index": 42,
+            "form": "adulteria"
+          }
+        },
+        {
+          "lemma": "affero",
+          "upos": "VERB",
+          "count": 1,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.11",
+            "token_index": 24,
+            "form": "afferri"
+          }
+        },
+        {
+          "lemma": "ager",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.21",
+            "token_index": 8,
+            "form": "agros"
+          }
+        },
+        {
+          "lemma": "amentia",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.8",
+            "token_index": 3,
+            "form": "amentiae"
+          }
+        },
+        {
+          "lemma": "ancillus",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.16",
+            "token_index": 6,
+            "form": "ancillis"
+          }
+        },
+        {
+          "lemma": "annus",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.12",
+            "token_index": 25,
+            "form": "annos"
+          }
+        },
+        {
+          "lemma": "capio",
+          "upos": "VERB",
+          "count": 1,
+          "firstChapter": "10_96",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_96.15",
+            "token_index": 9,
+            "form": "capiendum"
+          }
+        }
+      ],
+      "parts": {
+        "1": {
+          "title": "Procedural questions",
+          "startSidIndex": 0,
+          "endSidIndex": 3,
+          "targetCount": 9,
+          "targets": [
+            {
+              "lemma": "christianus",
+              "upos": "ADJ",
+              "count": 9,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.2",
+                "token_index": 2,
+                "form": "Christianis"
+              }
+            },
+            {
+              "lemma": "punio",
+              "upos": "VERB",
+              "count": 4,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.2",
+                "token_index": 12,
+                "form": "puniri"
+              }
+            },
+            {
+              "lemma": "nomen",
+              "upos": "NOUN",
+              "count": 3,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.3",
+                "token_index": 33,
+                "form": "nomen"
+              }
+            },
+            {
+              "lemma": "flagitium",
+              "upos": "NOUN",
+              "count": 2,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.3",
+                "token_index": 37,
+                "form": "flagitiis"
+              }
+            },
+            {
+              "lemma": "possum",
+              "upos": "VERB",
+              "count": 9,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.1",
+                "token_index": 2,
+                "form": "potest"
+              }
+            },
+            {
+              "lemma": "do",
+              "upos": "VERB",
+              "count": 5,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.3",
+                "token_index": 17,
+                "form": "detur"
+              }
+            },
+            {
+              "lemma": "soleo",
+              "upos": "VERB",
+              "count": 5,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.2",
+                "token_index": 13,
+                "form": "soleat"
+              }
+            },
+            {
+              "lemma": "desino",
+              "upos": "VERB",
+              "count": 4,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.3",
+                "token_index": 29,
+                "form": "desisse"
+              }
+            },
+            {
+              "lemma": "dubito",
+              "upos": "VERB",
+              "count": 3,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.0",
+                "token_index": 9,
+                "form": "dubito"
+              }
+            }
+          ]
+        },
+        "2": {
+          "title": "Method of interrogation",
+          "startSidIndex": 4,
+          "endSidIndex": 15,
+          "targetCount": 18,
+          "targets": [
+            {
+              "lemma": "dico",
+              "upos": "VERB",
+              "count": 7,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.11",
+                "token_index": 33,
+                "form": "dicerent"
+              }
+            },
+            {
+              "lemma": "deus",
+              "upos": "NOUN",
+              "count": 4,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.11",
+                "token_index": 11,
+                "form": "deos"
+              }
+            },
+            {
+              "lemma": "imago",
+              "upos": "NOUN",
+              "count": 5,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.11",
+                "token_index": 14,
+                "form": "imagini"
+              }
+            },
+            {
+              "lemma": "nego",
+              "upos": "VERB",
+              "count": 4,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.11",
+                "token_index": 1,
+                "form": "negabant"
+              }
+            },
+            {
+              "lemma": "simulacrum",
+              "upos": "NOUN",
+              "count": 3,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.11",
+                "token_index": 22,
+                "form": "simulacris"
+              }
+            },
+            {
+              "lemma": "appello",
+              "upos": "VERB",
+              "count": 2,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.11",
+                "token_index": 12,
+                "form": "appellarent"
+              }
+            },
+            {
+              "lemma": "interrogo",
+              "upos": "VERB",
+              "count": 2,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.5",
+                "token_index": 0,
+                "form": "Interrogavi"
+              }
+            },
+            {
+              "lemma": "male",
+              "upos": "ADV",
+              "count": 2,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.11",
+                "token_index": 32,
+                "form": "male"
+              }
+            },
+            {
+              "lemma": "etiam",
+              "upos": "ADV",
+              "count": 11,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.12",
+                "token_index": 29,
+                "form": "etiam"
+              }
+            },
+            {
+              "lemma": "facio",
+              "upos": "VERB",
+              "count": 9,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.15",
+                "token_index": 19,
+                "form": "facere"
+              }
+            },
+            {
+              "lemma": "dies",
+              "upos": "NOUN",
+              "count": 6,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.14",
+                "token_index": 15,
+                "form": "die"
+              }
+            },
+            {
+              "lemma": "mox",
+              "upos": "ADV",
+              "count": 5,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.12",
+                "token_index": 9,
+                "form": "mox"
+              }
+            },
+            {
+              "lemma": "quasi",
+              "upos": "ADV",
+              "count": 5,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.14",
+                "token_index": 22,
+                "form": "quasi"
+              }
+            },
+            {
+              "lemma": "res",
+              "upos": "NOUN",
+              "count": 5,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.11",
+                "token_index": 43,
+                "form": "re"
+              }
+            },
+            {
+              "lemma": "rursus",
+              "upos": "ADV",
+              "count": 5,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.15",
+                "token_index": 6,
+                "form": "rursusque"
+              }
+            },
+            {
+              "lemma": "sequor",
+              "upos": "VERB",
+              "count": 5,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.4",
+                "token_index": 13,
+                "form": "secutus"
+              }
+            },
+            {
+              "lemma": "similis",
+              "upos": "ADJ",
+              "count": 5,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.8",
+                "token_index": 2,
+                "form": "similis"
+              }
+            },
+            {
+              "lemma": "defero",
+              "upos": "VERB",
+              "count": 4,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.4",
+                "token_index": 9,
+                "form": "deferebantur"
+              }
+            }
+          ]
+        },
+        "3": {
+          "title": "Findings and conclusions",
+          "startSidIndex": 16,
+          "endSidIndex": 23,
+          "targetCount": 15,
+          "targets": [
+            {
+              "lemma": "video",
+              "upos": "VERB",
+              "count": 8,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.19",
+                "token_index": 0,
+                "form": "Visa"
+              }
+            },
+            {
+              "lemma": "invenio",
+              "upos": "VERB",
+              "count": 5,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.17",
+                "token_index": 2,
+                "form": "inveni"
+              }
+            },
+            {
+              "lemma": "voco",
+              "upos": "VERB",
+              "count": 3,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.20",
+                "token_index": 11,
+                "form": "vocantur"
+              }
+            },
+            {
+              "lemma": "superstitio",
+              "upos": "NOUN",
+              "count": 2,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.17",
+                "token_index": 4,
+                "form": "superstitionem"
+              }
+            },
+            {
+              "lemma": "iam",
+              "upos": "ADV",
+              "count": 10,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.22",
+                "token_index": 4,
+                "form": "iam"
+              }
+            },
+            {
+              "lemma": "magnus",
+              "upos": "ADV",
+              "count": 8,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.19",
+                "token_index": 8,
+                "form": "maxime"
+              }
+            },
+            {
+              "lemma": "locus",
+              "upos": "NOUN",
+              "count": 6,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.23",
+                "token_index": 15,
+                "form": "locus"
+              }
+            },
+            {
+              "lemma": "periculum",
+              "upos": "NOUN",
+              "count": 6,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.20",
+                "token_index": 13,
+                "form": "periculum"
+              }
+            },
+            {
+              "lemma": "credo",
+              "upos": "VERB",
+              "count": 5,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.16",
+                "token_index": 3,
+                "form": "credidi"
+              }
+            },
+            {
+              "lemma": "magis",
+              "upos": "ADV",
+              "count": 5,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.16",
+                "token_index": 1,
+                "form": "magis"
+              }
+            },
+            {
+              "lemma": "venio",
+              "upos": "VERB",
+              "count": 5,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.22",
+                "token_index": 17,
+                "form": "venire"
+              }
+            },
+            {
+              "lemma": "adhuc",
+              "upos": "ADV",
+              "count": 3,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.22",
+                "token_index": 21,
+                "form": "adhuc"
+              }
+            },
+            {
+              "lemma": "certe",
+              "upos": "ADV",
+              "count": 3,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.22",
+                "token_index": 0,
+                "form": "Certe"
+              }
+            },
+            {
+              "lemma": "consulo",
+              "upos": "VERB",
+              "count": 3,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.18",
+                "token_index": 4,
+                "form": "consulendum"
+              }
+            },
+            {
+              "lemma": "diu",
+              "upos": "ADV",
+              "count": 3,
+              "firstChapter": "10_96",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_96.22",
+                "token_index": 13,
+                "form": "diu"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "10_97": {
+      "chapter": "10_97",
+      "displayName": "Letter 10.97 (Trajan's reply on the Christians)",
+      "uniqueContentLemmas": 14,
+      "targetCount": 14,
+      "targets": [
+        {
+          "lemma": "actus",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "10_97",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_97.0",
+            "token_index": 0,
+            "form": "Actum"
+          }
+        },
+        {
+          "lemma": "arguo",
+          "upos": "VERB",
+          "count": 1,
+          "firstChapter": "10_97",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_97.2",
+            "token_index": 7,
+            "form": "arguantur"
+          }
+        },
+        {
+          "lemma": "conquiro",
+          "upos": "VERB",
+          "count": 1,
+          "firstChapter": "10_97",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_97.2",
+            "token_index": 0,
+            "form": "Conquirendi"
+          }
+        },
+        {
+          "lemma": "constituo",
+          "upos": "VERB",
+          "count": 1,
+          "firstChapter": "10_97",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_97.1",
+            "token_index": 12,
+            "form": "constitui"
+          }
+        },
+        {
+          "lemma": "dis",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "10_97",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_97.2",
+            "token_index": 30,
+            "form": "dis"
+          }
+        },
+        {
+          "lemma": "edo",
+          "upos": "VERB",
+          "count": 1,
+          "firstChapter": "10_97",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_97.0",
+            "token_index": 20,
+            "form": "es."
+          }
+        },
+        {
+          "lemma": "excutio",
+          "upos": "VERB",
+          "count": 1,
+          "firstChapter": "10_97",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_97.0",
+            "token_index": 8,
+            "form": "excutiendis"
+          }
+        },
+        {
+          "lemma": "exemplum",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "10_97",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_97.4",
+            "token_index": 3,
+            "form": "exempli"
+          }
+        },
+        {
+          "lemma": "impeto",
+          "upos": "VERB",
+          "count": 1,
+          "firstChapter": "10_97",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_97.2",
+            "token_index": 41,
+            "form": "impetret"
+          }
+        },
+        {
+          "lemma": "manifestus",
+          "upos": "ADJ",
+          "count": 1,
+          "firstChapter": "10_97",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_97.2",
+            "token_index": 24,
+            "form": "manifestum"
+          }
+        },
+        {
+          "lemma": "mitto",
+          "upos": "VERB",
+          "count": 1,
+          "firstChapter": "10_97",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_97.0",
+            "token_index": 4,
+            "form": "mi"
+          }
+        },
+        {
+          "lemma": "pessimus",
+          "upos": "ADJ",
+          "count": 1,
+          "firstChapter": "10_97",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_97.4",
+            "token_index": 2,
+            "form": "pessimi"
+          }
+        },
+        {
+          "lemma": "saeculum",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "10_97",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_97.4",
+            "token_index": 6,
+            "form": "saeculi"
+          }
+        },
+        {
+          "lemma": "universus",
+          "upos": "ADJ",
+          "count": 1,
+          "firstChapter": "10_97",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_10_97.1",
+            "token_index": 3,
+            "form": "universum"
+          }
+        }
+      ],
+      "parts": {
+        "1": {
+          "title": "Trajan's reply",
+          "startSidIndex": 0,
+          "endSidIndex": 4,
+          "targetCount": 11,
+          "targets": [
+            {
+              "lemma": "christianus",
+              "upos": "ADJ",
+              "count": 9,
+              "firstChapter": "10_97",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_97.0",
+                "token_index": 13,
+                "form": "Christiani"
+              }
+            },
+            {
+              "lemma": "defero",
+              "upos": "VERB",
+              "count": 4,
+              "firstChapter": "10_97",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_97.0",
+                "token_index": 16,
+                "form": "delati"
+              }
+            },
+            {
+              "lemma": "habeo",
+              "upos": "VERB",
+              "count": 4,
+              "firstChapter": "10_97",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_97.1",
+                "token_index": 10,
+                "form": "habeat"
+              }
+            },
+            {
+              "lemma": "debeo",
+              "upos": "VERB",
+              "count": 3,
+              "firstChapter": "10_97",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_97.0",
+                "token_index": 2,
+                "form": "debuisti"
+              }
+            },
+            {
+              "lemma": "facio",
+              "upos": "VERB",
+              "count": 9,
+              "firstChapter": "10_97",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_97.2",
+                "token_index": 25,
+                "form": "fecerit"
+              }
+            },
+            {
+              "lemma": "possum",
+              "upos": "VERB",
+              "count": 9,
+              "firstChapter": "10_97",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_97.1",
+                "token_index": 13,
+                "form": "potest"
+              }
+            },
+            {
+              "lemma": "locus",
+              "upos": "NOUN",
+              "count": 6,
+              "firstChapter": "10_97",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_97.3",
+                "token_index": 8,
+                "form": "locum"
+              }
+            },
+            {
+              "lemma": "quasi",
+              "upos": "ADV",
+              "count": 5,
+              "firstChapter": "10_97",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_97.1",
+                "token_index": 7,
+                "form": "quasi"
+              }
+            },
+            {
+              "lemma": "res",
+              "upos": "NOUN",
+              "count": 5,
+              "firstChapter": "10_97",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_97.2",
+                "token_index": 22,
+                "form": "re"
+              }
+            },
+            {
+              "lemma": "sequor",
+              "upos": "VERB",
+              "count": 5,
+              "firstChapter": "10_97",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_97.0",
+                "token_index": 19,
+                "form": "secutus"
+              }
+            },
+            {
+              "lemma": "venio",
+              "upos": "ADJ",
+              "count": 5,
+              "firstChapter": "10_97",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_10_97.2",
+                "token_index": 38,
+                "form": "veniam"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "6_4": {
+      "chapter": "6_4",
+      "displayName": "Letter 6.4 (to Calpurnia)",
+      "uniqueContentLemmas": 39,
+      "targetCount": 39,
+      "targets": [
+        {
+          "lemma": "proficiscor",
+          "upos": "VERB",
+          "count": 2,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.0",
+            "token_index": 14,
+            "form": "proficiscentem"
+          }
+        },
+        {
+          "lemma": "abominor",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.4",
+            "token_index": 16,
+            "form": "abominor"
+          }
+        },
+        {
+          "lemma": "absentia",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.3",
+            "token_index": 4,
+            "form": "absentiae"
+          }
+        },
+        {
+          "lemma": "abundantia",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.1",
+            "token_index": 22,
+            "form": "abundantiam"
+          }
+        },
+        {
+          "lemma": "anxius",
+          "upos": "ADJ",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.2",
+            "token_index": 13,
+            "form": "anxium"
+          }
+        },
+        {
+          "lemma": "apparo",
+          "upos": "VERB",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.1",
+            "token_index": 15,
+            "form": "apparares"
+          }
+        },
+        {
+          "lemma": "ardenter",
+          "upos": "ADV",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.2",
+            "token_index": 17,
+            "form": "ardentissime"
+          }
+        },
+        {
+          "lemma": "campania",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.0",
+            "token_index": 19,
+            "form": "Campaniam"
+          }
+        },
+        {
+          "lemma": "corpusculum",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.1",
+            "token_index": 14,
+            "form": "corpusculo"
+          }
+        },
+        {
+          "lemma": "cottidie",
+          "upos": "ADV",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.5",
+            "token_index": 7,
+            "form": "cottidie"
+          }
+        },
+        {
+          "lemma": "cupio",
+          "upos": "VERB",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.1",
+            "token_index": 5,
+            "form": "cupiebam"
+          }
+        },
+        {
+          "lemma": "cura",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.2",
+            "token_index": 6,
+            "form": "cura"
+          }
+        },
+        {
+          "lemma": "denique",
+          "upos": "ADV",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.1",
+            "token_index": 18,
+            "form": "denique"
+          }
+        },
+        {
+          "lemma": "desidero",
+          "upos": "VERB",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.2",
+            "token_index": 7,
+            "form": "desiderarem"
+          }
+        },
+        {
+          "lemma": "diligo",
+          "upos": "VERB",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.2",
+            "token_index": 18,
+            "form": "diligas"
+          }
+        },
+        {
+          "lemma": "fortis",
+          "upos": "ADJ",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.2",
+            "token_index": 2,
+            "form": "fortem"
+          }
+        },
+        {
+          "lemma": "imaginor",
+          "upos": "VERB",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.4",
+            "token_index": 3,
+            "form": "imaginor"
+          }
+        },
+        {
+          "lemma": "impense",
+          "upos": "ADV",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.5",
+            "token_index": 1,
+            "form": "impensius"
+          }
+        },
+        {
+          "lemma": "infirmitas",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.3",
+            "token_index": 6,
+            "form": "infirmitatis"
+          }
+        },
+        {
+          "lemma": "inoffensus",
+          "upos": "ADJ",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.1",
+            "token_index": 23,
+            "form": "inoffensa"
+          }
+        },
+        {
+          "lemma": "occupatio",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.0",
+            "token_index": 4,
+            "form": "occupationibus"
+          }
+        },
+        {
+          "lemma": "passum",
+          "upos": "VERB",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.0",
+            "token_index": 12,
+            "form": "passae"
+          }
+        },
+        {
+          "lemma": "praecipue",
+          "upos": "ADV",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.1",
+            "token_index": 2,
+            "form": "praecipue"
+          }
+        },
+        {
+          "lemma": "prosequor",
+          "upos": "VERB",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.0",
+            "token_index": 20,
+            "form": "prosequi"
+          }
+        },
+        {
+          "lemma": "questus",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.0",
+            "token_index": 6,
+            "form": "questus"
+          }
+        },
+        {
+          "lemma": "regio",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.1",
+            "token_index": 21,
+            "form": "regionisque"
+          }
+        },
+        {
+          "lemma": "secessus",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.1",
+            "token_index": 19,
+            "form": "secessus"
+          }
+        },
+        {
+          "lemma": "securior",
+          "upos": "ADJ",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.6",
+            "token_index": 2,
+            "form": "securior"
+          }
+        },
+        {
+          "lemma": "simul",
+          "upos": "ADV",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.1",
+            "token_index": 3,
+            "form": "simul"
+          }
+        },
+        {
+          "lemma": "singulus",
+          "upos": "ADJ",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.5",
+            "token_index": 8,
+            "form": "singulis"
+          }
+        },
+        {
+          "lemma": "sollicitudo",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.3",
+            "token_index": 12,
+            "form": "sollicitudine"
+          }
+        },
+        {
+          "lemma": "subsequor",
+          "upos": "VERB",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.0",
+            "token_index": 25,
+            "form": "subsequi"
+          }
+        },
+        {
+          "lemma": "timeo",
+          "upos": "VERB",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.6",
+            "token_index": 7,
+            "form": "timebo"
+          }
+        },
+        {
+          "lemma": "transmitto",
+          "upos": "VERB",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.1",
+            "token_index": 24,
+            "form": "transmitteres"
+          }
+        },
+        {
+          "lemma": "valetudo",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.0",
+            "token_index": 16,
+            "form": "valetudinis"
+          }
+        },
+        {
+          "lemma": "vero",
+          "upos": "VERB",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.4",
+            "token_index": 0,
+            "form": "Vereor"
+          }
+        },
+        {
+          "lemma": "vestigium",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.0",
+            "token_index": 24,
+            "form": "vestigio"
+          }
+        },
+        {
+          "lemma": "vis",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.1",
+            "token_index": 12,
+            "form": "viribus"
+          }
+        },
+        {
+          "lemma": "voluptas",
+          "upos": "NOUN",
+          "count": 1,
+          "firstChapter": "6_4",
+          "isProper": false,
+          "example": {
+            "sid": "pliny_6_4.1",
+            "token_index": 20,
+            "form": "voluptates"
+          }
+        }
+      ],
+      "parts": {
+        "1": {
+          "title": "Letter to Calpurnia",
+          "startSidIndex": 0,
+          "endSidIndex": 7,
+          "targetCount": 15,
+          "targets": [
+            {
+              "lemma": "etiam",
+              "upos": "ADV",
+              "count": 11,
+              "firstChapter": "6_4",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_4.2",
+                "token_index": 1,
+                "form": "etiam"
+              }
+            },
+            {
+              "lemma": "magnus",
+              "upos": "ADV",
+              "count": 8,
+              "firstChapter": "6_4",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_4.4",
+                "token_index": 12,
+                "form": "maxime"
+              }
+            },
+            {
+              "lemma": "lego",
+              "upos": "NOUN",
+              "count": 4,
+              "firstChapter": "6_4",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_4.6",
+                "token_index": 4,
+                "form": "lego"
+              }
+            },
+            {
+              "lemma": "nunc",
+              "upos": "ADV",
+              "count": 4,
+              "firstChapter": "6_4",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_4.1",
+                "token_index": 0,
+                "form": "Nunc"
+              }
+            },
+            {
+              "lemma": "proficiscor",
+              "upos": "VERB",
+              "count": 2,
+              "firstChapter": "6_4",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_4.0",
+                "token_index": 14,
+                "form": "proficiscentem"
+              }
+            },
+            {
+              "lemma": "timor",
+              "upos": "NOUN",
+              "count": 6,
+              "firstChapter": "6_4",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_4.5",
+                "token_index": 5,
+                "form": "timori"
+              }
+            },
+            {
+              "lemma": "credo",
+              "upos": "VERB",
+              "count": 5,
+              "firstChapter": "6_4",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_4.1",
+                "token_index": 10,
+                "form": "crederem"
+              }
+            },
+            {
+              "lemma": "magis",
+              "upos": "ADV",
+              "count": 5,
+              "firstChapter": "6_4",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_4.0",
+                "token_index": 2,
+                "form": "magis"
+              }
+            },
+            {
+              "lemma": "oculus",
+              "upos": "NOUN",
+              "count": 5,
+              "firstChapter": "6_4",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_4.1",
+                "token_index": 8,
+                "form": "oculis"
+              }
+            },
+            {
+              "lemma": "causa",
+              "upos": "NOUN",
+              "count": 4,
+              "firstChapter": "6_4",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_4.0",
+                "token_index": 17,
+                "form": "causa"
+              }
+            },
+            {
+              "lemma": "vero",
+              "upos": "VERB",
+              "count": 4,
+              "firstChapter": "6_4",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_4.4",
+                "token_index": 0,
+                "form": "Vereor"
+              }
+            },
+            {
+              "lemma": "consulo",
+              "upos": "VERB",
+              "count": 3,
+              "firstChapter": "6_4",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_4.5",
+                "token_index": 13,
+                "form": "consulas"
+              }
+            },
+            {
+              "lemma": "incertus",
+              "upos": "ADJ",
+              "count": 3,
+              "firstChapter": "6_4",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_4.3",
+                "token_index": 9,
+                "form": "incerta"
+              }
+            },
+            {
+              "lemma": "interdum",
+              "upos": "ADV",
+              "count": 3,
+              "firstChapter": "6_4",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_4.2",
+                "token_index": 19,
+                "form": "interdum"
+              }
+            },
+            {
+              "lemma": "ratio",
+              "upos": "NOUN",
+              "count": 3,
+              "firstChapter": "6_4",
+              "isProper": false,
+              "example": {
+                "sid": "pliny_6_4.3",
+                "token_index": 8,
+                "form": "ratio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

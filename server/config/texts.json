@@ -1,0 +1,44 @@
+{
+  "caesar": {
+    "id": "caesar",
+    "displayName": "Caesar: De Bello Gallico, Book 1",
+    "shortName": "Caesar: DBG 1",
+    "dataDir": "caesar",
+    "files": {
+      "ud": "dbg1_ud.json",
+      "sentences": "dbg1_sentences.json",
+      "translations": "dbg1_translations.json",
+      "constructions": "dbg1_constructions.json",
+      "chapterVocab": "dbg1_chapter_vocab_ok.json",
+      "lemmaGlosses": "caesar_lemma_glosses_MASTER.json",
+      "lemmaIndex": "dbg1_lemma_index.json",
+      "formIndex": "dbg1_form_index.json",
+      "lemmaCorrections": "lemma_corrections.json"
+    },
+    "chapterLabel": "Chapter",
+    "chapterIdFormat": "numeric",
+    "unitName": "chapter",
+    "unitNamePlural": "chapters"
+  },
+  "pliny": {
+    "id": "pliny",
+    "displayName": "Pliny: Selected Letters",
+    "shortName": "Pliny: Letters",
+    "dataDir": "pliny",
+    "files": {
+      "ud": "pliny_ud.json",
+      "sentences": "pliny_sentences.json",
+      "translations": "pliny_translations.json",
+      "constructions": "pliny_constructions.json",
+      "chapterVocab": "pliny_chapter_vocab.json",
+      "lemmaGlosses": "pliny_lemma_glosses_MASTER.json",
+      "lemmaIndex": "pliny_lemma_index.json",
+      "formIndex": "pliny_form_index.json",
+      "lemmaCorrections": "lemma_corrections.json"
+    },
+    "chapterLabel": "Letter",
+    "chapterIdFormat": "letter",
+    "unitName": "letter",
+    "unitNamePlural": "letters"
+  }
+}

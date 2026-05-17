@@ -1,0 +1,522 @@
+
+======================================================================
+  ABL_ABS (4 instances)
+======================================================================
+
+  pliny_6_16.34
+    Type: abl_abs
+    Confidence: 0.88
+    Latin: Innitens servulis duobus assurrexit et statim concidit, ut ego colligo, crassiore caligine spiritu obstructo, clausoque stomacho qui illi natura invalidus et angustus et frequenter aestuans erat.
+    Highlighted: Innitens servulis duobus assurrexit et statim concidit , ut ego colligo , crassiore [caligine] [spiritu] obstructo , clausoque stomacho qui illi natura in validus et angustus et frequenter aestuans erat .
+
+  pliny_6_16.34
+    Type: abl_abs
+    Confidence: 0.88
+    Latin: Innitens servulis duobus assurrexit et statim concidit, ut ego colligo, crassiore caligine spiritu obstructo, clausoque stomacho qui illi natura invalidus et angustus et frequenter aestuans erat.
+    Highlighted: Innitens servulis duobus assurrexit et statim concidit , ut ego colligo , crassiore caligine spiritu obstructo [,] [clausoque] stomacho qui illi natura in validus et angustus et frequenter aestuans erat .
+
+  pliny_6_16.7
+    Type: abl_abs
+    Confidence: 0.88
+    Latin: Nonum kal. Septembres hora fere septima mater mea indicat ei apparere nubem inusitata et magnitudine et specie.
+    Highlighted: Nonum kal . Septembres hora fere septima mater mea indicat ei apparere [nubem] inusitata [et] magnitudine et specie .
+
+  pliny_7_27.29
+    Type: abl_abs
+    Confidence: 0.88
+    Latin: Domus postea rite conditis manibus caruit.
+    Highlighted: Domus postea [rite] [conditis] manibus caruit .
+
+
+======================================================================
+  CONDITIONAL_APODOSIS (2 instances)
+======================================================================
+
+  pliny_7_27.11
+    Type: conditional_apodosis
+    Confidence: 0.8
+    Latin: Per silentium noctis sonus ferri, et si attenderes acrius, strepitus vinculorum longius primo, deinde e proximo reddebatur: mox apparebat idolon, senex macie et squalore confectus, promissa barba horrenti capillo; cruribus compedes, manibus catenas gerebat quatiebatque.
+    Highlighted: Per silentium noctis sonus ferri , et si attenderes acrius , strepitus vinculorum longius primo [,] [deinde] [e] [proximo] reddebatur : mox apparebat idolon , senex macie et squalore confectus , promissa barba horrenti capillo ; cruribus compedes , manibus catenas gerebat quatiebatque .
+
+  pliny_7_27.39
+    Type: conditional_apodosis
+    Confidence: 0.8
+    Latin: Nihil notabile secutum, nisi forte quod non fui reus, futurus, si Domitianus sub quo haec acciderunt diutius vixisset.
+    Highlighted: Nihil notabile secutum [,] [nisi] [forte] [quod] [non] [fui] [reus] , futurus , si Domitianus sub quo haec acciderunt diutius vixisset .
+
+
+======================================================================
+  CONDITIONAL_PROTASIS (2 instances)
+======================================================================
+
+  pliny_7_27.11
+    Type: conditional_protasis
+    Confidence: 0.83
+    Latin: Per silentium noctis sonus ferri, et si attenderes acrius, strepitus vinculorum longius primo, deinde e proximo reddebatur: mox apparebat idolon, senex macie et squalore confectus, promissa barba horrenti capillo; cruribus compedes, manibus catenas gerebat quatiebatque.
+    Highlighted: Per silentium noctis sonus ferri [,] [et] [si] [attenderes] [acrius] , strepitus vinculorum longius primo , deinde e proximo reddebatur : mox apparebat idolon , senex macie et squalore confectus , promissa barba horrenti capillo ; cruribus compedes , manibus catenas gerebat quatiebatque .
+
+  pliny_7_27.39
+    Type: conditional_protasis
+    Confidence: 0.83
+    Latin: Nihil notabile secutum, nisi forte quod non fui reus, futurus, si Domitianus sub quo haec acciderunt diutius vixisset.
+    Highlighted: Nihil notabile secutum , nisi forte quod non fui reus , futurus [,] [si] [Domitianus] [sub] [quo] [haec] [acciderunt] [diutius] vixisset .
+
+
+======================================================================
+  GERUND (10 instances)
+======================================================================
+
+  pliny_10_96.15
+    Type: gerund
+    Confidence: 0.94
+    Latin: Quibus peractis morem sibi discedendi fuisse rursusque coeundi ad capiendum cibum, promiscuum tamen et innoxium; quod ipsum facere desisse post edictum meum, quo secundum mandata tua hetaerias esse vetueram.
+    Highlighted: Quibus peractis morem sibi discedendi fuisse rursusque coeundi ad capiendum cibum , promiscuum tamen et innoxium ; quod ipsum facere desisse post edictum meum , quo secundum mandata tua hetaerias esse vetueram .
+
+  pliny_10_96.15
+    Type: gerund
+    Confidence: 0.94
+    Latin: Quibus peractis morem sibi discedendi fuisse rursusque coeundi ad capiendum cibum, promiscuum tamen et innoxium; quod ipsum facere desisse post edictum meum, quo secundum mandata tua hetaerias esse vetueram.
+    Highlighted: Quibus peractis morem sibi discedendi fuisse rursusque coeundi ad capiendum cibum , promiscuum tamen et innoxium ; quod ipsum facere desisse post edictum meum , quo secundum mandata tua hetaerias esse vetueram .
+
+  pliny_10_96.15
+    Type: gerund
+    Confidence: 0.94
+    Latin: Quibus peractis morem sibi discedendi fuisse rursusque coeundi ad capiendum cibum, promiscuum tamen et innoxium; quod ipsum facere desisse post edictum meum, quo secundum mandata tua hetaerias esse vetueram.
+    Highlighted: Quibus peractis morem sibi discedendi fuisse rursusque coeundi ad capiendum cibum , promiscuum tamen et innoxium ; quod ipsum facere desisse post edictum meum , quo secundum mandata tua hetaerias esse vetueram .
+
+  pliny_10_96.18
+    Type: gerund
+    Confidence: 0.94
+    Latin: Ideo dilata cognitione ad consulendum te decucurri.
+    Highlighted: Ideo dilata cognitione ad consulendum te decucurri .
+
+  pliny_10_97.2
+    Type: gerund
+    Confidence: 0.94
+    Latin: Conquirendi non sunt; si deferantur et arguantur, puniendi sunt, ita tamen ut, qui negaverit se Christianum esse idque re ipsa manifestum fecerit, id est supplicando dis nostris, quamvis suspectus in praeteritum, veniam ex paenitentia impetret.
+    Highlighted: Conquirendi non sunt ; si deferantur et arguantur , puniendi sunt , ita tamen ut , qui negaverit se Christianum esse idque re ipsa manifestum fecerit , id est supplicando dis nostris , quamvis suspectus in praeteritum , veniam ex paenitentia impetret .
+
+  pliny_6_16.11
+    Type: gerund
+    Confidence: 0.94
+    Latin: Magnum propiusque noscendum ut eruditissimo viro visum.
+    Highlighted: Magnum propiusque noscendum ut eruditissimo viro visum .
+
+  pliny_7_27.0
+    Type: gerund
+    Confidence: 0.94
+    Latin: Et mihi discendi et tibi docendi facultatem otium praebet.
+    Highlighted: Et mihi discendi et tibi docendi facultatem otium praebet .
+
+  pliny_7_27.0
+    Type: gerund
+    Confidence: 0.94
+    Latin: Et mihi discendi et tibi docendi facultatem otium praebet.
+    Highlighted: Et mihi discendi et tibi docendi facultatem otium praebet .
+
+  pliny_7_27.16
+    Type: gerund
+    Confidence: 0.94
+    Latin: Ubi coepit advesperascere, iubet sterni sibi in prima domus parte, poscit pugillares stilum lumen; suos omnes in interiora dimittit; ipse ad scribendum animum oculos manum intendit, ne vacua mens audita simulacra et inanes sibi metus fingeret.
+    Highlighted: Ubi coepit ad vesperascere , iubet sterni sibi in prima domus parte , poscit pugillares stilum lumen ; suos omnes in interiora dimittit ; ipse ad scribendum animum oculos manum intendit , ne vacua mens audita simulacra et inanes sibi metus fingeret .
+
+  pliny_7_27.43
+    Type: gerund
+    Confidence: 0.94
+    Latin: Licet etiam utramque in partem (ut soles) disputes, ex altera tamen fortius, ne me suspensum incertumque dimittas, cum mihi consulendi causa fuerit, ut dubitare desinerem.
+    Highlighted: Licet etiam utramque in partem ( ut soles ) disputes , ex altera tamen fortius , ne me suspensum incertumque dimittas , cum mihi consulendi causa fuerit , ut dubitare desinerem .
+
+
+======================================================================
+  GERUND_GERUNDIVE_FLIP (2 instances)
+======================================================================
+
+  pliny_10_96.15
+    Type: gerund_gerundive_flip
+    Confidence: 0.86
+    Latin: Quibus peractis morem sibi discedendi fuisse rursusque coeundi ad capiendum cibum, promiscuum tamen et innoxium; quod ipsum facere desisse post edictum meum, quo secundum mandata tua hetaerias esse vetueram.
+    Highlighted: Quibus peractis morem sibi discedendi fuisse rursusque coeundi [ad] [capiendum] cibum , promiscuum tamen et innoxium ; quod ipsum facere desisse post edictum meum , quo secundum mandata tua hetaerias esse vetueram .
+
+  pliny_10_96.18
+    Type: gerund_gerundive_flip
+    Confidence: 0.86
+    Latin: Ideo dilata cognitione ad consulendum te decucurri.
+    Highlighted: Ideo dilata cognitione [ad] [consulendum] te decucurri .
+
+
+======================================================================
+  GERUNDIVE (7 instances)
+======================================================================
+
+  pliny_10_96.11
+    Type: gerundive
+    Confidence: 0.92
+    Latin: Qui negabant esse se Christianos aut fuisse, cum praeeunte me deos appellarent et imagini tuae, quam propter hoc iusseram cum simulacris numinum afferri, ture ac vino supplicarent, praeterea male dicerent Christo, quorum nihil cogi posse dicuntur qui sunt re vera Christiani, dimittendos putavi.
+    Highlighted: Qui negabant esse se Christianos aut fuisse , cum praeeunte me deos appellarent et imagini tuae , quam propter hoc iusseram cum simulacris numinum afferri , ture ac vino supplicarent , praeterea male dicerent Christo , quorum nihil cogi posse dicuntur qui sunt re vera Christiani , dimittendos putavi .
+
+  pliny_10_96.8
+    Type: gerundive
+    Confidence: 0.92
+    Latin: Fuerunt alii similis amentiae, quos, quia cives Romani erant, adnotavi in urbem remittendos.
+    Highlighted: Fuerunt alii similis amentiae , quos , quia cives Romani erant , adnotavi in urbem remittendos .
+
+  pliny_10_97.0
+    Type: gerundive
+    Confidence: 0.92
+    Latin: Actum quem debuisti, mi Secunde, in excutiendis causis eorum, qui Christiani ad te delati fuerant, secutus es.
+    Highlighted: Actum quem debuisti , mi Secunde , in excutiendis causis eorum , qui Christiani ad te delati fuerant , secutus es.
+
+  pliny_10_97.2
+    Type: gerundive
+    Confidence: 0.92
+    Latin: Conquirendi non sunt; si deferantur et arguantur, puniendi sunt, ita tamen ut, qui negaverit se Christianum esse idque re ipsa manifestum fecerit, id est supplicando dis nostris, quamvis suspectus in praeteritum, veniam ex paenitentia impetret.
+    Highlighted: Conquirendi non sunt ; si deferantur et arguantur , puniendi sunt , ita tamen ut , qui negaverit se Christianum esse idque re ipsa manifestum fecerit , id est supplicando dis nostris , quamvis suspectus in praeteritum , veniam ex paenitentia impetret .
+
+  pliny_10_97.2
+    Type: gerundive
+    Confidence: 0.92
+    Latin: Conquirendi non sunt; si deferantur et arguantur, puniendi sunt, ita tamen ut, qui negaverit se Christianum esse idque re ipsa manifestum fecerit, id est supplicando dis nostris, quamvis suspectus in praeteritum, veniam ex paenitentia impetret.
+    Highlighted: Conquirendi non sunt ; si deferantur et arguantur , puniendi sunt , ita tamen ut , qui negaverit se Christianum esse idque re ipsa manifestum fecerit , id est supplicando dis nostris , quamvis suspectus in praeteritum , veniam ex paenitentia impetret .
+
+  pliny_6_16.3
+    Type: gerundive
+    Confidence: 0.92
+    Latin: Equidem beatos puto, quibus deorum munere datum est aut facere scribenda aut scribere legenda, beatissimos vero quibus utrumque.
+    Highlighted: Equidem beatos puto , quibus deorum munere datum est aut facere scribenda aut scribere legenda , beatissimos vero quibus utrumque .
+
+  pliny_6_16.3
+    Type: gerundive
+    Confidence: 0.92
+    Latin: Equidem beatos puto, quibus deorum munere datum est aut facere scribenda aut scribere legenda, beatissimos vero quibus utrumque.
+    Highlighted: Equidem beatos puto , quibus deorum munere datum est aut facere scribenda aut scribere legenda , beatissimos vero quibus utrumque .
+
+
+======================================================================
+  INDIRECT_STATEMENT (1 instances)
+======================================================================
+
+  pliny_10_96.14
+    Type: indirect_statement
+    Confidence: 0.9
+    Latin: Affirmabant autem hanc fuisse summam vel culpae suae vel erroris, quod essent soliti stato die ante lucem convenire, carmenque Christo quasi deo dicere secum invicem, seque sacramento non in scelus aliquod obstringere, sed ne furta ne latrocinia ne adulteria committerent, ne fidem fallerent, ne depositum appellati abnegarent.
+    Highlighted: Affirmabant autem hanc fuisse summam vel culpae suae vel erroris , quod essent soliti stato die ante lucem convenire , carmenque Christo quasi deo dicere secum invicem , seque sacramento non [in] scelus [aliquod] obstringere , sed ne furta ne latrocinia ne adulteria committerent , ne fidem fallerent , ne depositum appellati abnegarent .
+
+
+======================================================================
+  PURPOSE_CLAUSE (9 instances)
+======================================================================
+
+  pliny_10_96.14
+    Type: purpose_clause
+    Confidence: 0.93
+    Latin: Affirmabant autem hanc fuisse summam vel culpae suae vel erroris, quod essent soliti stato die ante lucem convenire, carmenque Christo quasi deo dicere secum invicem, seque sacramento non in scelus aliquod obstringere, sed ne furta ne latrocinia ne adulteria committerent, ne fidem fallerent, ne depositum appellati abnegarent.
+    Highlighted: Affirmabant autem hanc fuisse summam vel culpae suae vel erroris , quod essent soliti stato die ante lucem convenire , carmenque Christo quasi deo dicere secum invicem , seque sacramento non in scelus aliquod obstringere , sed ne [furta] ne latrocinia ne [adulteria] committerent , ne fidem fallerent , ne depositum appellati abnegarent .
+
+  pliny_10_96.14
+    Type: purpose_clause
+    Confidence: 0.93
+    Latin: Affirmabant autem hanc fuisse summam vel culpae suae vel erroris, quod essent soliti stato die ante lucem convenire, carmenque Christo quasi deo dicere secum invicem, seque sacramento non in scelus aliquod obstringere, sed ne furta ne latrocinia ne adulteria committerent, ne fidem fallerent, ne depositum appellati abnegarent.
+    Highlighted: Affirmabant autem hanc fuisse summam vel culpae suae vel erroris , quod essent soliti stato die ante lucem convenire , carmenque Christo quasi deo dicere secum invicem , seque sacramento non in scelus aliquod obstringere , sed ne furta ne [latrocinia] ne [adulteria] committerent , ne fidem fallerent , ne depositum appellati abnegarent .
+
+  pliny_10_96.14
+    Type: purpose_clause
+    Confidence: 0.93
+    Latin: Affirmabant autem hanc fuisse summam vel culpae suae vel erroris, quod essent soliti stato die ante lucem convenire, carmenque Christo quasi deo dicere secum invicem, seque sacramento non in scelus aliquod obstringere, sed ne furta ne latrocinia ne adulteria committerent, ne fidem fallerent, ne depositum appellati abnegarent.
+    Highlighted: Affirmabant autem hanc fuisse summam vel culpae suae vel erroris , quod essent soliti stato die ante lucem convenire , carmenque Christo quasi deo dicere secum invicem , seque sacramento non in scelus aliquod obstringere , sed ne furta ne latrocinia ne adulteria committerent [,] ne [fidem] fallerent , ne depositum appellati abnegarent .
+
+  pliny_10_96.14
+    Type: purpose_clause
+    Confidence: 0.93
+    Latin: Affirmabant autem hanc fuisse summam vel culpae suae vel erroris, quod essent soliti stato die ante lucem convenire, carmenque Christo quasi deo dicere secum invicem, seque sacramento non in scelus aliquod obstringere, sed ne furta ne latrocinia ne adulteria committerent, ne fidem fallerent, ne depositum appellati abnegarent.
+    Highlighted: Affirmabant autem hanc fuisse summam vel culpae suae vel erroris , quod essent soliti stato die ante lucem convenire , carmenque Christo quasi deo dicere secum invicem , seque sacramento non in scelus aliquod obstringere , sed ne furta ne latrocinia ne adulteria committerent , ne fidem fallerent [,] ne depositum [appellati] abnegarent .
+
+  pliny_10_96.15
+    Type: purpose_clause
+    Confidence: 0.92
+    Latin: Quibus peractis morem sibi discedendi fuisse rursusque coeundi ad capiendum cibum, promiscuum tamen et innoxium; quod ipsum facere desisse post edictum meum, quo secundum mandata tua hetaerias esse vetueram.
+    Highlighted: Quibus peractis morem sibi discedendi fuisse rursusque [coeundi] [ad] capiendum cibum , promiscuum tamen et innoxium ; quod ipsum facere desisse post edictum meum , quo secundum mandata tua hetaerias esse vetueram .
+
+  pliny_10_96.18
+    Type: purpose_clause
+    Confidence: 0.92
+    Latin: Ideo dilata cognitione ad consulendum te decucurri.
+    Highlighted: Ideo dilata [cognitione] [ad] consulendum te decucurri .
+
+  pliny_6_16.18
+    Type: purpose_clause
+    Confidence: 0.93
+    Latin: Cunctatus paulum an retro flecteret, mox gubernatori ut ita faceret monenti 'Fortes' inquit 'fortuna iuvat: Pomponianum pete.'
+    Highlighted: Cunctatus paulum an retro flecteret , mox [gubernatori] ut [ita] faceret monenti 'Fortes' inquit 'fortuna iuvat : Pomponianum pete. '
+
+  pliny_7_27.22
+    Type: purpose_clause
+    Confidence: 0.93
+    Latin: Hic contra ut paulum exspectaret manu significat rursusque ceris et stilo incumbit; illa scribentis capiti catenis insonabat.
+    Highlighted: Hic [contra] ut [paulum] exspectaret manu significat rursusque ceris et stilo incumbit ; illa scribentis capiti catenis insonabat .
+
+  pliny_7_27.27
+    Type: purpose_clause
+    Confidence: 0.93
+    Latin: Postero die adit magistratus, monet ut illum locum effodi iubeant.
+    Highlighted: Postero die adit magistratus , [monet] ut illum locum [effodi] iubeant .
+
+
+======================================================================
+  RELATIVE_CLAUSE (34 instances)
+======================================================================
+
+  pliny_10_96.0
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Sollemne est mihi, domine, omnia de quibus dubito ad te referre.
+    Highlighted: Sollemne est mihi , domine , omnia [de] [quibus] dubito ad te referre .
+
+  pliny_10_96.11
+    Type: relative_clause
+    Confidence: 0.9
+    Latin: Qui negabant esse se Christianos aut fuisse, cum praeeunte me deos appellarent et imagini tuae, quam propter hoc iusseram cum simulacris numinum afferri, ture ac vino supplicarent, praeterea male dicerent Christo, quorum nihil cogi posse dicuntur qui sunt re vera Christiani, dimittendos putavi.
+    Highlighted: Qui negabant esse se Christianos aut fuisse , cum praeeunte me deos appellarent et imagini tuae , quam propter hoc iusseram cum simulacris numinum afferri , ture ac vino supplicarent , praeterea [male] dicerent Christo , quorum nihil cogi posse dicuntur qui sunt re vera Christiani , dimittendos putavi .
+
+  pliny_10_96.11
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Qui negabant esse se Christianos aut fuisse, cum praeeunte me deos appellarent et imagini tuae, quam propter hoc iusseram cum simulacris numinum afferri, ture ac vino supplicarent, praeterea male dicerent Christo, quorum nihil cogi posse dicuntur qui sunt re vera Christiani, dimittendos putavi.
+    Highlighted: Qui negabant esse se Christianos aut fuisse , cum praeeunte me deos appellarent et imagini tuae , quam propter hoc iusseram cum simulacris numinum afferri , ture ac vino supplicarent , praeterea male dicerent Christo [,] quorum nihil cogi [posse] dicuntur qui sunt re vera Christiani , dimittendos putavi .
+
+  pliny_10_96.11
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Qui negabant esse se Christianos aut fuisse, cum praeeunte me deos appellarent et imagini tuae, quam propter hoc iusseram cum simulacris numinum afferri, ture ac vino supplicarent, praeterea male dicerent Christo, quorum nihil cogi posse dicuntur qui sunt re vera Christiani, dimittendos putavi.
+    Highlighted: Qui negabant esse se Christianos aut fuisse , cum praeeunte me deos appellarent et imagini tuae , quam propter hoc iusseram cum simulacris numinum afferri , ture ac vino supplicarent , praeterea male dicerent Christo , quorum nihil cogi [posse] [dicuntur] qui sunt re vera Christiani , dimittendos putavi .
+
+  pliny_10_96.16
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Quo magis necessarium credidi ex duabus ancillis, quae ministrae dicebantur, quid esset veri, et per tormenta quaerere.
+    Highlighted: Quo magis [necessarium] credidi ex duabus ancillis , quae ministrae dicebantur , quid esset veri , et per tormenta quaerere .
+
+  pliny_10_96.16
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Quo magis necessarium credidi ex duabus ancillis, quae ministrae dicebantur, quid esset veri, et per tormenta quaerere.
+    Highlighted: Quo magis necessarium credidi ex duabus ancillis [,] quae [ministrae] dicebantur , quid esset veri , et per tormenta quaerere .
+
+  pliny_10_96.22
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Certe satis constat prope iam desolata templa coepisse celebrari, et sacra sollemnia diu intermissa repeti passimque venire victimas, quarum adhuc rarissimus emptor inveniebatur.
+    Highlighted: Certe satis constat prope iam desolata templa coepisse celebrari , et sacra sollemnia diu intermissa repeti passimque venire victimas [,] quarum adhuc rarissimus [emptor] inveniebatur .
+
+  pliny_10_96.23
+    Type: relative_clause
+    Confidence: 0.9
+    Latin: Ex quo facile est opinari, quae turba hominum emendari possit, si sit paenitentiae locus.
+    Highlighted: Ex quo facile est opinari [,] quae turba hominum [emendari] possit , si sit paenitentiae locus .
+
+  pliny_10_96.4
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Interim, in iis qui ad me tamquam Christiani deferebantur, hunc sum secutus modum.
+    Highlighted: Interim , in [iis] qui ad me tamquam [Christiani] deferebantur , hunc sum secutus modum .
+
+  pliny_10_96.8
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Fuerunt alii similis amentiae, quos, quia cives Romani erant, adnotavi in urbem remittendos.
+    Highlighted: Fuerunt alii similis amentiae [,] quos , quia cives Romani erant , adnotavi in urbem remittendos .
+
+  pliny_10_97.0
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Actum quem debuisti, mi Secunde, in excutiendis causis eorum, qui Christiani ad te delati fuerant, secutus es.
+    Highlighted: [Actum] [quem] debuisti , mi Secunde , in excutiendis causis eorum , qui Christiani ad te delati fuerant , secutus es.
+
+  pliny_10_97.0
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Actum quem debuisti, mi Secunde, in excutiendis causis eorum, qui Christiani ad te delati fuerant, secutus es.
+    Highlighted: Actum quem debuisti [,] mi Secunde , in excutiendis causis eorum [,] qui Christiani ad te delati fuerant , secutus es.
+
+  pliny_10_97.1
+    Type: relative_clause
+    Confidence: 0.9
+    Latin: Neque enim in universum aliquid, quod quasi certam formam habeat, constitui potest.
+    Highlighted: Neque enim in universum aliquid [,] quod quasi certam [formam] habeat , constitui potest .
+
+  pliny_6_16.0
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Petis ut tibi avunculi mei exitum scribam, quo verius tradere posteris possis.
+    Highlighted: Petis ut tibi avunculi mei exitum scribam [,] quo verius tradere [posteris] possis .
+
+  pliny_6_16.17
+    Type: relative_clause
+    Confidence: 0.9
+    Latin: Iam navibus cinis incidebat, quo propius accederent, calidior et densior; iam pumices etiam nigrique et ambusti et fracti igne lapides; iam vadum subitum ruinaque montis litora obstantia.
+    Highlighted: Iam navibus cinis incidebat [,] quo [propius] accederent , calidior et densior ; iam pumices etiam nigrique et ambusti et fracti igne lapides ; iam vadum subitum ruinaque montis litora obstantia .
+
+  pliny_6_16.20
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Quo tunc avunculus meus secundissimo invectus, complectitur trepidantem consolatur hortatur, utque timorem eius sua securitate leniret, deferri in balineum iubet; lotus accubat cenat, aut hilaris aut (quod aeque magnum) similis hilari.
+    Highlighted: Quo tunc avunculus meus secundissimo invectus [,] complectitur trepidantem consolatur hortatur , utque timorem eius sua securitate leniret , deferri in balineum iubet ; lotus accubat cenat , aut hilaris aut ( quod aeque magnum ) similis hilari .
+
+  pliny_6_16.21
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Interim e Vesuvio monte pluribus locis latissimae flammae altaque incendia relucebant, quorum fulgor et claritas tenebris noctis excitabatur.
+    Highlighted: Interim e Vesuvio monte pluribus locis latissimae flammae altaque incendia relucebant [,] quorum fulgor et claritas tenebris [noctis] excitabatur .
+
+  pliny_6_16.24
+    Type: relative_clause
+    Confidence: 0.9
+    Latin: Sed area ex qua diaeta adibatur ita iam cinere mixtisque pumicibus oppleta surrexerat, ut si longior in cubiculo mora, exitus negaretur.
+    Highlighted: Sed area [ex] qua [diaeta] adibatur ita iam cinere mixtisque pumicibus oppleta surrexerat , ut si longior in cubiculo mora , exitus negaretur .
+
+  pliny_6_16.25
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Excitatus procedit, seque Pomponiano ceterisque qui pervigilaverant reddit.
+    Highlighted: Excitatus procedit , seque Pomponiano [ceterisque] [qui] pervigilaverant reddit .
+
+  pliny_6_16.3
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Equidem beatos puto, quibus deorum munere datum est aut facere scribenda aut scribere legenda, beatissimos vero quibus utrumque.
+    Highlighted: Equidem beatos puto [,] quibus deorum munere datum est aut facere scribenda aut scribere legenda , beatissimos vero quibus utrumque .
+
+  pliny_6_16.3
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Equidem beatos puto, quibus deorum munere datum est aut facere scribenda aut scribere legenda, beatissimos vero quibus utrumque.
+    Highlighted: Equidem beatos puto , quibus deorum munere datum est aut facere scribenda aut scribere legenda , beatissimos [vero] quibus utrumque .
+
+  pliny_6_16.34
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Innitens servulis duobus assurrexit et statim concidit, ut ego colligo, crassiore caligine spiritu obstructo, clausoque stomacho qui illi natura invalidus et angustus et frequenter aestuans erat.
+    Highlighted: Innitens servulis [duobus] assurrexit et statim concidit , ut ego colligo , crassiore caligine spiritu obstructo , clausoque [stomacho] qui illi natura in validus et angustus et frequenter aestuans erat .
+
+  pliny_6_16.35
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Ubi dies redditus (is ab eo quem novissime viderat tertius), corpus inventum integrum illaesum opertumque ut fuerat indutus: habitus corporis quiescenti quam defuncto similior.
+    Highlighted: Ubi dies redditus ( is ab [eo] quem [novissime] viderat tertius ) , corpus inventum integrum illaesum opertumque ut fuerat indutus : habitus corporis quiescenti quam defuncto similior .
+
+  pliny_6_16.38
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Unum adiciam, omnia me quibus interfueram quaeque statim, cum maxime vera memorantur, audieram, persecutum.
+    Highlighted: [Unum] adiciam , omnia [me] quibus interfueram quaeque statim , cum maxime vera memorantur , audieram , persecutum .
+
+  pliny_6_16.5
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Quo libentius suscipio, deposco etiam quod iniungis.
+    Highlighted: Quo libentius suscipio [,] deposco etiam quod iniungis .
+
+  pliny_6_16.8
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Usus ille sole, mox frigida, gustaverat iacens studebatque; poscit soleas, ascendit locum ex quo maxime miraculum illud conspici poterat.
+    Highlighted: Usus ille sole , mox frigida , gustaverat iacens studebatque [;] poscit soleas , ascendit locum [ex] quo maxime miraculum illud conspici poterat .
+
+  pliny_6_16.9
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Nubes — incertum procul intuentibus ex quo monte (Vesuvium fuisse postea cognitum est) — oriebatur, cuius similitudinem et formam non alia magis arbor quam pinus expresserit.
+    Highlighted: Nubes — incertum procul intuentibus [ex] quo monte ( Vesuvium fuisse postea cognitum est ) [—] oriebatur , cuius similitudinem et formam non alia magis arbor quam pinus expresserit .
+
+  pliny_6_16.9
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Nubes — incertum procul intuentibus ex quo monte (Vesuvium fuisse postea cognitum est) — oriebatur, cuius similitudinem et formam non alia magis arbor quam pinus expresserit.
+    Highlighted: Nubes — incertum procul intuentibus ex quo monte ( Vesuvium fuisse postea cognitum est ) [—] oriebatur [,] cuius similitudinem et formam non alia magis arbor quam pinus expresserit .
+
+  pliny_6_4.2
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Equidem etiam fortem te non sine cura desiderarem; est enim suspensum et anxium de eo quem ardentissime diligas interdum nihil scire.
+    Highlighted: Equidem etiam fortem te non sine cura desiderarem [;] est enim suspensum et anxium de [eo] quem ardentissime diligas interdum nihil scire .
+
+  pliny_6_4.4
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Vereor omnia, imaginor omnia, quaeque natura metuentium est, ea maxime mihi quae maxime abominor fingo.
+    Highlighted: Vereor omnia , imaginor omnia , quaeque natura metuentium est , ea maxime [mihi] quae maxime [abominor] fingo .
+
+  pliny_6_4.5
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Quo impensius rogo, ut timori meo cottidie singulis vel etiam binis epistulis consulas.
+    Highlighted: Quo [impensius] rogo , ut timori meo cottidie singulis vel etiam binis epistulis consulas .
+
+  pliny_7_27.28
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Inveniuntur ossa inserta catenis et implicita, quae corpus aevo terraque putrefactum nuda et exesa reliquerat vinculis; collecta publice sepeliuntur.
+    Highlighted: Inveniuntur ossa inserta catenis et implicita [,] quae corpus aevo terraque putrefactum nuda et [exesa] reliquerat vinculis ; collecta publice sepeliuntur .
+
+  pliny_7_27.37
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Venerunt per fenestras (ita narrat) in tunicis albis duo, cubantemque detonderunt et qua venerant recesserunt.
+    Highlighted: Venerunt per fenestras ( ita narrat ) in tunicis albis duo , cubantemque detonderunt [et] qua venerant recesserunt .
+
+  pliny_7_27.39
+    Type: relative_clause
+    Confidence: 0.91
+    Latin: Nihil notabile secutum, nisi forte quod non fui reus, futurus, si Domitianus sub quo haec acciderunt diutius vixisset.
+    Highlighted: Nihil notabile secutum , nisi forte quod non fui reus , futurus , si Domitianus [sub] quo [haec] acciderunt diutius vixisset .
+
+
+======================================================================
+  RESULT_CLAUSE (2 instances)
+======================================================================
+
+  pliny_6_16.16
+    Type: result_clause
+    Confidence: 0.93
+    Latin: Properat illuc unde alii fugiunt, rectumque cursum recta gubernacula in periculum tenet adeo solutus metu, ut omnes illius mali motus omnes figuras ut deprenderat oculis dictaret enotaretque.
+    Highlighted: Properat illuc unde alii fugiunt , rectumque cursum recta gubernacula in periculum tenet adeo solutus metu [,] ut omnes illius mali motus omnes figuras ut deprenderat oculis [dictaret] enotaretque .
+
+  pliny_6_16.24
+    Type: result_clause
+    Confidence: 0.93
+    Latin: Sed area ex qua diaeta adibatur ita iam cinere mixtisque pumicibus oppleta surrexerat, ut si longior in cubiculo mora, exitus negaretur.
+    Highlighted: Sed area ex qua diaeta adibatur ita iam cinere mixtisque pumicibus oppleta surrexerat [,] ut si longior in cubiculo mora , [exitus] negaretur .
+
+
+======================================================================
+  SUBJUNCTIVE_RELATIVE_CLAUSE (5 instances)
+======================================================================
+
+  pliny_10_96.11
+    Type: subjunctive_relative_clause
+    Confidence: 0.9
+    Latin: Qui negabant esse se Christianos aut fuisse, cum praeeunte me deos appellarent et imagini tuae, quam propter hoc iusseram cum simulacris numinum afferri, ture ac vino supplicarent, praeterea male dicerent Christo, quorum nihil cogi posse dicuntur qui sunt re vera Christiani, dimittendos putavi.
+    Highlighted: Qui negabant esse se Christianos aut fuisse , cum praeeunte me deos appellarent et imagini tuae , quam propter hoc iusseram cum simulacris numinum afferri , ture ac vino supplicarent , praeterea [male] dicerent Christo , quorum nihil cogi posse dicuntur qui sunt re vera Christiani , dimittendos putavi .
+
+  pliny_10_96.23
+    Type: subjunctive_relative_clause
+    Confidence: 0.9
+    Latin: Ex quo facile est opinari, quae turba hominum emendari possit, si sit paenitentiae locus.
+    Highlighted: Ex quo facile est opinari [,] quae turba hominum [emendari] possit , si sit paenitentiae locus .
+
+  pliny_10_97.1
+    Type: subjunctive_relative_clause
+    Confidence: 0.9
+    Latin: Neque enim in universum aliquid, quod quasi certam formam habeat, constitui potest.
+    Highlighted: Neque enim in universum aliquid [,] quod quasi certam [formam] habeat , constitui potest .
+
+  pliny_6_16.17
+    Type: subjunctive_relative_clause
+    Confidence: 0.9
+    Latin: Iam navibus cinis incidebat, quo propius accederent, calidior et densior; iam pumices etiam nigrique et ambusti et fracti igne lapides; iam vadum subitum ruinaque montis litora obstantia.
+    Highlighted: Iam navibus cinis incidebat [,] quo [propius] accederent , calidior et densior ; iam pumices etiam nigrique et ambusti et fracti igne lapides ; iam vadum subitum ruinaque montis litora obstantia .
+
+  pliny_6_16.24
+    Type: subjunctive_relative_clause
+    Confidence: 0.9
+    Latin: Sed area ex qua diaeta adibatur ita iam cinere mixtisque pumicibus oppleta surrexerat, ut si longior in cubiculo mora, exitus negaretur.
+    Highlighted: Sed area [ex] qua [diaeta] adibatur ita iam cinere mixtisque pumicibus oppleta surrexerat , ut si longior in cubiculo mora , exitus negaretur .

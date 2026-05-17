@@ -2,7 +2,8 @@
 // Uses selection + popover pattern like GrammarPractice
 
 import { useState, useEffect, useCallback, useMemo, useRef } from "react";
-import { fetchExamples, fetchSentenceBundle } from "../lib/caesarApi";
+import { fetchExamples, fetchSentenceBundle } from "../lib/textApi";
+import { useText } from "../components/TextSelector";
 import { getQuizConfig } from "../data/grammarQuizConfigs";
 import {
   logAttemptEvent,
@@ -87,6 +88,7 @@ function apodosisMatchesProtasis(aConstruction, protasisVerbIndex, apodosisVerbI
 }
 
 export default function GrammarQuiz({ lessonKey }) {
+  const { currentTextId } = useText();
   const config = getQuizConfig(lessonKey);
 
   const [sentences, setSentences] = useState([]);
@@ -142,7 +144,7 @@ export default function GrammarQuiz({ lessonKey }) {
 
     async function loadSentences() {
       try {
-        const data = await fetchExamples(config.constructionTypes);
+        const data = await fetchExamples(currentTextId, config.constructionTypes);
         if (cancelled) return;
 
         if (!data?.items?.length) {
@@ -154,7 +156,7 @@ export default function GrammarQuiz({ lessonKey }) {
         const selected = shuffled.slice(0, config.sentenceCount);
 
         const bundles = await Promise.all(
-          selected.map((item) => fetchSentenceBundle(item.sid))
+          selected.map((item) => fetchSentenceBundle(currentTextId, item.sid))
         );
         if (cancelled) return;
 
@@ -173,7 +175,7 @@ export default function GrammarQuiz({ lessonKey }) {
     return () => {
       cancelled = true;
     };
-  }, [lessonKey, config]);
+  }, [lessonKey, config, currentTextId]);
 
   const currentSentence = sentences[currentIndex];
   const tokens = currentSentence?.tokens || [];
@@ -974,7 +976,7 @@ export default function GrammarQuiz({ lessonKey }) {
         }}
       >
         <div style={{ fontSize: 12, color: "#999", marginBottom: 8 }}>
-          DBG1 {currentSentence?.sid}
+          {currentSentence?.sid}
         </div>
 
         <QuizSentence

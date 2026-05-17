@@ -1,6 +1,7 @@
 // src/components/WordInspector.jsx
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { API_BASE_URL } from "../lib/api";
+import { useText } from "./TextSelector";
 import { prettyUpos, prettyDeprel, prettyFeats } from "../utils/udPretty";
 
 function humanizeConditionalLabel(label) {
@@ -94,6 +95,8 @@ function typeColors(type) {
 }
 
 export default function WordInspector({ token, tokenIndex, sentence, constructions, onClose }) {
+  const { currentTextId } = useText();
+  const popupRef = useRef(null);
   const [showRaw, setShowRaw] = useState(false);
 
   // glossary-backed fields (kept exactly as-is)
@@ -125,7 +128,7 @@ export default function WordInspector({ token, tokenIndex, sentence, constructio
 
       try {
         setGlossLoading(true);
-        const res = await fetch(`${API_BASE_URL}/api/caesar/glossary?lemma=${encodeURIComponent(lemma)}`);
+        const res = await fetch(`${API_BASE_URL}/api/text/${currentTextId}/glossary?lemma=${encodeURIComponent(lemma)}`);
         if (!res.ok) return;
 
         const data = await res.json();
@@ -152,12 +155,28 @@ export default function WordInspector({ token, tokenIndex, sentence, constructio
     return () => {
       alive = false;
     };
-  }, [token?.lemma]);
+  }, [token?.lemma, currentTextId]);
+
+  useEffect(() => {
+    if (!onClose) return;
+    function handleClickOutside(event) {
+      if (popupRef.current && !popupRef.current.contains(event.target)) {
+        onClose();
+      }
+    }
+    const timer = setTimeout(() => {
+      document.addEventListener('mousedown', handleClickOutside);
+    }, 0);
+    return () => {
+      clearTimeout(timer);
+      document.removeEventListener('mousedown', handleClickOutside);
+    };
+  }, [onClose]);
 
   if (!token) return null;
 
   return (
-    <div style={{ border: "1px solid #ddd", borderRadius: 10, padding: 12, background: "#fafafa" }}>
+    <div ref={popupRef} style={{ border: "1px solid #ddd", borderRadius: 10, padding: 12, background: "#fafafa" }}>
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", marginBottom: 8 }}>
         <div style={{ display: "flex", alignItems: "baseline", gap: 10, flexWrap: "wrap" }}>
           <div style={{ fontSize: 18, fontWeight: 700 }}>{token.text}</div>

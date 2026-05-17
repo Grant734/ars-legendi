@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import CaesarSentence from "../components/CaesarSentence";
-import TextSelector from "../components/TextSelector";
+import TextSelector, { useText } from "../components/TextSelector";
 import {
   logAttemptEvent,
   EVENT_TYPES,
@@ -8,6 +8,7 @@ import {
   SUBSKILLS,
 } from "../lib/attemptEvents";
 import { API_BASE_URL } from "../lib/api";
+import { fetchTargets, fetchExample, fetchSentenceBundle } from "../lib/textApi";
 /**
  * Caesar DBG1 MVP
  * - Setup: choose chapter range
@@ -118,14 +119,26 @@ function MCQuestion({
 }
 
 export default function CaesarDBG1() {
+  const { currentTextId, currentText } = useText();
   const [phase, setPhase] = useState("setup"); // setup | p1 | p1_report | p2 | p2_report | p3 | final_report
   const [error, setError] = useState("");
+  const [targetsLoading, setTargetsLoading] = useState(true);
 
   const [targets, setTargets] = useState([]); // enriched from backend: { lemma, upos, chapter, gloss_short, dictionary_entry, example: {sid,...}, ... }
 
-  // Chapter selection (min/max)
+  // Chapter selection
+  const isNumericChapters = currentText?.chapterIdFormat === "numeric";
   const [rangeMin, setRangeMin] = useState(1);
   const [rangeMax, setRangeMax] = useState(1);
+  // For non-numeric chapters: set of selected chapter IDs
+  const [selectedChapters, setSelectedChapters] = useState(new Set());
+  // Available chapter IDs and display names (populated on targets load)
+  const [availableChapters, setAvailableChapters] = useState([]);
+  const [chapterDisplayNames, setChapterDisplayNames] = useState({});
+  // Parts support
+  const [partsData, setPartsData] = useState(null); // {chapterId: [{part, title, ...}]}
+  const [selectedLetterForParts, setSelectedLetterForParts] = useState(null);
+  const [selectedParts, setSelectedParts] = useState(new Set());
 
   const [queue, setQueue] = useState([]);
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -270,7 +283,7 @@ export default function CaesarDBG1() {
   async function fetchExampleBySid(sid) {
     if (!sid) return { sid: "", latin: "", english: "" };
     try {
-      const res = await fetch(`${API_BASE_URL}/api/caesar/example?sid=${encodeURIComponent(sid)}`);
+      const res = await fetch(`${API_BASE_URL}/api/text/${currentTextId}/example?sid=${encodeURIComponent(sid)}`);
       if (!res.ok) throw new Error("bad status");
       const data = await res.json();
       return {
@@ -287,7 +300,7 @@ export default function CaesarDBG1() {
     const s = String(sid || "").trim();
     if (!s) return null;
 
-    const res = await fetch(`${API_BASE_URL}/api/caesar/sentenceBundle?sid=${encodeURIComponent(s)}`);
+    const res = await fetch(`${API_BASE_URL}/api/text/${currentTextId}/sentenceBundle?sid=${encodeURIComponent(s)}`);
     if (!res.ok) return null;
 
     const data = await res.json();
@@ -305,16 +318,44 @@ export default function CaesarDBG1() {
       return;
     }
 
-    const maxCh = sessionMaxChapter();
-    const lo = clamp(Number(rangeMin || 1), 1, maxCh);
-    const hi = clamp(Number(rangeMax || lo), lo, maxCh);
-
-    const inRange = targets
-      .map((t, idx) => ({ idx, t }))
-      .filter((x) => {
-        const ch = Number(x.t?.chapter);
-        return Number.isFinite(ch) && ch >= lo && ch <= hi;
-      });
+    let inRange;
+    if (isNumericChapters) {
+      const maxCh = sessionMaxChapter();
+      const lo = clamp(Number(rangeMin || 1), 1, maxCh);
+      const hi = clamp(Number(rangeMax || lo), lo, maxCh);
+      inRange = targets
+        .map((t, idx) => ({ idx, t }))
+        .filter((x) => {
+          const ch = Number(x.t?.chapter);
+          return Number.isFinite(ch) && ch >= lo && ch <= hi;
+        });
+    } else if (partsData && selectedLetterForParts) {
+      // Parts-aware: filter to targets from selected letter AND selected parts
+      const letterParts = partsData[selectedLetterForParts] || [];
+      const selectedPartDefs = letterParts.filter((p) => selectedParts.has(p.part));
+      // Build set of valid sentence index ranges
+      const validIndices = new Set();
+      for (const pd of selectedPartDefs) {
+        for (let i = pd.startSidIndex; i <= pd.endSidIndex; i++) validIndices.add(i);
+      }
+      // Filter targets to those from the selected letter
+      inRange = targets
+        .map((t, idx) => ({ idx, t }))
+        .filter((x) => String(x.t?.chapter) === String(selectedLetterForParts));
+      // If not all parts selected, further filter by example sentence index
+      if (selectedPartDefs.length < letterParts.length) {
+        inRange = inRange.filter((x) => {
+          const exSid = x.t?.example?.sid || "";
+          const m = exSid.match(/\.(\d+)$/);
+          if (m) return validIndices.has(Number(m[1]));
+          return true; // include if we can't determine
+        });
+      }
+    } else {
+      inRange = targets
+        .map((t, idx) => ({ idx, t }))
+        .filter((x) => selectedChapters.has(x.t?.chapter));
+    }
 
     const seen = new Set();
     const uniqueIdxs = [];
@@ -436,7 +477,8 @@ export default function CaesarDBG1() {
     // Phase 2: Log to universal event store
     logAttemptEvent({
       eventType: EVENT_TYPES.ANSWER_SUBMIT,
-      mode: "caesar_vocab",
+      mode: `vocab:${currentTextId}`,
+      textId: currentTextId,
       skillId: SKILLS.VOCAB_GENERAL,
       subskillId: SUBSKILLS.RECOGNIZE,
       itemId: lemma,
@@ -514,7 +556,8 @@ export default function CaesarDBG1() {
     // Phase 2: Log to universal event store
     logAttemptEvent({
       eventType: EVENT_TYPES.ANSWER_SUBMIT,
-      mode: "caesar_vocab",
+      mode: `vocab:${currentTextId}`,
+      textId: currentTextId,
       skillId: SKILLS.VOCAB_GENERAL,
       subskillId: SUBSKILLS.RECOGNIZE,
       itemId: lemma,
@@ -732,7 +775,8 @@ export default function CaesarDBG1() {
     // Phase 2: Log to universal event store
     logAttemptEvent({
       eventType: EVENT_TYPES.ANSWER_SUBMIT,
-      mode: "caesar_vocab",
+      mode: `vocab:${currentTextId}`,
+      textId: currentTextId,
       skillId: SKILLS.VOCAB_GENERAL,
       subskillId: SUBSKILLS.PRODUCE,
       itemId: lemma,
@@ -813,8 +857,6 @@ export default function CaesarDBG1() {
 
       const entry = String(tt?.dictionary_entry || "").trim();
 
-      const h = await fetchHintForLemma(lemma, entry, english);
-      setTypingHint(h || "(no hint)");
       setTypingFeedback("Incorrect. Try again.");
       return;
     }
@@ -866,30 +908,78 @@ export default function CaesarDBG1() {
     setMcLocked(true);
   }
 
-  // load targets on mount
+  // load targets on mount and when text changes
   useEffect(() => {
     let cancelled = false;
 
+    // Reset session state on text change
+    setPhase("setup");
+    setError("");
+    setTargetsLoading(true);
+    setQueue([]);
+    setCurrentIndex(0);
+    setTries({});
+    setWrongSet(new Set());
+    setCorrectOnce(new Set());
+    setResultBundle(null);
+
     async function load() {
       try {
-        const res = await fetch(`${API_BASE_URL}/api/caesar/targets`);
+        const res = await fetch(`${API_BASE_URL}/api/text/${currentTextId}/targets`);
         const data = await res.json();
         const arr = Array.isArray(data?.targets) ? data.targets : [];
 
         if (!cancelled) {
           setTargets(arr);
 
+          // Collect unique chapters
+          const chapSet = new Set();
           let maxCh = 1;
           for (const t of arr) {
-            const ch = Number(t?.chapter);
-            if (Number.isFinite(ch)) maxCh = Math.max(maxCh, ch);
+            const ch = t?.chapter;
+            if (ch != null) chapSet.add(ch);
+            const chNum = Number(ch);
+            if (Number.isFinite(chNum)) maxCh = Math.max(maxCh, chNum);
           }
 
-          setRangeMin(1);
-          setRangeMax(Math.min(5, maxCh));
+          const chapList = Array.from(chapSet);
+          setAvailableChapters(chapList);
+
+          if (isNumericChapters) {
+            setRangeMin(1);
+            setRangeMax(Math.min(5, maxCh));
+          } else {
+            setSelectedChapters(new Set(chapList));
+            // Default to first chapter for parts selection
+            if (chapList.length) setSelectedLetterForParts(chapList[0]);
+          }
+
+          // Build display names from targets
+          const dNames = {};
+          for (const t of arr) {
+            if (t?.chapter && t?.displayName) dNames[t.chapter] = t.displayName;
+          }
+          setChapterDisplayNames(dNames);
         }
+
+        // Fetch parts data (non-critical, don't fail the whole load)
+        try {
+          const partsRes = await fetch(`${API_BASE_URL}/api/text/${currentTextId}/parts`);
+          const partsJson = await partsRes.json();
+          if (!cancelled) {
+            setPartsData(partsJson?.parts || null);
+            if (partsJson?.parts && availableChapters.length) {
+              const firstCh = availableChapters[0] || Object.keys(partsJson.parts)[0];
+              if (firstCh && partsJson.parts[firstCh]) {
+                setSelectedParts(new Set(partsJson.parts[firstCh].map((p) => p.part)));
+              }
+            }
+          }
+        } catch {}
       } catch (e) {
         if (!cancelled) setError("Failed to load targets.");
+      } finally {
+        if (!cancelled) setTargetsLoading(false);
       }
     }
 
@@ -897,7 +987,7 @@ export default function CaesarDBG1() {
     return () => {
       cancelled = true;
     };
-  }, []);
+  }, [currentTextId]);
 
   const progress = useMemo(() => {
     if (phase === "p1" || phase === "p2") {
@@ -993,9 +1083,9 @@ export default function CaesarDBG1() {
       <TextSelector className="-mx-6 -mt-6 mb-6" />
       <div className="max-w-4xl mx-auto px-4 py-6">
         <h1 className="text-3xl font-bold text-primary mb-2">Vocabulary Practice</h1>
-        <p className="text-gray-600 mb-4">Master Caesar's vocabulary chapter by chapter.</p>
+        <p className="text-gray-600 mb-4">Master the vocabulary {currentText?.unitName || "section"} by {currentText?.unitName || "section"}.</p>
 
-      {error ? (
+      {error && !targetsLoading ? (
         <div className="p-4 border-2 border-red-300 bg-red-50 rounded-xl text-red-700 mb-4">
           {error}
         </div>
@@ -1020,36 +1110,112 @@ export default function CaesarDBG1() {
 
       {phase === "setup" ? (
         <div className="bg-white border-2 border-gray-200 rounded-xl p-6">
-          <h3 className="text-lg font-bold text-primary mb-4">Select Chapter Range</h3>
-          <div className="flex gap-6 items-center flex-wrap mb-4">
-            <div className="flex items-center gap-2">
-              <label className="text-sm font-semibold text-gray-700">Start:</label>
-              <input
-                type="number"
-                min={1}
-                max={rangeMax}
-                value={rangeMin}
-                onChange={(e) => {
-                  const val = Math.max(1, Number(e.target.value) || 1);
-                  setRangeMin(Math.min(val, rangeMax));
-                }}
-                className="w-20 px-3 py-2 border-2 border-gray-200 rounded-lg focus:border-accent focus:outline-none"
-              />
+          <h3 className="text-lg font-bold text-primary mb-4">
+            {isNumericChapters ? "Select Chapter Range" : `Select ${currentText?.chapterLabel || "Section"}s`}
+          </h3>
+
+          {isNumericChapters ? (
+            <div className="flex gap-6 items-center flex-wrap mb-4">
+              <div className="flex items-center gap-2">
+                <label className="text-sm font-semibold text-gray-700">Start:</label>
+                <input
+                  type="number"
+                  min={1}
+                  max={rangeMax}
+                  value={rangeMin}
+                  onChange={(e) => {
+                    const val = Math.max(1, Number(e.target.value) || 1);
+                    setRangeMin(Math.min(val, rangeMax));
+                  }}
+                  className="w-20 px-3 py-2 border-2 border-gray-200 rounded-lg focus:border-accent focus:outline-none"
+                />
+              </div>
+              <div className="flex items-center gap-2">
+                <label className="text-sm font-semibold text-gray-700">End:</label>
+                <input
+                  type="number"
+                  min={rangeMin}
+                  value={rangeMax}
+                  onChange={(e) => {
+                    const val = Math.max(rangeMin, Number(e.target.value) || rangeMin);
+                    setRangeMax(val);
+                  }}
+                  className="w-20 px-3 py-2 border-2 border-gray-200 rounded-lg focus:border-accent focus:outline-none"
+                />
+              </div>
             </div>
-            <div className="flex items-center gap-2">
-              <label className="text-sm font-semibold text-gray-700">End:</label>
-              <input
-                type="number"
-                min={rangeMin}
-                value={rangeMax}
-                onChange={(e) => {
-                  const val = Math.max(rangeMin, Number(e.target.value) || rangeMin);
-                  setRangeMax(val);
-                }}
-                className="w-20 px-3 py-2 border-2 border-gray-200 rounded-lg focus:border-accent focus:outline-none"
-              />
+          ) : (
+            <div className="mb-4">
+              {/* Letter selector */}
+              <div className="mb-3">
+                <label className="text-sm font-semibold text-gray-700 mb-1 block">
+                  {currentText?.chapterLabel || "Letter"}
+                </label>
+                <select
+                  value={selectedLetterForParts || ""}
+                  onChange={(e) => {
+                    const ch = e.target.value;
+                    setSelectedLetterForParts(ch);
+                    // Select all parts of the new letter
+                    const letterParts = partsData?.[ch] || [];
+                    setSelectedParts(new Set(letterParts.map((p) => p.part)));
+                  }}
+                  className="px-3 py-2 border-2 border-gray-200 rounded-lg focus:border-accent focus:outline-none"
+                >
+                  {availableChapters.map((ch) => {
+                    const label = chapterDisplayNames[ch] || ch;
+                    return <option key={ch} value={ch}>{label}</option>;
+                  })}
+                </select>
+              </div>
+
+              {/* Parts checkboxes (if this letter has multiple parts) */}
+              {(() => {
+                const letterParts = partsData?.[selectedLetterForParts] || [];
+                if (letterParts.length <= 1) return null;
+                const allSelected = letterParts.every((p) => selectedParts.has(p.part));
+                return (
+                  <div className="ml-1">
+                    <label className="flex items-center gap-2 cursor-pointer mb-1">
+                      <input
+                        type="checkbox"
+                        checked={allSelected}
+                        onChange={(e) => {
+                          if (e.target.checked) {
+                            setSelectedParts(new Set(letterParts.map((p) => p.part)));
+                          } else {
+                            setSelectedParts(new Set());
+                          }
+                        }}
+                        className="w-4 h-4 accent-accent"
+                      />
+                      <span className="text-sm font-semibold text-gray-600">All parts</span>
+                    </label>
+                    {letterParts.map((p) => (
+                      <label key={p.part} className="flex items-center gap-2 cursor-pointer ml-4 mb-1">
+                        <input
+                          type="checkbox"
+                          checked={selectedParts.has(p.part)}
+                          onChange={(e) => {
+                            setSelectedParts((prev) => {
+                              const next = new Set(prev);
+                              if (e.target.checked) next.add(p.part);
+                              else next.delete(p.part);
+                              return next;
+                            });
+                          }}
+                          className="w-4 h-4 accent-accent"
+                        />
+                        <span className="text-gray-700 text-sm">
+                          Part {p.part}: {p.title}
+                        </span>
+                      </label>
+                    ))}
+                  </div>
+                );
+              })()}
             </div>
-          </div>
+          )}
 
           <button
             onClick={startSession}
@@ -1107,26 +1273,8 @@ export default function CaesarDBG1() {
             </div>
           </div>
 
-          {queue.length ? (
-            <MCQuestion
-              lemma={currentTarget()?.lemma}
-              prompt={"Choose the correct definition:"}
-              choices={currentChoicePack().choices}
-              selected={selectedChoice}
-              onSelect={setSelectedChoice}
-              onSubmit={phase === "p1" ? submitPhase1Answer : submitPhase2Answer}
-              onNext={handleNextMC}
-              feedback={feedback}
-              showCorrect={showCorrect}
-              disabled={mcLocked}
-              showNextButton={mcLocked}
-            />
-          ) : (
-            <div className="text-gray-600">No items in queue.</div>
-          )}
-
           {mcLocked && resultBundle ? (
-            <div className="mt-4">
+            <div className="mb-4">
               <div
                 className={`p-5 rounded-xl border-2 ${
                   resultBundle.isCorrect
@@ -1161,18 +1309,44 @@ export default function CaesarDBG1() {
                   </div>
                 ) : resultBundle.latin ? (
                   <div className="text-base leading-relaxed mt-2">
-                    <span className="font-semibold">Caesar:</span> {resultBundle.latin}
+                    <span className="font-semibold">Example:</span> {resultBundle.latin}
                   </div>
                 ) : (
                   <div className="text-sm text-gray-500 mt-2">
-                    <span className="font-semibold">Caesar:</span> (example unavailable)
+                    <span className="font-semibold">Example:</span> (unavailable)
                   </div>
                 )}
               </div>
 
-              <p className="text-xs text-gray-500 mt-2">Tip: Enter also advances.</p>
+              <div className="mt-3 flex items-center gap-3">
+                <button
+                  onClick={handleNextMC}
+                  className="px-5 py-2 bg-accent text-primary font-bold rounded-lg hover:bg-yellow-400 transition-colors"
+                >
+                  Next
+                </button>
+                <span className="text-xs text-gray-500">Enter also advances.</span>
+              </div>
             </div>
           ) : null}
+
+          {queue.length && !mcLocked ? (
+            <MCQuestion
+              lemma={currentTarget()?.lemma}
+              prompt={"Choose the correct definition:"}
+              choices={currentChoicePack().choices}
+              selected={selectedChoice}
+              onSelect={setSelectedChoice}
+              onSubmit={phase === "p1" ? submitPhase1Answer : submitPhase2Answer}
+              onNext={handleNextMC}
+              feedback={feedback}
+              showCorrect={showCorrect}
+              disabled={mcLocked}
+              showNextButton={mcLocked}
+            />
+          ) : (
+            <div className="text-gray-600">No items in queue.</div>
+          )}
         </div>
       ) : null}
 
@@ -1192,6 +1366,55 @@ export default function CaesarDBG1() {
               {sessionIndicesRef.current?.length || 0} words in session
             </div>
           </div>
+
+          {mcLocked && resultBundle ? (
+            <div className="mb-4">
+              <div
+                className={`p-5 rounded-xl border-2 ${
+                  resultBundle.isCorrect
+                    ? "border-green-300 bg-green-50"
+                    : "border-red-300 bg-red-50"
+                }`}
+              >
+                <div className={`font-bold text-lg ${resultBundle.isCorrect ? "text-green-700" : "text-red-700"}`}>
+                  {resultBundle.isCorrect ? "Correct" : "Incorrect"}
+                </div>
+
+                <div className="text-gray-700">
+                  <span className="font-semibold">Definition:</span> {resultBundle.correctDef}
+                </div>
+                {resultBundle.dictionary_entry ? (
+                  <div className="text-gray-600 text-sm">
+                    <span className="font-semibold">Dictionary:</span> {resultBundle.dictionary_entry}
+                  </div>
+                ) : null}
+                {resultBundle.sentenceBundle ? (
+                  <div className="mt-3">
+                    <CaesarSentence
+                      sentence={{
+                        ...resultBundle.sentenceBundle,
+                        translation: resultBundle.sentenceBundle.translation || resultBundle.english || "",
+                      }}
+                      highlightTokenIndex={resultBundle.highlightTokenIndex}
+                    />
+                  </div>
+                ) : resultBundle.latin ? (
+                  <div className="text-sm text-gray-500 mt-2">
+                    <span className="font-semibold">Example:</span> {resultBundle.latin}
+                  </div>
+                ) : null}
+              </div>
+              <div className="mt-3 flex items-center gap-3">
+                <button
+                  onClick={handleNextMC}
+                  className="px-5 py-2 bg-accent text-primary font-bold rounded-lg hover:bg-yellow-400 transition-colors"
+                >
+                  Next
+                </button>
+                <span className="text-xs text-gray-500">Enter also advances.</span>
+              </div>
+            </div>
+          ) : null}
 
           {!mcLocked ? (
             <div className="bg-white border-2 border-gray-200 rounded-xl p-6">
@@ -1222,20 +1445,7 @@ export default function CaesarDBG1() {
                   Submit
                 </button>
 
-                <button
-                  onClick={requestHint}
-                  className="px-4 py-2 border-2 border-gray-200 rounded-lg hover:border-accent transition-colors text-gray-600"
-                >
-                  Hint
-                </button>
               </div>
-
-              {typingHint ? (
-                <div className="mt-4 p-4 bg-accent/10 border border-accent/30 rounded-lg">
-                  <div className="text-xs font-bold text-accent mb-1">Hint</div>
-                  <div className="text-sm text-gray-700">{typingHint}</div>
-                </div>
-              ) : null}
 
               {typingFeedback ? (
                 <div className="mt-3 text-sm text-gray-700">{typingFeedback}</div>
@@ -1244,62 +1454,6 @@ export default function CaesarDBG1() {
               {typingAttempts ? (
                 <div className="mt-2 text-xs text-gray-500">Attempts: {typingAttempts}/2</div>
               ) : null}
-            </div>
-          ) : null}
-
-          {mcLocked && resultBundle ? (
-            <div className="mt-4">
-              <div
-                className={`p-5 rounded-xl border-2 ${
-                  resultBundle.isCorrect
-                    ? "border-green-300 bg-green-50"
-                    : "border-red-300 bg-red-50"
-                }`}
-              >
-                <div className="flex items-center justify-between mb-3">
-                  <div className={`font-bold text-lg ${resultBundle.isCorrect ? "text-green-700" : "text-red-700"}`}>
-                    {resultBundle.isCorrect ? "Correct" : "Incorrect"}
-                  </div>
-                  <button
-                    onClick={handleNextMC}
-                    className="px-5 py-2 bg-accent text-primary font-bold rounded-lg hover:bg-yellow-400 transition-colors"
-                  >
-                    Next
-                  </button>
-                </div>
-
-                <div className="text-gray-700">
-                  <span className="font-semibold">Definition:</span> {resultBundle.correctDef}
-                </div>
-
-                {resultBundle.dictionary_entry ? (
-                  <div className="mt-2 text-gray-700">
-                    <span className="font-semibold">Dictionary:</span> {resultBundle.dictionary_entry}
-                  </div>
-                ) : null}
-
-                {resultBundle.sentenceBundle ? (
-                  <div className="mt-3">
-                    <CaesarSentence
-                      sentence={{
-                        ...resultBundle.sentenceBundle,
-                        translation: resultBundle.sentenceBundle.translation || resultBundle.english || "",
-                      }}
-                      highlightTokenIndex={resultBundle.highlightTokenIndex}
-                    />
-                  </div>
-                ) : resultBundle.latin ? (
-                  <div className="text-base leading-relaxed mt-2">
-                    <span className="font-semibold">Caesar:</span> {resultBundle.latin}
-                  </div>
-                ) : (
-                  <div className="text-sm text-gray-500 mt-2">
-                    <span className="font-semibold">Caesar:</span> (example unavailable)
-                  </div>
-                )}
-              </div>
-
-              <p className="text-xs text-gray-500 mt-2">Tip: Enter also advances.</p>
             </div>
           ) : null}
         </div>

@@ -1,0 +1,669 @@
+{
+  "summary": {
+    "gibberish": 17,
+    "missing_latin": 71,
+    "propn": 2,
+    "low_frequency_rare": 52,
+    "other": 0
+  },
+  "gibberish": [
+    "altaqus",
+    "athenodorus",
+    "classemquus",
+    "curvatusquus",
+    "densiorqus",
+    "exesorumquus",
+    "incertumquus",
+    "longiusqus",
+    "nigriquus",
+    "pomponianus",
+    "propiusque",
+    "pulchriorqus",
+    "sequs",
+    "terraqus",
+    "totaqus",
+    "variaqus",
+    "vastisquus"
+  ],
+  "missing_latin": [
+    {
+      "lemma": "meus",
+      "upos": "DET",
+      "count": 10,
+      "top_form": "mei",
+      "top_sid": "pliny_6_16.0",
+      "whitakers_raw": "me.us                ADJ    1 1 NOM S M POS             \nmeus, mea, meum  ADJ   [XXXAX]  \nmy (personal possession); mine, of me, belonging to me; my own; to me;"
+    },
+    {
+      "lemma": "tu",
+      "upos": "PRON",
+      "count": 10,
+      "top_form": "tibi",
+      "top_sid": "pliny_6_16.0",
+      "whitakers_raw": "tu                   PRON   5 2 NOM S C                 \ntu                   PRON   5 2 VOC S C                 \n [XXXAX]  \nyou (sing.); thou/thine/thee/thy (PERS); yourself/thyself (REFLEX);"
+    },
+    {
+      "lemma": "tuus",
+      "upos": "DET",
+      "count": 8,
+      "top_form": "tuorum",
+      "top_sid": "pliny_6_16.2",
+      "whitakers_raw": "tu.us                ADJ    1 1 NOM S M POS             \ntuus, tua, tuum  ADJ   [XXXAX]  \nyour (sing.);"
+    },
+    {
+      "lemma": "magne",
+      "upos": "ADV",
+      "count": 5,
+      "top_form": "maxime",
+      "top_sid": "pliny_6_16.8",
+      "whitakers_raw": "magn.e               ADJ    1 1 VOC S M POS             \nmagnus, magna -um, major -or -us, maximus -a -um  ADJ   [XXXAO]  \nlarge/great/big/vast/huge; much; powerful; tall/long/broad; extensive/spaciou"
+    },
+    {
+      "lemma": "quia",
+      "upos": "SCONJ",
+      "count": 4,
+      "top_form": "quia",
+      "top_sid": "pliny_6_16.10",
+      "whitakers_raw": "quia                 CONJ                               \nquia  CONJ   [XXXAX]  \nbecause;"
+    },
+    {
+      "lemma": "christus",
+      "upos": "ADJ",
+      "count": 3,
+      "top_form": "Christo",
+      "top_sid": "pliny_10_96.11",
+      "whitakers_raw": "christ.us            N      2 1 NOM S M                 \nChristus, Christi  N (2nd) M   [XEXAO]  \nChrist;"
+    },
+    {
+      "lemma": "quamquam",
+      "upos": "SCONJ",
+      "count": 3,
+      "top_form": "quamquam",
+      "top_sid": "pliny_6_16.19",
+      "whitakers_raw": "quam                 TACKON                             \nPACKON w/quis =>  any; any man/person, anybody/anyone, any whatever, anything;\nqu.am                PRON   1 0 ACC S F                 \nqu  PAC"
+    },
+    {
+      "lemma": "circa",
+      "upos": "ADP",
+      "count": 2,
+      "top_form": "circa",
+      "top_sid": "pliny_7_27.34",
+      "whitakers_raw": "circ.a               V      1 1 PRES ACTIVE  IMP 2 S    \ncirco, circare, circavi, circatus  V (1st) TRANS   [XXXIO]    inscript\ntraverse; go about (L+S); wander through;\r\ncirca                ADV    P"
+    },
+    {
+      "lemma": "dein",
+      "upos": "CCONJ",
+      "count": 2,
+      "top_form": "dein",
+      "top_sid": "pliny_6_16.10",
+      "whitakers_raw": "dein                 ADV    POS                         \ndein  ADV   [XXXBO]  \nthen/next/afterward; thereon/henceforth/from there/then; in next position/place"
+    },
+    {
+      "lemma": "desertus",
+      "upos": "NOUN",
+      "count": 2,
+      "top_form": "Deserta",
+      "top_sid": "pliny_7_27.14",
+      "whitakers_raw": "desert.us            VPAR   3 1 NOM S M PERF PASSIVE PPL\ndesero, deserere, deserui, desertus  V (3rd) TRANS   [XXXAO]  \nleave/depart/quit/desert; forsake/abandon/give up; withdraw support, let down;\r\n"
+    },
+    {
+      "lemma": "ecquid",
+      "upos": "SCONJ",
+      "count": 2,
+      "top_form": "ecquid",
+      "top_sid": "pliny_6_16.31",
+      "whitakers_raw": "ec                   PREFIX                             \nis there any...that? does any? (w/qui, sometimes w/nam) (passionate interrogati\necquid               ADV    POS                         \necquid"
+    },
+    {
+      "lemma": "illuc",
+      "upos": "PART",
+      "count": 2,
+      "top_form": "illuc",
+      "top_sid": "pliny_6_16.16",
+      "whitakers_raw": "illuc                ADV    POS                         \nilluc  ADV   [XXXAX]  \nthere, thither, to that place/point;"
+    },
+    {
+      "lemma": "litor",
+      "upos": "NOUN",
+      "count": 2,
+      "top_form": "litoribus",
+      "top_sid": "pliny_6_16.19",
+      "whitakers_raw": "lit.or               V      1 1 PRES PASSIVE IND 1 S    \nlito, litare, litavi, litatus  V (1st)   [XXXDX]    lesser\nobtain/give favorable omens from sacrifice; make (acceptable) offering (to);"
+    },
+    {
+      "lemma": "pumicus",
+      "upos": "ADJ",
+      "count": 2,
+      "top_form": "pumicibus",
+      "top_sid": "pliny_6_16.24",
+      "whitakers_raw": "pumicus                          ========   UNKNOWN"
+    },
+    {
+      "lemma": "quamvis",
+      "upos": "SCONJ",
+      "count": 2,
+      "top_form": "quamvis",
+      "top_sid": "pliny_6_16.2",
+      "whitakers_raw": "vis                  TACKON                             \nPACKON w/qui whoever it be, whomever you please; any/anything whatever;\nqu.am                PRON   1 0 ACC S F                 \nqu  PACK   [XX"
+    },
+    {
+      "lemma": "rectinus",
+      "upos": "ADJ",
+      "count": 2,
+      "top_form": "Rectinae",
+      "top_sid": "pliny_6_16.13",
+      "whitakers_raw": "in                   SUFFIX                             \n-ine; -in; of, pertaining/belonging to; connected with; derived/coming from;\nrectin.us            ADJ    1 1 NOM S M POS             \nrectum, r"
+    },
+    {
+      "lemma": "vertix",
+      "upos": "NOUN",
+      "count": 2,
+      "top_form": "vertice",
+      "top_sid": "pliny_7_27.33",
+      "whitakers_raw": "vertix                           ========   UNKNOWN"
+    },
+    {
+      "lemma": "acre",
+      "upos": "ADV",
+      "count": 1,
+      "top_form": "acrius",
+      "top_sid": "pliny_7_27.11",
+      "whitakers_raw": "acr.e                ADJ    3 3 NOM S N POS             \nacr.e                ADJ    3 3 VOC S N POS             \nacr.e                ADJ    3 3 ABL S X POS             \nacr.e                ADJ    3"
+    },
+    {
+      "lemma": "advisceo",
+      "upos": "VERB",
+      "count": 1,
+      "top_form": "adversus",
+      "top_sid": "pliny_6_16.29",
+      "whitakers_raw": "ad                   PREFIX                             \n- to, towards, near, for, together (adeo => go to);\ne                    SUFFIX                             \nmake of;\nvisce.o              ADJ "
+    },
+    {
+      "lemma": "aetatus",
+      "upos": "NOUN",
+      "count": 1,
+      "top_form": "aetatum",
+      "top_sid": "pliny_10_96.3",
+      "whitakers_raw": "a                    PREFIX                             \n- away, off; - aside;\ntat                  SUFFIX                             \ntry to do -, keep doing -;\netat.us              VPAR   1 1 NOM S"
+    },
+    {
+      "lemma": "aevus",
+      "upos": "ADJ",
+      "count": 1,
+      "top_form": "aevo",
+      "top_sid": "pliny_7_27.28",
+      "whitakers_raw": "aev.us               N      2 1 NOM S M                 \naevus, aevi  N (2nd) M   [XXXAO]  \ntime, time of life, age, old age, generation; passage/lapse of time; all time;"
+    },
+    {
+      "lemma": "ardente",
+      "upos": "ADV",
+      "count": 1,
+      "top_form": "ardentissime",
+      "top_sid": "pliny_6_4.2",
+      "whitakers_raw": "ard.ente             VPAR   2 1 ABL S X PRES ACTIVE  PPL\nardeo, ardere, arsi, arsus  V (2nd)   [XXXAO]  \nbe on fire; burn, blaze; flash; glow, sparkle; rage; be in a turmoil/love;\r\nardent.e           "
+    },
+    {
+      "lemma": "auditus",
+      "upos": "ADJ",
+      "count": 1,
+      "top_form": "auditoque",
+      "top_sid": "pliny_7_27.15",
+      "whitakers_raw": "audit.us             VPAR   3 4 NOM S M PERF PASSIVE PPL\naudio, audire, audivi, auditus  V (4th)   [XXXAO]  \nhear, listen, accept, agree with; obey; harken, pay attention; be able to hear;\naudit.us   "
+    },
+    {
+      "lemma": "carmenque",
+      "upos": "ADV",
+      "count": 1,
+      "top_form": "carmenque",
+      "top_sid": "pliny_10_96.14",
+      "whitakers_raw": "que                  TACKON                             \n-que = and (enclitic, translated before attached word); completes plerus/uter;\ncarmen               N      3 2 NOM S N                 \ncarmen "
+    },
+    {
+      "lemma": "cervicalis",
+      "upos": "ADJ",
+      "count": 1,
+      "top_form": "Cervicalia",
+      "top_sid": "pliny_6_16.29",
+      "whitakers_raw": "cervical.is          N      3 4 GEN S N                 \ncervical, cervicalis  N (3rd) N   [XXXCO]  \ncervicale, cervicalis  N (3rd) N   [DXXFS]    Late  veryrare\npillow, cushion;"
+    },
+    {
+      "lemma": "cineremve",
+      "upos": "ADV",
+      "count": 1,
+      "top_form": "cineremve",
+      "top_sid": "pliny_6_16.10",
+      "whitakers_raw": "ve                   TACKON                             \n-ve = or if you will (enclitic); or as you please; or;             rare\nciner.em             N      3 1 ACC S C                 \nciner, cineris"
+    },
+    {
+      "lemma": "curtio",
+      "upos": "NOUN",
+      "count": 1,
+      "top_form": "Curtio",
+      "top_sid": "pliny_7_27.2",
+      "whitakers_raw": "i                    SUFFIX                             \nmakes abstract noun of the verb; place/instrument/result of verb action;\ncurti.o              N      2 2 DAT S N                 \ncurti.o      "
+    },
+    {
+      "lemma": "decucuro",
+      "upos": "X",
+      "count": 1,
+      "top_form": "decucurri",
+      "top_sid": "pliny_10_96.18",
+      "whitakers_raw": "decu                 PREFIX                             \nten (numerical prefix);\ncur.o                V      1 1 PRES ACTIVE  IND 1 S    \ncuro, curare, curavi, curatus  V (1st)   [XXXAO]  \narrange/see"
+    },
+    {
+      "lemma": "denses",
+      "upos": "ADJ",
+      "count": 1,
+      "top_form": "densior",
+      "top_sid": "pliny_6_16.17",
+      "whitakers_raw": "dens.es              V      1 1 PRES ACTIVE  SUB 2 S    \ndenso, densare, densavi, densatus  V (1st) TRANS   [XXXCO]  \nthicken/condense/concentrate/compress/coagulate; press/pack/crowd together;\r\ndens."
+    },
+    {
+      "lemma": "dilatus",
+      "upos": "ADJ",
+      "count": 1,
+      "top_form": "dilata",
+      "top_sid": "pliny_10_96.18",
+      "whitakers_raw": "dilat.us             VPAR   3 2 NOM S M PERF PASSIVE PPL\ndiffero, differre, distuli, dilatus  V   [XXXAO]  \npostpone/delay/differ; put off, keep waiting; give respite to; differ, disagree\nspread abroa"
+    },
+    {
+      "lemma": "erudites",
+      "upos": "ADV",
+      "count": 1,
+      "top_form": "eruditissimo",
+      "top_sid": "pliny_6_16.11",
+      "whitakers_raw": "it                   SUFFIX                             \ntry to do -, keep doing - (Intensive/Iterative - forcible or iterative action);\nerudit.es            V      1 1 PRES ACTIVE  SUB 2 S    \nerudio"
+    },
+    {
+      "lemma": "exesus",
+      "upos": "ADJ",
+      "count": 1,
+      "top_form": "exesa",
+      "top_sid": "pliny_7_27.28",
+      "whitakers_raw": "exes.us              VPAR   3 1 NOM S M PERF PASSIVE PPL\nexedo, exedere, exedi, exesus  V (3rd)   [XXXDX]    lesser\neat up, consume; hollow;"
+    },
+    {
+      "lemma": "flammarus",
+      "upos": "ADJ",
+      "count": 1,
+      "top_form": "flammarumque",
+      "top_sid": "pliny_6_16.33",
+      "whitakers_raw": "Two words            \nMay be 2 words combined (flamma+rus) If not obvious, probably incorrect\nflamm.a              N      1 1 NOM S F                 \nflamm.a              N      1 1 VOC S F          "
+    },
+    {
+      "lemma": "hilarus",
+      "upos": "NOUN",
+      "count": 1,
+      "top_form": "hilari",
+      "top_sid": "pliny_6_16.20",
+      "whitakers_raw": "hilar.us             ADJ    1 1 NOM S M POS             \nhilarus, hilara -um, hilarior -or -us, hilarissimus -a -um  ADJ   [XXXDX]    lesser\ncheerful, lively, light-hearted;"
+    },
+    {
+      "lemma": "igitur",
+      "upos": "VERB",
+      "count": 1,
+      "top_form": "Igitur",
+      "top_sid": "pliny_7_27.1",
+      "whitakers_raw": "igitur               CONJ                               \nigitur  CONJ   [XXXAO]  \ntherefore (postpositive), so/then; consequently; accordingly; well/in that case"
+    },
+    {
+      "lemma": "ignarus",
+      "upos": "NOUN",
+      "count": 1,
+      "top_form": "ignarus",
+      "top_sid": "pliny_7_27.14",
+      "whitakers_raw": "ignar.us             ADJ    1 1 NOM S M POS             \nignarus, ignara, ignarum  ADJ   [XXXBX]  \nignorant; unaware, having no experience of; senseless; strange;"
+    },
+    {
+      "lemma": "illaedeo",
+      "upos": "VERB",
+      "count": 1,
+      "top_form": "illaesum",
+      "top_sid": "pliny_6_16.35",
+      "whitakers_raw": "Two words            \nMay be 2 words combined (illae+deo) If not obvious, probably incorrect\nde.o                 N      2 1 DAT S M                 \nde.o                 N      2 1 ABL S M           "
+    },
+    {
+      "lemma": "innitens",
+      "upos": "ADJ",
+      "count": 1,
+      "top_form": "Innitens",
+      "top_sid": "pliny_6_16.34",
+      "whitakers_raw": "innit.ens            VPAR   3 1 NOM S X PRES         PPL\ninnit.ens            VPAR   3 1 VOC S X PRES         PPL\ninnit.ens            VPAR   3 1 ACC S N PRES         PPL\ninnitor, inniti, innisus sum "
+    },
+    {
+      "lemma": "interdius",
+      "upos": "NOUN",
+      "count": 1,
+      "top_form": "interdiu",
+      "top_sid": "pliny_7_27.13",
+      "whitakers_raw": "interdius            ADV    POS                         \ninterdius  ADV   [BXXFS]    Early  veryrare\nin the daytime; by day; (archaic form of interdiu);"
+    },
+    {
+      "lemma": "invici",
+      "upos": "ADJ",
+      "count": 1,
+      "top_form": "invicem",
+      "top_sid": "pliny_10_96.14",
+      "whitakers_raw": "in                   PREFIX                             \n- in, - on, - against; not -, un-;\nvic.i                V      3 1 PERF ACTIVE  IND 1 S    \nvinco, vincere, vici, victus  V (3rd)   [XXXAX]  \nc"
+    },
+    {
+      "lemma": "iste",
+      "upos": "DET",
+      "count": 1,
+      "top_form": "istius",
+      "top_sid": "pliny_10_96.21",
+      "whitakers_raw": "ist.e                PRON   6 1 NOM S M                 \niste, ista, istud  PRON   [XXXAX]  \nthat, that of yours, that which you refer to; such;"
+    },
+    {
+      "lemma": "leger",
+      "upos": "NOUN",
+      "count": 1,
+      "top_form": "legero",
+      "top_sid": "pliny_6_4.6",
+      "whitakers_raw": "leg.er               V      1 1 PRES PASSIVE SUB 1 S    \nlego, legare, legavi, legatus  V (1st)   [XXXBX]  \nbequeath, will; entrust, send as an envoy, choose as a deputy;"
+    },
+    {
+      "lemma": "mansura",
+      "upos": "NOUN",
+      "count": 1,
+      "top_form": "mansura",
+      "top_sid": "pliny_6_16.2",
+      "whitakers_raw": "mans.ura             VPAR   2 1 NOM S F FUT  ACTIVE  PPL\nmans.ura             VPAR   2 1 VOC S F FUT  ACTIVE  PPL\nmans.ura             VPAR   2 1 ABL S F FUT  ACTIVE  PPL\nmans.ura             VPAR   2"
+    },
+    {
+      "lemma": "minister",
+      "upos": "ADJ",
+      "count": 1,
+      "top_form": "ministrae",
+      "top_sid": "pliny_10_96.16",
+      "whitakers_raw": "minister             N      2 3 NOM S M                 \nminister             N      2 3 VOC S M                 \nminister, ministri  N (2nd) M   [XXXAX]  \nattendant, servant, waiter; agent, aide; acc"
+    },
+    {
+      "lemma": "misenus",
+      "upos": "NOUN",
+      "count": 1,
+      "top_form": "Miseni",
+      "top_sid": "pliny_6_16.36",
+      "whitakers_raw": "Two words            \nMay be 2 words combined (mi+senus) If not obvious, probably incorrect\nmi                   ADJ    1 1 VOC S M POS             \nmi  X   [XXXBX]  \nmy, mine;\r\nm.i                  P"
+    },
+    {
+      "lemma": "mistio",
+      "upos": "VERB",
+      "count": 1,
+      "top_form": "mixtisque",
+      "top_sid": "pliny_6_16.24",
+      "whitakers_raw": "Word mod is/ix       \nAn internal 'is' might be rendered by 'ix'\nmixtio               N      3 1 NOM S F                 \nmixtio               N      3 1 VOC S F                 \nmixtio, mixtionis  N "
+    },
+    {
+      "lemma": "nescio",
+      "upos": "ADV",
+      "count": 1,
+      "top_form": "nescio",
+      "top_sid": "pliny_10_96.2",
+      "whitakers_raw": "nesci.o              V      4 1 PRES ACTIVE  IND 1 S    \nnescio, nescire, nescivi, nescitus  V (4th)   [XXXAO]  \nnot know (how); be ignorant/unfamiliar/unaware/unacquainted/unable/unwilling;\r\nnesci.o "
+    },
+    {
+      "lemma": "nonus",
+      "upos": "NOUN",
+      "count": 1,
+      "top_form": "Nonum",
+      "top_sid": "pliny_6_16.7",
+      "whitakers_raw": "non.us               NUM    2 0 NOM S M ORD             \nnovem, nonus -a -um, noveni -ae -a, novie (n)s  NUM   [XXXBX]  \n 9th - (ORD, 'in series'); (a/the) 9th (part) (fract w/pars?);"
+    },
+    {
+      "lemma": "opertus",
+      "upos": "NOUN",
+      "count": 1,
+      "top_form": "opertumque",
+      "top_sid": "pliny_6_16.35",
+      "whitakers_raw": "opert.us             VPAR   3 4 NOM S M PERF PASSIVE PPL\noperio, operire, operui, opertus  V (4th) TRANS   [XXXAO]  \ncover (over); bury; overspread; shut/close; conceal; clothe, cover/hide the hea\nope"
+    },
+    {
+      "lemma": "percuncto",
+      "upos": "VERB",
+      "count": 1,
+      "top_form": "percunctatus",
+      "top_sid": "pliny_7_27.15",
+      "whitakers_raw": "per                  PREFIX                             \nvery -, - completely, - thoroughly;\ncunct.o              ADJ    1 1 DAT S M POS             \ncunct.o              ADJ    1 1 DAT S N POS       "
+    },
+    {
+      "lemma": "procul",
+      "upos": "ADP",
+      "count": 1,
+      "top_form": "procul",
+      "top_sid": "pliny_6_16.9",
+      "whitakers_raw": "procul               ADV    POS                         \nprocul  ADV   [XXXAX]  \naway; at distance, far off;"
+    },
+    {
+      "lemma": "promiscuus",
+      "upos": "NOUN",
+      "count": 1,
+      "top_form": "promiscuum",
+      "top_sid": "pliny_10_96.15",
+      "whitakers_raw": "promiscu.us          ADJ    1 1 NOM S M POS             \npromiscuus, promiscua, promiscuum  ADJ   [XXXDX]    lesser\ncommon, shared general, indiscriminate;"
+    },
+    {
+      "lemma": "prout",
+      "upos": "SCONJ",
+      "count": 1,
+      "top_form": "prout",
+      "top_sid": "pliny_6_16.10",
+      "whitakers_raw": "prout                CONJ                               \nprout  CONJ   [XXXBX]  \nas, just as; exactly as;"
+    },
+    {
+      "lemma": "pus",
+      "upos": "VERB",
+      "count": 1,
+      "top_form": "putes",
+      "top_sid": "pliny_7_27.1",
+      "whitakers_raw": "pus                  N      3 2 NOM S N                 \npus                  N      3 2 VOC S N                 \npus                  N      3 2 ACC S N                 \npus, puris  N (3rd) N   [XXXC"
+    },
+    {
+      "lemma": "quilibet",
+      "upos": "DET",
+      "count": 1,
+      "top_form": "quamlibet",
+      "top_sid": "pliny_10_96.3",
+      "whitakers_raw": "libet                TACKON                             \nPACKON w/qui-anyone; -whatever; what you will; no matter which;\nqu.i                 PRON   1 0 DAT S X                 \nqu.i                 P"
+    },
+    {
+      "lemma": "resedio",
+      "upos": "VERB",
+      "count": 1,
+      "top_form": "resedisset",
+      "top_sid": "pliny_6_16.19",
+      "whitakers_raw": "Two words            \nMay be 2 words combined (res+edio) If not obvious, probably incorrect\nedi.o                ADJ    1 1 DAT S M POS             \nedi.o                ADJ    1 1 DAT S N POS        "
+    },
+    {
+      "lemma": "seceo",
+      "upos": "VERB",
+      "count": 1,
+      "top_form": "Secunde",
+      "top_sid": "pliny_10_97.0",
+      "whitakers_raw": "e                    SUFFIX                             \nmake of;\nsece.o               ADJ    1 1 DAT S M POS             \nsece.o               ADJ    1 1 DAT S N POS             \nsece.o              "
+    },
+    {
+      "lemma": "sollemnes",
+      "upos": "NOUN",
+      "count": 1,
+      "top_form": "Sollemne",
+      "top_sid": "pliny_10_96.0",
+      "whitakers_raw": "sollemn.es           ADJ    3 2 NOM P C POS             \nsollemn.es           ADJ    3 2 VOC P C POS             \nsollemn.es           ADJ    3 2 ACC P C POS             \nsollemnis, sollemne, sollemni"
+    },
+    {
+      "lemma": "solo",
+      "upos": "VERB",
+      "count": 1,
+      "top_form": "solabantur",
+      "top_sid": "pliny_6_16.30",
+      "whitakers_raw": "sol.o                N      2 2 DAT S N                 \nsol.o                N      2 2 ABL S N                 \nsolum, soli  N (2nd) N   [XXXBX]  \nbottom, ground, floor; soil, land;\r\nsol.o          "
+    },
+    {
+      "lemma": "sparsus",
+      "upos": "ADJ",
+      "count": 1,
+      "top_form": "sparsosque",
+      "top_sid": "pliny_7_27.38",
+      "whitakers_raw": "spars.us             VPAR   3 1 NOM S M PERF PASSIVE PPL\nspargo, spargere, sparsi, sparsus  V (3rd)   [XXXAX]  \nscatter, strew, sprinkle; spot;"
+    },
+    {
+      "lemma": "spatio",
+      "upos": "VERB",
+      "count": 1,
+      "top_form": "spatiabatur",
+      "top_sid": "pliny_7_27.4",
+      "whitakers_raw": "spati.o              N      2 4 DAT S N                 \nspati.o              N      2 4 ABL S N                 \nspatium, spati(i)  N (2nd) N   [XXXAO]  \nspace; area/expanse, room (for); intervening "
+    },
+    {
+      "lemma": "studo",
+      "upos": "VERB",
+      "count": 1,
+      "top_form": "studebatque",
+      "top_sid": "pliny_6_16.8",
+      "whitakers_raw": "Two words            \nMay be 2 words combined (st+udo) If not obvious, probably incorrect\nst                   INTERJ                             \nst  INTERJ   [XXXDX]    lesser\nhush!  hist!;\r\nud.o   "
+    },
+    {
+      "lemma": "super",
+      "upos": "ADP",
+      "count": 1,
+      "top_form": "super",
+      "top_sid": "pliny_6_16.32",
+      "whitakers_raw": "sup.er               V      1 1 PRES PASSIVE SUB 1 S    \nsupo, supare, supavi, supatus  V (1st) TRANS   [XXXFO]    veryrare\nthrow; pour; strew, scatter; (usu. only in compounds);\r\nsuper               "
+    },
+    {
+      "lemma": "tamquam",
+      "upos": "SCONJ",
+      "count": 1,
+      "top_form": "tamquam",
+      "top_sid": "pliny_10_96.4",
+      "whitakers_raw": "tamquam              CONJ                               \ntamquam  CONJ   [XXXAX]  \nas, just as, just as if; as it were, so to speak; as much as; so as;"
+    },
+    {
+      "lemma": "tenuis",
+      "upos": "NOUN",
+      "count": 1,
+      "top_form": "Tenuis",
+      "top_sid": "pliny_7_27.3",
+      "whitakers_raw": "tenu.is              ADJ    3 2 NOM S C POS             \ntenu.is              ADJ    3 2 VOC S C POS             \ntenu.is              ADJ    3 2 GEN S X POS             \ntenu.is              ADJ    3"
+    },
+    {
+      "lemma": "utque",
+      "upos": "SCONJ",
+      "count": 1,
+      "top_form": "utque",
+      "top_sid": "pliny_6_16.20",
+      "whitakers_raw": "que                  TACKON                             \n-que = and (enclitic, translated before attached word); completes plerus/uter;\nut                   CONJ                               \nut  CON"
+    },
+    {
+      "lemma": "vagatus",
+      "upos": "ADJ",
+      "count": 1,
+      "top_form": "vagata",
+      "top_sid": "pliny_10_96.21",
+      "whitakers_raw": "vagat.us             VPAR   1 1 NOM S M PERF         PPL\nvagor, vagari, vagatus sum  V (1st) DEP   [XXXBX]  \nwander, roam;"
+    },
+    {
+      "lemma": "vastus",
+      "upos": "NOUN",
+      "count": 1,
+      "top_form": "vastum",
+      "top_sid": "pliny_6_16.31",
+      "whitakers_raw": "vast.us              ADJ    1 1 NOM S M POS             \nvastus, vasta -um, vastior -or -us, vastissimus -a -um  ADJ   [XXXBX]  \nhuge, vast; monstrous;"
+    },
+    {
+      "lemma": "velleo",
+      "upos": "VERB",
+      "count": 1,
+      "top_form": "vellet",
+      "top_sid": "pliny_7_27.14",
+      "whitakers_raw": "Two words            \nMay be 2 words combined (vel+leo) If not obvious, probably incorrect\nleo                  N      3 1 NOM S M                 \nleo                  N      3 1 VOC S M             "
+    },
+    {
+      "lemma": "venias",
+      "upos": "ADJ",
+      "count": 1,
+      "top_form": "veniam",
+      "top_sid": "pliny_10_97.2",
+      "whitakers_raw": "veni.as              V      4 1 PRES ACTIVE  SUB 2 S    \nvenio, venire, veni, ventus  V (4th)   [XXXAX]  \ncome;\r\nveni.as              N      1 1 ACC P F                 \nvenia, veniae  N (1st) F   [XX"
+    },
+    {
+      "lemma": "victum",
+      "upos": "ADJ",
+      "count": 1,
+      "top_form": "victimas",
+      "top_sid": "pliny_10_96.22",
+      "whitakers_raw": "vict.um              N      4 1 ACC S M                 \nvictus, victus  N (4th) M   [XXXBX]  \nliving, way of life; that which sustains life; nourishment; provisions; diet;\r\nvict.um              VPAR "
+    }
+  ],
+  "propn": [
+    {
+      "lemma": "vesuvium",
+      "upos": "NOUN",
+      "count": 2,
+      "top_form": "Vesuvium",
+      "top_sid": "pliny_6_16.9"
+    },
+    {
+      "lemma": "oraes",
+      "upos": "PROPN",
+      "count": 1,
+      "top_form": "orae)",
+      "top_sid": "pliny_6_16.15"
+    }
+  ],
+  "low_frequency_rare": [
+    "abominus",
+    "anguo",
+    "auribo",
+    "circumo",
+    "claeo",
+    "concirgo",
+    "depulo",
+    "dilapdo",
+    "discriminus",
+    "dispo",
+    "effono",
+    "elascor",
+    "excirlo",
+    "excuto",
+    "exterro",
+    "fateo",
+    "gustaveo",
+    "hetaerius",
+    "huo",
+    "illitto",
+    "imagio",
+    "innuebo",
+    "innuenio",
+    "interfuerus",
+    "interfuo",
+    "inusito",
+    "invingo",
+    "invono",
+    "iuss",
+    "lenieo",
+    "mallo",
+    "nav",
+    "nigeos",
+    "obuo",
+    "periclito",
+    "pomponia",
+    "proiecio",
+    "quamo",
+    "quatieo",
+    "quievo",
+    "respo",
+    "ruino",
+    "sarcinus",
+    "sedus",
+    "septembe",
+    "studius",
+    "sulpus",
+    "surrexo",
+    "tascus",
+    "tunicus",
+    "turs",
+    "vigintus"
+  ],
+  "other": []
+}

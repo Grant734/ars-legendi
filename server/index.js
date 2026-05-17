@@ -8,6 +8,7 @@ import multer from "multer";
 import { fileURLToPath } from "url";
 import rateLimit from 'express-rate-limit';
 import caesarRouter from "./routes/caesar.mjs";
+import textRouter from "./routes/text.mjs";
 import authRouter from "./routes/auth.mjs";
 import classesRouter from "./routes/classes.mjs";
 import studentDataRouter from "./routes/studentData.mjs";
@@ -100,10 +101,30 @@ app.use("/uploads", express.static(uploadDir));
 app.get("/api/health", (req, res) => res.json({ ok: true }));
 
 // --- core routes ---
-app.use("/api/caesar", caesarRouter);
+app.use("/api/caesar", caesarRouter);           // Legacy mount (backward compat)
+app.use("/api/text/:textId", textRouter);       // New parameterized mount
 app.use("/api/auth", authRouter);
 app.use("/api/classes", classesRouter);
 app.use("/api/student", studentDataRouter);
+
+// --- text registry endpoint ---
+const textsConfigPath = path.join(__dirname, "config", "texts.json");
+app.get("/api/texts", (req, res) => {
+  try {
+    const raw = fs.readFileSync(textsConfigPath, "utf8");
+    const config = JSON.parse(raw);
+    const list = Object.values(config).map(t => ({
+      id: t.id,
+      displayName: t.displayName,
+      shortName: t.shortName,
+      chapterLabel: t.chapterLabel,
+      chapterIdFormat: t.chapterIdFormat,
+    }));
+    res.json({ texts: list });
+  } catch (e) {
+    res.status(500).json({ error: "Could not load texts config" });
+  }
+});
 
 
 // Optional (only mounts if file exists)

@@ -1,0 +1,108 @@
+[
+  {
+    "lemma": "adsum",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "adsum",
+          "adesse",
+          "adfui",
+          "adfuturus"
+        ]
+      },
+      "dictionary_entry": "adsum, adesse, adfui, adfuturus",
+      "glosses": [
+        "be near, be present, be in attendance, arrive, appear",
+        "aid"
+      ],
+      "source": "WhitakersWords",
+      "source_key": "adsum"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "ads.um               V      5 1 PRES ACTIVE  IND 1 S",
+      "adsum, adesse, adfui, adfuturus  V   [XXXAO]",
+      "adsum, adesse, arfui, arfuturus  V   [BXXCS]    Early",
+      "be near, be present, be in attendance, arrive, appear; aid (w/DAT);"
+    ]
+  },
+  {
+    "lemma": "affero",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "affero",
+          "afferre",
+          "attuli",
+          "allatus"
+        ],
+        "transitivity": "transitive"
+      },
+      "dictionary_entry": "affero, afferre, attuli, allatus",
+      "glosses": [
+        "bring to , carry, convey",
+        "report, allege, announce",
+        "produce, cause"
+      ],
+      "source": "WhitakersWords",
+      "source_key": "affero"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "affer.o              V      3 2 PRES ACTIVE  IND 1 S",
+      "affero, afferre, attuli, allatus  V TRANS   [XXXAO]",
+      "bring to (word/food), carry, convey; report, allege, announce; produce, cause;"
+    ]
+  },
+  {
+    "lemma": "edo",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "edo",
+          "edere",
+          "ededi",
+          "edesum"
+        ]
+      },
+      "dictionary_entry": "edo, edere, ededi, edesum",
+      "glosses": [
+        "eat (for syn"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "edo1"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "ed.o                 N      2 1 DAT S M",
+      "ed.o                 N      2 1 ABL S M",
+      "edus, edi  N (2nd) M   [XAXFO]    veryrare",
+      "kid, young goat; two stars in constellation Auriga (Charioteer), \"The Kid\";",
+      "ed.o                 V      3 1 PRES ACTIVE  IND 1 S",
+      "edo, edere, edi, esus  V (3rd) TRANS   [XXXCO]",
+      "edo, edere, edi, essus  V (3rd) TRANS   [XXXCO]",
+      "eat/consume/devour; eat away (fire/water/disease); destroy; spend money on food",
+      "ed.o                 V      1 1 PRES ACTIVE  IND 1 S",
+      "edo, edare, edidi, editus  V (1st) TRANS   [XXXAO]",
+      "eject/emit; put/give forth (buds); beget; bear (fruit); display/evince/exhibit;",
+      "utter solemnly; pronounce/decree (oracle); deliver (message); issue (command);",
+      "publish; disclose, tell, relate, make known; declare, make formal statement;",
+      "cause; see birth of; be birthplace/breeding ground of; debouch (river PASS);",
+      "bring forth,  produce/yield (crops), give birth to (often PASS PERF VPAR);",
+      "notify of suit; nominate for jury; appoint/set (a time); bring witnesses;",
+      "present (documents for inspection; put on (play); hold (banquet); uplift;"
+    ]
+  }
+]

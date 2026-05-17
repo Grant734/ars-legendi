@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { GRAMMAR_LESSONS } from "../data/grammarLessons";
-import { fetchExamples, fetchSentenceBundle } from "../lib/caesarApi";
+import { fetchExamples, fetchSentenceBundle } from "../lib/textApi";
+import { useText } from "../components/TextSelector";
 import CaesarSentence from "../components/CaesarSentence";
 import GrammarQuiz from "./GrammarQuiz";
 import { getQuizConfig } from "../data/grammarQuizConfigs";
@@ -15,6 +16,7 @@ function Card({ title, children }) {
 }
 
 function ExampleBrowser({ lessonTypes }) {
+  const { currentTextId } = useText();
   const [data, setData] = useState(null);
   const [err, setErr] = useState(null);
 
@@ -29,7 +31,7 @@ function ExampleBrowser({ lessonTypes }) {
     setActiveIndex(0);
     setActiveBundle(null);
 
-    fetchExamples(lessonTypes)
+    fetchExamples(currentTextId, lessonTypes)
       .then((d) => {
         if (!alive) return;
         setData(d);
@@ -42,7 +44,7 @@ function ExampleBrowser({ lessonTypes }) {
     return () => {
       alive = false;
     };
-  }, [lessonTypes?.join(",")]);
+  }, [lessonTypes?.join(","), currentTextId]);
 
   const items = data?.items || [];
   const activeSid = items[activeIndex]?.sid;
@@ -53,7 +55,7 @@ function ExampleBrowser({ lessonTypes }) {
     setShowTranslation(false);
     if (!activeSid) return;
 
-    fetchSentenceBundle(activeSid)
+    fetchSentenceBundle(currentTextId, activeSid)
       .then((b) => {
         if (!alive) return;
         setActiveBundle(b?.sentence || b);
@@ -76,7 +78,7 @@ function ExampleBrowser({ lessonTypes }) {
     <div style={{ display: "grid", gridTemplateColumns: "260px 1fr", gap: 12 }}>
       <div style={{ border: "1px solid #eee", borderRadius: 14, background: "#fafafa", overflow: "hidden" }}>
         <div style={{ padding: 10, borderBottom: "1px solid #eee", fontSize: 12, opacity: 0.8 }}>
-          Instances (DBG1 order): {items.length}
+          Instances (text order): {items.length}
         </div>
         <div style={{ maxHeight: 420, overflow: "auto" }}>
           {items.map((it, idx) => {
@@ -96,7 +98,7 @@ function ExampleBrowser({ lessonTypes }) {
                   fontSize: 13,
                 }}
               >
-                <div style={{ fontWeight: on ? 900 : 600 }}>DBG1 {it.sid}</div>
+                <div style={{ fontWeight: on ? 900 : 600 }}>{it.sid}</div>
                 <div style={{ fontSize: 12, opacity: 0.7 }}>ch {it.chapter}</div>
               </button>
             );
@@ -106,7 +108,7 @@ function ExampleBrowser({ lessonTypes }) {
 
       <div style={{ border: "1px solid #eee", borderRadius: 14, padding: 12, background: "#fff" }}>
         <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", gap: 10, marginBottom: 10 }}>
-          <div style={{ fontWeight: 900 }}>{activeSid ? `DBG1 ${activeSid}` : "Select an example"}</div>
+          <div style={{ fontWeight: 900 }}>{activeSid ? activeSid : "Select an example"}</div>
           <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
             <button
               onClick={() => setActiveIndex((i) => Math.max(0, i - 1))}
@@ -148,6 +150,7 @@ function ExampleBrowser({ lessonTypes }) {
 }
 
 export default function GrammarLessonView({ lessonKey, variant = "page" }) {
+  const { currentTextId } = useText();
   const lesson = GRAMMAR_LESSONS[String(lessonKey || "")];
 
   if (!lesson) return <div style={{ color: "#b00020" }}>Unknown lesson: {String(lessonKey || "")}</div>;
@@ -194,9 +197,9 @@ export default function GrammarLessonView({ lessonKey, variant = "page" }) {
       )}
 
       {reverseSearchEnabled && (
-        <Card title="Caesar Examples (Reverse Search)">
+        <Card title="Examples (Reverse Search)">
           <div style={{ fontSize: 13, color: "#444", marginBottom: 10 }}>
-            All tagged instances in DBG1, in Caesar order.
+            All tagged instances in text order.
           </div>
           <ExampleBrowser lessonTypes={lesson.constructionTypes} />
         </Card>

@@ -1,0 +1,27 @@
+{
+  "6_16": [
+    {"part": 1, "title": "The dedication and frame", "startSidIndex": 0, "endSidIndex": 5},
+    {"part": 2, "title": "The cloud appears", "startSidIndex": 6, "endSidIndex": 12},
+    {"part": 3, "title": "The rescue mission", "startSidIndex": 13, "endSidIndex": 18},
+    {"part": 4, "title": "At Stabiae", "startSidIndex": 19, "endSidIndex": 29},
+    {"part": 5, "title": "The death and aftermath", "startSidIndex": 30, "endSidIndex": 40}
+  ],
+  "7_27": [
+    {"part": 1, "title": "Frame", "startSidIndex": 0, "endSidIndex": 1},
+    {"part": 2, "title": "The Curtius Rufus story", "startSidIndex": 2, "endSidIndex": 8},
+    {"part": 3, "title": "The haunted house: setup", "startSidIndex": 9, "endSidIndex": 22},
+    {"part": 4, "title": "The haunted house: resolution", "startSidIndex": 23, "endSidIndex": 29},
+    {"part": 5, "title": "Pliny's own household", "startSidIndex": 30, "endSidIndex": 44}
+  ],
+  "10_96": [
+    {"part": 1, "title": "Procedural questions", "startSidIndex": 0, "endSidIndex": 3},
+    {"part": 2, "title": "Method of interrogation", "startSidIndex": 4, "endSidIndex": 15},
+    {"part": 3, "title": "Findings and conclusions", "startSidIndex": 16, "endSidIndex": 23}
+  ],
+  "10_97": [
+    {"part": 1, "title": "Trajan's reply", "startSidIndex": 0, "endSidIndex": 4}
+  ],
+  "6_4": [
+    {"part": 1, "title": "Letter to Calpurnia", "startSidIndex": 0, "endSidIndex": 7}
+  ]
+}

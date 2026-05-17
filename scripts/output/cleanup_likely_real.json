@@ -1,0 +1,3965 @@
+[
+  {
+    "lemma": "absentio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "absento",
+          "absentare",
+          "absentavi",
+          "absentatus"
+        ]
+      },
+      "dictionary_entry": "absento, absentare, absentavi, absentatus",
+      "glosses": [
+        "be absent",
+        "keep at a distance"
+      ],
+      "source": "ManualReview",
+      "source_key": "absento"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "absentio             N      3 1 NOM S F",
+      "absentio             N      3 1 VOC S F",
+      "absentio, absentionis  N (3rd) F   [DXXFS]    Late  veryrare",
+      "holding back, restraining;"
+    ]
+  },
+  {
+    "lemma": "admiror",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "admiror",
+          "admirorare",
+          "atus",
+          null
+        ]
+      },
+      "dictionary_entry": "admiror, admirorare, atus",
+      "glosses": [
+        "wonder at",
+        "be astonished at",
+        "regard with admiration",
+        "admire"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "admiror"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "admir.or             V      1 1 PRES         IND 1 S",
+      "admiror, admirari, admiratus sum  V (1st) DEP   [XXXBO]",
+      "admire, respect; regard with wonder, wonder at; be surprised at, be astonished;"
+    ]
+  },
+  {
+    "lemma": "aro",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "aro",
+          "arare",
+          "araui",
+          "aratum"
+        ]
+      },
+      "dictionary_entry": "aro, arare, araui, aratum",
+      "glosses": [
+        "plough",
+        "till."
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "aro"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "ar.o                 N      2 2 DAT S N",
+      "ar.o                 N      2 2 ABL S N",
+      "arum, ari  N (2nd) N   [XAXEO]    uncommon",
+      "ar.o                 N      2 6 DAT S F",
+      "ar.o                 N      2 6 ABL S F",
+      "aros, ari  N F   [XAXNO]    Pliny",
+      "ar.o                 N      2 8 DAT S N",
+      "ar.o                 N      2 8 ABL S N",
+      "aron, ari  N N   [XAXNO]    Pliny",
+      "plants of genus arum;",
+      "ar.o                 V      1 1 PRES ACTIVE  IND 1 S",
+      "aro, arare, aravi, aratus  V (1st) TRANS   [XAXBO]",
+      "plow, till, cultivate; produce by plowing, grow; furrow, wrinkle;"
+    ]
+  },
+  {
+    "lemma": "ascisco",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "ascisco",
+          "asciscere",
+          "asciscitum",
+          null
+        ]
+      },
+      "dictionary_entry": "ascisco, asciscere, asciscitum",
+      "glosses": [
+        "approve",
+        "take or receive a thing with knowledge (and approbation)",
+        "receive as true : :",
+        "§ : : .—"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "ascisco"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "ascisc.o             V      3 1 PRES ACTIVE  IND 1 S",
+      "ascisco, asciscere, ascivi, ascitus  V (3rd) TRANS   [XXXAO]",
+      "adopt, assume; receive, admit, approve of, associate; take over, claim;"
+    ]
+  },
+  {
+    "lemma": "cauio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "cauo",
+          "cauare",
+          "cauaui",
+          "cauatum"
+        ]
+      },
+      "dictionary_entry": "cauo, cauare, cauaui, cauatum",
+      "glosses": [
+        "make hollow",
+        "hollow out",
+        "excavate (class.",
+        "but not in Cic."
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "cavo"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "i                    SUFFIX",
+      "makes abstract noun of the verb; place/instrument/result of verb action;",
+      "caui.o               N      2 2 DAT S N",
+      "caui.o               N      2 2 ABL S N",
+      "caveo, cavere, cavi, cautus  V (2nd)   [XXXAO]",
+      "beware, avoid, take precautions/defensive action; give/get surety; stipulate;",
+      "cavo, cavare, cavavi, cavatus  V (1st) TRANS   [XTXBO]",
+      "hollow out, make concave/hollow; excavate; cut/pierce through; carve in relief;",
+      "io                   SUFFIX",
+      "-ing, -ion, -ery; the action or result of the action of the verb;",
+      "cauio                N      3 1 NOM S F",
+      "cauio                N      3 1 VOC S F",
+      "caveo, cavere, cavi, cautus  V (2nd)   [XXXAO]",
+      "beware, avoid, take precautions/defensive action; give/get surety; stipulate;",
+      "cavo, cavare, cavavi, cavatus  V (1st) TRANS   [XTXBO]",
+      "hollow out, make concave/hollow; excavate; cut/pierce through; carve in relief;"
+    ]
+  },
+  {
+    "lemma": "coemio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "coemo",
+          "coemere",
+          "coemi",
+          "coemptus"
+        ]
+      },
+      "dictionary_entry": "coemo, coemere, coemi, coemptus",
+      "glosses": [
+        "buy up",
+        "purchase together"
+      ],
+      "source": "ManualReview",
+      "source_key": "coemo"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "i                    SUFFIX",
+      "makes abstract noun of the verb; place/instrument/result of verb action;",
+      "coemi.o              N      2 2 DAT S N",
+      "coemi.o              N      2 2 ABL S N",
+      "coemo, coemere, coemi, coemptus  V (3rd) TRANS   [XXXCO]",
+      "buy; buy up;",
+      "io                   SUFFIX",
+      "-ing, -ion, -ery; the action or result of the action of the verb;",
+      "coemio               N      3 1 NOM S F",
+      "coemio               N      3 1 VOC S F",
+      "coemo, coemere, coemi, coemptus  V (3rd) TRANS   [XXXCO]",
+      "buy; buy up;"
+    ]
+  },
+  {
+    "lemma": "cohorto",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "cohorto",
+          "cohortare",
+          null,
+          null
+        ]
+      },
+      "dictionary_entry": "cohorto, cohortare",
+      "glosses": [
+        "exhort",
+        "encourage : et dicerent castra capta esse",
+        "atque hos cohortarent uti maturarent",
+        "Quadrig"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "cohorto"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "cohort.o             V      1 1 PRES ACTIVE  IND 1 S",
+      "cohorto, cohortare, cohortavi, cohortatus  V (1st) TRANS   [DXXES]    Late  uncommon",
+      "encourage, exhort;"
+    ]
+  },
+  {
+    "lemma": "commonefacio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "commonefacio",
+          "commonefacere",
+          "commonefeci",
+          "commonefactus"
+        ],
+        "transitivity": "transitive"
+      },
+      "dictionary_entry": "commonefacio, commonefacere, commonefeci, commonefactus",
+      "glosses": [
+        "recall, remember",
+        "call to mind",
+        "remind , warn, admonish",
+        "impress upon"
+      ],
+      "source": "WhitakersWords",
+      "source_key": "commonefacio"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "commonefaci.o        V      3 1 PRES ACTIVE  IND 1 S",
+      "commonefacio, commonefacere, commonefeci, commonefactus  V (3rd) TRANS   [XXXCO]",
+      "recall, remember; call to mind; remind (forcibly), warn, admonish; impress upon"
+    ]
+  },
+  {
+    "lemma": "concilio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "concilio",
+          "concilare",
+          "conciliaui",
+          "conciliatum"
+        ]
+      },
+      "dictionary_entry": "concilio, concilare, conciliaui, conciliatum",
+      "glosses": [
+        "unite",
+        "connect (class"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "concilio"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "concili.o            N      2 4 DAT S N",
+      "concili.o            N      2 4 ABL S N",
+      "concilium, concili(i)  N (2nd) N   [XXXBO]",
+      "public gathering/meeting; popular assembly, council; hearing; debate/discussion",
+      "association, society, company; union/connection (of objects); league of states;",
+      "sexual union/coition; close conjunction; bond of union; plant iasione blossom;",
+      "concili.o            V      1 1 PRES ACTIVE  IND 1 S",
+      "concilio, conciliare, conciliavi, conciliatus  V (1st) TRANS   [XXXAO]",
+      "unite, bring together/about; cause; win over, attract; acquire, procure, buy;",
+      "attract favor of, render favorably disposed; commend, endear; acquire; gain;",
+      "bring a woman to man as wife, match; procure as a mistress; obtain improperly;"
+    ]
+  },
+  {
+    "lemma": "confidio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "confido",
+          "confidere",
+          "confidfisus sum",
+          null
+        ]
+      },
+      "dictionary_entry": "confido, confidere, confidfisus sum",
+      "glosses": [
+        "trust confidently in something",
+        "confide in",
+        "rely firmly upon",
+        "believe"
+      ],
+      "normalized_lookup": "confido",
+      "source": "LewisShortPerseusXML",
+      "source_key": "confido"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "i                    SUFFIX",
+      "makes abstract noun of the verb; place/instrument/result of verb action;",
+      "confidi.o            N      2 2 DAT S N",
+      "confidi.o            N      2 2 ABL S N",
+      "confideo, confidere, confisus sum  V (2nd) SEMIDEP   [EXXFW]    Later  veryrare",
+      "rely on, trust (to); believe, be confident/assured/sure; (Vulgate 4 Ezra 7:98);",
+      "confido, confidere, confisus sum  V (3rd) SEMIDEP   [XXXBO]",
+      "have confidence in, rely on, trust (to); believe, be confident/assured; be sure",
+      "io                   SUFFIX",
+      "-ing, -ion, -ery; the action or result of the action of the verb;",
+      "confidio             N      3 1 NOM S F",
+      "confidio             N      3 1 VOC S F",
+      "confideo, confidere, confisus sum  V (2nd) SEMIDEP   [EXXFW]    Later  veryrare",
+      "rely on, trust (to); believe, be confident/assured/sure; (Vulgate 4 Ezra 7:98);",
+      "confido, confidere, confisus sum  V (3rd) SEMIDEP   [XXXBO]",
+      "have confidence in, rely on, trust (to); believe, be confident/assured; be sure"
+    ]
+  },
+  {
+    "lemma": "confido",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "confido",
+          "confidere",
+          "confidfisus sum",
+          null
+        ]
+      },
+      "dictionary_entry": "confido, confidere, confidfisus sum",
+      "glosses": [
+        "trust confidently in something",
+        "confide in",
+        "rely firmly upon",
+        "believe"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "confido"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "confid.o             V      3 1 PRES ACTIVE  IND 1 S",
+      "confido, confidere, confisus sum  V (3rd) SEMIDEP   [XXXBO]",
+      "have confidence in, rely on, trust (to); believe, be confident/assured; be sure"
+    ]
+  },
+  {
+    "lemma": "congredior",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "congredior",
+          "congrediorere",
+          "gressus",
+          null
+        ]
+      },
+      "dictionary_entry": "congredior, congrediorere, gressus",
+      "glosses": [
+        "go",
+        "come",
+        "or meet with one",
+        "esp"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "congredior"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "congredi.or          V      3 1 PRES         IND 1 S",
+      "congredior, congredi, congressus sum  V (3rd) DEP   [XXXBO]",
+      "congredi.or          V      4 1 PRES         IND 1 S",
+      "congredior, congrediri, congressus sum  V (4th) DEP   [BXXEO]    Early  uncommon",
+      "meet, approach, near; join in battle, come to grips; contend/engage (at law);"
+    ]
+  },
+  {
+    "lemma": "conicio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "conicio",
+          "conicere",
+          "conicijeci",
+          "conicijectum"
+        ]
+      },
+      "dictionary_entry": "conicio, conicere, conicijeci, conicijectum",
+      "glosses": [
+        "throw together"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "conicio"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "conici.o             V      3 1 PRES ACTIVE  IND 1 S",
+      "conicio, conicere, conjeci, conjectus  V (3rd) TRANS   [XXXAO]",
+      "throw/put/pile together; conclude, infer/guess; assign, make go; classify, put;",
+      "throw/cast/fling (into area); devote/pour (money); thrust, involve; insert;"
+    ]
+  },
+  {
+    "lemma": "consedio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "consedo",
+          "consedare",
+          "consedavi",
+          "consedatus"
+        ],
+        "transitivity": "transitive"
+      },
+      "dictionary_entry": "consedo, consedare, consedavi, consedatus",
+      "glosses": [
+        "stop, check, allay",
+        "still, quiet"
+      ],
+      "source": "WhitakersWords",
+      "source_key": "consedio"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "i                    SUFFIX",
+      "makes abstract noun of the verb; place/instrument/result of verb action;",
+      "consedi.o            N      2 2 DAT S N",
+      "consedi.o            N      2 2 ABL S N",
+      "consedo, consedare, consedavi, consedatus  V (1st) TRANS   [XXXFO]    veryrare",
+      "stop, check, allay; still, quiet (L+S);",
+      "io                   SUFFIX",
+      "-ing, -ion, -ery; the action or result of the action of the verb;",
+      "consedio             N      3 1 NOM S F",
+      "consedio             N      3 1 VOC S F",
+      "consedo, consedare, consedavi, consedatus  V (1st) TRANS   [XXXFO]    veryrare",
+      "stop, check, allay; still, quiet (L+S);"
+    ]
+  },
+  {
+    "lemma": "conspicio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "conspicio",
+          "conspicere",
+          "conspexi",
+          "conspectus"
+        ],
+        "transitivity": "transitive"
+      },
+      "dictionary_entry": "conspicio, conspicere, conspexi, conspectus",
+      "glosses": [
+        "observe/see/witness",
+        "notice",
+        "watch",
+        "gaze/stare on",
+        "catch/be in sight of"
+      ],
+      "source": "WhitakersWords",
+      "source_key": "conspicio"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "conspici.o           V      3 1 PRES ACTIVE  IND 1 S",
+      "conspicio, conspicere, conspexi, conspectus  V (3rd) TRANS   [XXXBO]",
+      "observe/see/witness; notice; watch; gaze/stare on; catch/be in sight of; face;",
+      "have appearance; attract attention; discern; (PASS) be conspicuous/visible;",
+      "conspicio            N      3 1 NOM S F",
+      "conspicio            N      3 1 VOC S F",
+      "conspicio, conspicionis  N (3rd) F   [XXXEO]    uncommon",
+      "looking/observing/discerning, action of looking; (augury);"
+    ]
+  },
+  {
+    "lemma": "conuergo",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "conuergo",
+          "conuergere",
+          null,
+          null
+        ]
+      },
+      "dictionary_entry": "conuergo, conuergere",
+      "glosses": [
+        "incline together (late Lat.): ."
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "convergo"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "conuerg.o            V      3 1 PRES ACTIVE  IND 1 S",
+      "convergo, convergere, -, -  V (3rd) INTRANS   [DXXFS]    Late  veryrare",
+      "incline together;"
+    ]
+  },
+  {
+    "lemma": "crucio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "crucio",
+          "crucare",
+          "cruciaui",
+          "cruciatum"
+        ]
+      },
+      "dictionary_entry": "crucio, crucare, cruciaui, cruciatum",
+      "glosses": [
+        "put to death on the cross",
+        "crucify (only in eccl"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "crucio"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "cruci.o              V      1 1 PRES ACTIVE  IND 1 S",
+      "crucio, cruciare, cruciavi, cruciatus  V (1st)   [XXXBO]",
+      "torment, torture; cause grief/anguish; crucify; suffer torture/agony; grieve;"
+    ]
+  },
+  {
+    "lemma": "cupio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "cupio",
+          "cupere",
+          "cupiiui or ii",
+          "cupiitum"
+        ]
+      },
+      "dictionary_entry": "cupio, cupere, cupiiui or ii, cupiitum",
+      "glosses": [
+        "be in active motion",
+        "be angry"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "cupio"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "cupi.o               V      3 1 PRES ACTIVE  IND 1 S",
+      "cupio, cupere, cupivi, cupitus  V (3rd) TRANS   [XXXBO]",
+      "wish/long/be eager for; desire/want, covet; desire as a lover; favor, wish well"
+    ]
+  },
+  {
+    "lemma": "decipio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "decipio",
+          "decipere",
+          "decipicepi",
+          "decipiceptum"
+        ]
+      },
+      "dictionary_entry": "decipio, decipere, decipicepi, decipiceptum",
+      "glosses": [
+        "catch",
+        "ensnare",
+        "entrap",
+        "beguile"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "decipio"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "decipi.o             V      3 1 PRES ACTIVE  IND 1 S",
+      "decipio, decipere, decepi, deceptus  V (3rd) TRANS   [XXXBO]",
+      "cheat/deceive/mislead/dupe/trap; elude/escape notice; disappoint/frustrate/foil"
+    ]
+  },
+  {
+    "lemma": "denuntio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "denuntio",
+          "denuntare",
+          "denuntiaui",
+          "denuntiatum"
+        ]
+      },
+      "dictionary_entry": "denuntio, denuntare, denuntiaui, denuntiatum",
+      "glosses": [
+        "give an official intimation",
+        "make an official announcement or declaration of one's intentions (by means of a messenger",
+        "herald",
+        "etc.)"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "denuntio"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "denunti.o            V      1 1 PRES ACTIVE  IND 1 S",
+      "denuntio, denuntiare, denuntiavi, denuntiatus  V (1st)   [XXXAO]",
+      "give notice, warn/foretell; threaten/enjoin/declare intent to injure; intimate;",
+      "announce, give official information; declare; summon (witness)/deliver summons;"
+    ]
+  },
+  {
+    "lemma": "despicio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "despicio",
+          "despicere",
+          "despexi",
+          "despectus"
+        ]
+      },
+      "dictionary_entry": "despicio, despicere, despexi, despectus",
+      "glosses": [
+        "look down on/over",
+        "relax attention",
+        "disdain, despise",
+        "express contempt for"
+      ],
+      "source": "WhitakersWords",
+      "source_key": "despicio"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "despici.o            V      3 1 PRES ACTIVE  IND 1 S",
+      "despicio, despicere, despexi, despectus  V (3rd)   [XXXBO]",
+      "look down on/over; relax attention; disdain, despise; express contempt for;"
+    ]
+  },
+  {
+    "lemma": "duodecim",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "duodecim",
+        "pos": "other"
+      },
+      "dictionary_entry": "duodecim",
+      "glosses": [
+        "twelve"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "duodecim"
+    },
+    "upos_from_vocab": "NUM",
+    "whitakers_lookup": [
+      "duodecim             NUM    2 0 X   X X CARD",
+      "duodecim, duodecimus -a -um, duodeni -ae -a, duodecie (n)s  NUM   [XXXAX]",
+      "12 - (CARD answers 'how many');"
+    ]
+  },
+  {
+    "lemma": "efficio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "efficio",
+          "efficere",
+          "efficifeci",
+          "efficifectum"
+        ]
+      },
+      "dictionary_entry": "efficio, efficere, efficifeci, efficifectum",
+      "glosses": [
+        "make out",
+        "work out"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "efficio"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "effici.o             V      3 1 PRES ACTIVE  IND 1 S",
+      "efficio, efficere, effeci, effectus  V (3rd)   [XXXAX]",
+      "bring about; effect, execute, cause; accomplish; make, produce; prove;"
+    ]
+  },
+  {
+    "lemma": "emeo",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "emo",
+          "emere",
+          "emi",
+          "emptus"
+        ]
+      },
+      "dictionary_entry": "emo, emere, emi, emptus",
+      "glosses": [
+        "buy",
+        "purchase",
+        "obtain"
+      ],
+      "source": "ManualReview",
+      "source_key": "emo"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "e                    PREFIX",
+      "- out, away from; beyond; completely;",
+      "me.o                 V      1 1 PRES ACTIVE  IND 1 S",
+      "meo, meare, meavi, meatus  V (1st)   [XXXBX]",
+      "go along, pass, travel;"
+    ]
+  },
+  {
+    "lemma": "equester",
+    "issues": [
+      "WRONG_GLOSS_NOUN_FOR_ADJ"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "forms": [
+          "equester",
+          "tris,",
+          "tre"
+        ],
+        "pos": "adjective"
+      },
+      "dictionary_entry": "equester, tris,, tre",
+      "glosses": [
+        "a horseman",
+        "equestrian."
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "equester"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "equester             N      3 1 NOM S M",
+      "equester             N      3 1 VOC S M",
+      "equester, equestris  N (3rd) M   [XXXDO]    lesser",
+      "knight; one of equestrian order/class (in Rome > 67 BC w/400_000 sesterces);",
+      "equester             ADJ    3 3 NOM S M POS",
+      "equester             ADJ    3 3 VOC S M POS",
+      "equester, equestris, equestre  ADJ   [XXXBO]",
+      "equestrian, mounted on horse; of/belonging to/consisting of horseman/cavalry;"
+    ]
+  },
+  {
+    "lemma": "eripio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "eripio",
+          "eripere",
+          "eripiipui",
+          "eripieptum"
+        ]
+      },
+      "dictionary_entry": "eripio, eripere, eripiipui, eripieptum",
+      "glosses": [
+        "snatch",
+        "tear",
+        "or pull out"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "eripio"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "eripi.o              V      3 1 PRES ACTIVE  IND 1 S",
+      "eripio, eripere, eripui, ereptus  V (3rd)   [XXXAX]",
+      "snatch away, take by force; rescue;"
+    ]
+  },
+  {
+    "lemma": "excipio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "excipio",
+          "excipere",
+          "excipicepi",
+          "excipiceptum"
+        ]
+      },
+      "dictionary_entry": "excipio, excipere, excipicepi, excipiceptum",
+      "glosses": [
+        "To take or draw out."
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "excipio"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "excipi.o             V      3 1 PRES ACTIVE  IND 1 S",
+      "excipio, excipere, excepi, exceptus  V (3rd)   [XXXAX]",
+      "take out; remove; follow; receive; ward off, relieve;"
+    ]
+  },
+  {
+    "lemma": "fames",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "fames",
+        "pos": "other"
+      },
+      "dictionary_entry": "fames",
+      "glosses": [
+        "leave",
+        "abandon"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "fames"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "fames                N      3 3 NOM S F",
+      "fames                N      3 3 VOC S F",
+      "fam.es               N      3 3 NOM P F",
+      "fam.es               N      3 3 VOC P F",
+      "fam.es               N      3 3 ACC P F",
+      "fames, famis  N (3rd) F   [XXXAX]",
+      "hunger; famine; want; craving;"
+    ]
+  },
+  {
+    "lemma": "fugio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "fugio",
+          "fugere",
+          "fugi",
+          "fugitus"
+        ]
+      },
+      "dictionary_entry": "fugio, fugere, fugi, fugitus",
+      "glosses": [
+        "flee, fly, run away",
+        "avoid, shun",
+        "go into exile"
+      ],
+      "source": "WhitakersWords",
+      "source_key": "fugio"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "fugi.o               V      3 1 PRES ACTIVE  IND 1 S",
+      "fugio, fugere, fugi, fugitus  V (3rd)   [XXXAX]",
+      "flee, fly, run away; avoid, shun; go into exile;"
+    ]
+  },
+  {
+    "lemma": "fugitiuus",
+    "issues": [
+      "WRONG_GLOSS_NOUN_FOR_ADJ"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "forms": [
+          "fugitiuus",
+          "a,",
+          "um"
+        ],
+        "pos": "adjective"
+      },
+      "dictionary_entry": "fugitiuus, a,, um",
+      "glosses": [
+        "a fugitive",
+        "runaway",
+        "deserter."
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "fugitivus"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "fugitiu.us           N      2 1 NOM S M",
+      "fugitivus, fugitivi  N (2nd) M   [XXXDX]    lesser",
+      "fugitive; deserter; runaway slave;",
+      "fugitiu.us           ADJ    1 1 NOM S M POS",
+      "fugitivus, fugitiva, fugitivum  ADJ   [XXXDX]    lesser",
+      "fugitive;"
+    ]
+  },
+  {
+    "lemma": "futurus",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "sum",
+          "esse",
+          "fui",
+          "futurus"
+        ]
+      },
+      "dictionary_entry": "sum, esse, fui, futurus",
+      "glosses": [
+        "be",
+        "exist",
+        "with NOM PERF PPL"
+      ],
+      "source": "WhitakersWords",
+      "source_key": "futurus"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "futur.us             ADJ    1 1 NOM S M POS",
+      "futurus, futura, futurum  ADJ   [XXXAX]",
+      "about to be; future;",
+      "fut.urus             VPAR   5 1 NOM S M FUT  ACTIVE  PPL",
+      "sum, esse, fui, futurus  V   [XXXAX]",
+      "be; exist; (also used to form verb perfect passive tenses) with NOM PERF PPL"
+    ]
+  },
+  {
+    "lemma": "graecus",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "graecus",
+        "pos": "other"
+      },
+      "dictionary_entry": "graecus",
+      "glosses": [
+        "Graecus",
+        "um"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "Graecus1"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "graec.us             N      2 1 NOM S M",
+      "Graecus, Graeci  N (2nd) M   [XXHAX]",
+      "Greek; the Greeks (pl.);",
+      "graec.us             ADJ    1 1 NOM S M POS",
+      "graecus, graeca, graecum  ADJ   [XXXDX]    lesser",
+      "Greek;"
+    ]
+  },
+  {
+    "lemma": "iacto",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "iacto",
+        "pos": "other"
+      },
+      "dictionary_entry": "iacto",
+      "glosses": [
+        "throw",
+        "cast",
+        "hurl."
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "jacto"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "iact.o               VPAR   3 1 DAT S M PERF PASSIVE PPL",
+      "iact.o               VPAR   3 1 DAT S N PERF PASSIVE PPL",
+      "iact.o               VPAR   3 1 ABL S M PERF PASSIVE PPL",
+      "iact.o               VPAR   3 1 ABL S N PERF PASSIVE PPL",
+      "jacio, jacere, jeci, jactus  V (3rd)   [XXXAX]",
+      "throw, hurl, cast; throw away; utter;",
+      "iact.o               V      1 1 PRES ACTIVE  IND 1 S",
+      "jacto, jactare, jactavi, jactatus  V (1st)   [XXXAX]",
+      "throw away, throw out, throw, jerk about; disturb; boast, discuss;"
+    ]
+  },
+  {
+    "lemma": "impulsus",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "impulsus",
+        "pos": "other"
+      },
+      "dictionary_entry": "impulsus, impulsus, m.",
+      "glosses": [
+        "shock"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "impulsus1"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "impuls.us            VPAR   3 1 NOM S M PERF PASSIVE PPL",
+      "impello, impellere, impuli, impulsus  V (3rd) TRANS   [XXXAO]",
+      "drive/persuade/impel; urge on/action; push/thrust/strike against; overthrow;",
+      "impuls.us            N      4 1 NOM S M",
+      "impuls.us            N      4 1 VOC S M",
+      "impuls.us            N      4 1 GEN S M",
+      "impuls.us            N      4 1 NOM P M",
+      "impuls.us            N      4 1 VOC P M",
+      "impuls.us            N      4 1 ACC P M",
+      "impulsus, impulsus  N (4th) M   [XXXDX]    lesser",
+      "shock, impact; incitement;"
+    ]
+  },
+  {
+    "lemma": "iniicio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "iniicio",
+          "iniicere",
+          "iniieci",
+          "iniiectus"
+        ]
+      },
+      "dictionary_entry": "iniicio, iniicere, iniieci, iniiectus",
+      "glosses": [
+        "throw in",
+        "hurl into",
+        "inspire",
+        "instill"
+      ],
+      "source": "ManualReview",
+      "source_key": "inicio"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "iniici.o             V      3 1 PRES ACTIVE  IND 1 S",
+      "injicio, injicere, injeci, injectus  V (3rd) TRANS   [XXXCS]",
+      "hurl/throw/strike in/into; inject; put on; inspire, instill (feeling, etc);"
+    ]
+  },
+  {
+    "lemma": "innascor",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "innascor",
+          "innascorere",
+          "natus sum",
+          null
+        ]
+      },
+      "dictionary_entry": "innascor, innascorere, natus sum",
+      "glosses": [
+        "be born in",
+        "grow or spring up in a place."
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "innascor"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "innasc.or            V      3 1 PRES         IND 1 S",
+      "innascor, innasci, innatus sum  V (3rd) DEP   [XXXDX]    lesser",
+      "be born (in or on);"
+    ]
+  },
+  {
+    "lemma": "instituo",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "instituo",
+        "pos": "other"
+      },
+      "dictionary_entry": "instituo",
+      "glosses": [
+        "plant",
+        "fix",
+        "set (cf.: instruo",
+        "informo"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "instituo"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "institu.o            V      3 1 PRES ACTIVE  IND 1 S",
+      "instituo, instituere, institui, institutus  V (3rd)   [XXXAX]",
+      "set up, establish, found, make, institute; build; prepare; decide;"
+    ]
+  },
+  {
+    "lemma": "insto",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "insto",
+          "instare",
+          "institi",
+          null
+        ]
+      },
+      "dictionary_entry": "insto, instare, institi",
+      "glosses": [
+        "press on",
+        "pursue",
+        "threaten",
+        "be at hand"
+      ],
+      "source": "ManualReview",
+      "source_key": "insto"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "inst.o               V      1 1 PRES ACTIVE  IND 1 S",
+      "insto, instare, institi, -  V (1st)   [XXXAX]",
+      "pursue, threaten; approach, press hard; be close to (w/DAT); stand in/on;"
+    ]
+  },
+  {
+    "lemma": "interdum",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "interdum",
+        "pos": "other"
+      },
+      "dictionary_entry": "interdum",
+      "glosses": [
+        "sometimes",
+        "occasionally",
+        "now and then",
+        "= nonnumquam: : : : .—"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "interdum"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "interdum             ADV    POS",
+      "interdum  ADV   [XXXAX]",
+      "sometimes, now and then;"
+    ]
+  },
+  {
+    "lemma": "interfacio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "interficio",
+          "interficere",
+          "interfeci",
+          "interfectus"
+        ]
+      },
+      "dictionary_entry": "interficio, interficere, interfeci, interfectus",
+      "glosses": [
+        "kill",
+        "destroy",
+        "put to death"
+      ],
+      "source": "ManualReview",
+      "source_key": "interficio"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "inter                PREFIX",
+      "between, within; at intervals, to pieces;",
+      "faci.o               V      3 1 PRES ACTIVE  IND 1 S",
+      "facio, facere, feci, factus  V (3rd) TRANS   [XXXAO]",
+      "make/build/construct/create/cause/do; have built/made; fashion; work (metal);",
+      "act/take action/be active; (bowels); act/work (things), function, be effective;",
+      "produce; produce by growth; bring forth (young); create, bring into existence;",
+      "compose/write; classify; provide; do/perform; commit crime; suppose/imagine;"
+    ]
+  },
+  {
+    "lemma": "iusso",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "iubeo",
+          "iubere",
+          "iussi",
+          "iussus"
+        ]
+      },
+      "dictionary_entry": "iubeo, iubere, iussi, iussus",
+      "glosses": [
+        "order",
+        "command",
+        "bid",
+        "decree"
+      ],
+      "source": "ManualReview",
+      "source_key": "iubeo"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "iuss.o               VPAR   2 1 DAT S M PERF PASSIVE PPL",
+      "iuss.o               VPAR   2 1 DAT S N PERF PASSIVE PPL",
+      "iuss.o               VPAR   2 1 ABL S M PERF PASSIVE PPL",
+      "iuss.o               VPAR   2 1 ABL S N PERF PASSIVE PPL",
+      "jubeo, jubere, jussi, jussus  V (2nd) TRANS   [XXXAO]",
+      "order/tell/command/direct; enjoin/command; decree/enact; request/ask/bid; pray;",
+      "iuss.o               N      2 2 DAT S N",
+      "iuss.o               N      2 2 ABL S N",
+      "jussum, jussi  N (2nd) N   [XXXDX]    lesser",
+      "order, command, decree, ordinance, law; physician's prescription;"
+    ]
+  },
+  {
+    "lemma": "labor",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "labor",
+        "pos": "other"
+      },
+      "dictionary_entry": "labor",
+      "glosses": [
+        "glide",
+        "fall]",
+        "move gently along a smooth surface",
+        "fall"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "labor1"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "lab.or               V      1 1 PRES PASSIVE IND 1 S",
+      "labo, labare, labavi, labatus  V (1st)   [XXXAX]",
+      "totter, be ready to fall; begin to sink; give way; waver, decline, sink; err;",
+      "lab.or               V      3 1 PRES         IND 1 S",
+      "labor, labi, lapsus sum  V (3rd) DEP   [XXXBX]",
+      "slip, slip and fall; slide, glide, drop; perish, go wrong;",
+      "labor                N      3 1 NOM S M",
+      "labor                N      3 1 VOC S M",
+      "labor, laboris  N (3rd) M   [XXXAO]",
+      "labor/toil/exertion/effort/work; task/undertaking; production; childbirth;",
+      "preoccupation/concern; struggle/suffering/distress/hardship/stress; wear+tear;"
+    ]
+  },
+  {
+    "lemma": "lacrima",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "lacrima",
+        "pos": "other"
+      },
+      "dictionary_entry": "lacrima",
+      "glosses": [
+        "bite",
+        "a tear ."
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "lacrima"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "lacrim.a             N      1 1 NOM S F",
+      "lacrim.a             N      1 1 VOC S F",
+      "lacrim.a             N      1 1 ABL S F",
+      "lacrima, lacrimae  N (1st) F   [XXXBO]",
+      "tear; exuded gum/sap; bit of lead; quicksilver from ore; weeping (pl.); dirge;",
+      "lacrim.a             V      1 1 PRES ACTIVE  IMP 2 S",
+      "lacrimo, lacrimare, lacrimavi, lacrimatus  V (1st)   [XXXDX]    lesser",
+      "shed tears, weep;"
+    ]
+  },
+  {
+    "lemma": "lacus",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "lacus",
+        "pos": "other"
+      },
+      "dictionary_entry": "lacus",
+      "glosses": [
+        "tear"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "lacus"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "lac.us               N      2 1 NOM S M",
+      "lacus, laci  N (2nd) M   [DXXDS]    Late  lesser",
+      "lac.us               N      4 1 NOM S M",
+      "lac.us               N      4 1 VOC S M",
+      "lac.us               N      4 1 GEN S M",
+      "lac.us               N      4 1 NOM P M",
+      "lac.us               N      4 1 VOC P M",
+      "lac.us               N      4 1 ACC P M",
+      "lacus, lacus  N (4th) M   [XXXAS]",
+      "basin/tank/tub; lake/pond; reservoir/cistern/basin, trough; lime-hole; bin; pit"
+    ]
+  },
+  {
+    "lemma": "largior",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "largior",
+          "largiorire",
+          "itus",
+          null
+        ]
+      },
+      "dictionary_entry": "largior, largiorire, itus",
+      "glosses": [
+        "give bountifully",
+        "lavish",
+        "bestow",
+        "dispense"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "largior"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "largi.or             V      4 1 PRES PASSIVE IND 1 S",
+      "largio, largire, largivi, largitus  V (4th)   [XXXFS]    veryrare",
+      "give bountifully; lavish;",
+      "largior, largiri, largitus sum  V (4th) DEP   [XXXDX]    lesser",
+      "grant; give bribes/presents corruptly; give generously/bountifully;"
+    ]
+  },
+  {
+    "lemma": "lateo",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "lateo",
+          "latere",
+          "latui",
+          null
+        ]
+      },
+      "dictionary_entry": "lateo, latere, latui",
+      "glosses": [
+        "lie hidden",
+        "be concealed",
+        "escape notice"
+      ],
+      "source": "ManualReview",
+      "source_key": "lateo"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "lat.eo               V      2 1 PRES ACTIVE  IND 1 S",
+      "lateo, latere, latui, -  V (2nd)   [XXXAX]",
+      "lie hidden, lurk; live a retired life, escape notice;"
+    ]
+  },
+  {
+    "lemma": "legionarius",
+    "issues": [
+      "WRONG_GLOSS_NOUN_FOR_ADJ"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "forms": [
+          "legionarius",
+          "a,",
+          "um"
+        ],
+        "pos": "adjective"
+      },
+      "dictionary_entry": "legionarius, a,, um",
+      "glosses": [
+        "a legion",
+        "legionary : miles",
+        "Asin"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "legionarius"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "legionari.us         ADJ    1 1 NOM S M POS",
+      "legionarius, legionaria, legionarium  ADJ   [XXXDX]    lesser",
+      "legionary, of a legion;"
+    ]
+  },
+  {
+    "lemma": "leucus",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "leucus",
+        "pos": "other"
+      },
+      "dictionary_entry": "leucus",
+      "glosses": [
+        "Leucus"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "Leucus"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "leucus                           ========   UNKNOWN"
+    ]
+  },
+  {
+    "lemma": "libenter",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "libenter",
+        "pos": "other"
+      },
+      "dictionary_entry": "libenter",
+      "glosses": [
+        "willingly"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "libenter"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "libenter             ADV    POS",
+      "libenter, libentius, libentissime  ADV   [XXXCO]",
+      "willingly; gladly, with pleasure;"
+    ]
+  },
+  {
+    "lemma": "lingo",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "lingo",
+        "pos": "other"
+      },
+      "dictionary_entry": "lingo",
+      "glosses": [
+        "lick",
+        "lick up : : : (al"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "lingo"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "ling.o               V      3 1 PRES ACTIVE  IND 1 S",
+      "lingo, lingere, linxi, linctus  V (3rd) TRANS   [XXXAO]",
+      "lick; lick up (L+S);"
+    ]
+  },
+  {
+    "lemma": "loquor",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "loquor",
+        "pos": "other"
+      },
+      "dictionary_entry": "loquor",
+      "glosses": [
+        "talk",
+        "whisper"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "loquor"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "loqu.or              V      3 1 PRES         IND 1 S",
+      "loquor, loqui, locutus sum  V (3rd) DEP   [XXXAX]",
+      "speak, tell; talk; mention; say, utter; phrase;"
+    ]
+  },
+  {
+    "lemma": "maneo",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "maneo",
+        "pos": "other"
+      },
+      "dictionary_entry": "maneo",
+      "glosses": [
+        "think"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "maneo"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "man.eo               V      2 1 PRES ACTIVE  IND 1 S",
+      "maneo, manere, mansi, mansus  V (2nd)   [XXXAX]",
+      "remain, stay, abide; wait for; continue, endure, last; spend the night (sexual)"
+    ]
+  },
+  {
+    "lemma": "melius",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "melius",
+        "pos": "other"
+      },
+      "dictionary_entry": "melius",
+      "glosses": [
+        "comp"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "melius1"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "melius               ADV    COMP",
+      "bene, melius, optime  ADV   [XXXAO]",
+      "well, very, quite, rightly, agreeably, cheaply, in good style; better; best;",
+      "meli.us              ADJ    1 1 NOM S N COMP",
+      "meli.us              ADJ    1 1 VOC S N COMP",
+      "meli.us              ADJ    1 1 ACC S N COMP",
+      "bonus, bona -um, melior -or -us, optimus -a -um  ADJ   [XXXAO]",
+      "good, honest, brave, noble, kind, pleasant, right, useful; valid; healthy;"
+    ]
+  },
+  {
+    "lemma": "merces",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "merces",
+        "pos": "other"
+      },
+      "dictionary_entry": "merces",
+      "glosses": [
+        "irreg"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "merces1"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "merces               N      3 1 NOM S F",
+      "merces               N      3 1 VOC S F",
+      "merces, mercedis  N (3rd) F   [XXXDX]    lesser",
+      "pay, recompense, hire, salary, reward; rent, price; bribe;",
+      "merc.es              N      3 3 NOM P F",
+      "merc.es              N      3 3 VOC P F",
+      "merc.es              N      3 3 ACC P F",
+      "merx, mercis  N (3rd) F   [XXXAX]",
+      "commodity; merchandise (pl.), goods;"
+    ]
+  },
+  {
+    "lemma": "mercor",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "mercor",
+          "mercorare",
+          "atus",
+          null
+        ]
+      },
+      "dictionary_entry": "mercor, mercorare, atus",
+      "glosses": [
+        "trade",
+        "traffic",
+        "deal in commodities ( absol"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "mercor"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "merc.or              V      1 1 PRES         IND 1 S",
+      "mercor, mercari, mercatus sum  V (1st) DEP   [XXXDX]    lesser",
+      "trade; buy;"
+    ]
+  },
+  {
+    "lemma": "metior",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "metior",
+        "pos": "other"
+      },
+      "dictionary_entry": "metior",
+      "glosses": [
+        "measure",
+        "mete (lands",
+        "corn)"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "metior"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "meti.or              V      4 1 PRES         IND 1 S",
+      "metior, metiri, mensus sum  V (4th) DEP   [XXXBX]",
+      "measure, estimate; distribute, mete; traverse, sail/walk through;"
+    ]
+  },
+  {
+    "lemma": "militaris",
+    "issues": [
+      "WRONG_GLOSS_NOUN_FOR_ADJ"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "forms": [
+          "militaris",
+          "e"
+        ],
+        "pos": "adjective"
+      },
+      "dictionary_entry": "militaris, e",
+      "glosses": [
+        "a soldier",
+        "war",
+        "or to military service",
+        "proper to or usual with soldiers"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "militaris"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "milit.aris           V      1 1 PRES PASSIVE IND 2 S",
+      "milito, militare, militavi, militatus  V (1st) INTRANS   [XWXCO]",
+      "serve as soldier, perform military service, serve in the army; wage/make war;",
+      "militar.is           ADJ    3 2 NOM S C POS",
+      "militar.is           ADJ    3 2 VOC S C POS",
+      "militar.is           ADJ    3 2 GEN S X POS",
+      "militar.is           ADJ    3 2 ACC P C POS",
+      "militaris, militaris, militare  ADJ   [XWXBO]",
+      "military; of/used by the army/war/soldiers; martial; soldierly; warlike;",
+      "militaris            N      3 3 NOM S M",
+      "militaris            N      3 3 VOC S M",
+      "militar.is           N      3 3 GEN S M",
+      "militar.is           N      3 3 ACC P M                   Early",
+      "militaris, militaris  N (3rd) M   [XWXCS]",
+      "military man; soldier, warrior;",
+      "Syncope   r => v.r",
+      "Syncopated perfect often drops the 'v' and contracts vowel",
+      "militav.eris         V      1 1 PERF ACTIVE  SUB 2 S",
+      "militav.eris         V      1 1 FUTP ACTIVE  IND 2 S",
+      "milito, militare, militavi, militatus  V (1st) INTRANS   [XWXCO]",
+      "serve as soldier, perform military service, serve in the army; wage/make war;"
+    ]
+  },
+  {
+    "lemma": "miror",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "miror",
+          "mirorare",
+          "atus",
+          null
+        ]
+      },
+      "dictionary_entry": "miror, mirorare, atus",
+      "glosses": [
+        "wonder or marvel at",
+        "be astonished or amazed at a thing"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "miror"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "mir.or               V      1 1 PRES PASSIVE IND 1 S",
+      "miro, mirare, miravi, miratus  V (1st)   [XXXCO]",
+      "be amazed/surprised/bewildered (at); look in wonder/awe/admiration at;",
+      "admire/revere; wonder; marvel at;",
+      "miror, mirari, miratus sum  V (1st) DEP   [XXXBO]",
+      "be amazed/surprised/bewildered (at); look in wonder/awe/admiration at;",
+      "admire/revere; wonder; marvel at;"
+    ]
+  },
+  {
+    "lemma": "morior",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "morior",
+          "moriorere",
+          "mortuus",
+          null
+        ]
+      },
+      "dictionary_entry": "morior, moriorere, mortuus",
+      "glosses": [
+        "the fourth conj.: si vivimu' sive morīmur",
+        "Enn"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "morior"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "mori.or              V      4 1 PRES         IND 1 S",
+      "morior, moriri, moritus sum  V (4th) DEP   [BXXCO]    Early",
+      "die; expire, pass/die/wither away/out; decay; (FUT ACT PPL only, moriturus);",
+      "mori.or              V      3 1 PRES         IND 1 S",
+      "morior, mori, mortuus sum  V (3rd) DEP   [XXXAO]",
+      "die, expire, pass/die/wither away/out; fail, come to an end; decay;",
+      "perish; become obsolete (word), fall into disuse; be forgotten;",
+      "become obsolete (word), fall into disuse; be forgotten; faint, languish;",
+      "become void/moot (lawsuit); be extinguished (fire/light), go out;"
+    ]
+  },
+  {
+    "lemma": "moror",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "moror",
+          "mororare",
+          "atus",
+          null
+        ]
+      },
+      "dictionary_entry": "moror, mororare, atus",
+      "glosses": [
+        "delay"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "moror1"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "mor.or               V      1 1 PRES         IND 1 S",
+      "moror, morari, moratus sum  V (1st) DEP   [XXXAX]",
+      "delay; stay, stay behind; devote attention to;"
+    ]
+  },
+  {
+    "lemma": "mus",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "mus",
+        "pos": "other"
+      },
+      "dictionary_entry": "mus",
+      "glosses": [
+        "Greek"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "mus1"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "mus                  N      3 3 NOM S C",
+      "mus                  N      3 3 VOC S C",
+      "mus, muris  N (3rd) C   [XXXBX]",
+      "mouse;"
+    ]
+  },
+  {
+    "lemma": "nec",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "nec",
+        "pos": "other"
+      },
+      "dictionary_entry": "nec",
+      "glosses": [
+        "conj"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "nec1"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "nec                  ADV    POS",
+      "nec  ADV   [XXXDX]    lesser",
+      "nor; and not, not, neither, not even;",
+      "nec                  CONJ",
+      "nec  CONJ   [XXXAX]",
+      "nor, and..not; not..either, not even;"
+    ]
+  },
+  {
+    "lemma": "neco",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "neco",
+        "pos": "other"
+      },
+      "dictionary_entry": "neco",
+      "glosses": [
+        "kill",
+        "slay",
+        "put to death",
+        "destroy (usually without a weapon"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "neco"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "nec.o                V      1 1 PRES ACTIVE  IND 1 S",
+      "neco, necare, necavi, necatus  V (1st) TRANS   [XXXBO]",
+      "neco, necare, necui, nectus  V (1st) TRANS   [BXXFO]    Early  veryrare",
+      "kill/murder; put to death; suppress, destroy; kill (plant); quench/drown (fire)"
+    ]
+  },
+  {
+    "lemma": "nolo",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "nolo",
+        "pos": "other"
+      },
+      "dictionary_entry": "nolo",
+      "glosses": [
+        "wish",
+        "or will .."
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "nolo"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "nol.o                V      6 2 PRES ACTIVE  IND 1 S",
+      "nolo, nolle, nolui, -  V   [XXXAX]",
+      "be unwilling; wish not to; refuse to;"
+    ]
+  },
+  {
+    "lemma": "nuper",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "nuper",
+        "pos": "other"
+      },
+      "dictionary_entry": "nuper",
+      "glosses": [
+        "newly",
+        "lately",
+        "recently",
+        "not long ago ."
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "nuper"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "nuper                ADV    POS",
+      "nuper, -, nuperrime  ADV   [XXXBO]",
+      "recently, not long ago; in recent years/our own time; (SUPER) latest in series;"
+    ]
+  },
+  {
+    "lemma": "obicio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "obicio",
+          "obicere",
+          "obicijeci",
+          "obicijectum"
+        ]
+      },
+      "dictionary_entry": "obicio, obicere, obicijeci, obicijectum",
+      "glosses": [
+        "throw or put before or towards",
+        "throw to",
+        "hold before or out",
+        "offer"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "obicio"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "obici.o              V      3 1 PRES ACTIVE  IND 1 S",
+      "obicio, obicere, objeci, objectus  V (3rd) TRANS   [XXXAX]",
+      "throw before/to, cast; object, oppose; upbraid; throw in one's teeth; present;"
+    ]
+  },
+  {
+    "lemma": "pario",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "pario",
+          "parere",
+          "peperi",
+          "partus"
+        ]
+      },
+      "dictionary_entry": "pario, parere, peperi, partus",
+      "glosses": [
+        "bring forth",
+        "produce",
+        "give birth to",
+        "acquire"
+      ],
+      "source": "ManualReview",
+      "source_key": "pario"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "pari.o               V      4 1 PRES ACTIVE  IND 1 S",
+      "pario, parire, peperi, paritus  V (4th)   [BXXEO]    Early  uncommon",
+      "pari.o               V      3 1 PRES ACTIVE  IND 1 S",
+      "pario, parere, peperi, partus  V (3rd)   [XXXAO]",
+      "bear; give birth to; beget, bring forth; produce, lay (eggs); create; acquire;",
+      "pari.o               V      1 1 PRES ACTIVE  IND 1 S",
+      "pario, pariare, pariavi, pariatus  V (1st)   [XXXDO]    lesser",
+      "acquire (accounts); settle a debt; settle up;"
+    ]
+  },
+  {
+    "lemma": "pereo",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "pereo",
+        "pos": "other"
+      },
+      "dictionary_entry": "pereo",
+      "glosses": [
+        "perf"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "pereo"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "pere.o               V      6 1 PRES ACTIVE  IND 1 S",
+      "pereo, perire, perivi(ii), peritus  V   [XXXAX]",
+      "die, pass away; be ruined, be destroyed; go to waste;"
+    ]
+  },
+  {
+    "lemma": "persequor",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "persequor",
+          "persequorere",
+          "cutus and quutus",
+          null
+        ]
+      },
+      "dictionary_entry": "persequor, persequorere, cutus and quutus",
+      "glosses": [
+        "the imperat"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "persequor"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "persequ.or           V      3 1 PRES         IND 1 S",
+      "persequor, persequi, persecutus sum  V (3rd) DEP   [XXXBX]",
+      "follow up, pursue; overtake; attack; take vengeance on; accomplish;"
+    ]
+  },
+  {
+    "lemma": "perspicio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "perspicio",
+          "perspicere",
+          "perspicispexi",
+          "perspicispectum"
+        ]
+      },
+      "dictionary_entry": "perspicio, perspicere, perspicispexi, perspicispectum",
+      "glosses": [
+        "look or see through",
+        "look into",
+        "look at."
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "perspicio"
+    },
+    "upos_from_vocab": "VERB",
+    "whitakers_lookup": [
+      "perspici.o           V      3 1 PRES ACTIVE  IND 1 S",
+      "perspicio, perspicere, perspexi, perspectus  V (3rd)   [XXXBX]",
+      "see through; examine; observe;"
+    ]
+  },
+  {
+    "lemma": "petio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "peto",
+          "petere",
+          "petiui and ii",
+          "petitum"
+        ]
+      },
+      "dictionary_entry": "peto, petere, petiui and ii, petitum",
+      "glosses": [
+        "fall upon",
+        "fly",
+        "find"
+      ],
+      "normalized_lookup": "peto",
+      "source": "LewisShortPerseusXML",
+      "source_key": "peto"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "i                    SUFFIX",
+      "makes abstract noun of the verb; place/instrument/result of verb action;",
+      "peti.o               N      2 2 DAT S N",
+      "peti.o               N      2 2 ABL S N",
+      "peto, petere, petivi, petitus  V (3rd)   [XXXAX]",
+      "attack; aim at; desire; beg, entreat, ask (for); reach towards, make for;",
+      "io                   SUFFIX",
+      "-ing, -ion, -ery; the action or result of the action of the verb;",
+      "petio                N      3 1 NOM S F",
+      "petio                N      3 1 VOC S F",
+      "peto, petere, petivi, petitus  V (3rd)   [XXXAX]",
+      "attack; aim at; desire; beg, entreat, ask (for); reach towards, make for;"
+    ]
+  },
+  {
+    "lemma": "pollicitus",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "polliceor",
+          "polliceri",
+          "pollicitus sum",
+          null
+        ]
+      },
+      "dictionary_entry": "polliceor, polliceri, pollicitus sum",
+      "glosses": [
+        "promise",
+        "offer",
+        "pledge"
+      ],
+      "source": "ManualReview",
+      "source_key": "polliceor"
+    },
+    "upos_from_vocab": "ADJ",
+    "whitakers_lookup": [
+      "pollicit.us          VPAR   2 1 NOM S M PERF         PPL",
+      "polliceor, polliceri, pollicitus sum  V (2nd) DEP   [XXXBX]",
+      "promise;"
+    ]
+  },
+  {
+    "lemma": "potior",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "potior",
+          "potiorire",
+          "itus",
+          null
+        ]
+      },
+      "dictionary_entry": "potior, potiorire, itus",
+      "glosses": [
+        "the third conj.",
+        "potĭtur",
+        "Enn"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "potior1"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "poti.or              ADJ    0 0 NOM S C COMP",
+      "poti.or              ADJ    0 0 VOC S C COMP",
+      "potior, potior, potius  ADJ   [XXXAO]",
+      "better/preferable/superior; more useful/effective; more important;",
+      "more important/desirable/precious; stronger, having greater control;",
+      "having better claim, more entitled/qualified, carrying greater weight;",
+      "poti.or              V      3 1 PRES         IND 1 S",
+      "potior, poti, potitus sum  V (3rd) DEP   [XXXCO]",
+      "obtain, acquire; grasp; attain, reach (goal); come by (experiences);",
+      "seize, capture; control; have/possess; reign over; win sexually;",
+      "be/become master of (w/GEN/ABL), get possession/submission/hold of;",
+      "poti.or              V      4 1 PRES         IND 1 S",
+      "potior, potiri, potitus sum  V (4th) DEP   [XXXAO]",
+      "obtain, acquire; grasp; attain, reach (goal); come by (experiences);",
+      "seize, capture; control; have/possess; reign over; win sexually;",
+      "be/become master of (w/GEN/ABL), get possession/submission/hold of;"
+    ]
+  },
+  {
+    "lemma": "praecipue",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "praecipue",
+        "pos": "other"
+      },
+      "dictionary_entry": "praecipue",
+      "glosses": [
+        "none"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "praecipue"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "praecipu.e           ADJ    1 1 VOC S M POS",
+      "praecipuus, praecipua, praecipuum  ADJ   [XXXAX]",
+      "particular, especial;",
+      "praecipue            ADV    POS",
+      "praecipue  ADV   [XXXDX]    lesser",
+      "especially; chiefly;"
+    ]
+  },
+  {
+    "lemma": "praeficio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "praeficio",
+          "praeficere",
+          "praeficifeci",
+          "praeficifectum"
+        ]
+      },
+      "dictionary_entry": "praeficio, praeficere, praeficifeci, praeficifectum",
+      "glosses": [
+        "set over any thing (as officer",
+        "superintendent",
+        "leader",
+        "etc.)"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "praeficio"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "praefici.o           V      3 1 PRES ACTIVE  IND 1 S",
+      "praeficio, praeficere, praefeci, praefectus  V (3rd)   [XXXAX]",
+      "put in charge, place in command (with ACC and DAT);"
+    ]
+  },
+  {
+    "lemma": "praesertim",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "praesertim",
+        "pos": "other"
+      },
+      "dictionary_entry": "praesertim",
+      "glosses": [
+        "especially",
+        "chiefly",
+        "principally",
+        "particularly"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "praesertim"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "praesertim           ADV    POS",
+      "praesertim  ADV   [XXXBX]",
+      "especially; particularly;"
+    ]
+  },
+  {
+    "lemma": "prendo",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "prendo",
+        "pos": "other"
+      },
+      "dictionary_entry": "prendo",
+      "glosses": [
+        "prendo",
+        "ĕre"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "prendo"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "prend.o              V      3 1 PRES ACTIVE  IND 1 S",
+      "prendo, prendere, prendi, prensus  V (3rd) TRANS   [XXXAO]",
+      "catch/capture; take hold of/possession of/in hand, arrest; occupy; seize/grasp;",
+      "catch up with; reach shore/harbor; understand, comprehend; get a grip on;",
+      "prendo, prendere, prendidi, prenditus  V (3rd) TRANS   [EXXEW]    Later  uncommon",
+      "catch, take hold of; arrest, capture; reach; understand; seize, grasp; occupy;"
+    ]
+  },
+  {
+    "lemma": "promo",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "promo",
+        "pos": "other"
+      },
+      "dictionary_entry": "promo",
+      "glosses": [
+        "take",
+        "give",
+        "or bring out or forth",
+        "produce (freq"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "promo"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "prom.o               N      2 1 DAT S M",
+      "prom.o               N      2 1 ABL S M",
+      "promus, promi  N (2nd) M   [XXXDX]    lesser",
+      "butler; steward;",
+      "prom.o               V      3 1 PRES ACTIVE  IND 1 S",
+      "promo, promere, prompsi, promptus  V (3rd)   [XXXBX]",
+      "promo, promere, promsi, promptus  V (3rd)   [XXXDX]    lesser",
+      "take/bring out/forth; bring into view; bring out/display on the stage;"
+    ]
+  },
+  {
+    "lemma": "puer",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "puer",
+        "pos": "other"
+      },
+      "dictionary_entry": "puer",
+      "glosses": [
+        "beget"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "puer"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "puer                 N      2 3 NOM S M",
+      "puer                 N      2 3 VOC S M",
+      "puer, pueri  N (2nd) M   [XXXAX]",
+      "boy, lad, young man; servant; (male) child; [a puere => from boyhood];"
+    ]
+  },
+  {
+    "lemma": "pulto",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "pulto",
+        "pos": "other"
+      },
+      "dictionary_entry": "pulto",
+      "glosses": [
+        "beat",
+        "strike",
+        "knock (ante-class."
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "pulto1"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "pult.o               V      1 1 PRES ACTIVE  IND 1 S",
+      "pulto, pultare, pultavi, pultatus  V (1st) TRANS   [XXXEC]    uncommon",
+      "knock, strike;"
+    ]
+  },
+  {
+    "lemma": "quisquis",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "quisquis",
+        "pos": "other"
+      },
+      "dictionary_entry": "quisquis",
+      "glosses": [
+        "subst"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "quisquis"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "quisquis             PRON   1 0 NOM S C",
+      "quisquis  X   [XXXBX]",
+      "whoever; every one who; whoever it be; everyone; each;"
+    ]
+  },
+  {
+    "lemma": "quod",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "quod",
+        "pos": "other"
+      },
+      "dictionary_entry": "quod",
+      "glosses": [
+        "conj"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "quod1"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "qu.od                PRON   1 0 NOM S N",
+      "qu.od                PRON   1 0 ACC S N",
+      "[XXXAO]",
+      "who; that; which, what; of which kind/degree; person/thing/time/point that;",
+      "who/whatever, everyone who, all that, anything that;",
+      "any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);",
+      "who?, which?, what?; what kind of?;",
+      "quod                 ADV    POS",
+      "quod  ADV   [XXXDX]    lesser",
+      "with respect to which;",
+      "quod                 CONJ",
+      "quod  CONJ   [XXXDX]    lesser",
+      "because, as far as, insofar as; [quod si => but if];"
+    ]
+  },
+  {
+    "lemma": "redeo",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "redeo",
+        "pos": "other"
+      },
+      "dictionary_entry": "redeo",
+      "glosses": [
+        "pres"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "redeo"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "rede.o               V      6 1 PRES ACTIVE  IND 1 S",
+      "redeo, redire, redivi(ii), reditus  V   [XXXAX]",
+      "return, go back, give back; fall back on, revert to; respond, pay back;"
+    ]
+  },
+  {
+    "lemma": "reiicio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "reiicio",
+          "reiicere",
+          null,
+          null
+        ]
+      },
+      "dictionary_entry": "reiicio, reiicere",
+      "glosses": [
+        "rējĭcĭo"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "rejicio"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "reiici.o             V      3 1 PRES ACTIVE  IND 1 S",
+      "rejicio, rejicere, rejeci, rejectus  V (3rd) TRANS   [XXXCS]",
+      "throw back; drive back; repulse, repel; refuse, reject, scorn;"
+    ]
+  },
+  {
+    "lemma": "reminiscor",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "reminiscor",
+        "pos": "other"
+      },
+      "dictionary_entry": "reminiscor",
+      "glosses": [
+        "recollect"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "reminiscor"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "reminisc.or          V      3 1 PRES         IND 1 S",
+      "reminiscor, reminisci, -  V (3rd) DEP   [XXXDX]    lesser",
+      "call to mind, recollect;"
+    ]
+  },
+  {
+    "lemma": "renuntio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "renuntio",
+          "renuntare",
+          "renuntiaui",
+          "renuntiatum"
+        ]
+      },
+      "dictionary_entry": "renuntio, renuntare, renuntiaui, renuntiatum",
+      "glosses": [
+        "report",
+        "give notice",
+        "declare",
+        "announce."
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "renuntio"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "renunti.o            V      1 1 PRES ACTIVE  IND 1 S",
+      "renuntio, renuntiare, renuntiavi, renuntiatus  V (1st)   [XXXDX]    lesser",
+      "report, announce; reject;"
+    ]
+  },
+  {
+    "lemma": "repudio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "repudio",
+          "repudare",
+          "repudiaui",
+          "repudiatum"
+        ]
+      },
+      "dictionary_entry": "repudio, repudare, repudiaui, repudiatum",
+      "glosses": [
+        "cast off",
+        "put away",
+        "divorce",
+        "repudiate (cf"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "repudio"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "repudi.o             N      2 4 DAT S N",
+      "repudi.o             N      2 4 ABL S N",
+      "repudium, repudi(i)  N (2nd) N   [XXXDX]    lesser",
+      "repudiation/rejection of prospective spouse, notification of; divorce;",
+      "repudi.o             V      1 1 PRES ACTIVE  IND 1 S",
+      "repudio, repudiare, repudiavi, repudiatus  V (1st)   [XXXDX]    lesser",
+      "reject; repudiate; scorn;"
+    ]
+  },
+  {
+    "lemma": "secretum",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "secretus",
+        "pos": "other"
+      },
+      "dictionary_entry": "secretus, a, um",
+      "glosses": [
+        "private"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "secretus"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "secret.um            VPAR   3 1 NOM S N PERF PASSIVE PPL",
+      "secret.um            VPAR   3 1 VOC S N PERF PASSIVE PPL",
+      "secret.um            VPAR   3 1 ACC S M PERF PASSIVE PPL",
+      "secret.um            VPAR   3 1 ACC S N PERF PASSIVE PPL",
+      "secerno, secernere, secrevi, secretus  V (3rd)   [XXXDX]    lesser",
+      "secret.um            SUPINE 3 1 ACC S N",
+      "separate;",
+      "secret.um            N      2 2 NOM S N",
+      "secret.um            N      2 2 VOC S N",
+      "secret.um            N      2 2 ACC S N",
+      "secretum, secreti  N (2nd) N   [XXXDX]    lesser",
+      "secret, mystic rite, haunt;",
+      "secret.um            ADJ    1 1 NOM S N POS",
+      "secret.um            ADJ    1 1 VOC S N POS",
+      "secret.um            ADJ    1 1 ACC S M POS",
+      "secret.um            ADJ    1 1 ACC S N POS",
+      "secretus, secreta -um, secretior -or -us, secretissimus -a -um  ADJ   [XXXAX]",
+      "separate, apart (from); private, secret; remote; hidden;"
+    ]
+  },
+  {
+    "lemma": "semper",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "semper",
+        "pos": "other"
+      },
+      "dictionary_entry": "semper",
+      "glosses": [
+        "ever",
+        "always",
+        "at all times",
+        "forever (cf"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "semper"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "semper               ADV    POS",
+      "semper  ADV   [XXXAX]",
+      "always;"
+    ]
+  },
+  {
+    "lemma": "separatim",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "separatim",
+        "pos": "other"
+      },
+      "dictionary_entry": "separatim",
+      "glosses": [
+        "asunder",
+        "apart",
+        "separately (freq"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "separatim"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "separatim            ADV    POS",
+      "separatim  ADV   [XXXDX]    lesser",
+      "apart, separately;"
+    ]
+  },
+  {
+    "lemma": "septimus",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "septimus",
+        "pos": "other"
+      },
+      "dictionary_entry": "septimus",
+      "glosses": [
+        "seven"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "septimus"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "septim.us            NUM    2 0 NOM S M ORD",
+      "septem, septimus -a -um, septeni -ae -a, septie (n)s  NUM   [XXXAX]",
+      "septim  NUM   [BXXEG]    Early  uncommon",
+      "7th - (ORD, 'in series'); (a/the) 7th (part) (fract w/pars?);"
+    ]
+  },
+  {
+    "lemma": "sibi",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "sibus",
+        "pos": "other"
+      },
+      "dictionary_entry": "sibus",
+      "glosses": [
+        "sibus",
+        "callidus sive acutus",
+        "Vahl."
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "sibus"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "s.ibi                PRON   5 4 DAT X C",
+      "[XXXAX]",
+      "him/her/it/ones-self; him/her/it; them (selves) (pl.); each other, one another;"
+    ]
+  },
+  {
+    "lemma": "simulo",
+    "issues": [
+      "POS_OTHER_WITH_PRINCIPAL_PARTS",
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "simulo",
+        "pos": "other",
+        "principal_parts": [
+          "simulo",
+          "simulare",
+          "simulavi",
+          "simulatus"
+        ]
+      },
+      "dictionary_entry": "simulo, simulare, simulavi, simulatus",
+      "glosses": [
+        "imitate"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "simulo"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "simul.o              ADJ    1 1 DAT S M POS",
+      "simul.o              ADJ    1 1 DAT S N POS",
+      "simul.o              ADJ    1 1 ABL S M POS",
+      "simul.o              ADJ    1 1 ABL S N POS",
+      "simulus, simula, simulum  ADJ   [XXXDX]    lesser",
+      "flatnosed, snub-nosed;",
+      "simul.o              V      1 1 PRES ACTIVE  IND 1 S",
+      "simulo, simulare, simulavi, simulatus  V (1st)   [XXXAO]",
+      "imitate, copy; pretend (to have/be); look like; simulate; counterfeit; feint;"
+    ]
+  },
+  {
+    "lemma": "speculor",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "speculor",
+          "speculorare",
+          "atus",
+          null
+        ]
+      },
+      "dictionary_entry": "speculor, speculorare, atus",
+      "glosses": [
+        "spy out",
+        "watch",
+        "observe",
+        "examine"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "speculor"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "specul.or            V      1 1 PRES         IND 1 S",
+      "speculor, speculari, speculatus sum  V (1st) DEP   [XXXDX]    lesser",
+      "watch, observe; spy out; examine, explore;"
+    ]
+  },
+  {
+    "lemma": "spons",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "spons",
+        "pos": "other"
+      },
+      "dictionary_entry": "spons",
+      "glosses": [
+        "spons"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "spons"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "spons                N      3 3 NOM S F",
+      "spons                N      3 3 VOC S F",
+      "spons, spontis  N (3rd) F   [XXXBX]",
+      "free will;"
+    ]
+  },
+  {
+    "lemma": "statim",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "statim",
+        "pos": "other"
+      },
+      "dictionary_entry": "statim",
+      "glosses": [
+        "Firmly",
+        "steadily",
+        "steadfastly",
+        "unyieldingly (so only ante-class.):"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "statim"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "statim               ADV    POS",
+      "statim  ADV   [XXXAX]",
+      "at once, immediately;"
+    ]
+  },
+  {
+    "lemma": "studeo",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "studeo",
+          "studeere",
+          "studeui",
+          null
+        ]
+      },
+      "dictionary_entry": "studeo, studeere, studeui",
+      "glosses": [
+        "speed",
+        "haste",
+        "be eager or zealous",
+        "take pains about"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "studeo"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "stud.eo              V      2 1 PRES ACTIVE  IND 1 S",
+      "studeo, studere, studui, -  V (2nd)   [XXXAX]",
+      "desire, be eager for; busy oneself with; strive;"
+    ]
+  },
+  {
+    "lemma": "subicio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "subicio",
+          "subicere",
+          "subicijeci",
+          "subicijectum"
+        ]
+      },
+      "dictionary_entry": "subicio, subicere, subicijeci, subicijectum",
+      "glosses": [
+        "throw",
+        "lay",
+        "place",
+        "or bring under or near (cf"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "subicio"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "subici.o             V      3 1 PRES ACTIVE  IND 1 S",
+      "subicio, subicere, subjeci, subjectus  V (3rd) TRANS   [XXXBX]",
+      "throw under, place under; make subject; expose;"
+    ]
+  },
+  {
+    "lemma": "suscipio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "suscipio",
+          "suscipere",
+          "suscipicepi",
+          "suscipiceptum"
+        ]
+      },
+      "dictionary_entry": "suscipio, suscipere, suscipicepi, suscipiceptum",
+      "glosses": [
+        "take or catch up",
+        "take upon one."
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "suscipio"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "suscipi.o            V      3 1 PRES ACTIVE  IND 1 S",
+      "suscipio, suscipere, suscepi, susceptus  V (3rd)   [XXXAX]",
+      "undertake; support; accept, receive, take up;"
+    ]
+  },
+  {
+    "lemma": "suspicor",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "suspicor",
+          "suspicari",
+          "suspicatus sum",
+          null
+        ]
+      },
+      "dictionary_entry": "suspicor, suspicari, suspicatus sum",
+      "glosses": [
+        "suspect",
+        "mistrust",
+        "suppose"
+      ],
+      "source": "ManualReview",
+      "source_key": "suspicor"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "suspic.or            V      1 1 PRES         IND 1 S",
+      "suspicor, suspicari, suspicatus sum  V (1st) DEP   [XXXBX]",
+      "mistrust, suspect; suppose;"
+    ]
+  },
+  {
+    "lemma": "tametsi",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "tametsi",
+        "pos": "other"
+      },
+      "dictionary_entry": "tametsi",
+      "glosses": [
+        "conj"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "tametsi"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "tametsi              CONJ",
+      "tametsi  CONJ   [XXXDX]    lesser",
+      "even if, although, though;"
+    ]
+  },
+  {
+    "lemma": "tanto",
+    "issues": [
+      "WRONG_GLOSS_NOUN_FOR_ADJ"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "forms": [
+          "tantus",
+          "a,",
+          "um"
+        ],
+        "pos": "adjective"
+      },
+      "dictionary_entry": "tantus, a,, um",
+      "glosses": [
+        "a foll"
+      ],
+      "normalized_lookup": "tantus",
+      "source": "LewisShortPerseusXML",
+      "source_key": "tantus"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "tant.o               ADJ    1 1 DAT S M POS",
+      "tant.o               ADJ    1 1 DAT S N POS",
+      "tant.o               ADJ    1 1 ABL S M POS",
+      "tant.o               ADJ    1 1 ABL S N POS",
+      "tantus, tanta, tantum  ADJ   [XXXAX]",
+      "of such size; so great, so much; [tantus ... quantus => as much ... as];"
+    ]
+  },
+  {
+    "lemma": "uehementer",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "uehementer",
+        "pos": "other"
+      },
+      "dictionary_entry": "uehementer",
+      "glosses": [
+        "Eagerly",
+        "impetuously",
+        "ardently",
+        "violently"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "vehementer"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "uehementer           ADV    POS",
+      "vehementer, vehementius, vehementissime  ADV   [XXXDX]    lesser",
+      "vehemently, vigorously; exceedingly, very much;"
+    ]
+  },
+  {
+    "lemma": "uergo",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "uergo",
+        "pos": "other"
+      },
+      "dictionary_entry": "uergo",
+      "glosses": [
+        "incline"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "vergo"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "uerg.o               V      3 1 PRES ACTIVE  IND 1 S",
+      "vergo, vergere, -, -  V (3rd)   [XXXDX]    lesser",
+      "incline, lie, slope;"
+    ]
+  },
+  {
+    "lemma": "uicis",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "uicis",
+        "pos": "other"
+      },
+      "dictionary_entry": "uicis",
+      "glosses": [
+        "yield"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "vicis"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "uic.is               N      2 1 LOC P M",
+      "uic.is               N      2 1 DAT P M",
+      "uic.is               N      2 1 ABL P M",
+      "vicus, vici  N (2nd) M   [XXXBX]",
+      "village; hamlet; street, row of houses;",
+      "uicis                N      3 3 NOM S F",
+      "uicis                N      3 3 VOC S F",
+      "uic.is               N      3 3 GEN S F",
+      "uic.is               N      3 3 ACC P F                   Early",
+      "vicis, vicis  N (3rd) F   [XXXAX]",
+      "turn, change, succession; exchange, interchange, repayment; plight, lot;"
+    ]
+  },
+  {
+    "lemma": "uisus",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "video",
+          "videre",
+          "vidi",
+          "visus"
+        ]
+      },
+      "dictionary_entry": "video, videre, vidi, visus",
+      "glosses": [
+        "see, look at",
+        "consider",
+        "seem, seem good, appear, be seen",
+        "visit, go to see",
+        "look at"
+      ],
+      "source": "WhitakersWords",
+      "source_key": "uisus"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "uis.us               VPAR   2 1 NOM S M PERF PASSIVE PPL",
+      "video, videre, vidi, visus  V (2nd)   [XXXAX]",
+      "see, look at; consider; (PASS) seem, seem good, appear, be seen;",
+      "uis.us               N      4 1 NOM S M",
+      "uis.us               N      4 1 VOC S M",
+      "uis.us               N      4 1 GEN S M",
+      "uis.us               N      4 1 NOM P M",
+      "uis.us               N      4 1 VOC P M",
+      "uis.us               N      4 1 ACC P M",
+      "visus, visus  N (4th) M   [XXXDX]    lesser",
+      "look, sight, appearance; vision;",
+      "uis.us               VPAR   3 1 NOM S M PERF PASSIVE PPL",
+      "viso, visere, visi, visus  V (3rd)   [XXXBX]",
+      "visit, go to see; look at;"
+    ]
+  },
+  {
+    "lemma": "uita",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "uita",
+        "pos": "other"
+      },
+      "dictionary_entry": "uita",
+      "glosses": [
+        "live"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "vita"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "uit.a                N      1 1 NOM S F",
+      "uit.a                N      1 1 VOC S F",
+      "uit.a                N      1 1 ABL S F",
+      "vita, vitae  N (1st) F   [XXXAX]",
+      "life, career, livelihood; mode of life;",
+      "uit.a                V      1 1 PRES ACTIVE  IMP 2 S",
+      "vito, vitare, vitavi, vitatus  V (1st)   [XXXBX]",
+      "avoid, shun; evade;"
+    ]
+  },
+  {
+    "lemma": "ulcisco",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "form": "ulcisco",
+        "pos": "other"
+      },
+      "dictionary_entry": "ulcisco",
+      "glosses": [
+        "none"
+      ],
+      "source": "LewisShortPerseusXML",
+      "source_key": "ulcisco"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "ulcisco                          ========   UNKNOWN"
+    ]
+  },
+  {
+    "lemma": "usum",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "utor",
+          "uti",
+          "usus sum",
+          null
+        ]
+      },
+      "dictionary_entry": "utor, uti, usus sum + abl.",
+      "glosses": [
+        "use",
+        "make use of",
+        "enjoy"
+      ],
+      "source": "ManualReview",
+      "source_key": "utor"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "us.um                N      4 1 ACC S M",
+      "usus, usus  N (4th) M   [XXXAX]",
+      "use, enjoyment; experience, skill, advantage; custom;",
+      "us.um                VPAR   3 1 NOM S N PERF         PPL",
+      "us.um                VPAR   3 1 VOC S N PERF         PPL",
+      "us.um                VPAR   3 1 ACC S M PERF         PPL",
+      "us.um                VPAR   3 1 ACC S N PERF         PPL",
+      "utor, uti, usus sum  V (3rd) DEP   [XXXAX]",
+      "us.um                SUPINE 3 1 ACC S N",
+      "use, make use of, enjoy; enjoy the friendship of (with ABL);"
+    ]
+  },
+  {
+    "lemma": "agmus",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "other"
+      },
+      "dictionary_entry": "agnīnus",
+      "glosses": [
+        "none"
+      ],
+      "source": "ls_perseus+context"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "Two words",
+      "May be 2 words combined (ag+mus) If not obvious, probably incorrect",
+      "mus                  N      3 3 NOM S C",
+      "mus                  N      3 3 VOC S C",
+      "mus, muris  N (3rd) C   [XXXBX]",
+      "mouse;"
+    ]
+  },
+  {
+    "lemma": "alduus",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "other"
+      },
+      "dictionary_entry": "altus",
+      "glosses": [
+        "none"
+      ],
+      "source": "ls_perseus+context"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "Word mod d/t",
+      "An internal 'd' might be rendered by 't'",
+      "alt.uus              N      4 1 NOM P M                   Late      uncommon",
+      "alt.uus              N      4 1 VOC P M                   Late      uncommon",
+      "alt.uus              N      4 1 ACC P M                   Late      uncommon",
+      "altus, altus  N (4th) M   [DXXFS]    Late  veryrare",
+      "nourishing, support;"
+    ]
+  },
+  {
+    "lemma": "alies",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "other"
+      },
+      "dictionary_entry": "Alpes, ĭum (rare in sing., Alpis, is, = ἡ Ἄλπις; cf. Rudd.",
+      "glosses": [
+        "garlic"
+      ],
+      "source": "ls_perseus+context"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "es                   SUFFIX",
+      "result of; place of; (abstract noun);",
+      "alies                N      3 1 NOM S F",
+      "alies                N      3 1 NOM S F",
+      "alies                N      3 1 VOC S F",
+      "alies                N      3 1 VOC S F",
+      "alium, ali(i)  N (2nd) N   [XAXCO]",
+      "garlic, garlic plant;"
+    ]
+  },
+  {
+    "lemma": "allobrogibus",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "other"
+      },
+      "dictionary_entry": "albŏgilvus",
+      "glosses": [
+        "Allobroges"
+      ],
+      "source": "ls_perseus+context"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "allobrog.ibus        N      3 1 LOC P M",
+      "allobrog.ibus        N      3 1 DAT P M",
+      "allobrog.ibus        N      3 1 ABL P M",
+      "Allobrox, Allobrogis  N (3rd) M   [XXFES]    uncommon",
+      "Allobroges (pl.); (tribe of Gaul - in Caesar's Gallic War);"
+    ]
+  },
+  {
+    "lemma": "ancipio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "conjugation": 1,
+        "infinitive": "anticipare",
+        "pos": "verb",
+        "principal_parts": "anticipo, anticipare, avi, atum"
+      },
+      "dictionary_entry": "anticipo, anticipare, avi, atum",
+      "glosses": [
+        "to anticipate something. With acc.: vigilias, Vulg. Psa."
+      ],
+      "source": "ls_perseus+context"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "Two words",
+      "May be 2 words combined (anci+pio) If not obvious, probably incorrect",
+      "anc.i                N      2 1 GEN S M",
+      "anc.i                N      2 1 LOC S M",
+      "anc.i                N      2 1 NOM P M",
+      "anc.i                N      2 1 VOC P M",
+      "ancus, anci  N (2nd) M   [FDXFE]    Medieval  veryrare",
+      "group of musical notes;",
+      "pi.o                 N      2 1 DAT S M",
+      "pi.o                 N      2 1 ABL S M",
+      "pius, pii  N (2nd) M   [XEXDS]    lesser",
+      "blessed dead;",
+      "pi.o                 V      1 1 PRES ACTIVE  IND 1 S",
+      "pio, piare, piavi, piatus  V (1st)   [XXXDX]    lesser",
+      "appease, propitiate; cleanse, expiate;",
+      "pi.o                 ADJ    1 1 DAT S M POS",
+      "pi.o                 ADJ    1 1 DAT S N POS",
+      "pi.o                 ADJ    1 1 ABL S M POS",
+      "pi.o                 ADJ    1 1 ABL S N POS",
+      "pius, pia -um, -, piissimus -a -um  ADJ   [XXXAO]",
+      "conscientious; upright; faithful; patriotic/dutiful, respectful; righteous/good",
+      "affectionate, tender, devoted, loyal (to family); pious, devout; holy, godly;"
+    ]
+  },
+  {
+    "lemma": "angustia",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "other"
+      },
+      "dictionary_entry": "angustĭae, ārum (rare in class. Lat. in sing angustĭa, ae, Plin. 14, 6, 8, § 61; cf. Charis. p. 20 P.; but freq. in eccl. Lat., Vulg. Gen. 4",
+      "glosses": [
+        "narrow"
+      ],
+      "source": "ls_perseus+context"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "angusti.a            N      1 1 NOM S F",
+      "angusti.a            N      1 1 VOC S F",
+      "angusti.a            N      1 1 ABL S F",
+      "angustia, angustiae  N (1st) F   [XXXAO]",
+      "narrow passage/place/space (pl.), defile; strait, pass; difficulties; meanness;",
+      "angusti.a            V      1 1 PRES ACTIVE  IMP 2 S",
+      "angustio, angustiare, angustiavi, angustiatus  V (1st) TRANS   [DXXES]    Late  uncommon",
+      "narrow, reduce width/size/amount, constrict, limit; choke, crowd together/hampe"
+    ]
+  },
+  {
+    "lemma": "auorio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "conjugation": 3,
+        "infinitive": "avertere",
+        "pos": "verb",
+        "principal_parts": "averto, avertere, ti, sum"
+      },
+      "dictionary_entry": "averto, avertere, ti, sum",
+      "glosses": [
+        "Petr. 124, 248.— As v. n. avertere ="
+      ],
+      "source": "ls_perseus+context"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "ori                  SUFFIX",
+      "-orium, -ory, -or; place where;",
+      "auori.o              N      2 2 DAT S N",
+      "auori.o              N      2 2 ABL S N",
+      "ava, avae  N (1st) F   [DXXCS]    Late",
+      "grandmother; rooted prejudice, old wives tale;",
+      "avus, avi  N (2nd) M   [XXXBO]",
+      "avos, avi  N M   [XXXFS]    veryrare",
+      "grandfather; forefather, ancestor;",
+      "avis, avis  N (3rd) F   [XAXBO]",
+      "bird; sign, omen, portent;"
+    ]
+  },
+  {
+    "lemma": "ccclxuius",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "other"
+      },
+      "dictionary_entry": "cўclĭcus",
+      "glosses": [
+        "number"
+      ],
+      "source": "ls_perseus+context"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "ccclxuius                        ========   UNKNOWN"
+    ]
+  },
+  {
+    "lemma": "cclxiius",
+    "issues": [
+      "POS_OTHER_VERB_GLOSS"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "other"
+      },
+      "dictionary_entry": "cўclĭcus",
+      "glosses": [
+        "number"
+      ],
+      "source": "ls_perseus+context"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "cclxiius                         ========   UNKNOWN"
+    ]
+  },
+  {
+    "lemma": "egridio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "egredior",
+          "egredi",
+          "egressus sum",
+          null
+        ]
+      },
+      "dictionary_entry": "egredior, egredi, egressus sum",
+      "glosses": [
+        "go out",
+        "march out",
+        "disembark",
+        "depart"
+      ],
+      "source": "ManualReview",
+      "source_key": "egredior"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "egridio                          ========   UNKNOWN"
+    ]
+  },
+  {
+    "lemma": "eripuio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "conjugation": 3,
+        "infinitive": "eripere",
+        "pos": "verb",
+        "principal_parts": "eripio, eripere, ipui, eptum"
+      },
+      "dictionary_entry": "eripio, eripere, ipui, eptum",
+      "glosses": [
+        "7, 54, 3: nubem, Verg. A. 2, 606:"
+      ],
+      "source": "ls_perseus+context"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "eripuio                          ========   UNKNOWN"
+    ]
+  },
+  {
+    "lemma": "frumentaris",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "frumentor",
+          "frumentari",
+          "frumentatus sum",
+          null
+        ]
+      },
+      "dictionary_entry": "frumentor, frumentari, frumentatus sum",
+      "glosses": [
+        "forage",
+        "get grain",
+        "obtain provisions"
+      ],
+      "source": "ManualReview",
+      "source_key": "frumentor"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "frument.aris         V      1 1 PRES         IND 2 S",
+      "frumentor, frumentari, frumentatus sum  V (1st) DEP   [XXXDX]    lesser",
+      "get grain, forage;"
+    ]
+  },
+  {
+    "lemma": "laturus",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "fero",
+          "ferre",
+          "tuli",
+          "latus"
+        ]
+      },
+      "dictionary_entry": "fero, ferre, tuli, latus",
+      "glosses": [
+        "bring",
+        "carry",
+        "bear",
+        "endure",
+        "report"
+      ],
+      "source": "ManualReview",
+      "source_key": "fero"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "lat.urus             VPAR   3 2 NOM S M FUT  ACTIVE  PPL",
+      "fero, ferre, tuli, latus  V   [XXXAX]",
+      "bring, bear; tell/speak of; consider; carry off, win, receive, produce; get;"
+    ]
+  },
+  {
+    "lemma": "mouio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "moueo",
+          "mouere",
+          "moui",
+          "motus"
+        ]
+      },
+      "dictionary_entry": "moueo, mouere, moui, motus",
+      "glosses": [
+        "move",
+        "stir",
+        "disturb",
+        "influence"
+      ],
+      "source": "ManualReview",
+      "source_key": "moveo"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "i                    SUFFIX",
+      "makes abstract noun of the verb; place/instrument/result of verb action;",
+      "moui.o               N      2 2 DAT S N",
+      "moui.o               N      2 2 ABL S N",
+      "moveo, movere, movi, motus  V (2nd)   [XXXAX]",
+      "move, stir, agitate, affect, provoke, disturb;  [movere se => dance];",
+      "io                   SUFFIX",
+      "-ing, -ion, -ery; the action or result of the action of the verb;",
+      "mouio                N      3 1 NOM S F",
+      "mouio                N      3 1 VOC S F",
+      "moveo, movere, movi, motus  V (2nd)   [XXXAX]",
+      "move, stir, agitate, affect, provoke, disturb;  [movere se => dance];"
+    ]
+  },
+  {
+    "lemma": "perfrabio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "conjugation": 3,
+        "infinitive": "perfrigeere",
+        "pos": "verb",
+        "principal_parts": "perfrigeo, perfrigeere, ere"
+      },
+      "dictionary_entry": "perfrigeo, perfrigeere, ere",
+      "glosses": [
+        "to take cold: perfrigeo, καταψύχω, Gloss. Philox."
+      ],
+      "source": "ls_perseus+context"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "perfrabio                        ========   UNKNOWN"
+    ]
+  },
+  {
+    "lemma": "repperio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "conjugation": 3,
+        "infinitive": "repperiere",
+        "pos": "verb",
+        "principal_parts": "repperi, repperiere"
+      },
+      "dictionary_entry": "repperi, repperiere",
+      "glosses": [
+        "[MISSING_GLOSS]"
+      ],
+      "source": "ls_perseus+context"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "repperi.o            V      4 1 PRES ACTIVE  IND 1 S",
+      "repperio, repperire, repperi, reppertus  V (4th) TRANS   [XXXAO]",
+      "discover, learn; light on; find/obtain/get; find out/to be, get to know; invent"
+    ]
+  },
+  {
+    "lemma": "superauio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "conjugation": 3,
+        "infinitive": "supervincere",
+        "pos": "verb",
+        "principal_parts": "supervinco, supervincere, ere"
+      },
+      "dictionary_entry": "supervinco, supervincere, ere",
+      "glosses": [
+        "to overcome, conquer (eccl. Lat.), Tert. adv. Gnost."
+      ],
+      "source": "ls_perseus+context"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "super                PREFIX",
+      "super-, over, above, upon; from above; over and above;",
+      "aui.o                N      2 2 DAT S N",
+      "aui.o                N      2 2 ABL S N",
+      "avium, avii  N (2nd) N   [XXXCO]",
+      "pathless region (pl.), wild waste, wilderness, desert; lonely/solitary places;",
+      "aui.o                ADJ    1 1 DAT S M POS",
+      "aui.o                ADJ    1 1 DAT S N POS",
+      "aui.o                ADJ    1 1 ABL S M POS",
+      "aui.o                ADJ    1 1 ABL S N POS",
+      "avius, avia, avium  ADJ   [XXXBO]",
+      "out of the way, unfrequented, remote; pathless, trackless, untrodden; straying;"
+    ]
+  },
+  {
+    "lemma": "transfacio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "conjugation": 3,
+        "infinitive": "traicere",
+        "pos": "verb",
+        "principal_parts": "traicio, traicere, jeci, jectum"
+      },
+      "dictionary_entry": "traicio, traicere, jeci, jectum",
+      "glosses": [
+        "to throw across. With the person or thing"
+      ],
+      "source": "ls_perseus+context"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "trans                PREFIX",
+      "- across, - over;",
+      "faci.o               V      3 1 PRES ACTIVE  IND 1 S",
+      "facio, facere, feci, factus  V (3rd) TRANS   [XXXAO]",
+      "make/build/construct/create/cause/do; have built/made; fashion; work (metal);",
+      "act/take action/be active; (bowels); act/work (things), function, be effective;",
+      "produce; produce by growth; bring forth (young); create, bring into existence;",
+      "compose/write; classify; provide; do/perform; commit crime; suppose/imagine;"
+    ]
+  },
+  {
+    "lemma": "uido",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "pos": "verb",
+        "principal_parts": [
+          "uideo",
+          "uidere",
+          "uidi",
+          "uisus"
+        ]
+      },
+      "dictionary_entry": "uideo, uidere, uidi, uisus",
+      "glosses": [
+        "see",
+        "perceive",
+        "understand"
+      ],
+      "source": "ManualReview",
+      "source_key": "video"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "do                   SUFFIX",
+      "act of or result of the action of the verb;",
+      "uido                 N      3 1 NOM S F",
+      "uido                 N      3 1 NOM S F",
+      "uido                 N      3 1 VOC S F",
+      "uido                 N      3 1 VOC S F",
+      "vieo, viere, -, vietus  V (2nd)   [XXXDX]    lesser",
+      "plait, weave; bend/twist into basketwork;"
+    ]
+  },
+  {
+    "lemma": "uoccio",
+    "issues": [
+      "NEW_BOGUS_PP"
+    ],
+    "current_entry": {
+      "dictionary": {
+        "conjugation": 1,
+        "infinitive": "vocitare",
+        "pos": "verb",
+        "principal_parts": "vocito, vocitare, avi, atum"
+      },
+      "dictionary_entry": "vocito, vocitare, avi, atum",
+      "glosses": [
+        "to be wont to call, to call, name"
+      ],
+      "source": "ls_perseus+context"
+    },
+    "upos_from_vocab": null,
+    "whitakers_lookup": [
+      "uoccio                           ========   UNKNOWN"
+    ]
+  }
+]

@@ -1,0 +1,1220 @@
+
+======================================================================
+  LETTER 6_16: Letter 6.16 (to Tacitus, on the death of Pliny the Elder)
+  Chapter-level targets: 30
+======================================================================
+
+  Part 1: The dedication and frame (sentences 0-5)
+  Eligible lemmas: 49 | Current targets: 15
+  Lemma                UPOS   Part  Corp  Status       In?  Gloss
+  ------------------------------------------------------------------------------------------
+  scribo               VERB   4     8     WhitakersW   YES  write
+  avunculus            NOUN   2     3     WhitakersW   YES  maternal uncle, mother's broth
+  beatus               ADJ    2     2     WhitakersW   YES  blessed, blissful
+  addo                 VERB   1     1     WhitakersW   YES  add, insert, bring/attach to, 
+  aeternitas           NOUN   1     1     WhitakersW   YES  eternity, infinite time
+  ago                  VERB   1     1     FromCaesar   YES  drive, lead, do, 8  Caesar Run
+  casus                NOUN   1     2     FromCaesar   YES  fall
+  celebro              VERB   1     2     WhitakersW   YES  celebrate/perform
+  clades               NOUN   1     1     WhitakersW   YES  defeat, reverse
+  condo                VERB   1     2     WhitakersW   YES  put/insert
+  deposco              VERB   1     1     WhitakersW   YES  demand peremptorily
+  deus                 NOUN   1     4     FromCaesar   YES  deus X [XEXCX]
+  do                   VERB   1     5     FromCaesar   YES  give
+  equideo              VERB   1     2     WhitakersW   YES  see, look at
+  etiam                ADV    1     11    FromCaesar   YES  besides
+  exitus               NOUN   1     3     WhitakersW        exit, departure
+  facio                VERB   1     9     FromCaesar        do
+  gloria               NOUN   1     1     FromCaesar        glory
+  gratia               NOUN   1     1     FromCaesar        gratitude
+  immortalis           ADJ    1     1     FromCaesar        immortal, not subject to death
+  iniungo              VERB   1     1     WhitakersW        enjoin, charge, bring/impose u
+  lego                 VERB   1     4     FromCaesar        a publicist's and jurid
+  libenter             ADV    1     1     FromCaesar        willingly
+  liber                NOUN   1     1     FromCaesar        free
+  mando                NOUN   1     2     FromCaesar        order
+  memorabilis          ADJ    1     1     WhitakersW        memorable
+  mors                 NOUN   1     2     FromCaesar        death
+  munus                NOUN   1     1     FromCaesar        a service
+  numerus              NOUN   1     2     FromCaesar        numbe r
+  occido               VERB   1     1     FromCaesar        strike down
+  opus                 NOUN   1     1     FromCaesar        work
+  perpetuitas          NOUN   1     1     WhitakersW        continuity
+  pesum                VERB   1     1     FromCaesar        to strive after or seek for re
+  populus              NOUN   1     1     FromCaesar        people
+  possum               VERB   1     9     FromCaesar        be able
+  posterus             NOUN   1     2     FromCaesar        next
+  propono              VERB   1     3     FromCaesar        put or set forth
+  pulcherrimus         ADJ    1     1     WhitakersW        pretty
+  puto                 VERB   1     3     FromCaesar        think
+  quamvis              VERB   1     3     WhitakersW        however much
+  quasi                ADV    1     5     WhitakersW        quasi CONJ
+  semper               ADV    1     1     FromCaesar        always
+  suscipio             VERB   1     1     FromCaesar        undertake
+  terra                NOUN   1     3     FromCaesar        be dry
+  trado                VERB   1     1     FromCaesar        give up
+  urbs                 NOUN   1     2     FromCaesar        a walled town
+  verius               ADV    1     1     WhitakersW        really, truly, actually, indee
+  victo                VERB   1     1     WhitakersW        conquer, defeat, excel
+  video                VERB   1     5     FromCaesar        see
+
+  Part 2: The cloud appears (sentences 6-12)
+  Eligible lemmas: 84 | Current targets: 15
+  Lemma                UPOS   Part  Corp  Status       In?  Gloss
+  ------------------------------------------------------------------------------------------
+  interdum             ADV    2     3     FromCaesar   YES  sometimes
+  magnus               ADJ    2     8     FromCaesar   YES  great
+  studeo               VERB   2     2     FromCaesar   YES  be eager
+  altus                NOUN   1     2     FromCaesar   YES  high
+  appareo              VERB   1     2     WhitakersW   YES  appear
+  apto                 VERB   1     1     WhitakersW   YES  fasten, attach, join, connect,
+  arbor                NOUN   1     1     WhitakersW   YES  tree
+  ascendo              VERB   1     2     FromCaesar   YES  climb
+  candidus             ADJ    1     1     WhitakersW   YES  bright, clear, transparent
+  cinis                ADV    1     3     WhitakersW   YES  ashes
+  classis              ADJ    1     1     WhitakersW   YES  class/division of Romans
+  cognosco             VERB   1     1     FromCaesar   YES  learn
+  conspicio            VERB   1     1     FromCaesar   YES  observe/see/witness
+  copia                NOUN   1     2     FromCaesar   YES  abundance
+  credo                VERB   1     5     WhitakersW   YES  trust, entrust
+  destituo             VERB   1     1     FromCaesar        abandon
+  diffundo             VERB   1     2     WhitakersW        diffuse
+  do                   VERB   1     5     FromCaesar        give
+  elatus               VERB   1     1     WhitakersW        carry out
+  eruditus             ADV    1     1     WhitakersW        educate, teach, instruct
+  etiam                ADV    1     11    FromCaesar        besides
+  evicio               VERB   1     1     WhitakersW        hit, strike
+  exprimo              VERB   1     1     FromCaesar        squeeze, squeeze/press out
+  facio                VERB   1     9     FromCaesar        do
+  forma                NOUN   1     2     WhitakersW        form, figure, appearance
+  forte                ADV    1     2     WhitakersW        by chance
+  frigidus             ADJ    1     2     WhitakersW        cold, cool, chilly, frigid
+  gusto                VERB   1     1     WhitakersW        taste, sip
+  hora                 NOUN   1     1     FromCaesar        hour
+  iaceo                VERB   1     2     WhitakersW        lie
+  imperium             NOUN   1     2     FromCaesar        command
+  incertus             ADJ    1     3     WhitakersW        uncertain
+  indico               VERB   1     1     WhitakersW        point out, show, indicate, exp
+  intueor              VERB   1     1     FromCaesar        look at
+  inusitatus           VERB   1     1     WhitakersW        unusual, uncommon
+  iubeo                VERB   1     4     FromCaesar        order
+  kal                  NOUN   1     1     WhitakersW        Kalends , 1st of month
+  latitudo             NOUN   1     1     FromCaesar        width, breadth, extent
+  liburnicus           ADJ    1     1     WhitakersW        of/belonging to the Liburian/I
+  locus                NOUN   1     6     FromCaesar        place
+  longus               ADV    1     3     FromCaesar        long.
+  maculosus            ADJ    1     1     WhitakersW        spotted
+  magis                ADV    1     5     FromCaesar        more
+  magnitudo            NOUN   1     1     FromCaesar        size, magnitude, bulk
+  malo                 VERB   1     1     WhitakersW        mast
+  mater                NOUN   1     2     FromCaesar        a mother ( dat
+  miraculum            NOUN   1     1     WhitakersW        wonder, marvel
+  mons                 NOUN   1     3     FromCaesar        mountain
+  mox                  ADV    1     5     WhitakersW        soon, next
+  noscor               VERB   1     1     WhitakersW        get to know
+  nouem                NOUN   1     1     WhitakersW        make new, renovate
+  nubem                NOUN   1     1     WhitakersW        cloud/mist/haze/dust/smoke
+  nubes                NOUN   1     1     WhitakersW        cloud/mist/haze/dust/smoke
+  orior                VERB   1     1     FromCaesar        rise
+  pinus                NOUN   1     1     WhitakersW        pine/fir tree/wood/foliage
+  pondus               NOUN   1     1     WhitakersW        weight, burden, impediment
+  poscio               VERB   1     2     WhitakersW        ask, demand
+  possum               VERB   1     9     FromCaesar        be able
+  postea               ADV    1     2     FromCaesar        After this or that
+  praesens             ADJ    1     1     WhitakersW        present
+  ramus                NOUN   1     1     WhitakersW        branch, bough
+  recens               ADJ    1     1     FromCaesar        the poets sometimes recente
+  rego                 VERB   1     2     WhitakersW        rule, guide
+  respondeo            VERB   1     1     FromCaesar        answer
+  scribo               VERB   1     8     WhitakersW        write
+  senesco              VERB   1     1     WhitakersW        grow old
+  september            NOUN   1     1     WhitakersW        September
+  septimus             ADJ    1     1     FromCaesar        seventh
+  similitudo           NOUN   1     1     WhitakersW        likeness, imitation
+  sol                  NOUN   1     1     FromCaesar        the sun
+  soleo                VERB   1     5     WhitakersW        be in the habit of
+  sordidus             ADJ    1     1     WhitakersW        dirty, unclean, foul, filthy
+  species              NOUN   1     2     FromCaesar        a later period were introduced
+  spiritus             NOUN   1     2     FromCaesar        breath
+  sustulero            VERB   1     1     WhitakersW        bear, endure, suffer
+  terra                NOUN   1     3     FromCaesar        be dry
+  truncus              NOUN   1     1     WhitakersW        trunk
+  usus                 NOUN   1     1     FromCaesar        use
+  vanesco              VERB   1     1     WhitakersW        vanish, fade, disappear
+  venio                VERB   1     4     FromCaesar        come
+  vico                 VERB   1     3     FromCaesar        village
+  vido                 VERB   1     3     FromCaesar        see
+  virus                NOUN   1     1     WhitakersW        venom , poisonous secretion of
+  volo                 VERB   1     3     FromCaesar        will
+
+  Part 3: The rescue mission (sentences 13-18)
+  Eligible lemmas: 82 | Current targets: 15
+  Lemma                UPOS   Part  Corp  Status       In?  Gloss
+  ------------------------------------------------------------------------------------------
+  iam                  ADV    3     10    FromCaesar   YES  now
+  navis                NOUN   2     3     WhitakersW   YES  ship
+  periculum            NOUN   2     6     FromCaesar   YES  risk
+  rectum               ADJ    2     2     WhitakersW   YES  virtue
+  rectus               ADJ    2     2     WhitakersW   YES  right, proper
+  'fortes'             ADJ    1     1     WhitakersW        strong, powerful, mighty, vigo
+  'fortuna             NOUN   1     1     WhitakersW        chance, luck, fate
+  accedo               VERB   1     2     FromCaesar   YES  come near, approach
+  accipio              VERB   1     3     FromCaesar   YES  take without effort
+  adeo                 ADV    1     3     WhitakersW   YES  to such a degree/pass/point
+  ambuiscor            VERB   1     1     WhitakersW   YES  smear
+  amoenitas            NOUN   1     1     WhitakersW   YES  pleasantness, attractiveness, 
+  animus               NOUN   1     3     FromCaesar   YES  mind
+  ascendo              VERB   1     2     FromCaesar        climb
+  auxilium             NOUN   1     1     FromCaesar   YES  help
+  calidus              ADJ    1     1     WhitakersW   YES  warm, hot
+  cinis                NOUN   1     3     WhitakersW        ashes
+  codicillus           NOUN   1     1     WhitakersW   YES  notepad, small log
+  consilium            NOUN   1     1     FromCaesar   YES  plan
+  cuncto               VERB   1     1     WhitakersW        delay, impede, hold up
+  cursus               NOUN   1     1     FromCaesar        a running ( on foot
+  deduco               VERB   1     1     FromCaesar        lead/draw//pull/bring/stretch 
+  densus               ADJ    1     2     WhitakersW        thick/dense/solid
+  deprendero           VERB   1     1     WhitakersW        seize/catch
+  dicto                VERB   1     1     WhitakersW        say, declare, state
+  discrimen            NOUN   1     2     WhitakersW        crisis, separating line, divis
+  domus                NOUN   1     6     FromCaesar        house
+  egredior             VERB   1     3     FromCaesar        go/march/come out
+  enoto                VERB   1     1     WhitakersW        get to know
+  eripio               VERB   1     1     FromCaesar        snatch away
+  etiam                ADV    1     11    FromCaesar        besides
+  exterreo             VERB   1     2     WhitakersW        strike with terror, scare
+  facio                VERB   1     9     FromCaesar        do
+  fero                 ADJ    1     2     FromCaesar        carry
+  figura               NOUN   1     4     WhitakersW        shape, form, figure, image
+  flecto               VERB   1     1     WhitakersW        bend, curve, bow
+  frango               VERB   1     1     WhitakersW        break, shatter, crush
+  frequens             ADJ    1     1     WhitakersW        crowded
+  fuga                 NOUN   1     3     FromCaesar        flight
+  fugio                VERB   1     1     FromCaesar        flee, fly, run away
+  gubernacula          NOUN   1     1     WhitakersW        helm, rudder, steering oar of 
+  gubernator           NOUN   1     1     WhitakersW        helmsman, pilot
+  ignis                NOUN   1     2     FromCaesar        glow of passion
+  immineo              VERB   1     2     WhitakersW        threaten, be a threat
+  incido               VERB   1     2     FromCaesar        fall into or upon a thing
+  incohavo             VERB   1     1     WhitakersW        begin/start
+  inquam               VERB   1     1     WhitakersW        say
+  ita                  ADV    1     4     FromCaesar        so
+  iuvo                 VERB   1     1     FromCaesar        gleam
+  lapis                NOUN   1     1     FromCaesar        a stone (cf.: saxum
+  litora               NOUN   1     1     WhitakersW        shore, seashore, coast, strand
+  magnus               ADJ    1     8     FromCaesar        great
+  malum                NOUN   1     2     WhitakersW        mast
+  metus                NOUN   1     4     WhitakersW        fear, anxiety
+  modus                NOUN   1     2     FromCaesar        way
+  moneo                VERB   1     2     FromCaesar        cause to think .
+  mons                 NOUN   1     3     FromCaesar        mountain
+  motus                NOUN   1     1     WhitakersW        movement, motion
+  mox                  ADV    1     5     WhitakersW        soon, next
+  niger                NOUN   1     2     WhitakersW        black, dark
+  obeo                 VERB   1     1     WhitakersW        go to meet
+  obsto                VERB   1     1     WhitakersW        oppose, hinder
+  oculus               NOUN   1     5     FromCaesar        an eye.
+  oro                  VERB   1     1     FromCaesar        Müll.
+  paulus               NOUN   1     2     FromCaesar        In gen.
+  peterus              NOUN   1     1     WhitakersW        master, owner
+  propero              VERB   1     1     WhitakersW        hurry, speed up
+  propius              NOUN   1     1     FromCaesar        near
+  pumex                NOUN   1     3     WhitakersW        pumice stone, similar volcanic
+  quadrire             NOUN   1     1     WhitakersW        thing
+  retro                ADV    1     1     WhitakersW        backwards, back, to the rear
+  ruina                VERB   1     1     WhitakersW        fall
+  soluo                VERB   1     1     WhitakersW        loosen, release, unbind, untie
+  studiosus            ADJ    1     1     WhitakersW        student
+  subeo                VERB   1     1     FromCaesar        come or go under any thing
+  subiaceo             VERB   1     1     WhitakersW        lie underneath/below/at the fo
+  tanto                ADV    1     2     FromCaesar        so great
+  teneo                VERB   1     2     FromCaesar        hold
+  unde                 ADV    1     1     FromCaesar        from where, whence, from what 
+  vadus                NOUN   1     1     FromCaesar        init.
+  verto                VERB   1     2     FromCaesar        apply one's self
+  villa                NOUN   1     2     WhitakersW        farm/country home/estate
+
+  Part 4: At Stabiae (sentences 19-29)
+  Eligible lemmas: 140 | Current targets: 15
+  Lemma                UPOS   Part  Corp  Status       In?  Gloss
+  ------------------------------------------------------------------------------------------
+  timor                NOUN   3     6     FromCaesar   YES  fear
+  excito               VERB   2     3     WhitakersW   YES  excit.o VPAR 3 4 DAT S M PERF 
+  nunc                 ADV    2     4     FromCaesar   YES  now, today, at present
+  periculum            NOUN   2     6     FromCaesar        risk
+  pumex                ADJ    2     3     WhitakersW   YES  pumice stone, similar volcanic
+  ratio                NOUN   2     3     FromCaesar   YES  calculation
+  abeo                 VERB   1     1     WhitakersW   YES  depart, go away
+  accubo               VERB   1     1     WhitakersW   YES  lie near or by
+  adeo                 VERB   1     3     WhitakersW        to such a degree/pass/point
+  aduerto              VERB   1     1     FromCaesar   YES  turn a thing to or toward a pl
+  aeque                ADV    1     1     WhitakersW   YES  equally, justly, fairly
+  agrestis             ADJ    1     1     WhitakersW   YES  rustic, inhabiting countryside
+  altus                ADJ    1     2     FromCaesar        high
+  amplitudo            NOUN   1     1     WhitakersW   YES  greatness
+  anima                NOUN   1     1     FromCaesar   YES  soul
+  aperio               VERB   1     1     FromCaesar   YES  open
+  appropinquo          VERB   1     1     WhitakersW   YES  approach
+  ardeo                VERB   1     1     WhitakersW   YES  be on fire
+  area                 NOUN   1     2     WhitakersW        area
+  audio                VERB   1     6     FromCaesar        hear
+  avunculus            NOUN   1     3     WhitakersW        maternal uncle, mother's broth
+  balines              NOUN   1     1     WhitakersW        unidentified plant
+  caput                NOUN   1     1     WhitakersW        head
+  casus                NOUN   1     2     FromCaesar        fall
+  ceno                 VERB   1     1     WhitakersW        dine, eat dinner/supper
+  certus               ADJ    1     2     FromCaesar        certain
+  ceruical             ADJ    1     1     WhitakersW        pillow, cushion
+  ceterus              ADJ    1     1     FromCaesar        the_other
+  cinis                NOUN   1     3     WhitakersW        ashes
+  circumago            VERB   1     1     WhitakersW        drive/lead around
+  claritas             NOUN   1     1     WhitakersW        clarity/vividness
+  collatio             NOUN   1     1     WhitakersW        placing/putting together, comb
+  communis             ADJ    1     1     FromCaesar        several or to all
+  complector           VERB   1     1     WhitakersW        embrace, hug
+  confelo              VERB   1     1     WhitakersW        suck
+  consolo              VERB   1     1     FromCaesar        cheer
+  conspicuus           ADJ    1     1     WhitakersW        visible, clearly seen, in sigh
+  constringo           VERB   1     1     WhitakersW        bind fast/tight, tie up/togeth
+  consulto             VERB   1     1     WhitakersW        ask information/advice of
+  contrarius           ADJ    1     1     WhitakersW        opposite, contrary, in contrad
+  corpus               NOUN   1     4     FromCaesar        the senses
+  crebrus              ADJ    1     1     WhitakersW        thick/crowded/packed/close set
+  cresco               VERB   1     2     WhitakersW        come forth/to be
+  cubiculum            NOUN   1     1     WhitakersW        bedroom
+  curuatus             ADJ    1     1     WhitakersW        bend/arch, make curved/bent
+  defero               VERB   1     4     WhitakersW        carry/bring/sink/fall down/off
+  deserto              VERB   1     1     WhitakersW        leave/depart/quit/desert
+  diaetus              NOUN   1     1     WhitakersW        goddess
+  dictito              VERB   1     1     WhitakersW        repeat
+  dirigo               VERB   1     1     WhitakersW        arrange/set in line/direction
+  do                   VERB   1     5     FromCaesar        give
+  eligo                VERB   1     1     WhitakersW        pick out, choose
+  emoueo               VERB   1     1     WhitakersW        move away, remove, dislodge
+  exedo                ADJ    1     2     WhitakersW        eat up, consume
+  exitus               NOUN   1     3     WhitakersW        exit, departure
+  flamma               NOUN   1     3     WhitakersW        flame, blaze
+  formido              NOUN   1     2     WhitakersW        fear/terror/alarm
+  fuga                 NOUN   1     3     FromCaesar        flight
+  fulgor               NOUN   1     1     WhitakersW        brightness/brilliance/radiance
+  gravus               ADJ    1     2     FromCaesar        ponderous, burdensome
+  hilar                NOUN   1     1     WhitakersW        trifle
+  horto                VERB   1     1     FromCaesar        a garden
+  huc                  VERB   1     1     WhitakersW        here, to this place
+  iam                  ADV    1     10    FromCaesar        now
+  ibi                  ADV    1     3     FromCaesar        there
+  ignis                NOUN   1     2     FromCaesar        glow of passion
+  illuc                ADV    1     2     WhitakersW        there, thither, to that place/
+  impono               VERB   1     1     FromCaesar        place
+  incendia             NOUN   1     1     WhitakersW        fire, conflagration
+  incidentia           NOUN   1     1     WhitakersW        incident/occurrence/happening
+  infundo              VERB   1     1     WhitakersW        pour in, pour on, pour out
+  interim              ADV    1     3     FromCaesar        the meantime : : : :
+  inueho               VERB   1     1     WhitakersW        carry/bring in, import
+  ita                  ADV    1     4     FromCaesar        so
+  iubeo                VERB   1     4     FromCaesar        order
+  latus                ADJ    1     1     FromCaesar        broad
+  lenio                VERB   1     1     WhitakersW        mitigate, moderate
+  levius               ADJ    1     1     WhitakersW        light, thin, trivial, trifling
+  limen                NOUN   1     3     WhitakersW        threshold, entrance
+  lintea               NOUN   1     1     WhitakersW        linen cloth
+  litus                NOUN   1     3     WhitakersW        shore, seashore, coast, strand
+  locus                NOUN   1     6     FromCaesar        place
+  longus               ADJ    1     3     FromCaesar        long.
+  lotus                NOUN   1     1     WhitakersW        lotus, flower of forgetfulness
+  magnus               ADJ    1     8     FromCaesar        great
+  mare                 NOUN   1     2     WhitakersW        sea
+  meatus               NOUN   1     1     WhitakersW        movement along line, course/pa
+  medius               ADJ    1     2     FromCaesar        middle, middle of, mid
+  metuo                VERB   1     2     WhitakersW        fear
+  misceo               VERB   1     2     WhitakersW        mix, mingle
+  mons                 NOUN   1     3     FromCaesar        mountain
+  mora                 NOUN   1     1     WhitakersW        delay, hindrance, obstacle
+  munimentum           NOUN   1     1     WhitakersW        fortification, bulwark
+  navis                NOUN   1     3     WhitakersW        ship
+  nego                 VERB   1     4     FromCaesar        say no
+  nondum               ADV    1     1     FromCaesar        adv.
+  nox                  NOUN   1     6     FromCaesar        night
+  nutor                VERB   1     1     WhitakersW        waver, give way
+  obverso              VERB   1     1     WhitakersW        turn or direct towards
+  oppleo               VERB   1     1     WhitakersW        fill
+  pervigilavo          VERB   1     1     WhitakersW        remain awake all night
+  procedo              VERB   1     1     FromCaesar        proceed
+  proximus             ADJ    1     3     FromCaesar        nearest
+  quasi                ADV    1     5     WhitakersW        quasi CONJ
+  quies                NOUN   1     1     WhitakersW        quiet, calm, rest, peace
+  quiesco              VERB   1     3     WhitakersW        rest, keep quiet/calm, be at p
+  reddo                VERB   1     3     FromCaesar        return
+  refero               VERB   1     2     FromCaesar        report bring back
+  relinquo             VERB   1     3     FromCaesar        leave behind
+  reluceo              VERB   1     1     WhitakersW        shine out
+  remedium             NOUN   1     1     WhitakersW        remedy, cure
+  resideo              VERB   1     2     WhitakersW        sit down/on/in
+  rursus               ADV    1     5     FromCaesar        turned back or backwards
+  sarcina              NOUN   1     1     WhitakersW        pack, bundle, soldier's kit
+  secundus             ADJ    1     3     FromCaesar        following.
+  securitas            NOUN   1     1     WhitakersW        freedom from care
+  sedes                NOUN   1     1     FromCaesar        seat
+  sensim               ADV    1     1     WhitakersW        slowly, gradually, cautiously
+  similis              ADJ    1     5     WhitakersW        like, similar, resembling
+  sinus                NOUN   1     1     WhitakersW        bowl for serving wine, etc
+  solitudo             NOUN   1     2     WhitakersW        solitude, loneliness
+  somnus               NOUN   1     1     WhitakersW        sleep
+  sono                 VERB   1     1     WhitakersW        make a noise/sound
+  stabium              NOUN   1     1     WhitakersW        stirrup
+  subsisto             VERB   1     1     FromCaesar        to take a stand
+  surgo                VERB   1     1     WhitakersW        rise, lift
+  tectus               NOUN   1     1     FromCaesar        covered
+  tego                 VERB   1     1     WhitakersW        cover, protect
+  tenebra              NOUN   1     1     WhitakersW        darkness , obscurity
+  tremor               NOUN   1     1     WhitakersW        trembling, shuddering
+  trepidatio           NOUN   1     1     WhitakersW        fear/alarm
+  trepido              VERB   1     1     WhitakersW        tremble, be afraid, waver
+  tunc                 ADV    1     1     WhitakersW        then, thereupon, at that time
+  vago                 VERB   1     1     FromCaesar        wander : Brix: exsul incerta v
+  vastus               ADJ    1     2     WhitakersW        huge, vast
+  ventus               NOUN   1     1     FromCaesar        wind
+  verus                ADJ    1     3     FromCaesar        true
+  vico                 VERB   1     3     FromCaesar        village
+  video                VERB   1     5     FromCaesar        see
+  villa                NOUN   1     2     WhitakersW        farm/country home/estate
+
+  Part 5: The death and aftermath (sentences 30-40)
+  Eligible lemmas: 93 | Current targets: 15
+  Lemma                UPOS   Part  Corp  Status       In?  Gloss
+  ------------------------------------------------------------------------------------------
+  corpus               NOUN   2     4     FromCaesar   YES  the senses
+  dies                 NOUN   2     6     FromCaesar   YES  day
+  flamma               ADJ    2     3     WhitakersW   YES  flame, blaze
+  historia             NOUN   2     2     WhitakersW   YES  history
+  iam                  ADV    2     10    FromCaesar        now
+  nox                  NOUN   2     6     FromCaesar   YES  night
+  statim               ADV    2     3     FromCaesar   YES  at once
+  abiicio              VERB   1     1     WhitakersW   YES  throw/cast away/down/aside
+  adhuc                ADV    1     3     WhitakersW   YES  thus far, till now, to this po
+  adicio               VERB   1     1     WhitakersW   YES  add, increase, raise
+  admitto              VERB   1     1     FromCaesar   YES  send to
+  adverdo              VERB   1     1     FromCaesar   YES  none
+  aestuo               VERB   1     1     WhitakersW   YES  boil, seethe, foam
+  alibi                ADV    1     1     WhitakersW   YES  elsewhere, in another place
+  amicus               NOUN   1     1     FromCaesar   YES  friendly
+  angustus             VERB   1     1     FromCaesar   YES  narrow
+  aqua                 NOUN   1     1     WhitakersW        water
+  aspicio              VERB   1     1     WhitakersW        look/gaze on/at, see, observe,
+  assurgo              VERB   1     1     WhitakersW        rise/stand up, rise to one's f
+  audio                VERB   1     6     FromCaesar        hear
+  caligo               NOUN   1     1     WhitakersW        mist/fog
+  clauso               VERB   1     1     WhitakersW        limp, stumble/falter/hesitate
+  colligo              VERB   1     2     WhitakersW        collect, assemble, bring/gathe
+  concido              VERB   1     1     FromCaesar        cut/chop up/down/to pieces
+  crassus              ADJ    1     1     FromCaesar        solid
+  defungor             VERB   1     1     WhitakersW        have done with , finish, bring
+  deinde               ADV    1     2     FromCaesar        then/next/afterward
+  densus               ADJ    1     2     WhitakersW        thick/dense/solid
+  egredior             VERB   1     3     FromCaesar        go/march/come out
+  epistula             NOUN   1     2     WhitakersW        letter/dispatch/written commun
+  ergo                 ADV    1     1     WhitakersW        therefore
+  excerpo              VERB   1     1     WhitakersW        pick out
+  excito               VERB   1     3     WhitakersW        excit.o VPAR 3 4 DAT S M PERF 
+  exitus               NOUN   1     3     WhitakersW        exit, departure
+  facio                VERB   1     9     FromCaesar        do
+  facius               NOUN   1     1     WhitakersW        gravy
+  finis                NOUN   1     1     FromCaesar        end
+  frequenter           ADV    1     1     WhitakersW        often, frequently
+  frigidus             ADJ    1     2     WhitakersW        cold, cool, chilly, frigid
+  fuga                 NOUN   1     3     FromCaesar        flight
+  habitus              NOUN   1     1     WhitakersW        condition, state
+  hauso                VERB   1     1     WhitakersW        intend, be prepared
+  ibi                  ADV    1     3     FromCaesar        there
+  illaesus             VERB   1     1     WhitakersW        uninjured
+  illic                ADV    1     1     WhitakersW        in that place, there, over the
+  induo                VERB   1     1     WhitakersW        put on, clothe, cover
+  innitor              ADJ    1     1     WhitakersW        lean on, be supported by
+  integer              ADJ    1     1     WhitakersW        untouched, entire, whole, comp
+  interim              ADV    1     3     FromCaesar        the meantime : : : :
+  intersum             ADJ    1     2     FromCaesar        be/lie between, be in the mids
+  invenio              VERB   1     5     FromCaesar        come or light upon a thing
+  iterum               ADV    1     2     FromCaesar        again
+  linteum              NOUN   1     1     WhitakersW        linen cloth
+  litus                NOUN   1     3     WhitakersW        shore, seashore, coast, strand
+  lumen                NOUN   1     3     WhitakersW        light
+  magnus               ADV    1     8     FromCaesar        great
+  mare                 NOUN   1     2     WhitakersW        sea
+  mater                NOUN   1     2     FromCaesar        a mother ( dat
+  memoro               VERB   1     1     WhitakersW        remember
+  natura               NOUN   1     2     FromCaesar        birth.
+  niger                ADJ    1     2     WhitakersW        black, dark
+  novus                ADV    1     1     FromCaesar        new
+  obstruo              VERB   1     1     WhitakersW        block up, barricade
+  odor                 NOUN   1     1     WhitakersW        scent, odor, aroma, smell
+  permaneo             VERB   1     1     FromCaesar        stay to the end
+  persequor            VERB   1     1     FromCaesar        pursue
+  placeo               VERB   1     1     FromCaesar        please
+  popo                 VERB   1     1     FromCaesar        to make or do any thing with p
+  potior               ADJ    1     1     FromCaesar        take possession of
+  praenuntius          ADJ    1     2     WhitakersW        acting as harbinger
+  proximus             ADJ    1     3     FromCaesar        nearest
+  quiesco              VERB   1     3     WhitakersW        rest, keep quiet/calm, be at p
+  recubo               VERB   1     1     WhitakersW        lie down/back, recline, lie on
+  reddo                VERB   1     3     FromCaesar        return
+  scio                 VERB   1     3     FromCaesar        split
+  scribo               VERB   1     8     WhitakersW        write
+  semel                ADV    1     1     FromCaesar        once
+  senex                NOUN   1     3     WhitakersW        old man
+  servulus             NOUN   1     1     WhitakersW        young slave
+  similis              ADJ    1     5     WhitakersW        like, similar, resembling
+  solor                VERB   1     1     WhitakersW        solace, console, comfort
+  spiritus             NOUN   1     2     FromCaesar        breath
+  stomachum            NOUN   1     1     WhitakersW        gullet
+  sulpur               NOUN   1     1     WhitakersW        brimstone, sulfur
+  tertius              ADJ    1     1     FromCaesar        third
+  valeo                VERB   1     3     FromCaesar        be strong.
+  validus              ADJ    1     1     WhitakersW        strong, powerful
+  varius               ADJ    1     2     WhitakersW        different
+  vastus               NOUN   1     2     WhitakersW        huge, vast
+  verto                VERB   1     2     FromCaesar        apply one's self
+  verus                ADJ    1     3     FromCaesar        true
+  video                VERB   1     5     FromCaesar        see
+  voluo                VERB   1     1     WhitakersW        roll, cause to roll
+
+======================================================================
+  LETTER 7_27: Letter 7.27 (to Sura, on ghosts and apparitions)
+  Chapter-level targets: 30
+======================================================================
+
+  Part 1: Frame (sentences 0-1)
+  Eligible lemmas: 19 | Current targets: 15
+  Lemma                UPOS   Part  Corp  Status       In?  Gloss
+  ------------------------------------------------------------------------------------------
+  accipio              VERB   1     3     FromCaesar   YES  take without effort
+  disco                VERB   1     1     WhitakersW   YES  learn
+  doceo                VERB   1     2     FromCaesar   YES  teach
+  facultas             NOUN   1     1     FromCaesar   YES  opportunity
+  figura               NOUN   1     4     WhitakersW   YES  shape, form, figure, image
+  habeo                VERB   1     4     FromCaesar   YES  have
+  imago                NOUN   1     5     WhitakersW   YES  likeness, image, appearance
+  inanius              ADJ    1     1     WhitakersW   YES  void, empty, hollow
+  metus                NOUN   1     4     WhitakersW   YES  fear, anxiety
+  numen                VERB   1     2     WhitakersW   YES  divine will, divinity
+  otium                NOUN   1     1     WhitakersW   YES  leisure
+  perquam              ADV    1     1     WhitakersW   YES  extremely
+  phantasma            NOUN   1     1     WhitakersW   YES  ghost
+  praebeo              VERB   1     1     WhitakersW   YES  present/show/put forward
+  proprius             ADJ    1     1     WhitakersW   YES  own, very own
+  puto                 VERB   1     3     FromCaesar        think
+  scio                 VERB   1     3     FromCaesar        split
+  vanus                ADJ    1     1     WhitakersW        empty, vain
+  volo                 VERB   1     3     FromCaesar        will
+
+  Part 2: The Curtius Rufus story (sentences 2-8)
+  Eligible lemmas: 56 | Current targets: 15
+  Lemma                UPOS   Part  Corp  Status       In?  Gloss
+  ------------------------------------------------------------------------------------------
+  africa               NOUN   2     2     WhitakersW   YES  Africa
+  figura               NOUN   2     4     WhitakersW        shape, form, figure, image
+  futurus              ADJ    2     2     FromCaesar   YES  be
+  accedo               VERB   1     2     FromCaesar   YES  come near, approach
+  accido               VERB   1     2     FromCaesar   YES  happen
+  adhuc                ADV    1     3     WhitakersW   YES  thus far, till now, to this po
+  adversum             VERB   1     1     WhitakersW   YES  advers.um SUPINE 3 1 ACC S N
+  audio                VERB   1     6     FromCaesar   YES  hear
+  auguro               VERB   1     1     WhitakersW   YES  prophesy, predict, foretell
+  carthago             NOUN   1     1     WhitakersW   YES  Carthage
+  comes                NOUN   1     1     WhitakersW   YES  one or more plants of genus Tr
+  credo                VERB   1     5     WhitakersW   YES  trust, entrust
+  despero              VERB   1     1     FromCaesar   YES  despair
+  dico                 VERB   1     7     FromCaesar   YES  say
+  dies                 NOUN   1     6     FromCaesar   YES  day
+  duco                 VERB   1     2     FromCaesar   YES  lead
+  egredior             VERB   1     3     FromCaesar        go/march/come out
+  eo                   NOUN   1     2     FromCaesar        go
+  etiam                ADV    1     11    FromCaesar        besides
+  facio                VERB   1     9     FromCaesar        do
+  gero                 VERB   1     2     FromCaesar        wage
+  grandus              ADJ    1     1     FromCaesar        cf.: magnus, ingens, amplus, p
+  habeo                VERB   1     4     FromCaesar        have
+  honor                NOUN   1     1     FromCaesar        a person or thing is held.
+  humanus              ADJ    1     1     WhitakersW        human
+  ibi                  ADV    1     3     FromCaesar        there
+  imperium             NOUN   1     2     FromCaesar        command
+  implico              VERB   1     2     WhitakersW        implicate
+  inclino              VERB   1     1     WhitakersW        bend
+  litus                NOUN   1     3     WhitakersW        shore, seashore, coast, strand
+  morbus               NOUN   1     2     WhitakersW        sickness, illness, weakness
+  morior               VERB   1     1     FromCaesar        die
+  mulier               NOUN   1     1     FromCaesar        a woman
+  narro                VERB   1     3     WhitakersW        tell, tell about, relate, narr
+  navus                NOUN   1     1     FromCaesar        active, industrious
+  obscurus             ADJ    1     1     WhitakersW        dim, dark, obscure
+  obtineo              VERB   1     1     FromCaesar        hold
+  occurro              VERB   1     1     FromCaesar        run up to
+  offero               VERB   1     1     WhitakersW        offer
+  perterro             VERB   1     1     FromCaesar        to frighten or terrify thoroug
+  porticu              NOUN   1     1     WhitakersW        colonnade, covered walk
+  praenuntius          NOUN   1     2     WhitakersW        acting as harbinger
+  praeterea            ADJ    1     2     FromCaesar        Beyond this or that
+  praetereo            VERB   1     2     FromCaesar        pass by
+  primus               ADJ    1     2     FromCaesar        first, foremost/best, chief, p
+  proicio              VERB   1     1     WhitakersW        throw down, throw out
+  provincia            NOUN   1     1     FromCaesar        province
+  pulcher              ADJ    1     1     WhitakersW        pretty
+  reverio              VERB   1     1     FromCaesar        return
+  roma                 NOUN   1     1     FromCaesar        the city of Rome
+  rufo                 NOUN   1     1     WhitakersW        Rufus
+  salus                NOUN   1     1     FromCaesar        safety
+  secundus             ADJ    1     3     FromCaesar        following.
+  spatior              VERB   1     1     WhitakersW        walk
+  spes                 NOUN   1     1     FromCaesar        hope
+  summus               ADJ    1     2     FromCaesar        top of
+
+  Part 3: The haunted house: setup (sentences 9-22)
+  Eligible lemmas: 140 | Current targets: 15
+  Lemma                UPOS   Part  Corp  Status       In?  Gloss
+  ------------------------------------------------------------------------------------------
+  audio                VERB   3     6     FromCaesar        hear
+  domus                NOUN   3     6     FromCaesar   YES  house
+  iam                  ADV    3     10    FromCaesar   YES  now
+  manus                NOUN   3     4     FromCaesar   YES  hand
+  nox                  NOUN   3     6     FromCaesar   YES  night
+  oculus               NOUN   3     5     FromCaesar   YES  an eye.
+  stilus               NOUN   3     3     WhitakersW   YES  stylus, pencil, iron pen
+  animus               NOUN   2     3     FromCaesar   YES  mind
+  catena               NOUN   2     3     FromCaesar   YES  fall away
+  conduco              VERB   2     2     FromCaesar   YES  draw/bring together, collect, 
+  imago                NOUN   2     5     WhitakersW        likeness, image, appearance
+  inde                 ADV    2     2     FromCaesar   YES  Of place
+  limen                NOUN   2     3     WhitakersW   YES  threshold, entrance
+  magis                ADV    2     5     FromCaesar   YES  more
+  metus                NOUN   2     4     WhitakersW        fear, anxiety
+  parue                ADV    2     2     FromCaesar   YES  too little
+  scribo               VERB   2     8     WhitakersW   YES  write
+  silentium            NOUN   2     2     WhitakersW   YES  silence
+  timor                NOUN   2     6     FromCaesar        fear
+  vinculus             NOUN   2     4     FromCaesar        chain
+  abscedo              VERB   1     1     WhitakersW        withdraw, depart, retire
+  accipio              VERB   1     3     FromCaesar        take without effort
+  acer                 ADV    1     1     WhitakersW        maple tree
+  advento              VERB   1     1     WhitakersW        come to, arrive
+  agnosco              VERB   1     1     WhitakersW        recognize, realize, discern
+  appareo              VERB   1     2     WhitakersW        appear
+  athena               NOUN   1     2     WhitakersW        Athens
+  attendo              VERB   1     1     WhitakersW        turn/stretch towards
+  auris                VERB   1     1     WhitakersW        breeze, breath , wind
+  barba                NOUN   1     1     FromCaesar        pluck one by the beard (an ins
+  capax                ADJ    1     1     WhitakersW        large, spacious, roomy, big
+  capillus             NOUN   1     6     WhitakersW        hair
+  caputus              NOUN   1     2     FromCaesar        [MISSING_GLOSS]
+  causa                NOUN   1     4     FromCaesar        reason
+  ces                  NOUN   1     1     FromCaesar        cf. the letter G. Still, even 
+  coepi                VERB   1     2     FromCaesar        begin
+  compes               NOUN   1     1     WhitakersW        shackles , fetters
+  conficio             VERB   1     1     FromCaesar        exhaust
+  conor                VERB   1     1     FromCaesar        try
+  crebresco            VERB   1     1     WhitakersW        become frequent/widespread, in
+  cresco               VERB   1     2     WhitakersW        come forth/to be
+  crus                 NOUN   1     1     WhitakersW        leg
+  cunctatus            VERB   1     1     WhitakersW        delay, impede, hold up
+  damno                VERB   1     1     FromCaesar        occasion loss or damage to
+  deinde               ADV    1     2     FromCaesar        then/next/afterward
+  digitus              NOUN   1     1     WhitakersW        finger
+  dimitto              VERB   1     3     FromCaesar        let fall
+  diraequus            ADJ    1     1     WhitakersW        awful/dire/dreadful
+  doceo                VERB   1     2     FromCaesar        teach
+  effigies             NOUN   1     1     WhitakersW        copy, image, likeness, portrai
+  emo                  VERB   1     1     WhitakersW        buy
+  expono               VERB   1     1     WhitakersW        set/put forth/out
+  exssecto             VERB   1     1     WhitakersW        cut out/off
+  fero                 VERB   1     2     FromCaesar        carry
+  ferrum               NOUN   1     1     FromCaesar        iron.
+  fingo                VERB   1     2     FromCaesar        mold
+  formido              NOUN   1     2     WhitakersW        fear/terror/alarm
+  fragor               NOUN   1     1     WhitakersW        noise, crash
+  gero                 VERB   1     2     FromCaesar        wage
+  horro                VERB   1     1     FromCaesar        a standing on end, standing er
+  idolon               NOUN   1     1     WhitakersW        specter, apparition
+  immo                 ADV    1     1     WhitakersW        no indeed
+  inanis               ADJ    1     1     WhitakersW        void, empty, hollow
+  incumbo              VERB   1     1     WhitakersW        lean forward/over/on, press on
+  inerro               VERB   1     1     WhitakersW        wander
+  infamis              ADJ    1     1     WhitakersW        notorious, disreputable, infam
+  inhabito             VERB   1     1     WhitakersW        dwell in, inhabit, occupy
+  initium              NOUN   1     1     FromCaesar        a going in
+  innuo                VERB   1     2     WhitakersW        nod or beckon
+  insono               VERB   1     1     WhitakersW        make a loud noise
+  intendo              VERB   1     2     WhitakersW        hold out
+  interdiu             NOUN   1     1     WhitakersW        in the daytime, by day
+  interior             ADJ    1     1     WhitakersW        inner, interior, middle
+  iubeo                VERB   1     4     FromCaesar        order
+  lego                 VERB   1     4     FromCaesar        a publicist's and jurid
+  longe                ADV    1     1     FromCaesar        distant
+  longus               ADJ    1     3     FromCaesar        long.
+  lumen                NOUN   1     3     WhitakersW        light
+  macies               NOUN   1     1     WhitakersW        leanness, meagerness
+  malum                NOUN   1     2     WhitakersW        mast
+  memoria              NOUN   1     1     FromCaesar        memory
+  mens                 NOUN   1     1     FromCaesar        the root men
+  mirus                ADJ    1     1     FromCaesar        sing
+  monstrum             NOUN   1     1     WhitakersW        monster
+  morbus               NOUN   1     2     WhitakersW        sickness, illness, weakness
+  mors                 NOUN   1     2     FromCaesar        death
+  moveo                VERB   1     1     FromCaesar        sync
+  mox                  ADV    1     5     WhitakersW        soon, next
+  narro                VERB   1     3     WhitakersW        tell, tell about, relate, narr
+  nonne                ADV    1     1     WhitakersW        not?
+  offirmo              VERB   1     1     WhitakersW        secure
+  pars                 NOUN   1     2     FromCaesar        part
+  paulus               NOUN   1     2     FromCaesar        In gen.
+  pestilens            ADJ    1     1     WhitakersW        pestilential, unhealthy, unwho
+  philosophus          NOUN   1     1     WhitakersW        philosopher
+  poscio               VERB   1     2     WhitakersW        ask, demand
+  praetendo            VERB   1     1     WhitakersW        stretch out
+  pretium              NOUN   1     1     FromCaesar        price/value/worth
+  primo                ADV    1     1     FromCaesar        at first
+  primus               ADJ    1     2     FromCaesar        first, foremost/best, chief, p
+  promitto             VERB   1     1     WhitakersW        promise
+  proscribo            VERB   1     1     WhitakersW        announce, make public, post, a
+  proximus             ADJ    1     3     FromCaesar        nearest
+  pugillaris           ADJ    1     1     WhitakersW        hand-holdable
+  quatio               VERB   1     1     WhitakersW        shake
+  quoque               ADV    1     3     FromCaesar        the emphatic word in a clause)
+  reddo                VERB   1     3     FromCaesar        return
+  relinquo             VERB   1     3     FromCaesar        leave behind
+  remitto              VERB   1     2     FromCaesar        let go back
+  respicio             VERB   1     2     WhitakersW        look back at
+  senex                NOUN   1     3     WhitakersW        old man
+  sequor               VERB   1     5     FromCaesar        follow
+  significo            VERB   1     1     WhitakersW        signify, indicate, show
+  similis              ADJ    1     5     WhitakersW        like, similar, resembling
+  simulacrum           NOUN   1     3     WhitakersW        likeness, image, statue
+  solitudo             NOUN   1     2     WhitakersW        solitude, loneliness
+  sonus                NOUN   1     1     WhitakersW        noise, sound
+  spatiosus            ADJ    1     1     WhitakersW        spacious, wide, long
+  squalor              NOUN   1     1     WhitakersW        squalor, filth
+  sternum              VERB   1     1     WhitakersW        stand, stand still, stand firm
+  sto                  VERB   1     2     WhitakersW        stand, stand still, stand firm
+  strepitus            NOUN   1     1     WhitakersW        noise, racket
+  suspicio             VERB   1     2     FromCaesar        look up at a thing.
+  tanto                ADV    1     2     FromCaesar        so great
+  tantus               ADJ    1     1     FromCaesar        so great
+  terribilis           ADJ    1     1     WhitakersW        frightful, terrible
+  titulus              NOUN   1     1     WhitakersW        title
+  tollo                VERB   1     2     FromCaesar        lift or take up
+  totus                ADJ    1     1     FromCaesar        the gen
+  tristis              ADJ    1     1     FromCaesar        sad
+  ubique               ADV    1     1     WhitakersW        anywhere, everywhere
+  vacuus               ADJ    1     1     WhitakersW        empty, vacant, unoccupied
+  vesperasco           VERB   1     1     WhitakersW        grow towards evening
+  video                VERB   1     5     FromCaesar        see
+  vigilia              NOUN   1     1     FromCaesar        watch (1/4 period of night)
+  vigilo               VERB   1     1     WhitakersW        remain awake, be awake
+  vigo                 VERB   1     1     FromCaesar        Fischer, Gr. § 383). Singly. I
+  vilitas              NOUN   1     1     WhitakersW        cheapness
+  voco                 VERB   1     3     FromCaesar        call
+  volo                 VERB   1     3     FromCaesar        will
+
+  Part 4: The haunted house: resolution (sentences 23-29)
+  Eligible lemmas: 53 | Current targets: 15
+  Lemma                UPOS   Part  Corp  Status       In?  Gloss
+  ------------------------------------------------------------------------------------------
+  domus                NOUN   2     6     FromCaesar        house
+  locus                NOUN   2     6     FromCaesar   YES  place
+  vinculus             NOUN   2     4     FromCaesar   YES  chain
+  adeo                 VERB   1     3     WhitakersW   YES  to such a degree/pass/point
+  area                 NOUN   1     2     WhitakersW   YES  area
+  careo                VERB   1     2     WhitakersW   YES  be without/absent from/devoid 
+  catena               NOUN   1     3     FromCaesar        fall away
+  colligo              VERB   1     2     WhitakersW   YES  collect, assemble, bring/gathe
+  comitus              NOUN   1     1     WhitakersW   YES  going, gait
+  concerpo             VERB   1     1     WhitakersW   YES  tear/pull in/to pieces
+  condo                VERB   1     2     WhitakersW   YES  put/insert
+  corpus               NOUN   1     4     FromCaesar   YES  the senses
+  defligo              VERB   1     1     WhitakersW   YES  beat or dash down
+  desero               VERB   1     1     FromCaesar   YES  leave/depart/quit/desert
+  dies                 NOUN   1     6     FromCaesar        day
+  dilabor              VERB   1     1     WhitakersW   YES  run/flow/slip away, spread
+  effodio              VERB   1     1     WhitakersW   YES  dig out, excavate
+  eo                   VERB   1     2     FromCaesar   YES  go
+  exedo                ADJ    1     2     WhitakersW        eat up, consume
+  folium               NOUN   1     1     WhitakersW        leaf
+  gradus               NOUN   1     1     WhitakersW        step
+  gravus               ADJ    1     2     FromCaesar        ponderous, burdensome
+  herba                NOUN   1     1     WhitakersW        herb, grass
+  implico              VERB   1     2     WhitakersW        implicate
+  innuo                VERB   1     2     WhitakersW        nod or beckon
+  insero               VERB   1     1     WhitakersW        plant, sow
+  invenio              VERB   1     5     FromCaesar        come or light upon a thing
+  iubeo                VERB   1     4     FromCaesar        order
+  lentus               ADJ    1     1     WhitakersW        clinging, tough
+  lumen                NOUN   1     3     WhitakersW        light
+  magistro             VERB   1     1     FromCaesar        măgistro
+  manus                NOUN   1     4     FromCaesar        hand
+  moneo                VERB   1     2     FromCaesar        cause to think .
+  moror                VERB   1     1     FromCaesar        delay
+  nudus                ADJ    1     1     WhitakersW        nude
+  os                   NOUN   1     1     WhitakersW        mouth, speech, expression
+  pono                 VERB   1     1     FromCaesar        put or set down a person or th
+  postea               ADV    1     2     FromCaesar        After this or that
+  posterus             ADJ    1     2     FromCaesar        next
+  prius                ADV    1     1     FromCaesar        prĭus and prĭusquam
+  publice              ADV    1     1     FromCaesar        publicly
+  putrefacio           VERB   1     1     WhitakersW        cause to rot/decay/crumble/dis
+  quasi                ADV    1     5     WhitakersW        quasi CONJ
+  relinquo             VERB   1     3     FromCaesar        leave behind
+  repens               VERB   1     1     FromCaesar        sudden
+  respicio             VERB   1     2     WhitakersW        look back at
+  rite                 ADV    1     1     WhitakersW        duly, according to religious u
+  rursus               ADV    1     5     FromCaesar        turned back or backwards
+  sepelio              VERB   1     1     FromCaesar        bury
+  sequor               VERB   1     5     FromCaesar        follow
+  signum               NOUN   1     2     FromCaesar        a mark
+  terra                NOUN   1     3     FromCaesar        be dry
+  tollo                VERB   1     2     FromCaesar        lift or take up
+
+  Part 5: Pliny's own household (sentences 30-44)
+  Eligible lemmas: 92 | Current targets: 15
+  Lemma                UPOS   Part  Corp  Status       In?  Gloss
+  ------------------------------------------------------------------------------------------
+  capillus             NOUN   5     6     WhitakersW   YES  hair
+  affirmo              VERB   2     3     WhitakersW   YES  affirm/assert
+  diu                  ADV    2     3     FromCaesar   YES  a long time
+  etiam                ADV    2     11    FromCaesar   YES  besides
+  facio                VERB   2     9     FromCaesar   YES  do
+  possum               VERB   2     9     FromCaesar   YES  be able
+  res                  NOUN   2     5     FromCaesar   YES  thing
+  tondo                VERB   2     2     WhitakersW   YES  thunder
+  uertex               NOUN   2     2     WhitakersW   YES  whirlpool, eddy, vortex
+  accido               VERB   1     2     FromCaesar        happen
+  admoveo              VERB   1     1     WhitakersW   YES  move up, bring up/near
+  albis                ADJ    1     1     WhitakersW   YES  white, pale, fair, hoary, gray
+  amputo               VERB   1     1     WhitakersW   YES  lop/cut off, prune, shorten
+  caputus              NOUN   1     2     FromCaesar   YES  [MISSING_GLOSS]
+  caro                 NOUN   1     1     FromCaesar   YES  variety/seed of plant hypericu
+  causa                NOUN   1     4     FromCaesar   YES  reason
+  cerno                VERB   1     1     WhitakersW        sift, separate, distinguish, d
+  coniecto             VERB   1     1     WhitakersW        throw/put/pile together
+  considero            VERB   1     1     WhitakersW        sit down/be seated
+  consulo              VERB   1     3     FromCaesar        ask information/advice of
+  copia                NOUN   1     2     FromCaesar        abundance
+  credo                VERB   1     5     WhitakersW        trust, entrust
+  cubo                 VERB   1     1     WhitakersW        lie
+  culter               NOUN   1     1     WhitakersW        knife
+  depello              VERB   1     1     WhitakersW        drive/push out//off/away/aside
+  desino               VERB   1     4     WhitakersW        stop/end/finish, abandon/leave
+  deto                 VERB   1     1     WhitakersW        be wanting/lacking
+  dies                 NOUN   1     6     FromCaesar        day
+  dignus               ADJ    1     2     WhitakersW        appropriate/suitable
+  dimitto              VERB   1     3     FromCaesar        let fall
+  disputo              VERB   1     1     WhitakersW        discuss, debate, argue
+  do                   VERB   1     5     FromCaesar        give
+  domitianus           NOUN   1     1     WhitakersW        Domitian
+  dormio               VERB   1     1     WhitakersW        sleep, rest
+  dubito               VERB   1     3     FromCaesar        waver
+  eruditio             NOUN   1     1     WhitakersW        instruction/teaching/education
+  exiguus              ADJ    1     1     WhitakersW        small
+  fenestra             NOUN   1     1     WhitakersW        window, opening for light
+  fides                NOUN   1     2     FromCaesar        faith
+  forte                ADV    1     2     WhitakersW        by chance
+  fortiter             ADV    1     1     WhitakersW        strongly
+  frater               NOUN   1     1     FromCaesar        brother
+  iaceo                VERB   1     2     WhitakersW        lie
+  illuno               VERB   1     1     WhitakersW        make crescent-shaped, curve
+  immineo              VERB   1     2     WhitakersW        threaten, be a threat
+  incertus             ADJ    1     3     WhitakersW        uncertain
+  indignus             ADJ    1     1     WhitakersW        unworthy, undeserving, undeser
+  intendo              VERB   1     2     WhitakersW        hold out
+  invenio              VERB   1     5     FromCaesar        come or light upon a thing
+  ita                  ADV    1     4     FromCaesar        so
+  lectum               NOUN   1     1     WhitakersW        chosen/picked/selected men
+  libellus             NOUN   1     3     WhitakersW        little/small book
+  libertus             NOUN   1     1     WhitakersW        freedman
+  medius               ADJ    1     2     FromCaesar        middle, middle of, mid
+  misceo               VERB   1     2     WhitakersW        mix, mingle
+  mos                  NOUN   1     2     FromCaesar        the laws
+  multus               ADV    1     11    FromCaesar        much
+  narro                VERB   1     3     WhitakersW        tell, tell about, relate, narr
+  notabilis            ADJ    1     1     WhitakersW        remarkable, notable
+  ostendo              VERB   1     1     FromCaesar        show
+  paedagogium          NOUN   1     1     WhitakersW        pedagogy
+  pars                 NOUN   1     2     FromCaesar        part
+  paruus               ADJ    1     1     FromCaesar        comp
+  periculum            NOUN   1     6     FromCaesar        risk
+  prior                ADJ    1     1     WhitakersW        ahead, in front, leading
+  proinde              ADV    1     1     WhitakersW        hence, so then
+  puer                 NOUN   1     1     FromCaesar        boy
+  quiesco              VERB   1     3     WhitakersW        rest, keep quiet/calm, be at p
+  recedo               VERB   1     1     WhitakersW        recede, go back, withdraw, ebb
+  recido               VERB   1     1     WhitakersW        fall/sink back, lapse/relapse/
+  reperio              VERB   1     1     FromCaesar        find (out)
+  resideo              VERB   1     2     WhitakersW        sit down/on/in
+  reus                 NOUN   1     1     WhitakersW        party in law suit
+  rogo                 VERB   1     2     FromCaesar        ask
+  rursus               ADV    1     5     FromCaesar        turned back or backwards
+  scientia             NOUN   1     1     FromCaesar        a knowing or being skilled in 
+  scrinio              NOUN   1     1     WhitakersW        box, case
+  sequor               VERB   1     5     FromCaesar        follow
+  signum               NOUN   1     2     FromCaesar        a mark
+  similis              ADJ    1     5     WhitakersW        like, similar, resembling
+  soleo                VERB   1     5     WhitakersW        be in the habit of
+  spargo               ADJ    1     1     WhitakersW        scatter, strew, sprinkle
+  summitto             VERB   1     1     WhitakersW        allow to grow long
+  suspendo             VERB   1     2     WhitakersW        hang up, suspend
+  tempus               NOUN   1     1     FromCaesar        time
+  torus                NOUN   1     1     WhitakersW        swelling, protuberance
+  tunica               NOUN   1     1     WhitakersW        undergarment, shirt,tunic
+  valeo                VERB   1     3     FromCaesar        be strong.
+  venero               VERB   1     2     FromCaesar        revere
+  venio                VERB   1     4     FromCaesar        come
+  vico                 VERB   1     3     FromCaesar        village
+  vido                 VERB   1     3     FromCaesar        see
+
+======================================================================
+  LETTER 10_96: Letter 10.96 (to Trajan, on the Christians)
+  Chapter-level targets: 30
+======================================================================
+
+  Part 1: Procedural questions (sentences 0-3)
+  Eligible lemmas: 35 | Current targets: 15
+  Lemma                UPOS   Part  Corp  Status       In?  Gloss
+  ------------------------------------------------------------------------------------------
+  christianus          ADJ    2     9     WhitakersW   YES  Christian
+  flagitia             NOUN   2     2     WhitakersW   YES  shame, disgrace
+  nomen                NOUN   2     3     FromCaesar   YES  a name
+  punio                VERB   2     4     WhitakersW   YES  punish , inflict punishment
+  aetas                NOUN   1     2     WhitakersW   YES  lifetime, age, generation
+  bonus                ADJ    1     2     FromCaesar   YES  good
+  careo                VERB   1     2     WhitakersW   YES  be without/absent from/devoid 
+  cognitio             NOUN   1     2     WhitakersW   YES  examination, inquiry/investiga
+  cohaereo             VERB   1     1     WhitakersW   YES  stick/cling/hold/grow together
+  cunctatio            NOUN   1     1     WhitakersW   YES  delay, hesitation
+  desino               VERB   1     4     WhitakersW   YES  stop/end/finish, abandon/leave
+  differo              VERB   1     2     FromCaesar   YES  delay
+  discrimen            NOUN   1     2     WhitakersW   YES  crisis, separating line, divis
+  do                   VERB   1     5     FromCaesar   YES  give
+  dominus              NOUN   1     1     WhitakersW   YES  owner, lord, master
+  dubito               VERB   1     3     FromCaesar        waver
+  haesitavus           NOUN   1     1     WhitakersW        grandfather
+  ideo                 ADV    1     2     WhitakersW        therefore, for the reason that
+  ignorantia           NOUN   1     1     WhitakersW        ignorance
+  instruo              VERB   1     1     FromCaesar        equip
+  intersum             VERB   1     2     FromCaesar        be/lie between, be in the mids
+  mediocriter          ADV    1     1     FromCaesar        not very
+  numquam              ADV    1     2     FromCaesar        at no time
+  omnino               ADV    1     1     FromCaesar        altogether
+  paenitentia          NOUN   1     3     WhitakersW        regret
+  possum               VERB   1     9     FromCaesar        be able
+  prosum               VERB   1     1     WhitakersW        be useful, be advantageous, be
+  quaero               VERB   1     2     FromCaesar        seek
+  refero               VERB   1     2     FromCaesar        report bring back
+  rego                 VERB   1     2     WhitakersW        rule, guide
+  robustus             ADJ    1     1     WhitakersW        of oak
+  soleo                VERB   1     5     WhitakersW        be in the habit of
+  sollemne             NOUN   1     1     WhitakersW        solemn, ceremonial, sacred, in
+  teneo                VERB   1     2     FromCaesar        hold
+  venia                NOUN   1     1     WhitakersW        favor, kindness
+
+  Part 2: Method of interrogation (sentences 4-15)
+  Eligible lemmas: 105 | Current targets: 15
+  Lemma                UPOS   Part  Corp  Status       In?  Gloss
+  ------------------------------------------------------------------------------------------
+  christianus          NOUN   5     9     WhitakersW        Christian
+  dico                 VERB   5     7     FromCaesar   YES  say
+  deus                 NOUN   3     4     FromCaesar   YES  deus X [XEXCX]
+  appello              VERB   2     2     FromCaesar   YES  call
+  desino               VERB   2     4     WhitakersW        stop/end/finish, abandon/leave
+  imago                NOUN   2     5     WhitakersW   YES  likeness, image, appearance
+  interrogo            VERB   2     2     WhitakersW   YES  ask, question, interrogate, ex
+  male                 ADV    2     2     FromCaesar   YES  badly
+  nego                 VERB   2     4     FromCaesar   YES  say no
+  simulacrum           NOUN   2     3     WhitakersW   YES  likeness, image, statue
+  soleo                VERB   2     5     WhitakersW   YES  be in the habit of
+  abnego               VERB   1     1     WhitakersW   YES  deny
+  adnoto               VERB   1     1     WhitakersW   YES  note/jot down, notice, become 
+  adulterium           NOUN   1     1     WhitakersW   YES  adultery
+  affero               VERB   1     1     FromCaesar   YES  bring to , carry, convey
+  affirmo              VERB   1     3     WhitakersW   YES  affirm/assert
+  amentia              NOUN   1     1     WhitakersW   YES  madness
+  annus                NOUN   1     1     FromCaesar        year
+  auctor               NOUN   1     2     WhitakersW        seller, vendor
+  capio                VERB   1     1     FromCaesar        take
+  carmen               ADV    1     1     WhitakersW        card for wool/flax
+  certe                ADV    1     3     WhitakersW        surely, certainly, without dou
+  cibus                NOUN   1     1     WhitakersW        food
+  civis                NOUN   1     1     WhitakersW        fellow citizen
+  coeo                 VERB   1     1     WhitakersW        fit together
+  cogo                 VERB   1     1     FromCaesar        collect
+  committo             VERB   1     1     FromCaesar        commence
+  confiteor            VERB   1     1     WhitakersW        confess , admit, acknowledge, 
+  contineo             VERB   1     1     FromCaesar        hold or keep together
+  convenio             VERB   1     1     FromCaesar        come together
+  crimen               NOUN   1     2     WhitakersW        indictment/charge/accusation
+  culpa                NOUN   1     1     WhitakersW        fault/blame/responsibility
+  debeo                VERB   1     3     FromCaesar        owe
+  defero               VERB   1     4     WhitakersW        carry/bring/sink/fall down/off
+  depono               VERB   1     1     FromCaesar        lay away
+  dies                 NOUN   1     6     FromCaesar        day
+  diffundo             VERB   1     2     WhitakersW        diffuse
+  dimitto              VERB   1     3     FromCaesar        let fall
+  discedo              VERB   1     1     FromCaesar        go away
+  dubito               VERB   1     3     FromCaesar        waver
+  duco                 VERB   1     2     FromCaesar        lead
+  edictum              NOUN   1     1     WhitakersW        proclamation
+  error                NOUN   1     1     WhitakersW        wandering
+  etiam                ADV    1     11    FromCaesar        besides
+  facio                VERB   1     9     FromCaesar        do
+  fallo                VERB   1     1     WhitakersW        deceive
+  fateor               VERB   1     1     WhitakersW        admit, confess
+  fides                NOUN   1     2     FromCaesar        faith
+  fio                  VERB   1     1     FromCaesar        become
+  furtum               NOUN   1     1     WhitakersW        theft
+  hetaeria             NOUN   1     1     WhitakersW        society, guild, fraternity
+  incido               VERB   1     2     FromCaesar        fall into or upon a thing
+  index                NOUN   1     1     WhitakersW        hand/needle of a watch
+  inflexibilis         ADJ    1     1     WhitakersW        unbendable
+  innoxius             ADJ    1     1     WhitakersW        harmless, innocuous
+  interim              ADV    1     3     FromCaesar        the meantime : : : :
+  inuicem              ADJ    1     1     ManualRevi        in turn
+  iterum               ADV    1     2     FromCaesar        again
+  iussum               VERB   1     1     WhitakersW        iuss.um SUPINE 2 1 ACC S N
+  jubeo                ADJ    1     1     WhitakersW        order/tell/command/direct
+  latrocinium          NOUN   1     1     WhitakersW        brigandage, robbery, highway r
+  libellus             NOUN   1     3     WhitakersW        little/small book
+  lux                  NOUN   1     1     FromCaesar        the light of the sun and other
+  mando                VERB   1     2     FromCaesar        order
+  minor                VERB   1     1     WhitakersW        drive
+  modus                NOUN   1     2     FromCaesar        way
+  mos                  NOUN   1     2     FromCaesar        the laws
+  mox                  ADV    1     5     WhitakersW        soon, next
+  nomen                NOUN   1     3     FromCaesar        a name
+  nomino               VERB   1     1     FromCaesar        call by name
+  numen                NOUN   1     2     WhitakersW        divine will, divinity
+  obstinatio           NOUN   1     1     WhitakersW        determination, stubbornness
+  obstringo            VERB   1     1     FromCaesar        or about
+  perago               VERB   1     1     WhitakersW        disturb
+  persevero            VERB   1     1     FromCaesar        [perseverus].
+  pertinacia           NOUN   1     1     WhitakersW        determination/perseverance
+  possum               VERB   1     9     FromCaesar        be able
+  praeeo               VERB   1     1     WhitakersW        go before, precede
+  praeterea            ADV    1     2     FromCaesar        Beyond this or that
+  propono              VERB   1     3     FromCaesar        put or set forth
+  punio                VERB   1     4     WhitakersW        punish , inflict punishment
+  puto                 VERB   1     3     FromCaesar        think
+  quasi                ADV    1     5     WhitakersW        quasi CONJ
+  remitto              VERB   1     2     FromCaesar        let go back
+  res                  NOUN   1     5     FromCaesar        thing
+  romanus              ADJ    1     1     FromCaesar        of Rome
+  rursus               ADV    1     5     FromCaesar        turned back or backwards
+  sacramentum          NOUN   1     1     WhitakersW        sum deposited in a civil proce
+  scelus               NOUN   1     1     FromCaesar        an evil deed
+  sequor               VERB   1     5     FromCaesar        follow
+  similis              ADJ    1     5     WhitakersW        like, similar, resembling
+  species              NOUN   1     2     FromCaesar        a later period were introduced
+  sto                  VERB   1     2     WhitakersW        stand, stand still, stand firm
+  summus               ADJ    1     2     FromCaesar        top of
+  supplicium           NOUN   1     1     FromCaesar        a suppliant.
+  supplico             VERB   1     2     WhitakersW        pray, supplicate
+  tertio               ADV    1     1     WhitakersW        thirdly
+  tracto               VERB   1     1     WhitakersW        draw, haul, pull, drag about
+  triennium            NOUN   1     1     WhitakersW        triennial festival
+  tus                  NOUN   1     1     WhitakersW        frankincense
+  urbs                 NOUN   1     2     FromCaesar        a walled town
+  venero               VERB   1     2     FromCaesar        revere
+  verus                ADJ    1     3     FromCaesar        true
+  vetuus               ADJ    1     1     WhitakersW        your
+  vinus                NOUN   1     1     WhitakersW        strength , force, power, might
+
+  Part 3: Findings and conclusions (sentences 16-23)
+  Eligible lemmas: 66 | Current targets: 15
+  Lemma                UPOS   Part  Corp  Status       In?  Gloss
+  ------------------------------------------------------------------------------------------
+  etiam                ADV    2     11    FromCaesar   YES  besides
+  invenio              VERB   2     5     FromCaesar   YES  come or light upon a thing
+  possum               VERB   2     9     FromCaesar   YES  be able
+  superstitio          NOUN   2     2     WhitakersW   YES  superstition
+  voco                 VERB   2     3     FromCaesar   YES  call
+  adhuc                ADV    1     3     WhitakersW   YES  thus far, till now, to this po
+  aetas                NOUN   1     2     WhitakersW        lifetime, age, generation
+  ager                 NOUN   1     1     FromCaesar   YES  field
+  ancillus             NOUN   1     1     WhitakersW   YES  goose
+  celebro              VERB   1     2     WhitakersW   YES  celebrate/perform
+  certe                ADV    1     3     WhitakersW   YES  surely, certainly, without dou
+  civitas              NOUN   1     1     FromCaesar   YES  citizen
+  coepi                VERB   1     2     FromCaesar   YES  begin
+  cognitio             NOUN   1     2     WhitakersW        examination, inquiry/investiga
+  consto               VERB   1     1     WhitakersW   YES  agree/correspond/fit, be corre
+  consulo              VERB   1     3     FromCaesar   YES  ask information/advice of
+  consultatio          NOUN   1     1     WhitakersW   YES  full/mature deliberation/consi
+  contagium            NOUN   1     1     WhitakersW        contact, touch
+  corrigo              VERB   1     1     WhitakersW        correct, set right
+  credo                VERB   1     5     WhitakersW        trust, entrust
+  desolo               VERB   1     1     WhitakersW        forsake/abandon/desert
+  dico                 VERB   1     7     FromCaesar        say
+  differo              ADJ    1     2     FromCaesar        delay
+  dignus               ADJ    1     2     WhitakersW        appropriate/suitable
+  diu                  ADV    1     3     FromCaesar        a long time
+  emendo               VERB   1     1     WhitakersW        buy
+  emptor               NOUN   1     1     WhitakersW        buyer, purchaser
+  facilis              ADJ    1     1     FromCaesar        easy
+  homo                 NOUN   1     1     FromCaesar        man
+  iam                  ADV    1     10    FromCaesar        now
+  ideo                 ADV    1     2     WhitakersW        therefore, for the reason that
+  immodicus            ADJ    1     1     WhitakersW        beyond measure, immoderate, ex
+  intermitto           VERB   1     1     FromCaesar        interrupt
+  locus                NOUN   1     6     FromCaesar        place
+  magis                ADV    1     5     FromCaesar        more
+  magnus               ADV    1     8     FromCaesar        great
+  ministra             ADJ    1     1     WhitakersW        female attendant
+  necessarius          ADJ    1     1     FromCaesar        necessary
+  numerus              NOUN   1     2     FromCaesar        numbe r
+  opinor               VERB   1     1     WhitakersW        suppose, imagine
+  ordo                 NOUN   1     1     FromCaesar        a regular row
+  paenitentia          NOUN   1     3     WhitakersW        regret
+  passimque            ADV    1     1     WhitakersW        here and there
+  periclitor           VERB   1     1     WhitakersW        try, prove, test, make a trial
+  periculum            NOUN   1     6     FromCaesar        risk
+  pravus               ADJ    1     1     WhitakersW        crooked
+  quaero               VERB   1     2     FromCaesar        seek
+  raris                ADJ    1     1     WhitakersW        thin, scattered
+  repeto               VERB   1     1     FromCaesar        fall upon or attack again or a
+  res                  NOUN   1     5     FromCaesar        thing
+  sacer                ADJ    1     1     WhitakersW        sacred, holy, consecrated
+  satis                ADV    1     1     FromCaesar        enough
+  sexus                NOUN   1     1     WhitakersW        sex
+  sisto                VERB   1     1     WhitakersW        stop, check
+  sollemnia            NOUN   1     1     WhitakersW        solemn observance, religious c
+  tantum               ADV    1     1     WhitakersW        so much, so far
+  templum              NOUN   1     1     WhitakersW        temple, church
+  tormentum            NOUN   1     1     WhitakersW        windlass
+  turba                NOUN   1     1     WhitakersW        commotion, uproar, turmoil, tu
+  uagor                ADJ    1     1     WhitakersW        wander, roam
+  uictimo              ADJ    1     1     WhitakersW        offer  for sacrifice
+  venio                VERB   1     4     FromCaesar        come
+  ver                  NOUN   1     1     WhitakersW        spring
+  vicus                NOUN   1     1     FromCaesar        a row of houses in town or cou
+  video                VERB   1     5     FromCaesar        see
+  vido                 VERB   1     3     FromCaesar        see
+
+======================================================================
+  LETTER 10_97: Letter 10.97 (Trajan's reply on the Christians)
+  Chapter-level targets: 14
+======================================================================
+
+  Part 1: Trajan's reply (sentences 0-4)
+  Eligible lemmas: 40 | Current targets: 15
+  Lemma                UPOS   Part  Corp  Status       In?  Gloss
+  ------------------------------------------------------------------------------------------
+  christianus          ADJ    2     9     WhitakersW   YES  Christian
+  debeo                VERB   2     3     FromCaesar   YES  owe
+  defero               VERB   2     4     WhitakersW   YES  carry/bring/sink/fall down/off
+  habeo                VERB   2     4     FromCaesar   YES  have
+  actus                NOUN   1     1     WhitakersW   YES  act, performance , delivery
+  arguo                VERB   1     1     WhitakersW   YES  prove, argue, allege
+  auctor               NOUN   1     2     WhitakersW   YES  seller, vendor
+  causa                NOUN   1     4     FromCaesar   YES  reason
+  certus               ADJ    1     2     FromCaesar   YES  certain
+  conquiro             VERB   1     1     FromCaesar   YES  seek out
+  constituo            VERB   1     1     FromCaesar   YES  decide
+  crimen               NOUN   1     2     WhitakersW   YES  indictment/charge/accusation
+  dis                  NOUN   1     1     WhitakersW   YES  Dis
+  edo                  VERB   1     1     FromCaesar   YES  eat (for syn
+  excutio              VERB   1     1     WhitakersW   YES  shake out or off
+  exemplum             NOUN   1     1     FromCaesar        a sample.
+  facio                VERB   1     9     FromCaesar        do
+  forma                NOUN   1     2     WhitakersW        form, figure, appearance
+  impeto               VERB   1     1     WhitakersW        attack, assail
+  ita                  ADV    1     4     FromCaesar        so
+  libellus             NOUN   1     3     WhitakersW        little/small book
+  locus                NOUN   1     6     FromCaesar        place
+  manifestus           ADJ    1     1     WhitakersW        detected, plainly guilty
+  mitto                VERB   1     1     FromCaesar        send
+  nego                 VERB   1     4     FromCaesar        say no
+  paenitentia          NOUN   1     3     WhitakersW        regret
+  pessimus             ADJ    1     1     WhitakersW        worst, most incapable
+  possum               VERB   1     9     FromCaesar        be able
+  praetereo            VERB   1     2     FromCaesar        pass by
+  propono              VERB   1     3     FromCaesar        put or set forth
+  punio                VERB   1     4     WhitakersW        punish , inflict punishment
+  quasi                ADV    1     5     WhitakersW        quasi CONJ
+  res                  NOUN   1     5     FromCaesar        thing
+  saeculum             NOUN   1     1     WhitakersW        age
+  secundus             VERB   1     3     FromCaesar        following.
+  sequor               VERB   1     5     FromCaesar        follow
+  supplico             VERB   1     2     WhitakersW        pray, supplicate
+  suspicio             VERB   1     2     FromCaesar        look up at a thing.
+  universus            ADJ    1     1     WhitakersW        whole, entire
+  venio                ADJ    1     4     FromCaesar        come
+
+======================================================================
+  LETTER 6_4: Letter 6.4 (to Calpurnia)
+  Chapter-level targets: 39
+======================================================================
+
+  Part 1: Letter to Calpurnia (sentences 0-7)
+  Eligible lemmas: 66 | Current targets: 15
+  Lemma                UPOS   Part  Corp  Status       In?  Gloss
+  ------------------------------------------------------------------------------------------
+  etiam                ADV    2     11    FromCaesar   YES  besides
+  lego                 NOUN   2     4     FromCaesar   YES  a publicist's and jurid
+  magnus               ADV    2     8     FromCaesar   YES  great
+  nunc                 ADV    2     4     FromCaesar   YES  now, today, at present
+  proficiscor          VERB   2     2     FromCaesar   YES  set out
+  abominor             NOUN   1     1     WhitakersW   YES  avert
+  absentia             NOUN   1     1     WhitakersW   YES  absence
+  abundantia           NOUN   1     1     WhitakersW   YES  abundance, plenty
+  anxius               ADJ    1     1     WhitakersW   YES  anxious, uneasy, disturbed
+  apparo               VERB   1     1     WhitakersW   YES  prepare, fit out, make ready, 
+  ardenter             ADV    1     1     WhitakersW   YES  with burning/parching effect
+  bonus                ADJ    1     2     FromCaesar   YES  good
+  campania             NOUN   1     1     WhitakersW   YES  Campania
+  causa                NOUN   1     4     FromCaesar   YES  reason
+  consulo              VERB   1     3     FromCaesar   YES  ask information/advice of
+  corpusculum          NOUN   1     1     WhitakersW        small/little body/object, atom
+  cottidie             ADV    1     1     WhitakersW        daily, every day
+  credo                VERB   1     5     WhitakersW        trust, entrust
+  cupio                VERB   1     1     FromCaesar        desire
+  cura                 NOUN   1     1     FromCaesar        care
+  denique              ADV    1     1     FromCaesar        finally, in the end
+  desidero             VERB   1     1     WhitakersW        sink/settle down, subside
+  diligo               VERB   1     1     WhitakersW        love, hold dear
+  epistula             NOUN   1     2     WhitakersW        letter/dispatch/written commun
+  equideo              VERB   1     2     WhitakersW        see, look at
+  exterreo             VERB   1     2     WhitakersW        strike with terror, scare
+  fingo                VERB   1     2     FromCaesar        mold
+  fortis               ADJ    1     1     FromCaesar        strong
+  imaginor             VERB   1     1     WhitakersW        imagine, conceive, picture to 
+  impense              ADV    1     1     WhitakersW        without stint
+  incertus             ADJ    1     3     WhitakersW        uncertain
+  infirmitas           NOUN   1     1     WhitakersW        weakness
+  inoffensus           ADJ    1     1     WhitakersW        free from hindrance
+  interdum             ADV    1     3     FromCaesar        sometimes
+  magis                ADV    1     5     FromCaesar        more
+  metuo                VERB   1     2     WhitakersW        fear
+  natura               NOUN   1     2     FromCaesar        birth.
+  numquam              ADV    1     2     FromCaesar        at no time
+  occupatio            NOUN   1     1     WhitakersW        occupation, employment
+  oculus               NOUN   1     5     FromCaesar        an eye.
+  passum               VERB   1     1     WhitakersW        pass.um SUPINE 3 1 ACC S N
+  praecipue            ADV    1     1     FromCaesar        especially
+  prosequor            VERB   1     1     WhitakersW        pursue
+  questus              NOUN   1     1     FromCaesar        complain
+  ratio                NOUN   1     3     FromCaesar        calculation
+  regio                NOUN   1     1     FromCaesar        a direction
+  rogo                 VERB   1     2     FromCaesar        ask
+  scio                 VERB   1     3     FromCaesar        split
+  secessus             NOUN   1     1     WhitakersW        withdrawal
+  securior             ADJ    1     1     WhitakersW        secure, safe, untroubled, free
+  simul                ADV    1     1     FromCaesar        the vulg
+  singulus             ADJ    1     1     FromCaesar        one by one
+  sollicitudo          NOUN   1     1     WhitakersW        anxiety, concern, solicitude
+  statim               ADV    1     3     FromCaesar        at once
+  subsequor            VERB   1     1     WhitakersW        follow close after
+  suspendo             VERB   1     2     WhitakersW        hang up, suspend
+  timeo                VERB   1     1     FromCaesar        be afraid
+  timor                NOUN   1     6     FromCaesar        fear
+  transmitto           VERB   1     1     WhitakersW        send across
+  valeo                VERB   1     3     FromCaesar        be strong.
+  valetudo             NOUN   1     1     WhitakersW        good health, soundness
+  varius               ADJ    1     2     WhitakersW        different
+  vero                 VERB   1     4     FromCaesar        truly
+  vestigium            NOUN   1     1     WhitakersW        step, track
+  vis                  NOUN   1     1     FromCaesar        force
+  voluptas             NOUN   1     1     FromCaesar        pleasure, delight, enjoyment

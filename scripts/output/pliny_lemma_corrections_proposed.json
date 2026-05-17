@@ -1,0 +1,2705 @@
+{
+  "summary": {
+    "unique_pairs": 1293,
+    "matches": 1032,
+    "auto": 52,
+    "review": 212,
+    "skip": 1002
+  },
+  "auto": {
+    "maxime|magne": "magnus",
+    "noctis|noctus": "nox",
+    "desisse|desum": "desino",
+    "navibus|navus": "navis",
+    "quod|qui": "quod",
+    "catenis|caten": "catena",
+    "quamvis|quamo": "quamvis",
+    "studebatque|studo": "studeo",
+    "longissimo|longe": "longus",
+    "dederat|dedero": "do",
+    "discrimini|discriminus": "discrimen",
+    "laturus|laturus": "fero",
+    "litoribus|litor": "litus",
+    "resedisset|resedio": "resideo",
+    "utque|utque": "ut",
+    "quievit|quievo": "quiesco",
+    "adibatur|adibo": "adeo",
+    "mixtisque|mistio": "misceo",
+    "pumicibus|pumicus": "pumex",
+    "vastisque|vastisquus": "vastus",
+    "pumicum|pumicus": "pumex",
+    "noctibus|noctus": "nox",
+    "quam|qui": "quam",
+    "flammarumque|flammarus": "flamma",
+    "viderat|videro": "video",
+    "velim|vo": "volo",
+    "numenque|numeo": "numen",
+    "ducor|doceo": "duco",
+    "praenuntiam|praenuncia": "praenuntius",
+    "iturum|iturus": "eo",
+    "gesturum|gesto": "gero",
+    "litore|litor": "litus",
+    "morbus|mors": "morbus",
+    "longiorque|longiusqus": "longus",
+    "adit|ado": "adeo",
+    "terraque|terraqus": "terra",
+    "venerunt|venero": "venio",
+    "diutius|diute": "diu",
+    "incertumque|incertumquus": "incertus",
+    "dubito|dubeo": "dubito",
+    "sitne|sitto": "sum",
+    "aetatum|aetatus": "aetas",
+    "simulacris|simulace": "simulacrum",
+    "inveni|invono": "invenio",
+    "videtur|vido": "video",
+    "libelli|libellum": "libellus",
+    "proficiscentem|proficisceo": "proficiscor",
+    "exterret|exterro": "exterreo",
+    "statimque|statimque": "statim",
+    "legero|leger": "lego",
+    "vellet|velleo": "uolo",
+    "putes|pus": "puto"
+  },
+  "auto_detail": {
+    "maxime|magne": {
+      "old": "magne",
+      "new": "magnus",
+      "occurrences": 5,
+      "ww_headwords": [
+        "magnus",
+        "maxime",
+        "maximus"
+      ],
+      "seed": true
+    },
+    "noctis|noctus": {
+      "old": "noctus",
+      "new": "nox",
+      "occurrences": 3,
+      "ww_headwords": [
+        "nox"
+      ]
+    },
+    "desisse|desum": {
+      "old": "desum",
+      "new": "desino",
+      "occurrences": 3,
+      "ww_headwords": [
+        "desino"
+      ]
+    },
+    "navibus|navus": {
+      "old": "navus",
+      "new": "navis",
+      "occurrences": 2,
+      "ww_headwords": [
+        "nauis"
+      ]
+    },
+    "quod|qui": {
+      "old": "qui",
+      "new": "quod",
+      "occurrences": 2,
+      "ww_headwords": [
+        "quod"
+      ]
+    },
+    "catenis|caten": {
+      "old": "caten",
+      "new": "catena",
+      "occurrences": 2,
+      "ww_headwords": [
+        "catena"
+      ]
+    },
+    "quamvis|quamo": {
+      "old": "quamo",
+      "new": "quamvis",
+      "occurrences": 1,
+      "ww_headwords": [
+        "quamuis"
+      ]
+    },
+    "studebatque|studo": {
+      "old": "studo",
+      "new": "studeo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "studeo"
+      ]
+    },
+    "longissimo|longe": {
+      "old": "longe",
+      "new": "longus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "longus"
+      ]
+    },
+    "dederat|dedero": {
+      "old": "dedero",
+      "new": "do",
+      "occurrences": 1,
+      "ww_headwords": [
+        "do"
+      ]
+    },
+    "discrimini|discriminus": {
+      "old": "discriminus",
+      "new": "discrimen",
+      "occurrences": 1,
+      "ww_headwords": [
+        "discrimen"
+      ]
+    },
+    "laturus|laturus": {
+      "old": "laturus",
+      "new": "fero",
+      "occurrences": 1,
+      "ww_headwords": [
+        "fero"
+      ]
+    },
+    "litoribus|litor": {
+      "old": "litor",
+      "new": "litus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "litus"
+      ]
+    },
+    "resedisset|resedio": {
+      "old": "resedio",
+      "new": "resideo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "resideo"
+      ]
+    },
+    "utque|utque": {
+      "old": "utque",
+      "new": "ut",
+      "occurrences": 1,
+      "ww_headwords": [
+        "ut"
+      ]
+    },
+    "quievit|quievo": {
+      "old": "quievo",
+      "new": "quiesco",
+      "occurrences": 1,
+      "ww_headwords": [
+        "quiesco"
+      ]
+    },
+    "adibatur|adibo": {
+      "old": "adibo",
+      "new": "adeo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "adeo"
+      ]
+    },
+    "mixtisque|mistio": {
+      "old": "mistio",
+      "new": "misceo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "misceo"
+      ]
+    },
+    "pumicibus|pumicus": {
+      "old": "pumicus",
+      "new": "pumex",
+      "occurrences": 1,
+      "ww_headwords": [
+        "pumex"
+      ]
+    },
+    "vastisque|vastisquus": {
+      "old": "vastisquus",
+      "new": "vastus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uastus"
+      ]
+    },
+    "pumicum|pumicus": {
+      "old": "pumicus",
+      "new": "pumex",
+      "occurrences": 1,
+      "ww_headwords": [
+        "pumex"
+      ]
+    },
+    "noctibus|noctus": {
+      "old": "noctus",
+      "new": "nox",
+      "occurrences": 1,
+      "ww_headwords": [
+        "nox"
+      ]
+    },
+    "quam|qui": {
+      "old": "qui",
+      "new": "quam",
+      "occurrences": 1,
+      "ww_headwords": [
+        "quam"
+      ]
+    },
+    "flammarumque|flammarus": {
+      "old": "flammarus",
+      "new": "flamma",
+      "occurrences": 1,
+      "ww_headwords": [
+        "flamma"
+      ]
+    },
+    "viderat|videro": {
+      "old": "videro",
+      "new": "video",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uideo"
+      ]
+    },
+    "velim|vo": {
+      "old": "vo",
+      "new": "volo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uolo"
+      ]
+    },
+    "numenque|numeo": {
+      "old": "numeo",
+      "new": "numen",
+      "occurrences": 1,
+      "ww_headwords": [
+        "numen"
+      ]
+    },
+    "ducor|doceo": {
+      "old": "doceo",
+      "new": "duco",
+      "occurrences": 1,
+      "ww_headwords": [
+        "duco"
+      ]
+    },
+    "praenuntiam|praenuncia": {
+      "old": "praenuncia",
+      "new": "praenuntius",
+      "occurrences": 1,
+      "ww_headwords": [
+        "praenuntius"
+      ]
+    },
+    "iturum|iturus": {
+      "old": "iturus",
+      "new": "eo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "eo"
+      ]
+    },
+    "gesturum|gesto": {
+      "old": "gesto",
+      "new": "gero",
+      "occurrences": 1,
+      "ww_headwords": [
+        "gero"
+      ]
+    },
+    "litore|litor": {
+      "old": "litor",
+      "new": "litus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "litus"
+      ]
+    },
+    "morbus|mors": {
+      "old": "mors",
+      "new": "morbus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "morbus"
+      ]
+    },
+    "longiorque|longiusqus": {
+      "old": "longiusqus",
+      "new": "longus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "longus"
+      ]
+    },
+    "adit|ado": {
+      "old": "ado",
+      "new": "adeo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "adeo"
+      ]
+    },
+    "terraque|terraqus": {
+      "old": "terraqus",
+      "new": "terra",
+      "occurrences": 1,
+      "ww_headwords": [
+        "terra"
+      ]
+    },
+    "venerunt|venero": {
+      "old": "venero",
+      "new": "venio",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uenio"
+      ]
+    },
+    "diutius|diute": {
+      "old": "diute",
+      "new": "diu",
+      "occurrences": 1,
+      "ww_headwords": [
+        "diu"
+      ]
+    },
+    "incertumque|incertumquus": {
+      "old": "incertumquus",
+      "new": "incertus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "incertus"
+      ]
+    },
+    "dubito|dubeo": {
+      "old": "dubeo",
+      "new": "dubito",
+      "occurrences": 1,
+      "ww_headwords": [
+        "dubito"
+      ]
+    },
+    "sitne|sitto": {
+      "old": "sitto",
+      "new": "sum",
+      "occurrences": 1,
+      "ww_headwords": [
+        "sum"
+      ]
+    },
+    "aetatum|aetatus": {
+      "old": "aetatus",
+      "new": "aetas",
+      "occurrences": 1,
+      "ww_headwords": [
+        "aetas"
+      ]
+    },
+    "simulacris|simulace": {
+      "old": "simulace",
+      "new": "simulacrum",
+      "occurrences": 1,
+      "ww_headwords": [
+        "simulacrum"
+      ]
+    },
+    "inveni|invono": {
+      "old": "invono",
+      "new": "invenio",
+      "occurrences": 1,
+      "ww_headwords": [
+        "inuenio"
+      ]
+    },
+    "videtur|vido": {
+      "old": "vido",
+      "new": "video",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uideo"
+      ]
+    },
+    "libelli|libellum": {
+      "old": "libellum",
+      "new": "libellus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "libellus"
+      ]
+    },
+    "proficiscentem|proficisceo": {
+      "old": "proficisceo",
+      "new": "proficiscor",
+      "occurrences": 1,
+      "ww_headwords": [
+        "proficiscor"
+      ]
+    },
+    "exterret|exterro": {
+      "old": "exterro",
+      "new": "exterreo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "exterreo"
+      ]
+    },
+    "statimque|statimque": {
+      "old": "statimque",
+      "new": "statim",
+      "occurrences": 1,
+      "ww_headwords": [
+        "statim"
+      ]
+    },
+    "legero|leger": {
+      "old": "leger",
+      "new": "lego",
+      "occurrences": 1,
+      "ww_headwords": [
+        "lego"
+      ]
+    },
+    "vellet|velleo": {
+      "old": "velleo",
+      "new": "uolo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uello",
+        "uolo"
+      ],
+      "seed": true
+    },
+    "putes|pus": {
+      "old": "pus",
+      "new": "puto",
+      "occurrences": 1,
+      "ww_headwords": [
+        "puteo",
+        "puto"
+      ],
+      "seed": true
+    }
+  },
+  "review": [
+    {
+      "old": "qui",
+      "new": "quo",
+      "occurrences": 12,
+      "ww_headwords": [
+        "quo"
+      ],
+      "key": "quo|qui",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "magne",
+      "new": "magnus",
+      "occurrences": 5,
+      "ww_headwords": [
+        "magnus",
+        "maxime",
+        "maximus"
+      ],
+      "key": "maxime|magne",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "iubeo",
+      "new": "jubeo",
+      "occurrences": 3,
+      "ww_headwords": [
+        "jubeo"
+      ],
+      "key": "iubet|iubeo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "aliqui",
+      "new": "aliquod",
+      "occurrences": 3,
+      "ww_headwords": [
+        "aliquod"
+      ],
+      "key": "aliquod|aliqui",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "atque",
+      "new": "ac",
+      "occurrences": 3,
+      "ww_headwords": [
+        "ac"
+      ],
+      "key": "ac|atque",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "equideo",
+      "new": "equidem",
+      "occurrences": 2,
+      "ww_headwords": [
+        "equidem"
+      ],
+      "key": "equidem|equideo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "poscio",
+      "new": "posco",
+      "occurrences": 2,
+      "ww_headwords": [
+        "posco"
+      ],
+      "key": "poscit|poscio",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "rectinus",
+      "new": "rectum",
+      "occurrences": 2,
+      "ww_headwords": [
+        "rectum"
+      ],
+      "key": "rectinae|rectinus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "multus",
+      "new": "plus",
+      "occurrences": 2,
+      "ww_headwords": [
+        "plus"
+      ],
+      "key": "pluribus|multus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "qui",
+      "new": "qua",
+      "occurrences": 2,
+      "ww_headwords": [
+        "qua"
+      ],
+      "key": "qua|qui",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "parue",
+      "new": "paruus",
+      "occurrences": 2,
+      "ww_headwords": [
+        "minus",
+        "parum",
+        "paruus"
+      ],
+      "key": "minus|parue",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "siue",
+      "new": "seu",
+      "occurrences": 2,
+      "ww_headwords": [
+        "seu"
+      ],
+      "key": "seu|siue",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "caputus",
+      "new": "caput",
+      "occurrences": 2,
+      "ww_headwords": [
+        "capitum",
+        "caput"
+      ],
+      "key": "capiti|caputus",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "vinculus",
+      "new": "uinculum",
+      "occurrences": 2,
+      "ww_headwords": [
+        "uinculum"
+      ],
+      "key": "vinculis|vinculus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "multus",
+      "new": "plus",
+      "occurrences": 2,
+      "ww_headwords": [
+        "plus"
+      ],
+      "key": "plures|multus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "pesum",
+      "new": "peto",
+      "occurrences": 1,
+      "ww_headwords": [
+        "peto"
+      ],
+      "key": "petis|pesum",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "pulcherrimus",
+      "new": "pulcher",
+      "occurrences": 1,
+      "ww_headwords": [
+        "pulcher"
+      ],
+      "key": "pulcherrimarum|pulcherrimus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "claeo",
+      "new": "clades",
+      "occurrences": 1,
+      "ww_headwords": [
+        "clades"
+      ],
+      "key": "clade|claeo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "victo",
+      "new": "uinco",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uinco",
+        "uiuo"
+      ],
+      "key": "victurus|victo",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "mansura",
+      "new": "mando",
+      "occurrences": 1,
+      "ww_headwords": [
+        "mando",
+        "maneo"
+      ],
+      "key": "mansura|mansura",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "uterque",
+      "new": "uter",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uter",
+        "utrum"
+      ],
+      "key": "utrumque|uterque",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "iniungo",
+      "new": "injungo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "injungo"
+      ],
+      "key": "iniungis|iniungo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "miseni",
+      "new": "senex",
+      "occurrences": 1,
+      "ww_headwords": [
+        "senex",
+        "senium",
+        "senus",
+        "sex"
+      ],
+      "key": "miseni|miseni",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "classemquus",
+      "new": "classis",
+      "occurrences": 1,
+      "ww_headwords": [
+        "classis"
+      ],
+      "key": "classemque|classemquus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "nonus",
+      "new": "nouem",
+      "occurrences": 1,
+      "ww_headwords": [
+        "nouem"
+      ],
+      "key": "nonum|nonus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "septembe",
+      "new": "september",
+      "occurrences": 1,
+      "ww_headwords": [
+        "september"
+      ],
+      "key": "septembres|septembe",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "septimus",
+      "new": "septem",
+      "occurrences": 1,
+      "ww_headwords": [
+        "septem",
+        "septim"
+      ],
+      "key": "septima|septimus",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "inusito",
+      "new": "inusitatus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "inusitatus"
+      ],
+      "key": "inusitata|inusito",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "gustaveo",
+      "new": "gusto",
+      "occurrences": 1,
+      "ww_headwords": [
+        "gusto"
+      ],
+      "key": "gustaverat|gustaveo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "iaceo",
+      "new": "jaceo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "jaceo"
+      ],
+      "key": "iacens|iaceo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "qui",
+      "new": "cujus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "cujus"
+      ],
+      "key": "cuius|qui",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "elascor",
+      "new": "elatus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "effero",
+        "elata",
+        "elatus"
+      ],
+      "key": "elata|elascor",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "evicio",
+      "new": "eueho",
+      "occurrences": 1,
+      "ww_headwords": [
+        "eueho"
+      ],
+      "key": "evecta|evicio",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "vico",
+      "new": "uinco",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uinco",
+        "uiuo"
+      ],
+      "key": "victa|vico",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "cineremve",
+      "new": "cinis",
+      "occurrences": 1,
+      "ww_headwords": [
+        "ciner",
+        "cinis",
+        "cinus"
+      ],
+      "key": "cineremve|cineremve",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "sustulero",
+      "new": "tollo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "suffero",
+        "tollo"
+      ],
+      "key": "sustulerat|sustulero",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "propiusque",
+      "new": "prope",
+      "occurrences": 1,
+      "ww_headwords": [
+        "prope",
+        "propior"
+      ],
+      "key": "propiusque|propiusque",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "noscor",
+      "new": "nosco",
+      "occurrences": 1,
+      "ww_headwords": [
+        "nosco"
+      ],
+      "key": "noscendum|noscor",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "erudites",
+      "new": "eruditus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "erudio",
+        "eruditus"
+      ],
+      "key": "eruditissimo|erudites",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "vido",
+      "new": "video",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uideo",
+        "uiso",
+        "uisum",
+        "uisus"
+      ],
+      "key": "visum|vido",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "respo",
+      "new": "respondeo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "respondeo"
+      ],
+      "key": "respondi|respo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "mallo",
+      "new": "malo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "malo"
+      ],
+      "key": "malle|mallo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "subiaceo",
+      "new": "subjaceo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "subjaceo"
+      ],
+      "key": "subiacebat|subiaceo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "studius",
+      "new": "studiosus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "studiosus"
+      ],
+      "key": "studioso|studius",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "incohavo",
+      "new": "incoho",
+      "occurrences": 1,
+      "ww_headwords": [
+        "incoho"
+      ],
+      "key": "incohaverat|incohavo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "obuo",
+      "new": "obeo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "obeo"
+      ],
+      "key": "obit|obuo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "quadrire",
+      "new": "quadriremis",
+      "occurrences": 1,
+      "ww_headwords": [
+        "quadriremis"
+      ],
+      "key": "quadriremes|quadrire",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "oraes",
+      "new": "ora",
+      "occurrences": 1,
+      "ww_headwords": [
+        "ora"
+      ],
+      "key": "orae)|oraes",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "deprendero",
+      "new": "deprendo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "deprendo"
+      ],
+      "key": "deprenderat|deprendero",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "enoto",
+      "new": "noto",
+      "occurrences": 1,
+      "ww_headwords": [
+        "noto"
+      ],
+      "key": "enotaretque|enoto",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "denses",
+      "new": "densus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "densus"
+      ],
+      "key": "densior|denses",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "nigriquus",
+      "new": "niger",
+      "occurrences": 1,
+      "ww_headwords": [
+        "niger"
+      ],
+      "key": "nigrique|nigriquus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "ambuiscor",
+      "new": "amburo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "amburo",
+        "ambustum"
+      ],
+      "key": "ambusti|ambuiscor",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "vadus",
+      "new": "uadum",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uadum",
+        "uas"
+      ],
+      "key": "vadum|vadus",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "ruino",
+      "new": "ruina",
+      "occurrences": 1,
+      "ww_headwords": [
+        "ruina"
+      ],
+      "key": "ruinaque|ruino",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "'fortes'",
+      "new": "fortis",
+      "occurrences": 1,
+      "ww_headwords": [
+        "fors",
+        "fortis"
+      ],
+      "key": "'fortes'|'fortes'",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "inquam",
+      "new": "inquiam",
+      "occurrences": 1,
+      "ww_headwords": [
+        "inquiam",
+        "inquit"
+      ],
+      "key": "inquit|inquam",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "'fortuna",
+      "new": "fortuno",
+      "occurrences": 1,
+      "ww_headwords": [
+        "fortuna",
+        "fortuno"
+      ],
+      "key": "'fortuna|'fortuna",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "iuvo",
+      "new": "juuo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "juuat",
+        "juuo"
+      ],
+      "key": "iuvat|iuvo",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "peterus",
+      "new": "peto",
+      "occurrences": 1,
+      "ww_headwords": [
+        "peto"
+      ],
+      "key": "pete.|peterus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "stabium",
+      "new": "sto",
+      "occurrences": 1,
+      "ww_headwords": [
+        "bios",
+        "sto"
+      ],
+      "key": "stabiis|stabium",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "dirigo",
+      "new": "dirimo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "diremptus",
+        "dirimo"
+      ],
+      "key": "diremptus|dirigo",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "circumo",
+      "new": "circumago",
+      "occurrences": 1,
+      "ww_headwords": [
+        "circumactus",
+        "circumago"
+      ],
+      "key": "circumactis|circumo",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "curvatusquus",
+      "new": "curuatus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "curuatus",
+        "curuo"
+      ],
+      "key": "curvatisque|curvatusquus",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "sarcinus",
+      "new": "sarcina",
+      "occurrences": 1,
+      "ww_headwords": [
+        "sarcina"
+      ],
+      "key": "sarcinas|sarcinus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "confelo",
+      "new": "confero",
+      "occurrences": 1,
+      "ww_headwords": [
+        "confero"
+      ],
+      "key": "contulerat|confelo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "invingo",
+      "new": "inueho",
+      "occurrences": 1,
+      "ww_headwords": [
+        "inueho"
+      ],
+      "key": "invectus|invingo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "horto",
+      "new": "hortor",
+      "occurrences": 1,
+      "ww_headwords": [
+        "hortor"
+      ],
+      "key": "hortatur|horto",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "lenieo",
+      "new": "lenio",
+      "occurrences": 1,
+      "ww_headwords": [
+        "lenio"
+      ],
+      "key": "leniret|lenieo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "balines",
+      "new": "balineum",
+      "occurrences": 1,
+      "ww_headwords": [
+        "balineum"
+      ],
+      "key": "balineum|balines",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "hilar",
+      "new": "hilarus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "hilaris",
+        "hilarus"
+      ],
+      "key": "hilaris|hilar",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "altaqus",
+      "new": "altus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "alo",
+        "alto",
+        "altum",
+        "altus"
+      ],
+      "key": "altaque|altaqus",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "deserto",
+      "new": "desertus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "desero",
+        "deserta",
+        "desertus"
+      ],
+      "key": "desertasque|deserto",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "gravus",
+      "new": "grauis",
+      "occurrences": 1,
+      "ww_headwords": [
+        "grauis"
+      ],
+      "key": "gravior|gravus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "obverso",
+      "new": "obuersor",
+      "occurrences": 1,
+      "ww_headwords": [
+        "obuersor"
+      ],
+      "key": "obversabantur|obverso",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "diaetus",
+      "new": "diaeta",
+      "occurrences": 1,
+      "ww_headwords": [
+        "diaeta"
+      ],
+      "key": "diaeta|diaetus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "surrexo",
+      "new": "surgo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "surgo"
+      ],
+      "key": "surrexerat|surrexo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "ceterisque",
+      "new": "ceterus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "ceterus"
+      ],
+      "key": "ceterisque|ceterisque",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "pervigilavo",
+      "new": "peruigilo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "peruigilo"
+      ],
+      "key": "pervigilaverant|pervigilavo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "vago",
+      "new": "uagor",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uagor"
+      ],
+      "key": "vagentur|vago",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "crebrus",
+      "new": "creber",
+      "occurrences": 1,
+      "ww_headwords": [
+        "creber"
+      ],
+      "key": "crebris|crebrus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "nutor",
+      "new": "nuto",
+      "occurrences": 1,
+      "ww_headwords": [
+        "nuto"
+      ],
+      "key": "nutabant|nutor",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "sedus",
+      "new": "sedes",
+      "occurrences": 1,
+      "ww_headwords": [
+        "sedes"
+      ],
+      "key": "sedibus|sedus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "huo",
+      "new": "huc",
+      "occurrences": 1,
+      "ww_headwords": [
+        "huc"
+      ],
+      "key": "huc|huo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "levius",
+      "new": "leuis",
+      "occurrences": 1,
+      "ww_headwords": [
+        "leuis"
+      ],
+      "key": "levium|levius",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "exesorumquus",
+      "new": "exedo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "exedo"
+      ],
+      "key": "exesorumque|exesorumquus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "vico",
+      "new": "uinco",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uinco"
+      ],
+      "key": "vicit|vico",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "cervicalis",
+      "new": "ceruical",
+      "occurrences": 1,
+      "ww_headwords": [
+        "ceruical",
+        "ceruicale"
+      ],
+      "key": "cervicalia|cervicalis",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "lintea",
+      "new": "linteum",
+      "occurrences": 1,
+      "ww_headwords": [
+        "linteum",
+        "linteus"
+      ],
+      "key": "linteis|lintea",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "advisceo",
+      "new": "aduerto",
+      "occurrences": 1,
+      "ww_headwords": [
+        "aduersus",
+        "aduerto"
+      ],
+      "key": "adversus|advisceo",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "nigeos",
+      "new": "niger",
+      "occurrences": 1,
+      "ww_headwords": [
+        "niger"
+      ],
+      "key": "nigrior|nigeos",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "densiorqus",
+      "new": "densus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "densus"
+      ],
+      "key": "densiorque|densiorqus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "facius",
+      "new": "fax",
+      "occurrences": 1,
+      "ww_headwords": [
+        "fax"
+      ],
+      "key": "faces|facius",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "variaqus",
+      "new": "varius",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uario",
+        "uarius"
+      ],
+      "key": "variaque|variaqus",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "solo",
+      "new": "solor",
+      "occurrences": 1,
+      "ww_headwords": [
+        "solor"
+      ],
+      "key": "solabantur|solo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "adverdo",
+      "new": "adversum",
+      "occurrences": 1,
+      "ww_headwords": [
+        "aduersum",
+        "aduersus",
+        "aduerto"
+      ],
+      "key": "adversum|adverdo",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "abiicio",
+      "new": "abjectus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "abicio",
+        "abjectus",
+        "abjicio"
+      ],
+      "key": "abiectum|abiicio",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "popo",
+      "new": "posco",
+      "occurrences": 1,
+      "ww_headwords": [
+        "posco"
+      ],
+      "key": "poposcit|popo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "hauso",
+      "new": "haurio",
+      "occurrences": 1,
+      "ww_headwords": [
+        "haurio"
+      ],
+      "key": "hausitque|hauso",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "sulpus",
+      "new": "sulpur",
+      "occurrences": 1,
+      "ww_headwords": [
+        "sulpur"
+      ],
+      "key": "sulpuris|sulpus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "innitens",
+      "new": "innitor",
+      "occurrences": 1,
+      "ww_headwords": [
+        "innitor"
+      ],
+      "key": "innitens|innitens",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "duo",
+      "new": "duo -ae o",
+      "occurrences": 1,
+      "ww_headwords": [
+        "duo -ae o"
+      ],
+      "key": "duobus|duo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "stomachum",
+      "new": "stomachus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "stomachus"
+      ],
+      "key": "stomacho|stomachum",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "anguo",
+      "new": "angustus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "angustus"
+      ],
+      "key": "angustus|anguo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "illaedeo",
+      "new": "illaesus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "illaesus"
+      ],
+      "key": "illaesum|illaedeo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "misenus",
+      "new": "senex",
+      "occurrences": 1,
+      "ww_headwords": [
+        "senex",
+        "senium",
+        "senus",
+        "sex"
+      ],
+      "key": "miseni|misenus",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "interfuerus",
+      "new": "intersum",
+      "occurrences": 1,
+      "ww_headwords": [
+        "intersum"
+      ],
+      "key": "interfueram|interfuerus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "potior",
+      "new": "potissimus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "potissimus"
+      ],
+      "key": "potissima|potior",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "excirlo",
+      "new": "excerpo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "excerpo"
+      ],
+      "key": "excerpes|excirlo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "pus",
+      "new": "puto",
+      "occurrences": 1,
+      "ww_headwords": [
+        "puteo",
+        "puto"
+      ],
+      "key": "putes|pus",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "inanius",
+      "new": "inanis",
+      "occurrences": 1,
+      "ww_headwords": [
+        "inane",
+        "inanis"
+      ],
+      "key": "inania|inanius",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "habeo",
+      "new": "haereo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "haereo"
+      ],
+      "key": "haeserat|habeo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "spatio",
+      "new": "spatior",
+      "occurrences": 1,
+      "ww_headwords": [
+        "spatior"
+      ],
+      "key": "spatiabatur|spatio",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "grandus",
+      "new": "grandio",
+      "occurrences": 1,
+      "ww_headwords": [
+        "grandio"
+      ],
+      "key": "grandior|grandus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "pulchriorqus",
+      "new": "pulcher",
+      "occurrences": 1,
+      "ww_headwords": [
+        "pulcher"
+      ],
+      "key": "pulchriorque|pulchriorqus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "perterro",
+      "new": "perterrito",
+      "occurrences": 1,
+      "ww_headwords": [
+        "perterreo",
+        "perterrito",
+        "perterritus"
+      ],
+      "key": "perterrito|perterro",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "reverio",
+      "new": "reuertor",
+      "occurrences": 1,
+      "ww_headwords": [
+        "reuertor"
+      ],
+      "key": "reversurum|reverio",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "ibique",
+      "new": "ibi",
+      "occurrences": 1,
+      "ww_headwords": [
+        "ibi",
+        "ibis"
+      ],
+      "key": "ibique|ibique",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "nav",
+      "new": "navus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "nauis",
+        "nauus"
+      ],
+      "key": "nave|nav",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "idem",
+      "new": "eadem",
+      "occurrences": 1,
+      "ww_headwords": [
+        "eadem"
+      ],
+      "key": "eadem|idem",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "proiecio",
+      "new": "proicio",
+      "occurrences": 1,
+      "ww_headwords": [
+        "proicio",
+        "projicio"
+      ],
+      "key": "proiecit|proiecio",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "acre",
+      "new": "acer",
+      "occurrences": 1,
+      "ww_headwords": [
+        "acer",
+        "acriter"
+      ],
+      "key": "acrius|acre",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "vinculus",
+      "new": "uinculum",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uinculum"
+      ],
+      "key": "vinculorum|vinculus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "horro",
+      "new": "horreo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "horreo"
+      ],
+      "key": "horrenti|horro",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "quatieo",
+      "new": "quatio",
+      "occurrences": 1,
+      "ww_headwords": [
+        "quatio"
+      ],
+      "key": "quatiebatque|quatieo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "diraequus",
+      "new": "dirus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "dira",
+        "dirus"
+      ],
+      "key": "diraeque|diraequus",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "interdius",
+      "new": "interdiu",
+      "occurrences": 1,
+      "ww_headwords": [
+        "interdiu"
+      ],
+      "key": "interdiu|interdius",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "totaqus",
+      "new": "totus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "totus"
+      ],
+      "key": "totaque|totaqus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "velleo",
+      "new": "volo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uello",
+        "uolo"
+      ],
+      "key": "vellet|velleo",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "vigo",
+      "new": "venio",
+      "occurrences": 1,
+      "ww_headwords": [
+        "ueneo",
+        "uenio"
+      ],
+      "key": "venit|vigo",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "auditus",
+      "new": "audio",
+      "occurrences": 1,
+      "ww_headwords": [
+        "audio",
+        "audito"
+      ],
+      "key": "auditoque|auditus",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "percuncto",
+      "new": "cunctatus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "cunctatus"
+      ],
+      "key": "percunctatus|percuncto",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "nihil",
+      "new": "nihilum",
+      "occurrences": 1,
+      "ww_headwords": [
+        "nihilum"
+      ],
+      "key": "nihilo|nihil",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "coepi",
+      "new": "coepio",
+      "occurrences": 1,
+      "ww_headwords": [
+        "coepio"
+      ],
+      "key": "coepit|coepi",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "sternum",
+      "new": "sterno",
+      "occurrences": 1,
+      "ww_headwords": [
+        "sterno"
+      ],
+      "key": "sterni|sternum",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "conor",
+      "new": "concutio",
+      "occurrences": 1,
+      "ww_headwords": [
+        "concutio"
+      ],
+      "key": "concuti|conor",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "vinculus",
+      "new": "uinculum",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uinculum"
+      ],
+      "key": "vincula|vinculus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "auribo",
+      "new": "auris",
+      "occurrences": 1,
+      "ww_headwords": [
+        "auris"
+      ],
+      "key": "auribusque|auribo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "innuebo",
+      "new": "innuo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "innuo"
+      ],
+      "key": "innuebatque|innuebo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "exssecto",
+      "new": "exspecto",
+      "occurrences": 1,
+      "ww_headwords": [
+        "exspecto"
+      ],
+      "key": "exspectaret|exssecto",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "ces",
+      "new": "cera",
+      "occurrences": 1,
+      "ww_headwords": [
+        "cera",
+        "ceueo"
+      ],
+      "key": "ceris|ces",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "innuenio",
+      "new": "innuo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "innuo"
+      ],
+      "key": "innuentem|innuenio",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "gravus",
+      "new": "grauis",
+      "occurrences": 1,
+      "ww_headwords": [
+        "grauis"
+      ],
+      "key": "gravis|gravus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "defligo",
+      "new": "deflecto",
+      "occurrences": 1,
+      "ww_headwords": [
+        "deflecto"
+      ],
+      "key": "deflexit|defligo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "dilapdo",
+      "new": "dilabor",
+      "occurrences": 1,
+      "ww_headwords": [
+        "dilabor"
+      ],
+      "key": "dilapsa|dilapdo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "comitus",
+      "new": "comes",
+      "occurrences": 1,
+      "ww_headwords": [
+        "comes",
+        "comito"
+      ],
+      "key": "comitem|comitus",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "concirgo",
+      "new": "concerpo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "concerpo"
+      ],
+      "key": "concerpta|concirgo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "magistro",
+      "new": "magistratus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "magistratus"
+      ],
+      "key": "magistratus|magistro",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "effono",
+      "new": "effodio",
+      "occurrences": 1,
+      "ww_headwords": [
+        "effodio"
+      ],
+      "key": "effodi|effono",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "iubeo",
+      "new": "jubeo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "jubeo"
+      ],
+      "key": "iubeant|iubeo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "exesus",
+      "new": "exedo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "exedo"
+      ],
+      "key": "exesa|exesus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "idem",
+      "new": "eodem",
+      "occurrences": 1,
+      "ww_headwords": [
+        "eodem"
+      ],
+      "key": "eodem|idem",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "lectum",
+      "new": "lego",
+      "occurrences": 1,
+      "ww_headwords": [
+        "lectus",
+        "lego"
+      ],
+      "key": "lecto|lectum",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "vido",
+      "new": "video",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uideo",
+        "uiso",
+        "uisus"
+      ],
+      "key": "visus|vido",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "vertix",
+      "new": "uertex",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uertex"
+      ],
+      "key": "vertice|vertix",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "illuno",
+      "new": "illucesco",
+      "occurrences": 1,
+      "ww_headwords": [
+        "illuceo",
+        "illucesco"
+      ],
+      "key": "illuxit|illuno",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "vertix",
+      "new": "uertex",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uertex"
+      ],
+      "key": "verticem|vertix",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "tondo",
+      "new": "tonsus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "tondeo",
+        "tonsus"
+      ],
+      "key": "tonsus|tondo",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "iaceo",
+      "new": "jaceo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "jaceo"
+      ],
+      "key": "iacentes|iaceo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "tunicus",
+      "new": "tunica",
+      "occurrences": 1,
+      "ww_headwords": [
+        "tunica"
+      ],
+      "key": "tunicis|tunicus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "deto",
+      "new": "detondeo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "detondeo"
+      ],
+      "key": "detonderunt|deto",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "tondo",
+      "new": "tonsus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "tondeo",
+        "tonsa",
+        "tonsus"
+      ],
+      "key": "tonsum|tondo",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "sparsus",
+      "new": "spargo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "spargo"
+      ],
+      "key": "sparsosque|sparsus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "vico",
+      "new": "uiuesco",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uiuesco",
+        "uiuo"
+      ],
+      "key": "vixisset|vico",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "coniecto",
+      "new": "conjecto",
+      "occurrences": 1,
+      "ww_headwords": [
+        "conjecto"
+      ],
+      "key": "coniectari|coniecto",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "depulo",
+      "new": "depello",
+      "occurrences": 1,
+      "ww_headwords": [
+        "depello"
+      ],
+      "key": "depulsi|depulo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "multumque",
+      "new": "multus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "multum",
+        "multus"
+      ],
+      "key": "multumque|multumque",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "uterque",
+      "new": "uter",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uter"
+      ],
+      "key": "utramque|uterque",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "dispo",
+      "new": "disputo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "disputo"
+      ],
+      "key": "disputes|dispo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "sollemnes",
+      "new": "sollemne",
+      "occurrences": 1,
+      "ww_headwords": [
+        "sollemne",
+        "sollemnis"
+      ],
+      "key": "sollemne|sollemnes",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "interfuo",
+      "new": "intersum",
+      "occurrences": 1,
+      "ww_headwords": [
+        "intersum"
+      ],
+      "key": "interfui|interfuo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "qui",
+      "new": "quatenus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "quatenus"
+      ],
+      "key": "quatenus|qui",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "haesitavus",
+      "new": "haesito",
+      "occurrences": 1,
+      "ww_headwords": [
+        "haesito"
+      ],
+      "key": "haesitavi|haesitavus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "quilibet",
+      "new": "quamlibet",
+      "occurrences": 1,
+      "ww_headwords": [
+        "quamlibet"
+      ],
+      "key": "quamlibet|quilibet",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "flagitia",
+      "new": "flagitium",
+      "occurrences": 1,
+      "ww_headwords": [
+        "flagitium"
+      ],
+      "key": "flagitiis|flagitia",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "iuss",
+      "new": "jubeo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "jubeo",
+        "jubo",
+        "jussum"
+      ],
+      "key": "iussi|iuss",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "qualiscumque",
+      "new": "qualis",
+      "occurrences": 1,
+      "ww_headwords": [
+        "cumque",
+        "qualis",
+        "qualus"
+      ],
+      "key": "qualecumque|qualiscumque",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "fateo",
+      "new": "fateor",
+      "occurrences": 1,
+      "ww_headwords": [
+        "fateor"
+      ],
+      "key": "faterentur|fateo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "iussum",
+      "new": "jubeo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "jubeo",
+        "jubo"
+      ],
+      "key": "iusseram|iussum",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "turs",
+      "new": "tus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "tus"
+      ],
+      "key": "ture|turs",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "vinus",
+      "new": "uinum",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uinum"
+      ],
+      "key": "vino|vinus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "vigintus",
+      "new": "uiginti",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uiginti"
+      ],
+      "key": "viginti|vigintus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "carmenque",
+      "new": "carmen",
+      "occurrences": 1,
+      "ww_headwords": [
+        "carmen"
+      ],
+      "key": "carmenque|carmenque",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "sui",
+      "new": "secum",
+      "occurrences": 1,
+      "ww_headwords": [
+        "secum"
+      ],
+      "key": "secum|sui",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "invici",
+      "new": "inuicem",
+      "occurrences": 1,
+      "ww_headwords": [
+        "inuicem"
+      ],
+      "key": "invicem|invici",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "hetaerius",
+      "new": "hetaeria",
+      "occurrences": 1,
+      "ww_headwords": [
+        "hetaeria"
+      ],
+      "key": "hetaerias|hetaerius",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "vetuus",
+      "new": "ueto",
+      "occurrences": 1,
+      "ww_headwords": [
+        "ueto"
+      ],
+      "key": "vetueram|vetuus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "duo",
+      "new": "duo -ae o",
+      "occurrences": 1,
+      "ww_headwords": [
+        "duo -ae o"
+      ],
+      "key": "duabus|duo",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "ancillus",
+      "new": "ancilla",
+      "occurrences": 1,
+      "ww_headwords": [
+        "ancilla"
+      ],
+      "key": "ancillis|ancillus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "minister",
+      "new": "ministra",
+      "occurrences": 1,
+      "ww_headwords": [
+        "ministra"
+      ],
+      "key": "ministrae|minister",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "dilatus",
+      "new": "differo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "differo",
+        "dilato"
+      ],
+      "key": "dilata|dilatus",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "decucuro",
+      "new": "decurro",
+      "occurrences": 1,
+      "ww_headwords": [
+        "decurro"
+      ],
+      "key": "decucurri|decucuro",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "vido",
+      "new": "video",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uideo",
+        "uisa",
+        "uiso",
+        "uisum"
+      ],
+      "key": "visa|vido",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "periclito",
+      "new": "periclitor",
+      "occurrences": 1,
+      "ww_headwords": [
+        "periclitor"
+      ],
+      "key": "periclitantium|periclito",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "uterque",
+      "new": "uter",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uter"
+      ],
+      "key": "utriusque|uterque",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "vagatus",
+      "new": "uagor",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uagor"
+      ],
+      "key": "vagata|vagatus",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "coepi",
+      "new": "coepio",
+      "occurrences": 1,
+      "ww_headwords": [
+        "coepio"
+      ],
+      "key": "coepisse|coepi",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "passimque",
+      "new": "passim",
+      "occurrences": 1,
+      "ww_headwords": [
+        "passim"
+      ],
+      "key": "passimque|passimque",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "victum",
+      "new": "uictimo",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uictima",
+        "uictimo"
+      ],
+      "key": "victimas|victum",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "raris",
+      "new": "rarus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "rarus"
+      ],
+      "key": "rarissimus|raris",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "seceo",
+      "new": "secundus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "duo -ae o",
+        "secor",
+        "secundus"
+      ],
+      "key": "secunde|seceo",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "excuto",
+      "new": "excutio",
+      "occurrences": 1,
+      "ww_headwords": [
+        "excutio"
+      ],
+      "key": "excutiendis|excuto",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "aliquis",
+      "new": "aliquid",
+      "occurrences": 1,
+      "ww_headwords": [
+        "aliquid"
+      ],
+      "key": "aliquid|aliquis",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "idqum",
+      "new": "is",
+      "occurrences": 1,
+      "ww_headwords": [
+        "id",
+        "is"
+      ],
+      "key": "idque|idqum",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "venias",
+      "new": "venio",
+      "occurrences": 1,
+      "ww_headwords": [
+        "ueneo",
+        "uenia",
+        "uenio"
+      ],
+      "key": "veniam|venias",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "impeto",
+      "new": "impetro",
+      "occurrences": 1,
+      "ww_headwords": [
+        "impetro"
+      ],
+      "key": "impetret|impeto",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "passum",
+      "new": "patior",
+      "occurrences": 1,
+      "ww_headwords": [
+        "pando",
+        "passus",
+        "patior"
+      ],
+      "key": "passae|passum",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "ardente",
+      "new": "ardenter",
+      "occurrences": 1,
+      "ww_headwords": [
+        "ardens",
+        "ardenter"
+      ],
+      "key": "ardentissime|ardente",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "vero",
+      "new": "uereor",
+      "occurrences": 1,
+      "ww_headwords": [
+        "uereor"
+      ],
+      "key": "vereor|vero",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "imagio",
+      "new": "imaginor",
+      "occurrences": 1,
+      "ww_headwords": [
+        "imaginor"
+      ],
+      "key": "imaginor|imagio",
+      "reason": "target_not_in_glossary"
+    },
+    {
+      "old": "abominus",
+      "new": "abominor",
+      "occurrences": 1,
+      "ww_headwords": [
+        "abomino",
+        "abominor"
+      ],
+      "key": "abominor|abominus",
+      "reason": "ambiguous"
+    },
+    {
+      "old": "bonus",
+      "new": "binus",
+      "occurrences": 1,
+      "ww_headwords": [
+        "binus",
+        "duo -ae o"
+      ],
+      "key": "binis|bonus",
+      "reason": "ambiguous"
+    }
+  ],
+  "skip_count": 1002
+}

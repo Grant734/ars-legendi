@@ -1,0 +1,3716 @@
+{
+  "summary": {
+    "total": 110,
+    "by_reason": {
+      "whitakers_data_too_thin": 11,
+      "no_pos_match": 43,
+      "no_whitakers_result": 16,
+      "lemma_mismatch": 11,
+      "no_target_pos": 29
+    }
+  },
+  "entries": [
+    {
+      "lemma": "iuro",
+      "reason": "whitakers_data_too_thin",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_abbrev": "-aui, atum, 1",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "iuro",
+          "pos": "noun"
+        },
+        "dictionary_entry": "iuro -aui, atum, 1",
+        "glosses": [
+          "swear",
+          "take an oath ."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "juro"
+      },
+      "upos_from_vocab": "VERB",
+      "whitakers_raw": [
+        "iur.o                V      1 1 PRES ACTIVE  IND 1 S",
+        "juro, jurare, juravi, juratus  V (1st)   [XXXAX]",
+        "swear; call to witness; vow obedience to; [jus jurandum => oath]; conspire;"
+      ],
+      "context": {
+        "occurrences_in_text": 3,
+        "first_chapter": 3,
+        "example_form": "iurando",
+        "example_sid": "31.6"
+      }
+    },
+    {
+      "lemma": "uico",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_abbrev": "-i",
+          "gen_sg": null,
+          "gender": "m",
+          "nom_sg": "uicus",
+          "pos": "noun"
+        },
+        "dictionary_entry": "uicus, -i m.",
+        "glosses": [
+          "a row of houses in town or country",
+          "a quarter of a city",
+          "a street"
+        ],
+        "normalized_lookup": "uicus",
+        "source": "LewisShortPerseusXML",
+        "source_key": "vicus"
+      },
+      "upos_from_vocab": "VERB",
+      "whitakers_raw": [
+        "uic.o                N      2 1 DAT S M",
+        "uic.o                N      2 1 ABL S M",
+        "vicus, vici  N (2nd) M   [XXXBX]",
+        "village; hamlet; street, row of houses;"
+      ],
+      "context": {
+        "occurrences_in_text": 3,
+        "first_chapter": 25,
+        "example_form": "vicissent",
+        "example_sid": "36.0"
+      },
+      "target_pos": "V",
+      "available_pos": [
+        "N"
+      ]
+    },
+    {
+      "lemma": "hostius",
+      "reason": "no_whitakers_result",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "hostius",
+          "pos": "other"
+        },
+        "dictionary_entry": "hostius",
+        "glosses": [
+          "a Roman gens",
+          "Gerl"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "Hostius"
+      },
+      "upos_from_vocab": "NOUN",
+      "whitakers_raw": [
+        "hostius                          ========   UNKNOWN"
+      ],
+      "context": {
+        "occurrences_in_text": 2,
+        "first_chapter": 11,
+        "example_form": "hostium",
+        "example_sid": "52.0"
+      }
+    },
+    {
+      "lemma": "interfacio",
+      "reason": "lemma_mismatch",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "interfacio",
+          "pos": "other"
+        },
+        "dictionary_entry": "interfacio",
+        "glosses": [
+          "interfăcĭo",
+          "false reading for in perficiendo"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "interfacio"
+      },
+      "upos_from_vocab": "VERB",
+      "whitakers_raw": [
+        "inter                PREFIX",
+        "between, within; at intervals, to pieces;",
+        "faci.o               V      3 1 PRES ACTIVE  IND 1 S",
+        "facio, facere, feci, factus  V (3rd) TRANS   [XXXAO]",
+        "make/build/construct/create/cause/do; have built/made; fashion; work (metal);",
+        "act/take action/be active; (bowels); act/work (things), function, be effective;",
+        "produce; produce by growth; bring forth (young); create, bring into existence;",
+        "compose/write; classify; provide; do/perform; commit crime; suppose/imagine;"
+      ],
+      "context": {
+        "occurrences_in_text": 2,
+        "first_chapter": 12,
+        "example_form": "interfecerat",
+        "example_sid": "12.5"
+      },
+      "whitakers_headwords": [
+        "faci.o",
+        "facio"
+      ]
+    },
+    {
+      "lemma": "iusso",
+      "reason": "lemma_mismatch",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_abbrev": "-i",
+          "gen_sg": null,
+          "gender": "n",
+          "nom_sg": "jussum",
+          "pos": "noun"
+        },
+        "dictionary_entry": "jussum, -i n.",
+        "glosses": [
+          "an order",
+          "command"
+        ],
+        "normalized_lookup": "jussum",
+        "source": "LewisShortPerseusXML",
+        "source_key": "jussum"
+      },
+      "upos_from_vocab": "VERB",
+      "whitakers_raw": [
+        "iuss.o               VPAR   2 1 DAT S M PERF PASSIVE PPL",
+        "iuss.o               VPAR   2 1 DAT S N PERF PASSIVE PPL",
+        "iuss.o               VPAR   2 1 ABL S M PERF PASSIVE PPL",
+        "iuss.o               VPAR   2 1 ABL S N PERF PASSIVE PPL",
+        "jubeo, jubere, jussi, jussus  V (2nd) TRANS   [XXXAO]",
+        "order/tell/command/direct; enjoin/command; decree/enact; request/ask/bid; pray;",
+        "iuss.o               N      2 2 DAT S N",
+        "iuss.o               N      2 2 ABL S N",
+        "jussum, jussi  N (2nd) N   [XXXDX]    lesser",
+        "order, command, decree, ordinance, law; physician's prescription;"
+      ],
+      "context": {
+        "occurrences_in_text": 2,
+        "first_chapter": 24,
+        "example_form": "iussit",
+        "example_sid": "49.1"
+      },
+      "whitakers_headwords": [
+        "jubeo"
+      ]
+    },
+    {
+      "lemma": "parue",
+      "reason": "whitakers_data_too_thin",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "parue",
+          "pos": "adjective"
+        },
+        "dictionary_entry": "parue, purua, puruum",
+        "glosses": [
+          "small"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "parve"
+      },
+      "upos_from_vocab": "ADV",
+      "whitakers_raw": [
+        "paru.e               ADJ    1 1 VOC S M POS",
+        "parvus, parva -um, minor -or -us, minimus -a -um  ADJ   [XXXAX]",
+        "small, little, cheap; unimportant; (SUPER) smallest, least;",
+        "e                    SUFFIX",
+        "-ly; -ily;  Converting ADJ to ADV",
+        "paru.e               ADV    POS",
+        "parvus, parva -um, minor -or -us, minimus -a -um  ADJ   [XXXAX]",
+        "small, little, cheap; unimportant; (SUPER) smallest, least;"
+      ],
+      "context": {
+        "occurrences_in_text": 2,
+        "first_chapter": 2,
+        "example_form": "minus",
+        "example_sid": "31.1"
+      }
+    },
+    {
+      "lemma": "pollicitus",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "pollicitus",
+          "pos": "verb"
+        },
+        "dictionary_entry": "polliceor, polliceri, pollicitus sum",
+        "glosses": [
+          "promise"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "pollicitus"
+      },
+      "upos_from_vocab": "ADJ",
+      "whitakers_raw": [
+        "pollicit.us          VPAR   2 1 NOM S M PERF         PPL",
+        "polliceor, polliceri, pollicitus sum  V (2nd) DEP   [XXXBX]",
+        "promise;"
+      ],
+      "context": {
+        "occurrences_in_text": 2,
+        "first_chapter": 16,
+        "example_form": "pollicitus",
+        "example_sid": "42.5"
+      },
+      "target_pos": "ADJ",
+      "available_pos": [
+        "V"
+      ]
+    },
+    {
+      "lemma": "semel",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "semel",
+          "pos": "other"
+        },
+        "dictionary_entry": "semel",
+        "glosses": [
+          "a single time : ter sub armis malim vitam cernere",
+          "Quam semel modo parere",
+          "Enn"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "semel"
+      },
+      "upos_from_vocab": "ADV",
+      "whitakers_raw": [
+        "semel                NUM    1 1 X   X X ADVERB",
+        "unus -a -um, primus -a -um, singuli -ae -a, semel  NUM   [XXXAX]",
+        "1 times, on 1 occasions - (ADVERB answers 'how often');"
+      ],
+      "context": {
+        "occurrences_in_text": 2,
+        "first_chapter": 31,
+        "example_form": "semel",
+        "example_sid": "31.11"
+      },
+      "target_pos": "ADV",
+      "available_pos": [
+        "NUM"
+      ]
+    },
+    {
+      "lemma": "superior",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "superior",
+          "pos": "comp adj"
+        },
+        "dictionary_entry": "superior, superior, superius",
+        "glosses": [
+          "far above"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "superior"
+      },
+      "upos_from_vocab": "VERB",
+      "whitakers_raw": [
+        "superi.or            ADJ    1 1 NOM S C COMP",
+        "superi.or            ADJ    1 1 VOC S C COMP",
+        "superus, supera -um, superior -or -us, supremus -a -um  ADJ   [XXXAX]",
+        "above, high; higher, upper, of this world; greatest, last, highest;"
+      ],
+      "context": {
+        "occurrences_in_text": 2,
+        "first_chapter": 10,
+        "example_form": "supererat",
+        "example_sid": "23.0"
+      },
+      "target_pos": "V",
+      "available_pos": [
+        "ADJ"
+      ]
+    },
+    {
+      "lemma": "ultimus",
+      "reason": "whitakers_data_too_thin",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "ultimus",
+          "pos": "other"
+        },
+        "dictionary_entry": "ultimus, ultima, ultimum",
+        "glosses": [
+          "ultimate",
+          "farthest"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "ultimus"
+      },
+      "upos_from_vocab": "ADJ",
+      "whitakers_raw": [
+        "ulti.mus             ADJ    3 1 NOM S M SUPER",
+        "-, -, ulterior -or -us, ultimus -a -um  ADJ   [XXXDX]    lesser",
+        "far; farther; farthest, latest; last; highest, greatest;"
+      ],
+      "context": {
+        "occurrences_in_text": 2,
+        "first_chapter": 7,
+        "example_form": "ulteriorem",
+        "example_sid": "10.3"
+      }
+    },
+    {
+      "lemma": "absentio",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_abbrev": "-are, 1",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "absento",
+          "pos": "noun"
+        },
+        "dictionary_entry": "absento -are, 1",
+        "glosses": [
+          "cause one to be absent"
+        ],
+        "normalized_lookup": "absento",
+        "source": "LewisShortPerseusXML",
+        "source_key": "absento"
+      },
+      "upos_from_vocab": "VERB",
+      "whitakers_raw": [
+        "absentio             N      3 1 NOM S F",
+        "absentio             N      3 1 VOC S F",
+        "absentio, absentionis  N (3rd) F   [DXXFS]    Late  veryrare",
+        "holding back, restraining;"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 32,
+        "example_form": "absentisque",
+        "example_sid": "32.4"
+      },
+      "target_pos": "V",
+      "available_pos": [
+        "N"
+      ]
+    },
+    {
+      "lemma": "aemilium",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "forms": [
+            "aemilius",
+            "a,",
+            "um"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "aemilius, a,, um",
+        "glosses": [
+          "greatly distinguished for the illustrious men whom it furnished"
+        ],
+        "normalized_lookup": "Aemilius",
+        "source": "LewisShortPerseusXML",
+        "source_key": "Aemilius1"
+      },
+      "upos_from_vocab": "PROPN",
+      "whitakers_raw": [
+        "aemili.um            ADJ    1 1 NOM S N POS",
+        "aemili.um            ADJ    1 1 VOC S N POS",
+        "aemili.um            ADJ    1 1 ACC S M POS",
+        "aemili.um            ADJ    1 1 ACC S N POS",
+        "Aemilius, Aemilia, Aemilium  ADJ   [XXXCS]",
+        "Aemilian; of Aemilius gens;"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 23,
+        "example_form": "Aemilii",
+        "example_sid": "23.1"
+      },
+      "target_pos": "N",
+      "available_pos": [
+        "ADJ"
+      ]
+    },
+    {
+      "lemma": "amens",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "forms": [
+            "amens",
+            "mentis"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "amens, mentis",
+        "glosses": [
+          "insane"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "amens"
+      },
+      "upos_from_vocab": "NOUN",
+      "whitakers_raw": [
+        "amens                ADJ    3 1 NOM S X POS",
+        "amens                ADJ    3 1 VOC S X POS",
+        "amens                ADJ    3 1 ACC S N POS",
+        "amens, amentis (gen.), amentior -or -us, amentissimus -a -um  ADJ   [XXXCO]",
+        "insane, demented, out of one's mind; very excited, frantic, distracted; foolish"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 40,
+        "example_form": "amentia",
+        "example_sid": "40.2"
+      },
+      "target_pos": "N",
+      "available_pos": [
+        "ADJ"
+      ]
+    },
+    {
+      "lemma": "annuus",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "forms": [
+            "annuus",
+            "a,",
+            "um"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "annuus, a,, um",
+        "glosses": [
+          "annual"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "annuus"
+      },
+      "upos_from_vocab": "NOUN",
+      "whitakers_raw": [
+        "annu.us              ADJ    1 1 NOM S M POS",
+        "annuus, annua, annuum  ADJ   [XXXBO]",
+        "for a year, lasting/appointed for a year; paid/performed yearly, annual;"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 16,
+        "example_form": "annuus",
+        "example_sid": "16.3"
+      },
+      "target_pos": "N",
+      "available_pos": [
+        "ADJ"
+      ]
+    },
+    {
+      "lemma": "ariouisto",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_abbrev": "-i",
+          "gen_sg": null,
+          "gender": "m",
+          "nom_sg": "ariouistus",
+          "pos": "noun"
+        },
+        "dictionary_entry": "ariouistus, -i m.",
+        "glosses": [
+          "the king of a German tribe in the time of Cœsar"
+        ],
+        "normalized_lookup": "Ariouistus",
+        "source": "LewisShortPerseusXML",
+        "source_key": "Ariovistus"
+      },
+      "upos_from_vocab": "ADV",
+      "whitakers_raw": [
+        "ariouist.o           N      2 1 DAT S M",
+        "ariouist.o           N      2 1 ABL S M",
+        "Ariovistus, Ariovisti  N (2nd) M   [XXXCO]",
+        "Ariovistus; (king of a German tribe - in Caesar's Gallic War);"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 31,
+        "example_form": "Ariovisto",
+        "example_sid": "31.14"
+      },
+      "target_pos": "ADV",
+      "available_pos": [
+        "N"
+      ]
+    },
+    {
+      "lemma": "at",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "at",
+          "pos": "other"
+        },
+        "dictionary_entry": "at",
+        "glosses": [
+          "but"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "at"
+      },
+      "upos_from_vocab": "NOUN",
+      "whitakers_raw": [
+        "at                   CONJ",
+        "at  CONJ   [XXXAO]",
+        "but, but on the other hand; on the contrary; while, whereas; but yet; at least;"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 43,
+        "example_form": "At",
+        "example_sid": "52.3"
+      },
+      "target_pos": "N",
+      "available_pos": [
+        "CONJ"
+      ]
+    },
+    {
+      "lemma": "auido",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "forms": [
+            "auidus",
+            "a,",
+            "um"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "auidus, a,, um",
+        "glosses": [
+          "longing eagerly for something (either lawful or unlawful)",
+          "desirous",
+          "eager",
+          "earnest"
+        ],
+        "normalized_lookup": "auidus",
+        "source": "LewisShortPerseusXML",
+        "source_key": "avidus"
+      },
+      "upos_from_vocab": "VERB",
+      "whitakers_raw": [
+        "auid.o               ADJ    1 1 DAT S M POS",
+        "auid.o               ADJ    1 1 DAT S N POS",
+        "auid.o               ADJ    1 1 ABL S M POS",
+        "auid.o               ADJ    1 1 ABL S N POS",
+        "avidus, avida -um, avidior -or -us, avidissimus -a -um  ADJ   [XXXAO]",
+        "greedy, eager, ardent, desirous of; avaricious, insatiable; lustful, passionate"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 18,
+        "example_form": "auxisse",
+        "example_sid": "18.5"
+      },
+      "target_pos": "V",
+      "available_pos": [
+        "ADJ"
+      ]
+    },
+    {
+      "lemma": "bibracte",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_abbrev": "-is",
+          "gen_sg": null,
+          "gender": "n",
+          "nom_sg": "bibracte",
+          "pos": "noun"
+        },
+        "dictionary_entry": "bibracte, -is n.",
+        "glosses": [
+          "the chief town of the Ædui",
+          "later Augustodunum",
+          "now Autun en Bourgogne"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "Bibracte"
+      },
+      "upos_from_vocab": "ADV",
+      "whitakers_raw": [
+        "bibract.e            N      3 1 LOC S F",
+        "bibract.e            N      3 1 DAT S F                   Early",
+        "bibract.e            N      3 1 ABL S F",
+        "Bibrax, Bibractis  N (3rd) F   [CXFDX]    Classic  lesser",
+        "Bibrax, a town of the Remi in central Gaul;"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 23,
+        "example_form": "Bibracte",
+        "example_sid": "23.0"
+      },
+      "target_pos": "ADV",
+      "available_pos": [
+        "N"
+      ]
+    },
+    {
+      "lemma": "biduus",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "forms": [
+            "biduus",
+            "a,",
+            "um"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "biduus, a,, um",
+        "glosses": [
+          "for two days"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "biduus"
+      },
+      "upos_from_vocab": "NOUN",
+      "whitakers_raw": [
+        "bidu.us              ADJ    1 1 NOM S M POS",
+        "biduus, bidua, biduum  ADJ   [XXXFS]    veryrare",
+        "continuing for two days, of/for two days;"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 23,
+        "example_form": "Biduo",
+        "example_sid": "47.0"
+      },
+      "target_pos": "N",
+      "available_pos": [
+        "ADJ"
+      ]
+    },
+    {
+      "lemma": "cabo",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_abbrev": "-i",
+          "gen_sg": null,
+          "gender": "m",
+          "nom_sg": "cabus",
+          "pos": "noun"
+        },
+        "dictionary_entry": "cabus, -i m.",
+        "glosses": [
+          "grain measure"
+        ],
+        "normalized_lookup": "cabus",
+        "source": "LewisShortPerseusXML",
+        "source_key": "cabus"
+      },
+      "upos_from_vocab": "VERB",
+      "whitakers_raw": [
+        "cab.o                N      2 1 DAT S M",
+        "cab.o                N      2 1 ABL S M",
+        "cabus, cabi  N (2nd) M   [DAQFS]    Late  veryrare",
+        "grain measure (Hebrew);"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 47,
+        "example_form": "Caburi",
+        "example_sid": "47.3"
+      },
+      "target_pos": "V",
+      "available_pos": [
+        "N"
+      ]
+    },
+    {
+      "lemma": "cassianus",
+      "reason": "whitakers_data_too_thin",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "cassianus",
+          "pos": "other"
+        },
+        "dictionary_entry": "cassianus",
+        "glosses": [
+          "Cassius"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "Cassianus"
+      },
+      "upos_from_vocab": "ADJ",
+      "whitakers_raw": [
+        "ian                  SUFFIX",
+        "of/belonging to  [N -> ADJ] (Cicero -> Ciceronianus);",
+        "cassian.us           N      2 1 NOM S M",
+        "cassum, cassi  N (2nd) N   [XXXES]    uncommon",
+        "empty/vain/futile things (pl.);",
+        "cassus, cassus  N (4th) M   [XXXEO]    uncommon",
+        "fall, overthrow; chance/fortune; accident, emergency, calamity, plight; fate;",
+        "cassis, cassis  N (3rd) M   [XWXCO]",
+        "hunting net (often pl.); spider's web; snare, trap;",
+        "an                   SUFFIX",
+        "-anus; (indicates former gens when adopted into another, Sejus -> Sejanus);",
+        "cassian.us           ADJ    1 1 NOM S M POS",
+        "Cassius, Cassia, Cassium  ADJ   [XXXCO]",
+        "Cassius, Roman gens; (L. C~ Longinus defeated by Helvetii; C. C~ L~ assassin);",
+        "an                   SUFFIX",
+        "-an, -ain; of, pertaining/belonging to; connected with; derived/coming from;",
+        "cassian.us           ADJ    1 1 NOM S M POS",
+        "cassia, cassiae  N (1st) F   [XAXFS]    veryrare",
+        "cinnamon (Cinnamomum tree/bark/spice); aromatic shrub (mezereon or marjoram?);",
+        "Cassius, Cassi  N (2nd) M   [XXXCO]",
+        "Cassius; (Roman gens name); (L. ~ Longinus defeated by Helvetii; Caesar killer)"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 13,
+        "example_form": "Cassiano",
+        "example_sid": "13.1"
+      }
+    },
+    {
+      "lemma": "citrus",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "citrus",
+          "pos": "other"
+        },
+        "dictionary_entry": "citrus",
+        "glosses": [
+          "an African tree (hence Atlantis silva)",
+          "and Massyla robora",
+          "whose very fragrant wood (v"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "citrus"
+      },
+      "upos_from_vocab": "ADJ",
+      "whitakers_raw": [
+        "citr.us              N      2 1 NOM S M",
+        "citrus, citri  N (2nd) M   [XAXDO]    lesser",
+        "African citrus tree; (Callitris quadrivalvis?); citron (Citrus medica) (L+S);",
+        "citr.us              N      2 1 NOM S F",
+        "citrus, citri  N (2nd) F   [GAXEK]    NeoLatin  uncommon",
+        "lemon tree;"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 12,
+        "example_form": "citra",
+        "example_sid": "12.2"
+      },
+      "target_pos": "ADJ",
+      "available_pos": [
+        "N"
+      ]
+    },
+    {
+      "lemma": "coemio",
+      "reason": "lemma_mismatch",
+      "current_master_entry": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "coemo",
+            "coemere",
+            "coememi",
+            "coememptum"
+          ]
+        },
+        "dictionary_entry": "coemo, coemere, coememi, coememptum",
+        "glosses": [
+          "purchase together",
+          "buy up (class.):"
+        ],
+        "normalized_lookup": "coemo",
+        "source": "LewisShortPerseusXML",
+        "source_key": "coemo"
+      },
+      "upos_from_vocab": "VERB",
+      "whitakers_raw": [
+        "i                    SUFFIX",
+        "makes abstract noun of the verb; place/instrument/result of verb action;",
+        "coemi.o              N      2 2 DAT S N",
+        "coemi.o              N      2 2 ABL S N",
+        "coemo, coemere, coemi, coemptus  V (3rd) TRANS   [XXXCO]",
+        "buy; buy up;",
+        "io                   SUFFIX",
+        "-ing, -ion, -ery; the action or result of the action of the verb;",
+        "coemio               N      3 1 NOM S F",
+        "coemio               N      3 1 VOC S F",
+        "coemo, coemere, coemi, coemptus  V (3rd) TRANS   [XXXCO]",
+        "buy; buy up;"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 3,
+        "example_form": "coemere",
+        "example_sid": "3.0"
+      },
+      "whitakers_headwords": [
+        "coemo",
+        "coemo"
+      ]
+    },
+    {
+      "lemma": "comminus",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "comminus",
+          "pos": "adverb"
+        },
+        "dictionary_entry": "comminus",
+        "glosses": [
+          "hand to hand"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "comminus"
+      },
+      "upos_from_vocab": "NOUN",
+      "whitakers_raw": [
+        "comminus             ADV    POS",
+        "comminus  ADV   [XWXBO]",
+        "hand to hand (fight), in close combat/quarters; close at hand; in presence of;"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 52,
+        "example_form": "comminus",
+        "example_sid": "52.2"
+      },
+      "target_pos": "N",
+      "available_pos": [
+        "ADV"
+      ]
+    },
+    {
+      "lemma": "decem",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "decem",
+          "pos": "other"
+        },
+        "dictionary_entry": "decem",
+        "glosses": [
+          "ten"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "decem"
+      },
+      "upos_from_vocab": "NUM",
+      "whitakers_raw": [
+        "decem                NUM    2 0 X   X X CARD",
+        "decem, decimus -a -um, deni -ae -a, decie (n)s  NUM   [XXXBO]",
+        "10 - (CARD answers 'how many');"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 4,
+        "example_form": "decem",
+        "example_sid": "4.2"
+      }
+    },
+    {
+      "lemma": "desuper",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "desuper",
+          "pos": "other"
+        },
+        "dictionary_entry": "desuper",
+        "glosses": [
+          "the historians and poets"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "desuper"
+      },
+      "upos_from_vocab": "NOUN",
+      "whitakers_raw": [
+        "desuper              ADV    POS",
+        "desuper  ADV   [XXXCO]",
+        "from above, from overhead; up above;",
+        "desuper              PREP   ACC",
+        "desuper  PREP  ACC   [XXXEO]    uncommon",
+        "over, above;"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 52,
+        "example_form": "desuper",
+        "example_sid": "52.4"
+      },
+      "target_pos": "N",
+      "available_pos": [
+        "ADV",
+        "PREP"
+      ]
+    },
+    {
+      "lemma": "deterius",
+      "reason": "whitakers_data_too_thin",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "deterius",
+          "pos": "other"
+        },
+        "dictionary_entry": "deterius",
+        "glosses": [
+          "adv.",
+          "worse"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "deterius"
+      },
+      "upos_from_vocab": "ADJ",
+      "whitakers_raw": [
+        "deterius             ADV    COMP",
+        "-, deterius, deterrime  ADV   [XXXDO]    lesser",
+        "worse, less; unfavorably; in less desirable manner; less favorably;",
+        "deteri.us            ADJ    1 1 NOM S N COMP",
+        "deteri.us            ADJ    1 1 VOC S N COMP",
+        "deteri.us            ADJ    1 1 ACC S N COMP",
+        "-, -, deterior -or -us, deterrimus -a -um  ADJ   [XXXBO]",
+        "low/bad/inferior; poor/mean; unfavorable; weak; degenerate/wicked;"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 36,
+        "example_form": "deteriora",
+        "example_sid": "36.4"
+      }
+    },
+    {
+      "lemma": "diuo",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_abbrev": "-i",
+          "gen_sg": null,
+          "gender": "m.",
+          "nom_sg": "diuus",
+          "pos": "noun"
+        },
+        "dictionary_entry": "diuus, -i m.",
+        "glosses": [
+          "god"
+        ],
+        "normalized_lookup": "diuus",
+        "source": "LewisShortPerseusXML",
+        "source_key": "divum"
+      },
+      "upos_from_vocab": "VERB",
+      "whitakers_raw": [
+        "diu.o                N      2 1 DAT S M",
+        "diu.o                N      2 1 ABL S M",
+        "divus, divi  N (2nd) M   [XXXAX]",
+        "god;",
+        "diu.o                N      2 2 DAT S N",
+        "diu.o                N      2 2 ABL S N",
+        "divum, divi  N (2nd) N   [XXXDX]    lesser",
+        "sky, open air; [sub divo => in the open air];",
+        "diu.o                ADJ    1 1 DAT S M POS",
+        "diu.o                ADJ    1 1 DAT S N POS",
+        "diu.o                ADJ    1 1 ABL S M POS",
+        "diu.o                ADJ    1 1 ABL S N POS",
+        "divus, diva -um, -, divissimus -a -um  ADJ   [DEXES]    Late  uncommon",
+        "divine; blessed, saint (Latham);"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 33,
+        "example_form": "divideret",
+        "example_sid": "33.3"
+      },
+      "target_pos": "V",
+      "available_pos": [
+        "ADJ",
+        "N"
+      ]
+    },
+    {
+      "lemma": "ego",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "ego",
+          "pos": "other"
+        },
+        "dictionary_entry": "ego",
+        "glosses": [
+          "to"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "ego"
+      },
+      "upos_from_vocab": "VERB",
+      "whitakers_raw": [
+        "ego                  PRON   5 1 NOM S C",
+        "[XXXAX]",
+        "I, me (PERS); myself (REFLEX);"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 13,
+        "example_form": "egit",
+        "example_sid": "13.2"
+      },
+      "target_pos": "V",
+      "available_pos": [
+        "PRON"
+      ]
+    },
+    {
+      "lemma": "emeo",
+      "reason": "lemma_mismatch",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "emeo",
+          "pos": "other"
+        },
+        "dictionary_entry": "emeo",
+        "glosses": [
+          "pass through",
+          "traverse : ."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "emeo"
+      },
+      "upos_from_vocab": "VERB",
+      "whitakers_raw": [
+        "e                    PREFIX",
+        "- out, away from; beyond; completely;",
+        "me.o                 V      1 1 PRES ACTIVE  IND 1 S",
+        "meo, meare, meavi, meatus  V (1st)   [XXXBX]",
+        "go along, pass, travel;"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 16,
+        "example_form": "emi",
+        "example_sid": "16.3"
+      },
+      "whitakers_headwords": [
+        "me.o",
+        "meo"
+      ]
+    },
+    {
+      "lemma": "fabio",
+      "reason": "whitakers_data_too_thin",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "fabius",
+          "pos": "other"
+        },
+        "dictionary_entry": "fabius",
+        "glosses": [
+          "the name of a Roman gens",
+          "concerning which see -50"
+        ],
+        "normalized_lookup": "Fabius",
+        "source": "LewisShortPerseusXML",
+        "source_key": "Fabius"
+      },
+      "upos_from_vocab": "NOUN",
+      "whitakers_raw": [
+        "fabi.o               N      2 5 DAT S M",
+        "fabi.o               N      2 5 ABL S M",
+        "Fabius, Fabi  N (2nd) M   [XXXDX]    lesser",
+        "Fabius; (Roman gens name); Q. Fabius Maximus Cunctator, hero second Punic War;",
+        "fabi.o               ADJ    1 1 DAT S M POS",
+        "fabi.o               ADJ    1 1 DAT S N POS",
+        "fabi.o               ADJ    1 1 ABL S M POS",
+        "fabi.o               ADJ    1 1 ABL S N POS",
+        "Fabius, Fabia, Fabium  ADJ   [XXXDX]    lesser",
+        "Fabius, Roman gens; Q. Fabius Maximus Cunctator, hero of second Punic War;"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 45,
+        "example_form": "Fabio",
+        "example_sid": "45.1"
+      }
+    },
+    {
+      "lemma": "factus",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "factus",
+          "pos": "adjective"
+        },
+        "dictionary_entry": "factus, facta, factum",
+        "glosses": [
+          "thing made"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "factus1"
+      },
+      "upos_from_vocab": "NOUN",
+      "whitakers_raw": [
+        "fact.us              VPAR   3 1 NOM S M PERF PASSIVE PPL",
+        "facio, facere, feci, factus  V (3rd) TRANS   [XXXAO]",
+        "make/build/construct/create/cause/do; have built/made; fashion; work (metal);",
+        "act/take action/be active; (bowels); act/work (things), function, be effective;",
+        "produce; produce by growth; bring forth (young); create, bring into existence;",
+        "compose/write; classify; provide; do/perform; commit crime; suppose/imagine;",
+        "fact.us              VPAR   3 3 NOM S M PERF PASSIVE PPL",
+        "fio, fieri, factus sum  V SEMIDEP   [XXXAO]",
+        "happen, come about; result (from); take place, be held, occur, arise (event);",
+        "be made/created/instituted/elected/appointed/given; be prepared/done; develop;",
+        "be made/become; (facio PASS); [fiat => so be it, very well; it is being done];"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 3,
+        "example_form": "factu",
+        "example_sid": "3.5"
+      },
+      "target_pos": "N",
+      "available_pos": [
+        "V"
+      ]
+    },
+    {
+      "lemma": "fas",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_abbrev": "-indecl.",
+          "gen_sg": null,
+          "gender": "n",
+          "nom_sg": "fas",
+          "pos": "noun"
+        },
+        "dictionary_entry": "fas, -indecl. n.",
+        "glosses": [
+          "the relig"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "fas"
+      },
+      "upos_from_vocab": "ADJ",
+      "whitakers_raw": [
+        "fas                  N      9 9 X   X N",
+        "fas, undeclined  N N   [XXXBX]",
+        "divine/heaven's law/will/command; that which is right/lawful/moral/allowed;"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 50,
+        "example_form": "fas",
+        "example_sid": "50.5"
+      },
+      "target_pos": "ADJ",
+      "available_pos": [
+        "N"
+      ]
+    },
+    {
+      "lemma": "finitus",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "finitus",
+          "pos": "other"
+        },
+        "dictionary_entry": "finitus, finita, finitum",
+        "glosses": [
+          "utmost"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "finitus"
+      },
+      "upos_from_vocab": "ADJ",
+      "whitakers_raw": [
+        "finit.us             VPAR   3 4 NOM S M PERF PASSIVE PPL",
+        "finio, finire, finivi, finitus  V (4th)   [XXXBX]",
+        "limit, end; finish; determine, define; mark out the boundaries;"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 2,
+        "example_form": "finitimos",
+        "example_sid": "10.1"
+      },
+      "target_pos": "ADJ",
+      "available_pos": [
+        "V"
+      ]
+    },
+    {
+      "lemma": "fossa",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_abbrev": "-ae",
+          "gen_sg": null,
+          "gender": "f",
+          "nom_sg": "fossa",
+          "pos": "noun"
+        },
+        "dictionary_entry": "fossa, -ae f.",
+        "glosses": [
+          "a ditch",
+          "trench",
+          "fosse (syn.: fovea",
+          "scrobs"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "fossa"
+      },
+      "upos_from_vocab": "ADJ",
+      "whitakers_raw": [
+        "foss.a               VPAR   3 1 NOM S F PERF PASSIVE PPL",
+        "foss.a               VPAR   3 1 VOC S F PERF PASSIVE PPL",
+        "foss.a               VPAR   3 1 ABL S F PERF PASSIVE PPL",
+        "foss.a               VPAR   3 1 NOM P N PERF PASSIVE PPL",
+        "foss.a               VPAR   3 1 VOC P N PERF PASSIVE PPL",
+        "foss.a               VPAR   3 1 ACC P N PERF PASSIVE PPL",
+        "fodio, fodere, fodi, fossus  V (3rd)   [XXXBX]",
+        "dig, dig out/up; stab;",
+        "foss.a               N      1 1 NOM S F",
+        "foss.a               N      1 1 VOC S F",
+        "foss.a               N      1 1 ABL S F",
+        "fossa, fossae  N (1st) F   [XXXDX]    lesser",
+        "ditch, trench, canal; moat; dike, fosse;"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 8,
+        "example_form": "fossamque",
+        "example_sid": "8.0"
+      },
+      "target_pos": "ADJ",
+      "available_pos": [
+        "V",
+        "N"
+      ]
+    },
+    {
+      "lemma": "graioceli",
+      "reason": "no_whitakers_result",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_abbrev": "-orum",
+          "gen_sg": null,
+          "gender": "m",
+          "nom_sg": "graioceli",
+          "pos": "noun"
+        },
+        "dictionary_entry": "graioceli, -orum m.",
+        "glosses": [
+          "a Gallic tribe in the valleys of Mont Cenis",
+          "(others read Garoceli)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "Graioceli"
+      },
+      "upos_from_vocab": "ADV",
+      "whitakers_raw": [
+        "graioceli                        ========   UNKNOWN"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 10,
+        "example_form": "Graioceli",
+        "example_sid": "10.4"
+      }
+    },
+    {
+      "lemma": "iniicio",
+      "reason": "whitakers_data_too_thin",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "iniicio",
+          "pos": "other"
+        },
+        "dictionary_entry": "iniicio",
+        "glosses": [
+          "injĭcĭo"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "injicio"
+      },
+      "upos_from_vocab": "VERB",
+      "whitakers_raw": [
+        "iniici.o             V      3 1 PRES ACTIVE  IND 1 S",
+        "injicio, injicere, injeci, injectus  V (3rd) TRANS   [XXXCS]",
+        "hurl/throw/strike in/into; inject; put on; inspire, instill (feeling, etc);"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 46,
+        "example_form": "iniectum",
+        "example_sid": "46.3"
+      }
+    },
+    {
+      "lemma": "inuo",
+      "reason": "lemma_mismatch",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_abbrev": "-i",
+          "gen_sg": null,
+          "gender": "m",
+          "nom_sg": "inuus",
+          "pos": "noun"
+        },
+        "dictionary_entry": "inuus, -i m.",
+        "glosses": [
+          "the herds"
+        ],
+        "normalized_lookup": "inuus",
+        "source": "LewisShortPerseusXML",
+        "source_key": "inuus"
+      },
+      "upos_from_vocab": "VERB",
+      "whitakers_raw": [
+        "Word mod n -> nn",
+        "A doubled consonant may be rendered by just the single  MEDIEVAL",
+        "innu.o               V      3 1 PRES ACTIVE  IND 1 S",
+        "innuo, innuere, innui, innutus  V (3rd)   [XXXDX]    lesser",
+        "nod or beckon (to);"
+      ],
+      "context": {
+        "occurrences_in_text": 1,
+        "first_chapter": 9,
+        "example_form": "invitis",
+        "example_sid": "9.0"
+      },
+      "whitakers_headwords": [
+        "innu.o",
+        "innuo"
+      ]
+    },
+    {
+      "lemma": "hospitus",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "hospitus",
+          "pos": "other"
+        },
+        "dictionary_entry": "hospitus",
+        "glosses": [
+          "fem"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "hospitus"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "hospit.us            ADJ    1 1 NOM S M POS",
+        "hospitus, hospita, hospitum  ADJ   [XXXCO]",
+        "hospitable/harboring, affording hospitality; received as guest; foreign/alien;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "insto",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "insto",
+          "pos": "other"
+        },
+        "dictionary_entry": "insto",
+        "glosses": [
+          "stand in or upon a thing (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "insto"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "inst.o               V      1 1 PRES ACTIVE  IND 1 S",
+        "insto, instare, institi, -  V (1st)   [XXXAX]",
+        "pursue, threaten; approach, press hard; be close to (w/DAT); stand in/on;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "laboro",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_abbrev": "-aui, atum, 1",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "laboro",
+          "pos": "noun"
+        },
+        "dictionary_entry": "laboro -aui, atum, 1",
+        "glosses": [
+          "[2"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "laboro"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "labor.o              V      1 1 PRES ACTIVE  IND 1 S",
+        "laboro, laborare, laboravi, laboratus  V (1st)   [XXXAX]",
+        "work, labor; produce, take pains; be troubled/sick/oppressed, be in distress;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "target_pos": "N",
+      "available_pos": [
+        "V"
+      ]
+    },
+    {
+      "lemma": "lateo",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_abbrev": "-ui, 2",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "lateo",
+          "pos": "noun"
+        },
+        "dictionary_entry": "lateo -ui, 2",
+        "glosses": [
+          "lurk",
+          "be or lie hid or concealed",
+          "skulk (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "lateo"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "lat.eo               V      2 1 PRES ACTIVE  IND 1 S",
+        "lateo, latere, latui, -  V (2nd)   [XXXAX]",
+        "lie hidden, lurk; live a retired life, escape notice;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "target_pos": "N",
+      "available_pos": [
+        "V"
+      ]
+    },
+    {
+      "lemma": "maturo",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_abbrev": "-aui, atum, 1",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "maturo",
+          "pos": "noun"
+        },
+        "dictionary_entry": "maturo -aui, atum, 1",
+        "glosses": [
+          "make ripe",
+          "ripen",
+          "bring to ma turity (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "maturo"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "matur.o              V      1 1 PRES ACTIVE  IND 1 S",
+        "maturo, maturare, maturavi, maturatus  V (1st)   [XXXDX]    lesser",
+        "ripen, hurry, make haste to, hasten;",
+        "matur.o              ADJ    1 1 DAT S M POS",
+        "matur.o              ADJ    1 1 DAT S N POS",
+        "matur.o              ADJ    1 1 ABL S M POS",
+        "matur.o              ADJ    1 1 ABL S N POS",
+        "maturus, matura -um, maturior -or -us, maturissimus -a -um  ADJ   [XXXAX]",
+        "early, speedy; ripe; mature, mellow; timely, seasonable;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "target_pos": "N",
+      "available_pos": [
+        "V",
+        "ADJ"
+      ]
+    },
+    {
+      "lemma": "nonaginta",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "nonaginta",
+          "pos": "other"
+        },
+        "dictionary_entry": "nonaginta",
+        "glosses": [
+          "num"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "nonaginta"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "nonaginta            NUM    2 0 X   X X CARD",
+        "nonaginta, nonagesimus -a -um, nonageni -ae -a, nonagie (n)s  NUM   [XXXBX]",
+        "90 - (CARD answers 'how many');"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "offendo",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_abbrev": "-di, sum, 3",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "offendo",
+          "pos": "noun"
+        },
+        "dictionary_entry": "offendo -di, sum, 3",
+        "glosses": [
+          "hit",
+          "thrust",
+          "strike",
+          "or dash against something (syn.: illido"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "offendo1"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "offend.o             V      3 1 PRES ACTIVE  IND 1 S",
+        "offendo, offendere, offendi, offensus  V (3rd)   [XXXAO]",
+        "offend, give offense (to); displease/annoy/vex; trouble/upset, hurt (feelings);",
+        "strike/knock against; bump into; stumble upon; check, stop short; spoil/harm;",
+        "come upon, meet, find, encounter, be faced with; run aground; violate/wrong;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "target_pos": "N",
+      "available_pos": [
+        "V"
+      ]
+    },
+    {
+      "lemma": "par",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "par",
+          "pos": "other"
+        },
+        "dictionary_entry": "par",
+        "glosses": [
+          "P."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "par"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "par                  N      3 1 NOM S C",
+        "par                  N      3 1 VOC S C",
+        "par, paris  N (3rd) C   [XXXCO]",
+        "mate, spouse, partner; match, peer; person of same kind/rank/station/prestige;",
+        "equal, counterpart; companion/partner at dinner; adversary, opponent;",
+        "par                  N      3 2 NOM S N",
+        "par                  N      3 2 VOC S N",
+        "par                  N      3 2 ACC S N",
+        "par, paris  N (3rd) N   [XXXBO]",
+        "pair, set of two; conjugal pair; pair of associates/adversaries/contestants;",
+        "par                  ADJ    3 1 NOM S X POS",
+        "par                  ADJ    3 1 VOC S X POS",
+        "par                  ADJ    3 1 ACC S N POS",
+        "par, paris (gen.), -, parissimus -a -um  ADJ   [XXXAS]",
+        "equal (to); a match for; of equal size/rank/age; fit/suitable/right/proper;",
+        "equal in power/prestige/importance/rank/status/office/authority; comparable;",
+        "corresponding in degree, proportionate, commensurate (unlike qualities);",
+        "measuring up, adequate, matching; well-matched; fair, equitable, reasonable;",
+        "balanced/level; S:even, divisible by two; [~ facere => settle accounts];"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "pario",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_abbrev": "-aui, atum, 1",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "pario",
+          "pos": "noun"
+        },
+        "dictionary_entry": "pario -aui, atum, 1",
+        "glosses": [
+          "Act."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "pario1"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "pari.o               V      4 1 PRES ACTIVE  IND 1 S",
+        "pario, parire, peperi, paritus  V (4th)   [BXXEO]    Early  uncommon",
+        "pari.o               V      3 1 PRES ACTIVE  IND 1 S",
+        "pario, parere, peperi, partus  V (3rd)   [XXXAO]",
+        "bear; give birth to; beget, bring forth; produce, lay (eggs); create; acquire;",
+        "pari.o               V      1 1 PRES ACTIVE  IND 1 S",
+        "pario, pariare, pariavi, pariatus  V (1st)   [XXXDO]    lesser",
+        "acquire (accounts); settle a debt; settle up;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "target_pos": "N",
+      "available_pos": [
+        "V"
+      ]
+    },
+    {
+      "lemma": "posterus",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "posterus",
+          "pos": "other"
+        },
+        "dictionary_entry": "posterus",
+        "glosses": [
+          "nom"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "posterus"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "poster.us            N      2 1 NOM S M",
+        "posterus, posteri  N (2nd) M   [XXXCO]",
+        "descendants (pl.); posterity, future generations/ages; the future; successors;",
+        "poster.us            ADJ    1 1 NOM S M POS",
+        "posterus, postera -um, posterior -or -us, postremus -a -um  ADJ   [XXXBO]",
+        "coming after, following, next; COMP next in order, latter; SUPER last/hindmost;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "postridie",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "postridie",
+          "pos": "other"
+        },
+        "dictionary_entry": "postridie",
+        "glosses": [
+          "the day after",
+          "the following or next day (class.)"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "postridie"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "postridie            ADV    POS",
+        "postridie  ADV   [XXXDX]    lesser",
+        "on the following day;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "praetereo",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "praetereo",
+          "pos": "other"
+        },
+        "dictionary_entry": "praetereo",
+        "glosses": [
+          "fut"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "praetereo"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "praetere.o           V      6 1 PRES ACTIVE  IND 1 S",
+        "praetereo, praeterire, praeterivi(ii), praeteritus  V   [XXXAO]",
+        "pass/go by; disregard/neglect/omit/miss; surpass/excel; go overdue; pass over;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "progressus",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "progressus",
+          "pos": "other"
+        },
+        "dictionary_entry": "progressus",
+        "glosses": [
+          "P.a"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "progressus1"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "progress.us          VPAR   3 1 NOM S M PERF         PPL",
+        "progredior, progredi, progressus sum  V (3rd) DEP   [XXXBX]",
+        "go, come forth, go forward, march forward; advance. proceed. make progress;",
+        "progress.us          N      4 1 NOM S M",
+        "progress.us          N      4 1 VOC S M",
+        "progress.us          N      4 1 GEN S M",
+        "progress.us          N      4 1 NOM P M",
+        "progress.us          N      4 1 VOC P M",
+        "progress.us          N      4 1 ACC P M",
+        "progressus, progressus  N (4th) M   [XXXDX]    lesser",
+        "advance, progress;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "prope",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "prope",
+          "pos": "other"
+        },
+        "dictionary_entry": "prope",
+        "glosses": [
+          "Adv"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "prope"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "prope                PREP   ACC",
+        "prope  PREP  ACC   [XXXAX]",
+        "near;",
+        "prope                ADV    POS",
+        "prope, propius, proxime  ADV   [XXXDX]    lesser",
+        "near, nearly; close by; almost;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "quis",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "quis",
+          "pos": "other"
+        },
+        "dictionary_entry": "quis",
+        "glosses": [
+          "nom"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "quis1"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "qu.is                PRON   1 0 DAT P X",
+        "qu.is                PRON   1 0 ABL P X",
+        "[XXXAO]",
+        "who; that; which, what; of which kind/degree; person/thing/time/point that;",
+        "who/what/which?, what/which one/man/person/thing? what kind/type of?;",
+        "who/whatever, everyone who, all that, anything that;",
+        "any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);",
+        "who?, which?, what?; what kind of?;",
+        "qu.is                PRON   1 0 NOM S C",
+        "who/what/which?, what/which one/man/person/thing? what kind/type of?;",
+        "anyone/anybody/anything; whoever you pick; something (or other); any (NOM S);",
+        "qui.s                V      6 1 PRES ACTIVE  IND 2 S",
+        "queo, quire, quivi(ii), quitus  V   [XXXBX]",
+        "be able;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "quisquam",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "quisquam",
+          "pos": "other"
+        },
+        "dictionary_entry": "quisquam",
+        "glosses": [
+          "abl"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "quisquam"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "quam                 TACKON",
+        "PACKON w/quis =>  any; any man/person, anybody/anyone, any whatever, anything;",
+        "qu.is                PRON   1 0 DAT P X",
+        "qu.is                PRON   1 0 ABL P X",
+        "qu  PACK   [XXXAX]",
+        "qu.is                PRON   1 0 NOM S C",
+        "(w/-quam) any, anyone (no pl.) (INDEF) anything; any man, any person;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "quot",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "quot",
+          "pos": "other"
+        },
+        "dictionary_entry": "quot",
+        "glosses": [
+          "adj"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "quot"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "quot                 ADJ    9 9 X   X X POS",
+        "quot, undeclined  ADJ   [XXXAX]",
+        "how many; of what number; as many;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "quoto",
+      "reason": "whitakers_data_too_thin",
+      "current_master_entry": {
+        "dictionary": {
+          "forms": [
+            "quotus",
+            "a,",
+            "um"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "quotus, a,, um",
+        "glosses": [
+          "be"
+        ],
+        "normalized_lookup": "quotus",
+        "source": "LewisShortPerseusXML",
+        "source_key": "quotus"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "quot.o               N      2 2 DAT S N",
+        "quot.o               N      2 2 ABL S N",
+        "quotum, quoti  N (2nd) N   [GSXEK]    NeoLatin  uncommon",
+        "quotient (math.);",
+        "quot.o               ADJ    1 1 DAT S M POS",
+        "quot.o               ADJ    1 1 DAT S N POS",
+        "quot.o               ADJ    1 1 ABL S M POS",
+        "quot.o               ADJ    1 1 ABL S N POS",
+        "quotus, quota, quotum  ADJ   [XXXAO]",
+        "what number of?; how many?; what ever number of, as many as; the number that;",
+        "having what position in a numerical series?, bearing what proportion to;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "spiritus",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "spiritus",
+          "pos": "other"
+        },
+        "dictionary_entry": "spiritus",
+        "glosses": [
+          "a breathing or gentle blowing of air",
+          "a breath",
+          "breeze (syn.: aura",
+          "flatus)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "spiritus"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "spirit.us            N      4 1 NOM S M",
+        "spirit.us            N      4 1 VOC S M",
+        "spirit.us            N      4 1 GEN S M",
+        "spirit.us            N      4 1 NOM P M",
+        "spirit.us            N      4 1 VOC P M",
+        "spirit.us            N      4 1 ACC P M",
+        "spiritus, spiritus  N (4th) M   [XXXAX]",
+        "breath, breathing, air, soul, life;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "suppeto",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_abbrev": "-iui or ii, itum, 3",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "suppeto",
+          "pos": "noun"
+        },
+        "dictionary_entry": "suppeto -iui or ii, itum, 3",
+        "glosses": [
+          "one"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "suppeto"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "suppet.o             V      3 1 PRES ACTIVE  IND 1 S",
+        "suppeto, suppetere, suppetivi, suppetitus  V (3rd)   [XXXDX]    lesser",
+        "be at hand; be equal to; be sufficient for;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "target_pos": "N",
+      "available_pos": [
+        "V"
+      ]
+    },
+    {
+      "lemma": "suspicor",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "suspicor",
+          "pos": "other"
+        },
+        "dictionary_entry": "suspicor",
+        "glosses": [
+          "mistrust",
+          "suspect (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "suspicor"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "suspic.or            V      1 1 PRES         IND 1 S",
+        "suspicor, suspicari, suspicatus sum  V (1st) DEP   [XXXBX]",
+        "mistrust, suspect; suppose;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "totis",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "tot",
+          "pos": "other"
+        },
+        "dictionary_entry": "tot",
+        "glosses": [
+          "num"
+        ],
+        "normalized_lookup": "tot",
+        "source": "LewisShortPerseusXML",
+        "source_key": "tot"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "tot.is               ADJ    1 3 DAT P X POS",
+        "tot.is               ADJ    1 3 ABL P X POS",
+        "totus, tota, totum (gen -ius)  ADJ   [XXXDX]    lesser",
+        "whole, all, entire, total, complete; every part; all together/at once;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "umquam",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "umquam",
+          "pos": "other"
+        },
+        "dictionary_entry": "umquam",
+        "glosses": [
+          "adv"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "umquam"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "umquam               ADV    POS",
+        "umquam  ADV   [XXXAX]",
+        "ever, at any time;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "uoco",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "uoco",
+          "pos": "other"
+        },
+        "dictionary_entry": "uoco",
+        "glosses": [
+          "say"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "voco"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "uoc.o                V      1 1 PRES ACTIVE  IND 1 S",
+        "voco, vocare, vocavi, vocatus  V (1st)   [XXXAX]",
+        "call, summon; name; call upon;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "usum",
+      "reason": "lemma_mismatch",
+      "current_master_entry": {
+        "dictionary": {
+          "form": "usus",
+          "pos": "verb"
+        },
+        "dictionary_entry": "utor, uti, usus sum",
+        "glosses": [
+          "use"
+        ],
+        "normalized_lookup": "usus",
+        "source": "LewisShortPerseusXML",
+        "source_key": "usus1"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "us.um                N      4 1 ACC S M",
+        "usus, usus  N (4th) M   [XXXAX]",
+        "use, enjoyment; experience, skill, advantage; custom;",
+        "us.um                VPAR   3 1 NOM S N PERF         PPL",
+        "us.um                VPAR   3 1 VOC S N PERF         PPL",
+        "us.um                VPAR   3 1 ACC S M PERF         PPL",
+        "us.um                VPAR   3 1 ACC S N PERF         PPL",
+        "utor, uti, usus sum  V (3rd) DEP   [XXXAX]",
+        "us.um                SUPINE 3 1 ACC S N",
+        "use, make use of, enjoy; enjoy the friendship of (with ABL);"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "whitakers_headwords": [
+        "utor"
+      ]
+    },
+    {
+      "lemma": "cc",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "gender": "m",
+          "pos": "noun"
+        },
+        "dictionary_entry": "",
+        "glosses": [
+          "200"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "cc                   NUM    2 0 X   X X CARD",
+        "200  as a ROMAN NUMERAL;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "target_pos": "N",
+      "available_pos": [
+        "NUM"
+      ]
+    },
+    {
+      "lemma": "citerus",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "pos": "other"
+        },
+        "dictionary_entry": "cĭter, tra, trum (comp. citerior; sup. citimus; most freq. in comp.; in posit. only Cato ap. Prisc. pp. 589 and 999 P.; and Afran. ap. Prisc",
+        "glosses": [
+          "sup. cĭtĭmē, least, acc. to Prisc. p. 1016"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "us                   SUFFIX",
+        "-ly;",
+        "citerus              ADV    POS",
+        "citer, citera -um, citerior -or -us, citimus -a -um  ADJ   [XXXBO]",
+        "near/on this side; (COMP) nearer; sooner/earlier, urgent; (SUPER) next; least;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "coepis",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "pos": "other"
+        },
+        "dictionary_entry": "coepĭo, coepi, coeptum, 3 (the tempp. press. only a few times in the ante-class. period, and coepturus, Liv. 30, 5, 6; 42, 47, 3; Quint. 10",
+        "glosses": [
+          "1, 46"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "coep.is              V      3 1 PRES ACTIVE  IND 2 S",
+        "coepio, coepere, coepi, coeptus  V (3rd)   [XXXAO]",
+        "begin, commence, initiate; set foot on; (usu. PERF PASS w/PASS INF; PRES early)",
+        "coepio, coepere, -, -  V (3rd)   [AXXEO]    Archaic  uncommon",
+        "begin, commence, initiate; (rare early form, usu. shows only PERFDEF);"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "consuero",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "pos": "other"
+        },
+        "dictionary_entry": "con-vertor or -vortor, ti, acc. to Non. p. 480, dep. collat. form of converto; only in the line: sed fugam in se tamen nemo convortitur, Pla",
+        "glosses": [
+          "ut. Am. 1, 1, 83"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "consu.ero            V      3 1 FUTP ACTIVE  IND 1 S",
+        "consuo, consuere, consui, consutus  V (3rd) TRANS   [XXXCO]",
+        "sew together/up, stitch/join; make by sewing together; patch up; devise, plan;",
+        "Syncope   r => v.r",
+        "Syncopated perfect often drops the 'v' and contracts vowel",
+        "consuev.ero          V      2 1 FUTP ACTIVE  IND 1 S",
+        "consueo, consuere, consuevi, consuetus  V (2nd) TRANS   [DXXES]    Late  uncommon",
+        "accustom; become accustomed; be accustomed, inure, habituate. familiarize;",
+        "consuev.ero          V      3 1 FUTP ACTIVE  IND 1 S",
+        "consuesco, consuescere, consuevi, consuetus  V (3rd)   [XXXBO]",
+        "accustom oneself; become/be accustomed/used; inure, habituate; familiarize;",
+        "be intimate/have sexual intercourse with; form a habit; be in the habit of;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "denus",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "pos": "other"
+        },
+        "dictionary_entry": "denso, āvi, ātum, 1, and (less freq.) denseo, no perf., ētum, 2 (cf. Prisc. p. 837 P.; Charis. p. 233 ib. The MSS. often confound the two fo",
+        "glosses": [
+          "rms"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "Word mod d/t",
+        "An internal 'd' might be rendered by 't'",
+        "tenus                PREP   ABL",
+        "tenus  PREP  ABL   [XXXDX]    lesser",
+        "as far as, to the extent of, up to, down to;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "egridio",
+      "reason": "no_whitakers_result",
+      "current_master_entry": {
+        "dictionary": {
+          "conjugation": 4,
+          "deponent": true,
+          "infinitive": "egrediri",
+          "pos": "verb",
+          "principal_parts": "egredior, egrediri, gressus sum, 3 (inf. egredier, Plaut. Poen. 3, 32)"
+        },
+        "dictionary_entry": "egredior, egrediri, gressus sum, 3 (inf. egredier, Plaut. Poen. 3, 32)",
+        "glosses": [
+          "to go or come out, come forth (class.)."
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "egridio                          ========   UNKNOWN"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "equitas",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_sg": "us",
+          "gender": "m",
+          "nom_sg": "equitatus",
+          "pos": "noun"
+        },
+        "dictionary_entry": "ĕquĭtātus, ūs, m. id.. * In abstr., = equitatio",
+        "glosses": [
+          "a riding: atteri equitatu, Plin. 28, 15, 61"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "equit.as             V      1 1 PRES ACTIVE  IND 2 S",
+        "equito, equitare, equitavi, equitatus  V (1st)   [XXXDX]    lesser",
+        "ride (horseback);"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "target_pos": "N",
+      "available_pos": [
+        "V"
+      ]
+    },
+    {
+      "lemma": "equitus",
+      "reason": "lemma_mismatch",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_sg": "ii",
+          "gender": "n",
+          "nom_sg": "equitium",
+          "pos": "noun"
+        },
+        "dictionary_entry": "ĕquĭtĭum, ii, n. equus",
+        "glosses": [
+          "a stud of horses, Col. 6, 27, 1"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "itus                 SUFFIX",
+        "of _; from the _; -ing;",
+        "equitus              ADV    POS",
+        "equa, equae  N (1st) F   [XXXDX]    lesser",
+        "mare;",
+        "equus, equi  N (2nd) M   [XXXAX]",
+        "horse; steed;",
+        "it                   SUFFIX",
+        "-ed, having, having a, provided with; -able;",
+        "equit.us             ADJ    1 1 NOM S M POS",
+        "equa, equae  N (1st) F   [XXXDX]    lesser",
+        "mare;",
+        "equus, equi  N (2nd) M   [XXXAX]",
+        "horse; steed;",
+        "e                    PREFIX",
+        "- out, away from; beyond; completely;",
+        "quit.us              VPAR   6 1 NOM S M PERF PASSIVE PPL",
+        "queo, quire, quivi(ii), quitus  V   [XXXBX]",
+        "be able;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "whitakers_headwords": [
+        "equa",
+        "equus",
+        "equa",
+        "equus"
+      ]
+    },
+    {
+      "lemma": "frug",
+      "reason": "no_whitakers_result",
+      "current_master_entry": {
+        "dictionary": {
+          "conjugation": 3,
+          "infinitive": "frugiere",
+          "pos": "verb",
+          "principal_parts": "frugi, frugiere"
+        },
+        "dictionary_entry": "frugi, frugiere",
+        "glosses": [
+          "B."
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "frug                             ========   UNKNOWN"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "frumentaris",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_sg": "inis",
+          "gender": "n",
+          "nom_sg": "frumen",
+          "pos": "noun"
+        },
+        "dictionary_entry": "frūmen, ĭnis, n. fruor (post-class.). * A gruel or porridge made of corn, and used in sacrifices, Arn. 7, 230.— = λάρυγξ",
+        "glosses": [
+          "the larynx, throat, Don. Ter. Phorm. 2, 2"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "frument.aris         V      1 1 PRES         IND 2 S",
+        "frumentor, frumentari, frumentatus sum  V (1st) DEP   [XXXDX]    lesser",
+        "get grain, forage;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "target_pos": "N",
+      "available_pos": [
+        "V"
+      ]
+    },
+    {
+      "lemma": "hux",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "pos": "other"
+        },
+        "dictionary_entry": "hīc, haec, hōc (gen. hujus, monosyl., Plaut. Am. prol. 51; 96; 1, 1, 115; dat. huïc, Sidon. Carm. 7, 145; Avien. Descr. Orb. 22; dat. sing.",
+        "glosses": [
+          "fem. hae rei, Cato, R. R. 14, 3"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "hux                              ========   UNKNOWN"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "indiceo",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "conjugation": 3,
+          "infinitive": "indicere",
+          "pos": "verb",
+          "principal_parts": "indico, indicere, avi, atum, are"
+        },
+        "dictionary_entry": "indico, indicere, avi, atum, are",
+        "glosses": [
+          "to point out, indicate (class.). In gen., to"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "e                    SUFFIX",
+        "make of;",
+        "indice.o             ADJ    1 1 DAT S M POS",
+        "indice.o             ADJ    1 1 DAT S N POS",
+        "indice.o             ADJ    1 1 ABL S M POS",
+        "indice.o             ADJ    1 1 ABL S N POS",
+        "index, indicis  N (3rd) M   [GXXEK]    NeoLatin  uncommon",
+        "hand/needle of a watch;",
+        "index, indicis  N (3rd) C   [XXXDX]    lesser",
+        "sign, token, proof; informer, tale bearer;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "target_pos": "V",
+      "available_pos": [
+        "ADJ",
+        "N"
+      ]
+    },
+    {
+      "lemma": "inuitor",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_sg": "us",
+          "gender": "m",
+          "nom_sg": "invitatus",
+          "pos": "noun"
+        },
+        "dictionary_entry": "invītātus, ūs, m. (only in abl. sing.) [invito]",
+        "glosses": [
+          "an inviting, invitation (rare), Cic. Fam. 7, 5"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "inuit.or             V      1 1 PRES PASSIVE IND 1 S",
+        "invito, invitare, invitavi, invitatus  V (1st)   [XXXBX]",
+        "invite, summon; challenge, incite; encourage; attract, allure, entice;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "target_pos": "N",
+      "available_pos": [
+        "V"
+      ]
+    },
+    {
+      "lemma": "italis",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "conjugation": 3,
+          "infinitive": "italiaere",
+          "pos": "verb",
+          "principal_parts": "italia, italiaere, ae, f. for Vitalia from vitulus; cf. ιταλος, from the abundance and excellence of its cattle"
+        },
+        "dictionary_entry": "italia, italiaere, ae, f. for Vitalia from vitulus; cf. ιταλος, from the abundance and excellence of its cattle",
+        "glosses": [
+          "1, 6, 3"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "ital.is              N      2 1 LOC P M",
+        "ital.is              N      2 1 DAT P M",
+        "ital.is              N      2 1 ABL P M",
+        "Italus, Itali  N (2nd) M   [XXIBX]",
+        "Italian;",
+        "ital.is              ADJ    1 1 DAT P X POS",
+        "ital.is              ADJ    1 1 ABL P X POS",
+        "italus, itala, italum  ADJ   [XXXDX]    lesser",
+        "of Italy, Italian;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "target_pos": "V",
+      "available_pos": [
+        "ADJ",
+        "N"
+      ]
+    },
+    {
+      "lemma": "iussisto",
+      "reason": "lemma_mismatch",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_sg": "idis",
+          "gender": "f",
+          "nom_sg": "iulis",
+          "pos": "noun"
+        },
+        "dictionary_entry": "ĭūlis, ĭdis, f., = ἰουλίς",
+        "glosses": [
+          "a kind of rockfish, Plin. 32, 9, 31"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "Two words",
+        "May be 2 words combined (ius+sisto) If not obvious, probably incorrect",
+        "ius                  N      3 2 NOM S N",
+        "ius                  N      3 2 VOC S N",
+        "ius                  N      3 2 ACC S N",
+        "jus, juris  N (3rd) N   [XXXDO]    lesser",
+        "gravy; broth; soup; sauce;",
+        "law; legal system; code; right; duty; justice; court; binding decision; oath;",
+        "sist.o               V      3 1 PRES ACTIVE  IND 1 S",
+        "sisto, sistere, stiti, status  V (3rd)   [XXXBX]",
+        "stop, check; cause to stand; set up;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "whitakers_headwords": [
+        "ius",
+        "ius",
+        "ius",
+        "jus"
+      ]
+    },
+    {
+      "lemma": "latobrigus",
+      "reason": "no_whitakers_result",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_sg": "f.",
+          "gender": "f",
+          "nom_sg": "lactoris",
+          "pos": "noun"
+        },
+        "dictionary_entry": "lactŏris, f. lac",
+        "glosses": [
+          "a kind of milky plant, Plin. 24, 18"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "latobrigus                       ========   UNKNOWN"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "laturus",
+      "reason": "lemma_mismatch",
+      "current_master_entry": {
+        "dictionary": {
+          "conjugation": 3,
+          "infinitive": "ferere",
+          "note": "Future active participle; lemma 'laturus' treated as verb.",
+          "pos": "verb",
+          "principal_parts": "fero, ferere, ferre, tuli, latum"
+        },
+        "dictionary_entry": "fero, ferere, ferre, tuli, latum",
+        "glosses": [
+          "to bring/carry; about to bring",
+          "30, 16"
+        ],
+        "source": "ls_perseus+context; participle-as-verb override"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "lat.urus             VPAR   3 2 NOM S M FUT  ACTIVE  PPL",
+        "fero, ferre, tuli, latus  V   [XXXAX]",
+        "bring, bear; tell/speak of; consider; carry off, win, receive, produce; get;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "whitakers_headwords": [
+        "fero"
+      ]
+    },
+    {
+      "lemma": "menses",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "pos": "other"
+        },
+        "dictionary_entry": "mens, mentis (nom. sing. mentis: terra corpus est, at mentis ignis est, Enn. ap. Prisc. p. 764 P.; so too, istic est de sole sumptus; isque",
+        "glosses": [
+          "cf. Enn. p. 168, v. 6 and 7"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "mens.es              N      3 3 NOM P M",
+        "mens.es              N      3 3 VOC P M",
+        "mens.es              N      3 3 ACC P M",
+        "mensis, mensis  N (3rd) M   [XXXAX]",
+        "month;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "milis",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "pos": "adverb"
+        },
+        "dictionary_entry": "millĭes or mīlĭes (milliens or mi-liens), adv. id.",
+        "glosses": [
+          "a thousand times (class.): quinquies millies, Plin. 2"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "mil.is               N      3 4 GEN S N",
+        "mille, milis  N (3rd) N   [XXXDS]    lesser",
+        "thousand; thousands (men/things); miles; [~ passuum => thousand paces = 1 mile]"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "mouio",
+      "reason": "lemma_mismatch",
+      "current_master_entry": {
+        "dictionary": {
+          "conjugation": 1,
+          "infinitive": "moveare",
+          "pos": "verb",
+          "principal_parts": "moveo, moveare, movi, motum, 2 (sync., mostis for movistis, Mart. 3, 67, 1; morunt for moverunt, Sil. 14, 141)"
+        },
+        "dictionary_entry": "moveo, moveare, movi, motum, 2 (sync., mostis for movistis, Mart. 3, 67, 1; morunt for moverunt, Sil. 14, 141)",
+        "glosses": [
+          "on"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "i                    SUFFIX",
+        "makes abstract noun of the verb; place/instrument/result of verb action;",
+        "moui.o               N      2 2 DAT S N",
+        "moui.o               N      2 2 ABL S N",
+        "moveo, movere, movi, motus  V (2nd)   [XXXAX]",
+        "move, stir, agitate, affect, provoke, disturb;  [movere se => dance];",
+        "io                   SUFFIX",
+        "-ing, -ion, -ery; the action or result of the action of the verb;",
+        "mouio                N      3 1 NOM S F",
+        "mouio                N      3 1 VOC S F",
+        "moveo, movere, movi, motus  V (2nd)   [XXXAX]",
+        "move, stir, agitate, affect, provoke, disturb;  [movere se => dance];"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "whitakers_headwords": [
+        "moveo",
+        "moveo"
+      ]
+    },
+    {
+      "lemma": "occupatoqus",
+      "reason": "no_whitakers_result",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_sg": "onis",
+          "gender": "f",
+          "nom_sg": "occupatio",
+          "pos": "noun"
+        },
+        "dictionary_entry": "occŭpātĭo, ōnis, f. occupo",
+        "glosses": [
+          "a seizing, occupying (class.). Lit. (very rare): fori"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "occupatoqus                      ========   UNKNOWN"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "pae",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "pos": "adverb"
+        },
+        "dictionary_entry": "paene (less correctly pēne), adv. etym. dub., nearly, almost, as I may say (class.): fores paene effregisti, Plaut. Bacch. 4, 2, 4; id. Am.",
+        "glosses": [
+          "4, 2, 6"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "pae                              ========   UNKNOWN"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "paratissimam",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_sg": "ae",
+          "gender": "f",
+          "nom_sg": "parasita",
+          "pos": "noun"
+        },
+        "dictionary_entry": "părăsīta, ae, f. parasitus",
+        "glosses": [
+          "a female parasite: ciniflones, parasitae, Hor. S. 1"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "paratissi.mam        ADJ    1 1 ACC S F SUPER",
+        "paratus, parata -um, paratior -or -us, paratissimus -a -um  ADJ   [XXXDX]    lesser",
+        "prepared; ready; equipped, provided;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "target_pos": "N",
+      "available_pos": [
+        "ADJ"
+      ]
+    },
+    {
+      "lemma": "persolueo",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "pos": "other"
+        },
+        "dictionary_entry": "persŏlūta",
+        "glosses": [
+          "a corrupt read. for pesoluta, Plin. 21, 33"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "persolueo                        ========   UNKNOWN"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "poltulo",
+      "reason": "no_whitakers_result",
+      "current_master_entry": {
+        "dictionary": {
+          "conjugation": 1,
+          "infinitive": "postulare",
+          "pos": "verb",
+          "principal_parts": "postulo, postulare, avi, atum"
+        },
+        "dictionary_entry": "postulo, postulare, avi, atum",
+        "glosses": [
+          "to ask, demand, require, request, desire (syn.: posco"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "poltulo                          ========   UNKNOWN"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "postridio",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "pos": "adverb"
+        },
+        "dictionary_entry": "postrīdĭē (ante-class. collat. form po-strīdŭo, Plaut. Mil. 4, 2, 90), adv. loc. form from posterus and die, on the day after",
+        "glosses": [
+          "the following or next day (class.), Cic. Phil."
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "postridio                        ========   UNKNOWN"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "principibus",
+      "reason": "whitakers_data_too_thin",
+      "current_master_entry": {
+        "dictionary": {
+          "fem_nom_sg": "e",
+          "masc_nom_sg": "principalis",
+          "neut_nom_sg": "adj",
+          "pos": "adjective"
+        },
+        "dictionary_entry": "princĭpālis, e, adj. princeps. In gen., first, original, primitive (class.): causae, Cic. Fat. 5, 9: est igitur tropus sermo a naturali et p",
+        "glosses": [
+          "rincipali significatione translatus ad aliam, Quint. 9, 1"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "princip.ibus         N      3 1 LOC P M",
+        "princip.ibus         N      3 1 DAT P M",
+        "princip.ibus         N      3 1 ABL P M",
+        "princeps, principis  N (3rd) M   [XXXAO]",
+        "leader/chief, first/leading member/citizen/man; master/expert; founder/proposer",
+        "Princeps (non-military title of Roman Emperor); senior Senator; leader of pack;",
+        "princip.ibus         ADJ    3 1 DAT P X POS",
+        "princip.ibus         ADJ    3 1 ABL P X POS",
+        "princeps, (gen.), principis  ADJ   [XXXBO]",
+        "first, foremost, leading, chief, front; earliest, original; most necessary;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "querio",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "pos": "conjunction"
+        },
+        "dictionary_entry": "quĕ (lengthened in arsis by the poets, like the Gr. τε: Faunique Satyrique, Ov. M. 1, 193; 4, 10; 5, 484; Verg. A. 3, 91 al.), conj. encliti",
+        "glosses": [
+          "and in archaic formulae: potes pollesque, Liv. 1"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "i                    SUFFIX",
+        "makes abstract noun of the verb; place/instrument/result of verb action;",
+        "queri.o              N      2 2 DAT S N",
+        "queri.o              N      2 2 ABL S N",
+        "queror, queri, questus sum  V (3rd) DEP   [XXXAX]",
+        "complain; protest, grumble, gripe; make formal complaint in court of law;",
+        "io                   SUFFIX",
+        "-ing, -ion, -ery; the action or result of the action of the verb;",
+        "querio               N      3 1 NOM S F",
+        "querio               N      3 1 VOC S F",
+        "queror, queri, questus sum  V (3rd) DEP   [XXXAX]",
+        "complain; protest, grumble, gripe; make formal complaint in court of law;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "target_pos": "CONJ",
+      "available_pos": [
+        "V",
+        "N"
+      ]
+    },
+    {
+      "lemma": "reliquas",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "conjugation": 3,
+          "infinitive": "reliquusere",
+          "pos": "verb",
+          "principal_parts": "reliquus, reliquusere, rell-, -qus"
+        },
+        "dictionary_entry": "reliquus, reliquusere, rell-, -qus",
+        "glosses": [
+          "and with this cf. Sall. H. Fragm. 1"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "reliqu.as            ADJ    1 1 ACC P F POS",
+        "reliquus, reliqua, reliquum  ADJ   [XXXAO]",
+        "rest of/remaining/available/left; surviving; future/further; yet to be/owed;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "target_pos": "V",
+      "available_pos": [
+        "ADJ"
+      ]
+    },
+    {
+      "lemma": "repullo",
+      "reason": "lemma_mismatch",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_sg": "onis",
+          "gender": "f",
+          "nom_sg": "repulsio",
+          "pos": "noun"
+        },
+        "dictionary_entry": "rĕpulsĭo, ōnis, f. repello. Lit.",
+        "glosses": [
+          "a repelling, resistance: violentiae per vim, Isid. 5"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "re                   PREFIX",
+        "- back, - again;",
+        "pull.o               N      2 1 DAT S M",
+        "pull.o               N      2 1 ABL S M",
+        "pullus, pulli  N (2nd) M   [XXXDX]    lesser",
+        "chicken, young hen;",
+        "pull.o               N      2 2 DAT S N",
+        "pull.o               N      2 2 ABL S N",
+        "pullum, pulli  N (2nd) N   [XXXDS]    lesser",
+        "dark-gray cloth(es) (as pl.);",
+        "pull.o               ADJ    1 1 DAT S M POS",
+        "pull.o               ADJ    1 1 DAT S N POS",
+        "pull.o               ADJ    1 1 ABL S M POS",
+        "pull.o               ADJ    1 1 ABL S N POS",
+        "pullus, pulla, pullum  ADJ   [XXXDX]    lesser",
+        "blackish, dark colored, of undyed wool as worn in morning;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "whitakers_headwords": [
+        "pull.o",
+        "pull.o",
+        "pullus",
+        "pull.o",
+        "pull.o",
+        "pullum"
+      ]
+    },
+    {
+      "lemma": "semeo",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_sg": "inis",
+          "gender": "n",
+          "nom_sg": "semen",
+          "pos": "noun"
+        },
+        "dictionary_entry": "sēmen, ĭnis, n. root sa-, sē-; cf.: sero, sevi; Saturnus, sator, etc.. Seed. Of plants, Cato, R. R. 17; 27; 31 fin.; 34; Varr. R. R. 1, 40 s",
+        "glosses": [
+          "q.: semen manu spargere, Cic. Rosc. Am. 18"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "Two words",
+        "May be 2 words combined (se+meo) If not obvious, probably incorrect",
+        "me.o                 ADJ    1 1 DAT S M POS",
+        "me.o                 ADJ    1 1 DAT S N POS",
+        "me.o                 ADJ    1 1 ABL S M POS",
+        "me.o                 ADJ    1 1 ABL S N POS",
+        "meus, mea, meum  ADJ   [XXXAX]",
+        "my (personal possession); mine, of me, belonging to me; my own; to me;",
+        "me.o                 V      1 1 PRES ACTIVE  IND 1 S",
+        "meo, meare, meavi, meatus  V (1st)   [XXXBX]",
+        "go along, pass, travel;",
+        "s.e                  PRON   5 4 ABL X C",
+        "s.e                  PRON   5 4 ACC X C",
+        "[XXXAX]",
+        "him/her/it/ones-self; him/her/it; them (selves) (pl.); each other, one another;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "target_pos": "N",
+      "available_pos": [
+        "V",
+        "PRON",
+        "ADJ"
+      ]
+    },
+    {
+      "lemma": "sequanisquusqui",
+      "reason": "no_whitakers_result",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_sg": "ae",
+          "gender": "f",
+          "nom_sg": "Sequana",
+          "pos": "noun"
+        },
+        "dictionary_entry": "Sēquăna, ae, f., one of the principal rivers of Gallia Celtica",
+        "glosses": [
+          "the Seine, Caes. B. G. 1, 1"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "sequanisquusqui                  ========   UNKNOWN"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "siluum",
+      "reason": "whitakers_data_too_thin",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_sg": "(less",
+          "gender": "f",
+          "nom_sg": "silva",
+          "pos": "noun"
+        },
+        "dictionary_entry": "silva (less correctly sylva), ae (old gen. silvaï; silua as trisyl., Hor. C. 1, 23, 4; id. Epod. 13, 2; cf. Prisc. p. 546 P.), f. cf. Gr. ὕλ",
+        "glosses": [
+          "η,, a wood, forest, woodland (syn.: saltus, nemus"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "silu.um              N      1 1 GEN P F                   uncommon",
+        "silva, silvae  N (1st) F   [XXXAX]",
+        "wood, forest (sylvan);"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "sueba",
+      "reason": "no_whitakers_result",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_sg": "es",
+          "gender": "f",
+          "nom_sg": "Sue",
+          "pos": "noun"
+        },
+        "dictionary_entry": "Suē, ēs, f.",
+        "glosses": [
+          "a town in Assyria, Plin. 6, 26, 30"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "sueba                            ========   UNKNOWN"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "summaqus",
+      "reason": "no_whitakers_result",
+      "current_master_entry": {
+        "dictionary": {
+          "conjugation": 1,
+          "infinitive": "summaare",
+          "pos": "verb",
+          "principal_parts": "summa, summaare, ae, f. (sc. res; old gen. summai, Lucr. 1, 984; 6, 679) [summus"
+        },
+        "dictionary_entry": "summa, summaare, ae, f. (sc. res; old gen. summai, Lucr. 1, 984; 6, 679) [summus",
+        "glosses": [
+          "cf.: haec belli summa nefandi, Verg. A. 12"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "summaqus                         ========   UNKNOWN"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "supserfuo",
+      "reason": "no_whitakers_result",
+      "current_master_entry": {
+        "dictionary": {
+          "conjugation": 3,
+          "infinitive": "superfundere",
+          "pos": "verb",
+          "principal_parts": "superfundo, superfundere, fudi, fusum"
+        },
+        "dictionary_entry": "superfundo, superfundere, fudi, fusum",
+        "glosses": [
+          "composueris, oleum superfundito, Col. 12, 57, 1"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "supserfuo                        ========   UNKNOWN"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "teuto",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_sg": "orum",
+          "gender": "m",
+          "nom_sg": "Teutoni",
+          "pos": "noun"
+        },
+        "dictionary_entry": "Teutŏni, ōrum (collat. form Teutŏ-nes, um, Caes. B. G. 7, 77 fin.; Vell. 2, 12, 4; Aur. Vict. Vir. Ill. 67; Eutr. 5, 1 sq.), m.",
+        "glosses": [
+          "the Teutons, a people of Germany, Mel. 3"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "Two words",
+        "May be 2 words combined (te+uto) If not obvious, probably incorrect",
+        "t.e                  PRON   5 2 ABL S C",
+        "t.e                  PRON   5 2 ACC S C",
+        "you (sing.); thou/thine/thee/thy (PERS); yourself/thyself (REFLEX);"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "target_pos": "N",
+      "available_pos": [
+        "PRON"
+      ]
+    },
+    {
+      "lemma": "teuton",
+      "reason": "no_whitakers_result",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_sg": "orum",
+          "gender": "m",
+          "nom_sg": "Teutoni",
+          "pos": "noun"
+        },
+        "dictionary_entry": "Teutŏni, ōrum (collat. form Teutŏ-nes, um, Caes. B. G. 7, 77 fin.; Vell. 2, 12, 4; Aur. Vict. Vir. Ill. 67; Eutr. 5, 1 sq.), m.",
+        "glosses": [
+          "the Teutons, a people of Germany, Mel. 3"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "teuton                           ========   UNKNOWN"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "troucillum",
+      "reason": "no_whitakers_result",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_sg": "(trullium)",
+          "gender": "n",
+          "nom_sg": "trulleum",
+          "pos": "noun"
+        },
+        "dictionary_entry": "trullĕum (trullĭum), i, n. trulla",
+        "glosses": [
+          "a basin, wash-basin, Varr. L. L. 5, 25"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "troucillum                       ========   UNKNOWN"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "uerbigenus",
+      "reason": "no_target_pos",
+      "current_master_entry": {
+        "dictionary": {
+          "pos": "other"
+        },
+        "dictionary_entry": "verbĕrĕus",
+        "glosses": [
+          "also called statua, id. Capt. 5, 1, 31"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "Two words",
+        "May be 2 words combined (uer+bigenus) If not obvious, probably incorrect",
+        "bigen.us             ADJ    1 1 NOM S M POS",
+        "bigenus, bigena, bigenum  ADJ   [GXXEK]    NeoLatin  uncommon",
+        "hybrid;",
+        "uer                  N      3 2 NOM S N",
+        "uer                  N      3 2 VOC S N",
+        "uer                  N      3 2 ACC S N",
+        "ver, veris  N (3rd) N   [XXXBO]",
+        "spring; spring-time of life, youth; [ver sacrum => sacrifice of spring-born];"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "uido",
+      "reason": "whitakers_data_too_thin",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_sg": "vis",
+          "gender": "f",
+          "nom_sg": "vis",
+          "pos": "noun"
+        },
+        "dictionary_entry": "vīs, vis, f., plur. vīres, ĭum (class. only in nom., acc. and abl. sing. and in plur.; gen. sing. very rare; Tac. Or. 26; Dig. 4, 2, 1; Paul",
+        "glosses": [
+          ". Sent. 5, 30"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "do                   SUFFIX",
+        "act of or result of the action of the verb;",
+        "uido                 N      3 1 NOM S F",
+        "uido                 N      3 1 NOM S F",
+        "uido                 N      3 1 VOC S F",
+        "uido                 N      3 1 VOC S F",
+        "vieo, viere, -, vietus  V (2nd)   [XXXDX]    lesser",
+        "plait, weave; bend/twist into basketwork;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "xiiii",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "gen_sg": "ae",
+          "gender": "f",
+          "nom_sg": "apoplexia",
+          "pos": "noun"
+        },
+        "dictionary_entry": "ăpŏplēxĭa, ae, or -xis, is, f., = ἀποπληξια or ἀπόπληξις, med. t., apoplexy; form apoplexia, Cael. Aur. Acut. 3, 5.—Form apoplexis, Tert. An",
+        "glosses": [
+          "im. 53"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "xiiii                NUM    2 0 X   X X CARD",
+        "14  as a ROMAN NUMERAL;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "target_pos": "N",
+      "available_pos": [
+        "NUM"
+      ]
+    },
+    {
+      "lemma": "xx",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "pos": "adjective"
+        },
+        "dictionary_entry": "vīginti (or XX.), num. adj. Sanscr. vicati; Gr. εἴκοσι; Boeot. ϝίκατι, twenty: viginti jam usu'st filio argenti minis, Plaut. As. 1, 1, 76:",
+        "glosses": [
+          "si viginti quiessem dies, Cic. Planc. 37, 90"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "xx                   NUM    2 0 X   X X CARD",
+        "20  as a ROMAN NUMERAL;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "target_pos": "ADJ",
+      "available_pos": [
+        "NUM"
+      ]
+    },
+    {
+      "lemma": "xxiiius",
+      "reason": "no_whitakers_result",
+      "current_master_entry": {
+        "dictionary": {
+          "pos": "adjective"
+        },
+        "dictionary_entry": "vīginti (or XX.), num. adj. Sanscr. vicati; Gr. εἴκοσι; Boeot. ϝίκατι, twenty: viginti jam usu'st filio argenti minis, Plaut. As. 1, 1, 76:",
+        "glosses": [
+          "si viginti quiessem dies, Cic. Planc. 37, 90"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "xxiiius                          ========   UNKNOWN"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "xxiius",
+      "reason": "no_whitakers_result",
+      "current_master_entry": {
+        "dictionary": {
+          "pos": "adjective"
+        },
+        "dictionary_entry": "vīginti (or XX.), num. adj. Sanscr. vicati; Gr. εἴκοσι; Boeot. ϝίκατι, twenty: viginti jam usu'st filio argenti minis, Plaut. As. 1, 1, 76:",
+        "glosses": [
+          "si viginti quiessem dies, Cic. Planc. 37, 90"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "xxiius                           ========   UNKNOWN"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    },
+    {
+      "lemma": "xxxii",
+      "reason": "no_pos_match",
+      "current_master_entry": {
+        "dictionary": {
+          "pos": "adjective"
+        },
+        "dictionary_entry": "vīginti (or XX.), num. adj. Sanscr. vicati; Gr. εἴκοσι; Boeot. ϝίκατι, twenty: viginti jam usu'st filio argenti minis, Plaut. As. 1, 1, 76:",
+        "glosses": [
+          "si viginti quiessem dies, Cic. Planc. 37, 90"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "xxxii                NUM    2 0 X   X X CARD",
+        "32  as a ROMAN NUMERAL;"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      },
+      "target_pos": "ADJ",
+      "available_pos": [
+        "NUM"
+      ]
+    },
+    {
+      "lemma": "xxxui",
+      "reason": "no_whitakers_result",
+      "current_master_entry": {
+        "dictionary": {
+          "pos": "adjective"
+        },
+        "dictionary_entry": "vīginti (or XX.), num. adj. Sanscr. vicati; Gr. εἴκοσι; Boeot. ϝίκατι, twenty: viginti jam usu'st filio argenti minis, Plaut. As. 1, 1, 76:",
+        "glosses": [
+          "si viginti quiessem dies, Cic. Planc. 37, 90"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null,
+      "whitakers_raw": [
+        "xxxui                            ========   UNKNOWN"
+      ],
+      "context": {
+        "occurrences_in_text": 0,
+        "first_chapter": 0,
+        "example_form": "",
+        "example_sid": ""
+      }
+    }
+  ]
+}

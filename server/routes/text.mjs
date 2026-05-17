@@ -7,36 +7,107 @@ import { fileURLToPath } from "url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const router = express.Router();
+const router = express.Router({ mergeParams: true });
 
 router.use(express.json({ limit: "1mb" }));
 
-// Resolves to: server/data/caesar/...
-const CAESAR_DIR = path.join(__dirname, "..", "data", "caesar");
+// --- Multi-text configuration ---
+const TEXTS_CONFIG_PATH = path.join(__dirname, "..", "config", "texts.json");
+const DATA_ROOT = path.join(__dirname, "..", "data");
 
-// --- Lemma correction layer ---
-const LEMMA_CORRECTIONS_PATH = path.join(CAESAR_DIR, "lemma_corrections.json");
-let __lemmaCorrections = null;
-
-function loadLemmaCorrections() {
-  if (__lemmaCorrections) return __lemmaCorrections;
-  try {
-    const raw = fs.readFileSync(LEMMA_CORRECTIONS_PATH, "utf8");
-    const parsed = JSON.parse(raw);
-    __lemmaCorrections = parsed?.corrections || {};
-  } catch {
-    __lemmaCorrections = {};
-  }
-  return __lemmaCorrections;
+let __textsConfig = null;
+function loadTextsConfig() {
+  if (__textsConfig) return __textsConfig;
+  const raw = fs.readFileSync(TEXTS_CONFIG_PATH, "utf8");
+  __textsConfig = JSON.parse(raw);
+  return __textsConfig;
 }
 
-function applyLemmaCorrection(token) {
+function getTextConfig(textId) {
+  const config = loadTextsConfig();
+  return config[textId] || null;
+}
+
+function getTextDir(textId) {
+  const cfg = getTextConfig(textId);
+  if (!cfg) return null;
+  return path.join(DATA_ROOT, cfg.dataDir);
+}
+
+function getFiles(textId) {
+  const cfg = getTextConfig(textId);
+  if (!cfg || !cfg.files) return null;
+  const f = cfg.files;
+  return {
+    chapterVocab: [f.chapterVocab].filter(Boolean),
+    lemmaGlosses: [f.lemmaGlosses].filter(Boolean),
+    sentence: [f.sentences].filter(Boolean),
+    translations: [f.translations].filter(Boolean),
+    ud: [f.ud].filter(Boolean),
+    constructions: [f.constructions].filter(Boolean),
+  };
+}
+
+// --- textId validation middleware ---
+router.use((req, res, next) => {
+  const textId = req.params.textId;
+  if (!textId) return res.status(400).json({ error: "Missing textId parameter" });
+  const cfg = getTextConfig(textId);
+  if (!cfg) return res.status(404).json({ error: `Text not registered: ${textId}` });
+  // Attach to req for convenience and set module-level active text
+  req.textId = textId;
+  req.textConfig = cfg;
+  _activeTextId = textId;
+  next();
+});
+
+// --- Per-text caches ---
+const cachesByText = {};      // { textId: { targets, glossary, sentence, ... } }
+let __alignedCacheByText = {};  // { textId: aligned cache }
+let __lemmaCorrectionsByText = {}; // { textId: corrections map }
+
+function getCache(textId) {
+  if (!cachesByText[textId]) {
+    cachesByText[textId] = {
+      targets: null,
+      glossary: null,
+      sentence: null,
+      translations: null,
+      ud: null,
+      constructions: null,
+      formToLemmas: null,
+    };
+  }
+  return cachesByText[textId];
+}
+
+// --- Lemma correction layer (per-text) ---
+function loadLemmaCorrections(textId) {
+  if (__lemmaCorrectionsByText[textId]) return __lemmaCorrectionsByText[textId];
+  const textDir = getTextDir(textId);
+  const cfg = getTextConfig(textId);
+  const filename = cfg?.files?.lemmaCorrections;
+  if (!textDir || !filename) {
+    __lemmaCorrectionsByText[textId] = {};
+    return {};
+  }
+  try {
+    const raw = fs.readFileSync(path.join(textDir, filename), "utf8");
+    const parsed = JSON.parse(raw);
+    __lemmaCorrectionsByText[textId] = parsed?.corrections || {};
+  } catch {
+    __lemmaCorrectionsByText[textId] = {};
+  }
+  return __lemmaCorrectionsByText[textId];
+}
+
+function applyLemmaCorrection(token, textId) {
   if (!token || !token.lemma) return token;
   const form = String(token.form || token.text || "").trim().toLowerCase();
   const lemma = String(token.lemma).trim().toLowerCase();
   if (!form || !lemma) return token;
   const key = `${form}|${lemma}`;
-  const corrections = loadLemmaCorrections();
+  const corrections = loadLemmaCorrections(textId || _activeTextId);
   const corrected = corrections[key];
   if (corrected) {
     return { ...token, lemma: corrected, originalLemma: token.lemma };
@@ -44,43 +115,31 @@ function applyLemmaCorrection(token) {
   return token;
 }
 
-// NEW: teacher/assignment storage (kept outside Caesar data to avoid mixing)
+// NEW: teacher/assignment storage (kept outside text data to avoid mixing)
 const PILOT_DIR = path.join(__dirname, "..", "data", "pilot");
 const TEACHERS_FILE = path.join(PILOT_DIR, "teachers.json");
 const ASSIGNMENTS_FILE = path.join(PILOT_DIR, "assignments.json");
 const SUBMISSIONS_FILE = path.join(PILOT_DIR, "submissions.json");
 
-// Filenames under server/data/caesar. We try candidates in order and
-// use the first that exists.
-const FILES = {
-  chapterVocab: [
-    "dbg1_chapter_vocab_ok.json",
-    "dbg1_vocab.json",
-    "dbg1_targets.json",
-    "targets.json",
-    "dbg1_targets_flat.json",
-    "dbg1_targets_by_chapter.json",
-  ],
-  lemmaGlosses: [
-    "caesar_lemma_glosses_MASTER.json",
-    "caesar_lemma_glosses.json",
-    "caesar_lemma_glosses_REBUILT_core_ls.json",
-  ],
-  sentence: ["dbg1_sentences.json", "dbg1_sentence_index.json"],
-  translations: ["dbg1_translations.json"],
-  ud: ["dbg1_ud.json"],
-  constructions: ["dbg1_constructions.json"],
+// Compat shims: these get set per-request so existing function bodies work
+// We use a request-scoped approach via closures in the endpoint handlers.
+let _activeTextId = "caesar"; // fallback for startup validation
 
-};
+// Legacy compat: FILES and cache point to the active text
+// (used by helper functions that don't take textId directly)
+function _FILES() { return getFiles(_activeTextId); }
+function _cache() { return getCache(_activeTextId); }
+function _textDir() { return getTextDir(_activeTextId); }
 
-const cache = {
-  targets: null,
-  glossary: null,
-  sentence: null,
-  translations: null,
-  ud: null,
-  constructions: null,
-};
+// Keep a module-level reference for functions that need it
+const cache = new Proxy({}, {
+  get(_, prop) { return getCache(_activeTextId)[prop]; },
+  set(_, prop, value) { getCache(_activeTextId)[prop] = value; return true; },
+});
+
+const FILES = new Proxy({}, {
+  get(_, prop) { return (getFiles(_activeTextId) || {})[prop]; },
+});
 
 function exists(filePath) {
   try {
@@ -117,8 +176,10 @@ function safeWriteJson(filePath, obj) {
 }
 
 function resolveFirstExisting(basenames) {
+  const dir = _textDir();
+  if (!dir) return null;
   for (const name of basenames) {
-    const fp = path.join(CAESAR_DIR, name);
+    const fp = path.join(dir, name);
     if (exists(fp)) return fp;
   }
   return null;
@@ -146,26 +207,39 @@ function lemmaKeyVariants(lemma) {
 }
 
 function parseChapterFromSid(sid) {
-  const m = String(sid || "").match(/^(\d+)[\.:]/);
-  if (!m) return null;
-  const n = Number(m[1]);
-  return Number.isFinite(n) ? n : null;
+  const s = String(sid || "");
+  // Numeric format: "1.0" -> chapter 1
+  const m1 = s.match(/^(\d+)[\.:]/);
+  if (m1) return Number(m1[1]);
+  // Pliny format: "pliny_6_16.0" -> chapter "6_16"
+  const m2 = s.match(/^[a-z]+_(.+)\.(\d+)$/);
+  if (m2) return m2[1];
+  return null;
 }
 
 function parseIndexFromSid(sid) {
-  const m = String(sid || "").match(/^\d+[\.:](\d+)/);
-  if (!m) return null;
-  const n = Number(m[1]);
-  return Number.isFinite(n) ? n : null;
+  const s = String(sid || "");
+  // Numeric: "1.0" -> index 0
+  const m1 = s.match(/^\d+[\.:](\d+)/);
+  if (m1) return Number(m1[1]);
+  // Pliny: "pliny_6_16.0" -> index 0
+  const m2 = s.match(/\.(\d+)$/);
+  if (m2) return Number(m2[1]);
+  return null;
 }
 
 function inferChapterFromTarget(t) {
   if (!t || typeof t !== "object") return null;
-  const direct = Number(t.chapter ?? t.firstChapter);
-  if (Number.isFinite(direct) && direct > 0) return direct;
+  const raw = t.chapter ?? t.firstChapter;
+  if (raw != null && raw !== "") {
+    const direct = Number(raw);
+    if (Number.isFinite(direct) && direct > 0) return direct;
+    // Non-numeric chapter ID (e.g., "6_16" for Pliny)
+    if (typeof raw === "string" && raw.length > 0) return raw;
+  }
   const sid = t.example?.sid || t.sid;
   const parsed = parseChapterFromSid(sid);
-  if (Number.isFinite(parsed) && parsed > 0) return parsed;
+  if (parsed != null) return parsed;
   return null;
 }
 
@@ -177,7 +251,11 @@ function normalizeTargetsPayload(payload) {
 
   const byChapter = payload.by_chapter || payload.byChapter;
   if (byChapter && typeof byChapter === "object") {
-    const keys = Object.keys(byChapter).sort((a, b) => Number(a) - Number(b));
+    const keys = Object.keys(byChapter).sort((a, b) => {
+      const na = Number(a), nb = Number(b);
+      if (Number.isFinite(na) && Number.isFinite(nb)) return na - nb;
+      return String(a).localeCompare(String(b));
+    });
     const out = [];
     for (const k of keys) {
       const chObj = byChapter[k];
@@ -185,7 +263,7 @@ function normalizeTargetsPayload(payload) {
       const targets = Array.isArray(chObj?.targets) ? chObj.targets : [];
       for (const t of targets) {
         if (t && typeof t === "object") {
-          out.push({ ...t, chapter: Number.isFinite(chNum) ? chNum : t.chapter });
+          out.push({ ...t, chapter: Number.isFinite(chNum) ? chNum : (t.chapter || k) });
         }
       }
     }
@@ -572,7 +650,9 @@ function alignChapterToCanonical({ chapterNum, canonicalSentences, udRows, consB
       j = startJ + consumed;
     }
 
-    const sid = `${chapterNum}.${i}`;
+    // Prefer the sid from the first UD row if available; otherwise build from chapter+index
+    const udSid = rowsToUse[0]?.sid;
+    const sid = udSid ? String(udSid) : `${chapterNum}.${i}`;
 
     const tokens = mergeTokensWithOffsets(rowsToUse);
     const constructions = mergeConstructionsBySid(consBySentence, rowsToUse);
@@ -593,20 +673,25 @@ function alignChapterToCanonical({ chapterNum, canonicalSentences, udRows, consB
 }
 
 // Build a cache so both chapterBundle and sentenceBundle share the same aligned view.
-let __ALIGNED_CACHE = null;
 
+function clearCachesForText(textId) {
+  delete __alignedCacheByText[textId];
+  delete __lemmaCorrectionsByText[textId];
+  const c = cachesByText[textId];
+  if (c) {
+    c.targets = null;
+    c.glossary = null;
+    c.sentence = null;
+    c.translations = null;
+    c.ud = null;
+    c.constructions = null;
+    c.formToLemmas = null;
+  }
+}
+
+// Legacy compat name
 function clearCaesarCaches() {
-  __ALIGNED_CACHE = null;
-  __lemmaCorrections = null;
-
-  // clear file-level caches too (these are defined at the top of caesar.mjs)
-  cache.targets = null;
-  cache.glossary = null;
-  cache.sentence = null;
-  cache.translations = null;
-  cache.ud = null;
-  cache.constructions = null;
-  cache.formToLemmas = null;
+  clearCachesForText(_activeTextId);
 }
 
 function maybeRefreshFromQuery(req) {
@@ -619,7 +704,7 @@ function maybeRefreshFromQuery(req) {
 
 
 function getAlignedCache({ loadUDOrThrow, loadSentencesOrThrow, loadConstructionsOrThrow }) {
-  if (__ALIGNED_CACHE) return __ALIGNED_CACHE;
+  if (__alignedCacheByText[_activeTextId]) return __alignedCacheByText[_activeTextId];
 
   const ud = loadUDOrThrow();                 // dbg1_UD.json
   const sentences = loadSentencesOrThrow();   // dbg1_sentences.json
@@ -631,14 +716,17 @@ function getAlignedCache({ loadUDOrThrow, loadSentencesOrThrow, loadConstruction
   const bySid = {};
 
   const chaptersObj = ud?.chapters || {};
-  const chapterNums = Object.keys(sentences || {})
-    .map((k) => Number(k))
-    .filter((n) => Number.isFinite(n))
-    .sort((a, b) => a - b);
+  const chapterKeys = Object.keys(sentences || {})
+    .filter((k) => k && k !== "meta")
+    .sort((a, b) => {
+      const na = Number(a), nb = Number(b);
+      if (Number.isFinite(na) && Number.isFinite(nb)) return na - nb;
+      return String(a).localeCompare(String(b));
+    });
 
-  for (const ch of chapterNums) {
-    const canon = sentences[String(ch)] || [];
-    const udRows = chaptersObj[String(ch)] || [];
+  for (const ch of chapterKeys) {
+    const canon = sentences[ch] || [];
+    const udRows = chaptersObj[ch] || [];
 
     const aligned = alignChapterToCanonical({
       chapterNum: ch,
@@ -647,12 +735,12 @@ function getAlignedCache({ loadUDOrThrow, loadSentencesOrThrow, loadConstruction
       consBySentence,
     });
 
-    byChapter[String(ch)] = aligned;
+    byChapter[ch] = aligned;
     for (const b of aligned) bySid[String(b.sid)] = b;
   }
 
-  __ALIGNED_CACHE = { byChapter, bySid };
-  return __ALIGNED_CACHE;
+  __alignedCacheByText[_activeTextId] = { byChapter, bySid };
+  return __alignedCacheByText[_activeTextId];
 }
 
 // ---- endpoints ----
@@ -776,9 +864,12 @@ router.get("/examples", (req, res) => {
     });
 
     const chapterNums = Object.keys(cache.byChapter || {})
-      .map((k) => Number(k))
-      .filter((n) => Number.isFinite(n))
-      .sort((a, b) => a - b);
+      .filter((k) => k && k !== "meta")
+      .sort((a, b) => {
+        const na = Number(a), nb = Number(b);
+        if (Number.isFinite(na) && Number.isFinite(nb)) return na - nb;
+        return String(a).localeCompare(String(b));
+      });
 
     const items = [];
     const instanceCounts = {};
@@ -845,14 +936,29 @@ router.get("/chapters", (req, res) => {
     const chaptersObj = normalizeUdChapters(ud);
 
     const chapters = Object.keys(chaptersObj || {})
-      .map((k) => Number(k))
-      .filter((n) => Number.isFinite(n))
-      .sort((a, b) => a - b);
+      .filter((k) => k && k !== "meta")
+      .sort((a, b) => {
+        const na = Number(a), nb = Number(b);
+        if (Number.isFinite(na) && Number.isFinite(nb)) return na - nb;
+        return String(a).localeCompare(String(b));
+      });
 
-    // You can keep this minimal, or include counts (helpful for UI)
+    // Try to load display names from chapter vocab or chapters file
+    let displayNames = {};
+    try {
+      const targets = loadTargetsOrThrow();
+      // targets is flat array; also try loading chapter vocab directly
+      const vocabPayload = pickAndRead(FILES.chapterVocab);
+      const byChapter = vocabPayload?.by_chapter || {};
+      for (const [k, v] of Object.entries(byChapter)) {
+        if (v?.displayName) displayNames[k] = v.displayName;
+      }
+    } catch {}
+
     const chapterMeta = chapters.map((ch) => ({
       chapter: ch,
       sentence_count: Array.isArray(chaptersObj[String(ch)]) ? chaptersObj[String(ch)].length : 0,
+      displayName: displayNames[ch] || null,
     }));
 
     res.json({ chapters: chapterMeta });
@@ -865,13 +971,14 @@ router.get("/chapterBundle", (req, res) => {
   try {
     maybeRefreshFromQuery(req);
 
-    const ch = Number(req.query.chapter);
-    if (!Number.isFinite(ch)) return res.status(400).json({ error: "Missing or invalid ?chapter=" });
+    const chRaw = String(req.query.chapter || "").trim();
+    if (!chRaw) return res.status(400).json({ error: "Missing ?chapter=" });
+    const ch = Number.isFinite(Number(chRaw)) ? Number(chRaw) : chRaw;
 
     const cache = getAlignedCache({
       loadUDOrThrow,
       loadSentencesOrThrow,
-      loadConstructionsOrThrow: loadConstructions, // your existing loader
+      loadConstructionsOrThrow: loadConstructions,
     });
 
     const aligned = cache.byChapter[String(ch)];
@@ -956,16 +1063,20 @@ router.get("/vocabCounts", (req, res) => {
 
     for (const t of targets) {
       const ch = inferChapterFromTarget(t);
-      if (ch && Number.isFinite(ch)) {
-        byChapter[ch] = (byChapter[ch] || 0) + 1;
+      if (ch != null && ch !== "") {
+        const key = String(ch);
+        byChapter[key] = (byChapter[key] || 0) + 1;
         totalWords++;
       }
     }
 
-    // Sort chapters numerically
+    // Sort chapters
     const sortedChapters = Object.keys(byChapter)
-      .map(Number)
-      .sort((a, b) => a - b);
+      .sort((a, b) => {
+        const na = Number(a), nb = Number(b);
+        if (Number.isFinite(na) && Number.isFinite(nb)) return na - nb;
+        return String(a).localeCompare(String(b));
+      });
 
     const orderedByChapter = {};
     for (const ch of sortedChapters) {
@@ -1153,9 +1264,12 @@ router.get("/practiceChunk", (req, res) => {
 
     // Build global in-order list across all chapters
     const chapterNums = Object.keys(cache.byChapter || {})
-      .map((k) => Number(k))
-      .filter((n) => Number.isFinite(n))
-      .sort((a, b) => a - b);
+      .filter((k) => k && k !== "meta")
+      .sort((a, b) => {
+        const na = Number(a), nb = Number(b);
+        if (Number.isFinite(na) && Number.isFinite(nb)) return na - nb;
+        return String(a).localeCompare(String(b));
+      });
 
     const global = [];
     for (const ch of chapterNums) {
@@ -1187,7 +1301,7 @@ router.get("/practiceChunk", (req, res) => {
       return {
         startSid,
         endSid,
-        label: startSid && endSid ? `DBG1 ${startSid}–${endSid}` : "DBG1 excerpt",
+        label: startSid && endSid ? `${startSid}–${endSid}` : "excerpt",
       };
     }
 
@@ -1320,8 +1434,10 @@ router.get("/practiceChunk", (req, res) => {
     if (global.length < N) return res.status(500).json({ error: `Not enough sentences for N=${N}` });
 
     // Build all eligible windows (with mastery filtering for non-conditional types)
+    // Use minTargets=1 as fallback if no windows meet the configured minimum
     const eligible = [];
     const eligibleIgnoringMastery = []; // for fallback when all instances mastered
+    const eligibleRelaxed = []; // fallback: minTargets=1
     for (let start = 0; start <= global.length - N; start++) {
       const candidate = global.slice(start, start + N);
 
@@ -1333,6 +1449,9 @@ router.get("/practiceChunk", (req, res) => {
         if (preferAlso && sentenceHasType(s, preferAlso)) preferCount++;
       }
 
+      if (targetCount >= 1) {
+        eligibleRelaxed.push({ start, candidate, targetCount, preferCount, extra: Math.max(0, targetCount - 1) });
+      }
       if (targetCount < minTargets) continue;
 
       const extra = targetCount - minTargets; // smaller is better
@@ -1398,6 +1517,15 @@ router.get("/practiceChunk", (req, res) => {
 
       const pick = pool[crypto.randomInt(0, pool.length)];
       chosen = pick;
+
+    } else if (eligibleRelaxed.length) {
+      // Fallback: use windows with at least 1 instance (sparse text support)
+      const pool = eligibleRelaxed.filter(
+        (e) => !excludeSet.has(`single:${type}:${e.start}:${N}`)
+      );
+      const finalPool = pool.length ? pool : eligibleRelaxed;
+      chosen = finalPool[crypto.randomInt(0, finalPool.length)];
+      warning = `Only ${chosen.targetCount} instance(s) in this excerpt (ideal: ${minTargets}+).`;
 
     } else {
       let start = 0;
@@ -1465,9 +1593,12 @@ router.get("/practicePoolSize", (req, res) => {
 
     // Build global in-order list across all chapters
     const chapterNums = Object.keys(cache.byChapter || {})
-      .map((k) => Number(k))
-      .filter((n) => Number.isFinite(n))
-      .sort((a, b) => a - b);
+      .filter((k) => k && k !== "meta")
+      .sort((a, b) => {
+        const na = Number(a), nb = Number(b);
+        if (Number.isFinite(na) && Number.isFinite(nb)) return na - nb;
+        return String(a).localeCompare(String(b));
+      });
 
     const global = [];
     for (const ch of chapterNums) {
@@ -1557,6 +1688,7 @@ router.get("/glossary", (req, res) => {
 
     const glossary = loadGlossaryOrThrow();
     let entry = null;
+    let fromText = null;
 
     for (const k of lemmaKeyVariants(lemma)) {
       if (glossary[k]) {
@@ -1565,7 +1697,30 @@ router.get("/glossary", (req, res) => {
       }
     }
 
-    res.json({ lemma, entry });
+    // Cross-text fallback: if not found in active text, try other texts
+    if (!entry) {
+      const config = loadTextsConfig();
+      const activeTextId = _activeTextId;
+      for (const otherId of Object.keys(config)) {
+        if (otherId === activeTextId) continue;
+        const savedTextId = _activeTextId;
+        _activeTextId = otherId;
+        try {
+          const otherGlossary = loadGlossaryOrThrow();
+          for (const k of lemmaKeyVariants(lemma)) {
+            if (otherGlossary[k]) {
+              entry = { ...otherGlossary[k], fromText: otherId };
+              fromText = otherId;
+              break;
+            }
+          }
+        } catch {}
+        _activeTextId = savedTextId;
+        if (entry) break;
+      }
+    }
+
+    res.json({ lemma, entry, fromText });
   } catch (e) {
     res.status(500).json({ error: e?.message || "glossary error" });
   }
@@ -1592,10 +1747,11 @@ router.get("/health", (req, res) => {
 
 router.get("/chapterVocab", (req, res) => {
   try {
-    const ch = Number(req.query.chapter);
-    if (!Number.isFinite(ch)) {
-      return res.status(400).json({ error: "Missing or invalid ?chapter=" });
+    const chRaw = String(req.query.chapter || "").trim();
+    if (!chRaw) {
+      return res.status(400).json({ error: "Missing ?chapter=" });
     }
+    const ch = Number.isFinite(Number(chRaw)) ? Number(chRaw) : chRaw;
 
     const rawTargets = loadTargetsOrThrow();
     const glossary = loadGlossaryOrThrow();
@@ -1628,7 +1784,30 @@ router.get("/chapterVocab", (req, res) => {
           gloss_short: gloss,
         };
       })
-      .filter((t) => Number(t.chapter) === ch);
+      .filter((t) => String(t.chapter) === String(ch));
+
+    // If ?part= is specified, try to return part-level targets instead
+    const partRaw = req.query.part;
+    if (partRaw) {
+      const vocabPayload = pickAndRead(FILES.chapterVocab);
+      const byChapter = vocabPayload?.by_chapter || {};
+      const chData = byChapter[String(ch)] || byChapter[chRaw] || {};
+      const parts = chData.parts || {};
+      const partData = parts[String(partRaw)];
+      if (partData && Array.isArray(partData.targets)) {
+        // Enrich part targets with glossary data
+        const partEnriched = partData.targets.map((t) => {
+          let entry = null;
+          for (const k of lemmaKeyVariants(t.lemma)) {
+            if (glossary[k]) { entry = glossary[k]; break; }
+          }
+          const glosses = Array.isArray(entry?.glosses) ? entry.glosses : [];
+          const gloss = String(entry?.gloss_short || glosses[0] || "").trim();
+          return { ...t, dictionary_entry: String(entry?.dictionary_entry || "").trim(), glosses, gloss, gloss_short: gloss };
+        });
+        return res.json({ chapter: ch, part: Number(partRaw), targets: partEnriched });
+      }
+    }
 
     res.json({ chapter: ch, targets: enriched });
   } catch (e) {
@@ -1636,7 +1815,23 @@ router.get("/chapterVocab", (req, res) => {
   }
 });
 
+router.get("/parts", (req, res) => {
+  try {
+    const cfg = getTextConfig(_activeTextId);
+    const textDir = getTextDir(_activeTextId);
+    if (!textDir) return res.json({ parts: null });
 
+    // Try to load a parts file (e.g., pliny_parts.json)
+    const partsPath = path.join(textDir, `${cfg.dataDir}_parts.json`);
+    if (exists(partsPath)) {
+      const data = safeReadJson(partsPath);
+      return res.json({ parts: data });
+    }
+    res.json({ parts: null });
+  } catch (e) {
+    res.json({ parts: null });
+  }
+});
 
 
 //
@@ -2087,20 +2282,36 @@ router.get("/glossaryByForm", (req, res) => {
 
     const form = formRaw.toLowerCase();
     const idx = buildFormToLemmasIndex();
-    const lemmas = idx[form] || [];
+    let lemmas = idx[form] || [];
 
     const glossary = loadGlossaryOrThrow();
 
-    // Return all matching entries
-    const entries = lemmas
-      .map((l) => glossary[l])
-      .filter(Boolean);
+    let entries = lemmas.map((l) => glossary[l]).filter(Boolean);
 
-    res.json({
-      form: formRaw,
-      lemmas,
-      entries,
-    });
+    // Cross-text fallback if no entries found
+    if (!entries.length) {
+      const config = loadTextsConfig();
+      const activeTextId = _activeTextId;
+      for (const otherId of Object.keys(config)) {
+        if (otherId === activeTextId) continue;
+        const savedTextId = _activeTextId;
+        _activeTextId = otherId;
+        try {
+          const otherIdx = buildFormToLemmasIndex();
+          const otherLemmas = otherIdx[form] || [];
+          const otherGlossary = loadGlossaryOrThrow();
+          const otherEntries = otherLemmas.map((l) => otherGlossary[l]).filter(Boolean);
+          if (otherEntries.length) {
+            lemmas = otherLemmas;
+            entries = otherEntries.map((e) => ({ ...e, fromText: otherId }));
+          }
+        } catch {}
+        _activeTextId = savedTextId;
+        if (entries.length) break;
+      }
+    }
+
+    res.json({ form: formRaw, lemmas, entries });
   } catch (e) {
     res.status(500).json({ error: String(e?.message || e) });
   }
@@ -2108,29 +2319,40 @@ router.get("/glossaryByForm", (req, res) => {
 
 
 // --- Startup validation: ensure all lemma correction targets exist in glossary ---
-(function validateLemmaCorrections() {
+// --- Startup validation: validate lemma corrections for each registered text ---
+(function validateAllTexts() {
   try {
-    const corrections = loadLemmaCorrections();
-    const glossary = loadGlossaryOrThrow();
-    const targetLemmas = new Set(Object.values(corrections));
-    const missing = [];
-    for (const lemma of targetLemmas) {
-      const variants = lemmaKeyVariants(lemma);
-      const found = variants.some((k) => glossary[k]);
-      if (!found) missing.push(lemma);
+    const config = loadTextsConfig();
+    for (const textId of Object.keys(config)) {
+      _activeTextId = textId;
+      try {
+        const corrections = loadLemmaCorrections(textId);
+        if (!Object.keys(corrections).length) continue;
+        const glossary = loadGlossaryOrThrow();
+        const targetLemmas = new Set(Object.values(corrections));
+        const missing = [];
+        for (const lemma of targetLemmas) {
+          const variants = lemmaKeyVariants(lemma);
+          const found = variants.some((k) => glossary[k]);
+          if (!found) missing.push(lemma);
+        }
+        if (missing.length) {
+          console.warn(
+            `[text:${textId}] WARNING: lemma_corrections.json references ${missing.length} lemma(s) not in glossary:`,
+            missing
+          );
+        } else {
+          console.log(
+            `[text:${textId}] lemma_corrections.json validated: ${Object.keys(corrections).length} corrections, all target lemmas found in glossary.`
+          );
+        }
+      } catch (e) {
+        console.warn(`[text:${textId}] Could not validate lemma_corrections:`, e?.message || e);
+      }
     }
-    if (missing.length) {
-      console.warn(
-        `[caesar] WARNING: lemma_corrections.json references ${missing.length} lemma(s) not in glossary:`,
-        missing
-      );
-    } else if (Object.keys(corrections).length) {
-      console.log(
-        `[caesar] lemma_corrections.json validated: ${Object.keys(corrections).length} corrections, all target lemmas found in glossary.`
-      );
-    }
+    _activeTextId = "caesar"; // reset default
   } catch (e) {
-    console.warn(`[caesar] Could not validate lemma_corrections.json:`, e?.message || e);
+    console.warn(`[text] Could not load texts config:`, e?.message || e);
   }
 })();
 

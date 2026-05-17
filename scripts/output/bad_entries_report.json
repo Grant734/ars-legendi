@@ -1,0 +1,5356 @@
+{
+  "summary": {
+    "total_entries": 1658,
+    "caesar_core_skipped": 298,
+    "flagged": 263,
+    "by_issue": {
+      "POS_MISMATCH": 135,
+      "DIRTY_GLOSS": 103,
+      "STUB_GLOSS": 37,
+      "BOGUS_PP": 2
+    }
+  },
+  "entries": {
+    "absentio": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-are, 1",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "absento",
+          "pos": "noun"
+        },
+        "dictionary_entry": "absento -are, 1",
+        "glosses": [
+          "cause one to be absent"
+        ],
+        "normalized_lookup": "absento",
+        "source": "LewisShortPerseusXML",
+        "source_key": "absento"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "accedo": {
+      "issues": [
+        "POS_MISMATCH",
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-cessi, cessum, 3",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "accedo",
+          "pos": "noun"
+        },
+        "dictionary_entry": "accedo -cessi, cessum, 3",
+        "glosses": [
+          "go or come to or near",
+          "approach (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "accedo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "accurro": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-cucurri and curri, cursum, 3",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "accurro",
+          "pos": "noun"
+        },
+        "dictionary_entry": "accurro -cucurri and curri, cursum, 3",
+        "glosses": [
+          "run to a place",
+          "come to by running",
+          "hasten to."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "accurro"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "acriter": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "acriter",
+          "pos": "adv."
+        },
+        "dictionary_entry": "acriter",
+        "glosses": [
+          "sharply"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "acriter"
+      },
+      "upos_from_vocab": "ADV"
+    },
+    "adaequo": {
+      "issues": [
+        "POS_MISMATCH",
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-aui, atum, 1",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "adaequo",
+          "pos": "noun"
+        },
+        "dictionary_entry": "adaequo -aui, atum, 1",
+        "glosses": [
+          "Act."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "adaequo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "adequito": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-aui, atum, 1",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "adequito",
+          "pos": "noun"
+        },
+        "dictionary_entry": "adequito -aui, atum, 1",
+        "glosses": [
+          "or toward a place",
+          "gallop up to"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "adequito"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "adgredior": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "aggredior",
+            "aggrediorere",
+            "gressus",
+            null
+          ]
+        },
+        "dictionary_entry": "aggredior, aggrediorere, gressus",
+        "glosses": [
+          "go to or approach a person or thing (coinciding",
+          "both in signif"
+        ],
+        "normalized_lookup": "aggredior",
+        "source": "LewisShortPerseusXML",
+        "source_key": "aggredior"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "adorio": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "adorio",
+          "pos": "other"
+        },
+        "dictionary_entry": "adorio",
+        "glosses": [
+          "attack",
+          "assail : tunc ipsos adoriant",
+          "Naev"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "adorio"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "adpeto": {
+      "issues": [
+        "POS_MISMATCH",
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-Ritschl",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "appeto",
+          "pos": "noun"
+        },
+        "dictionary_entry": "appeto -Ritschl",
+        "glosses": [
+          "strive after a thing",
+          "try to get",
+          "grasp after (syn.: adfecto",
+          "nitor in aliquid)."
+        ],
+        "normalized_lookup": "appeto",
+        "source": "LewisShortPerseusXML",
+        "source_key": "appeto1"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "adsum": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "adsum",
+          "pos": "other"
+        },
+        "dictionary_entry": "adsum",
+        "glosses": [
+          "be at or near a person or place",
+          "be somewhere",
+          "be present (opp"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "adsum"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "aduersus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "aduersus",
+          "pos": "other"
+        },
+        "dictionary_entry": "aduersus",
+        "glosses": [
+          "turned toward",
+          "opposite",
+          "in front of",
+          "etc."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "adversus1"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "adulescentia": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": null,
+          "gen_sg": null,
+          "gender": "f",
+          "nom_sg": "adulescentia",
+          "pos": "noun"
+        },
+        "dictionary_entry": "adulescentia f.",
+        "glosses": [
+          "the 30th year",
+          "the time of youth",
+          "youth",
+          "= (cf"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "adulescentia"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "aemilium": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "forms": [
+            "aemilius",
+            "a,",
+            "um"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "aemilius, a,, um",
+        "glosses": [
+          "greatly distinguished for the illustrious men whom it furnished"
+        ],
+        "normalized_lookup": "Aemilius",
+        "source": "LewisShortPerseusXML",
+        "source_key": "Aemilius1"
+      },
+      "upos_from_vocab": "PROPN"
+    },
+    "aequo": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-aui, atum, 1",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "aequo",
+          "pos": "noun"
+        },
+        "dictionary_entry": "aequo -aui, atum, 1",
+        "glosses": [
+          "make one thing equal to another"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "aequo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "affero": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "affero",
+          "pos": "other"
+        },
+        "dictionary_entry": "affero",
+        "glosses": [
+          "to bring",
+          "convey a thing to",
+          "to betake one's self to a place",
+          "to go"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "affero"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "alacritas": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-atis",
+          "gen_sg": null,
+          "gender": "f",
+          "nom_sg": "alacritas",
+          "pos": "noun"
+        },
+        "dictionary_entry": "alacritas, -atis f.",
+        "glosses": [
+          "the condition or quality of alacer",
+          "liveliness",
+          "ardor",
+          "briskness"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "alacritas"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "alienus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "alienus",
+          "pos": "other"
+        },
+        "dictionary_entry": "alienus, -a, -um",
+        "glosses": [
+          "foreign"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "alienus"
+      },
+      "upos_from_vocab": "ADJ"
+    },
+    "amens": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "forms": [
+            "amens",
+            "mentis"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "amens, mentis",
+        "glosses": [
+          "insane"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "amens"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "ample": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "ample",
+          "pos": "other"
+        },
+        "dictionary_entry": "amplus, -a, -um",
+        "glosses": [
+          "great",
+          "ample"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "ample"
+      },
+      "upos_from_vocab": "ADV"
+    },
+    "annuus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "forms": [
+            "annuus",
+            "a,",
+            "um"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "annuus, a,, um",
+        "glosses": [
+          "annual"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "annuus"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "antea": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "antea",
+          "pos": "other"
+        },
+        "dictionary_entry": "antea",
+        "glosses": [
+          "present time"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "antea"
+      },
+      "upos_from_vocab": "ADV"
+    },
+    "ariouisto": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-i",
+          "gen_sg": null,
+          "gender": "m",
+          "nom_sg": "ariouistus",
+          "pos": "noun"
+        },
+        "dictionary_entry": "ariouistus, -i m.",
+        "glosses": [
+          "the king of a German tribe in the time of Cœsar"
+        ],
+        "normalized_lookup": "Ariouistus",
+        "source": "LewisShortPerseusXML",
+        "source_key": "Ariovistus"
+      },
+      "upos_from_vocab": "ADV"
+    },
+    "arroganter": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "arroganter",
+          "pos": "other"
+        },
+        "dictionary_entry": "arroganter",
+        "glosses": [
+          "To ask",
+          "inquire of one",
+          "to question",
+          "to add one officer to another"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "arroganter"
+      },
+      "upos_from_vocab": "ADV"
+    },
+    "arrogantia": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-ae",
+          "gen_sg": null,
+          "gender": "f",
+          "nom_sg": "arrogantia",
+          "pos": "noun"
+        },
+        "dictionary_entry": "arrogantia, -ae f.",
+        "glosses": [
+          "An assuming",
+          "presumption",
+          "arrogance",
+          "conceitedness (syn.: : : illud noli putare ad adrogantiam minuendam solum esse dictum"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "arrogantia"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "ascendo": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-scendi, scensum, 3",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "ascendo",
+          "pos": "noun"
+        },
+        "dictionary_entry": "ascendo -scendi, scensum, 3",
+        "glosses": [
+          "ascend",
+          "mount up",
+          "climb"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "ascendo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "ascensus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "ascensus",
+          "pos": "other"
+        },
+        "dictionary_entry": "ascensus",
+        "glosses": [
+          "none"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "ascensus1"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "at": {
+      "issues": [
+        "POS_MISMATCH",
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "at",
+          "pos": "other"
+        },
+        "dictionary_entry": "at",
+        "glosses": [
+          "but"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "at"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "audacia": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-ae",
+          "gen_sg": null,
+          "gender": "f",
+          "nom_sg": "audacia",
+          "pos": "noun"
+        },
+        "dictionary_entry": "audacia, -ae f.",
+        "glosses": [
+          "boldness",
+          "in a good",
+          "but oftener in a bad sense (syn.: fortitudo"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "audacia"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "auerto": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "auerto",
+          "pos": "other"
+        },
+        "dictionary_entry": "auerto",
+        "glosses": [
+          "turn something away from a place",
+          "avert",
+          "turn off",
+          "remove"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "averto"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "auido": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "forms": [
+            "auidus",
+            "a,",
+            "um"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "auidus, a,, um",
+        "glosses": [
+          "longing eagerly for something (either lawful or unlawful)",
+          "desirous",
+          "eager",
+          "earnest"
+        ],
+        "normalized_lookup": "auidus",
+        "source": "LewisShortPerseusXML",
+        "source_key": "avidus"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "barbo": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-i",
+          "gen_sg": null,
+          "gender": "m",
+          "nom_sg": "barbus",
+          "pos": "noun"
+        },
+        "dictionary_entry": "barbus, -i m.",
+        "glosses": [
+          "a barbel",
+          "a river barbel : and 134 (cf"
+        ],
+        "normalized_lookup": "barbus",
+        "source": "LewisShortPerseusXML",
+        "source_key": "barbus"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "bibracte": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-is",
+          "gen_sg": null,
+          "gender": "n",
+          "nom_sg": "bibracte",
+          "pos": "noun"
+        },
+        "dictionary_entry": "bibracte, -is n.",
+        "glosses": [
+          "the chief town of the Ædui",
+          "later Augustodunum",
+          "now Autun en Bourgogne"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "Bibracte"
+      },
+      "upos_from_vocab": "ADV"
+    },
+    "biduus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "forms": [
+            "biduus",
+            "a,",
+            "um"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "biduus, a,, um",
+        "glosses": [
+          "for two days"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "biduus"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "bos": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "bos",
+          "pos": "other"
+        },
+        "dictionary_entry": "bos",
+        "glosses": [
+          "the uncontracted form bovibus are entirely"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "bos"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "bracchio": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "bracchium",
+          "pos": "other"
+        },
+        "dictionary_entry": "bracchium",
+        "glosses": [
+          "the arm"
+        ],
+        "normalized_lookup": "bracchium",
+        "source": "LewisShortPerseusXML",
+        "source_key": "bracchium"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "cabo": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-i",
+          "gen_sg": null,
+          "gender": "m",
+          "nom_sg": "cabus",
+          "pos": "noun"
+        },
+        "dictionary_entry": "cabus, -i m.",
+        "glosses": [
+          "grain measure"
+        ],
+        "normalized_lookup": "cabus",
+        "source": "LewisShortPerseusXML",
+        "source_key": "cabus"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "caro": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "caro",
+          "pos": "other"
+        },
+        "dictionary_entry": "caro",
+        "glosses": [
+          "cart"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "caro1"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "cassianus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "cassianus",
+          "pos": "other"
+        },
+        "dictionary_entry": "cassianus",
+        "glosses": [
+          "Cassius"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "Cassianus"
+      },
+      "upos_from_vocab": "ADJ"
+    },
+    "celeriter": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "celeriter",
+          "pos": "adv."
+        },
+        "dictionary_entry": "celeriter",
+        "glosses": [
+          "quickly"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "celeriter"
+      },
+      "upos_from_vocab": "ADV"
+    },
+    "census": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "census",
+          "pos": "adjective"
+        },
+        "dictionary_entry": "census, -a, -um",
+        "glosses": [
+          "registered"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "census1"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "centurio": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "centurio",
+            "centurare",
+            "centuriaui",
+            "centuriatum"
+          ]
+        },
+        "dictionary_entry": "centurio, centurare, centuriaui, centuriatum",
+        "glosses": [
+          "divide into centuries (acc"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "centurio1"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "ceterus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "ceterus",
+          "pos": "other"
+        },
+        "dictionary_entry": "ceterus",
+        "glosses": [
+          "other"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "ceterus"
+      },
+      "upos_from_vocab": "ADJ"
+    },
+    "circinus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "circinus",
+          "pos": "other"
+        },
+        "dictionary_entry": "circinus",
+        "glosses": [
+          "a pair of compasses"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "circinus"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "circuitus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "circuitus",
+          "pos": "other"
+        },
+        "dictionary_entry": "circuitus, circuitus m.",
+        "glosses": [
+          "way round"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "circuitus1"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "circumdo": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "circumdo",
+          "pos": "other"
+        },
+        "dictionary_entry": "circumdo",
+        "glosses": [
+          "put around",
+          "set around",
+          "place around"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "circumdo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "citer": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "citer",
+          "pos": "other"
+        },
+        "dictionary_entry": "citer",
+        "glosses": [
+          "none"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "citer"
+      },
+      "upos_from_vocab": "ADJ"
+    },
+    "citrus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "citrus",
+          "pos": "other"
+        },
+        "dictionary_entry": "citrus",
+        "glosses": [
+          "an African tree (hence Atlantis silva)",
+          "and Massyla robora",
+          "whose very fragrant wood (v"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "citrus"
+      },
+      "upos_from_vocab": "ADJ"
+    },
+    "claudo": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "claudo",
+          "pos": "other"
+        },
+        "dictionary_entry": "claudo",
+        "glosses": [
+          "claudeo"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "claudo1"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "coemio": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "coemo",
+            "coemere",
+            "coememi",
+            "coememptum"
+          ]
+        },
+        "dictionary_entry": "coemo, coemere, coememi, coememptum",
+        "glosses": [
+          "purchase together",
+          "buy up (class.):"
+        ],
+        "normalized_lookup": "coemo",
+        "source": "LewisShortPerseusXML",
+        "source_key": "coemo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "collis": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "collis",
+          "pos": "other"
+        },
+        "dictionary_entry": "collis",
+        "glosses": [
+          "a hill"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "collis"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "comburo": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "comburo",
+          "pos": "verb"
+        },
+        "dictionary_entry": "comburo, comburere, combusi, combustus",
+        "glosses": [
+          "burn up",
+          "consume (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "comburo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "commeo": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-aui, atum, 1",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "commeo",
+          "pos": "noun"
+        },
+        "dictionary_entry": "commeo -aui, atum, 1",
+        "glosses": [
+          "go and come",
+          "pass to and fro : remeare redire",
+          "ut commeare ultro citroque ire",
+          "unde commeatus (leave of absence"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "commeo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "comminus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "comminus",
+          "pos": "adverb"
+        },
+        "dictionary_entry": "comminus",
+        "glosses": [
+          "hand to hand"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "comminus"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "commode": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "commode",
+          "pos": "other"
+        },
+        "dictionary_entry": "commode",
+        "glosses": [
+          "conveniently"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "commode"
+      },
+      "upos_from_vocab": "ADV"
+    },
+    "commonefacio": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "commonefacio",
+          "pos": "other"
+        },
+        "dictionary_entry": "commonefacio",
+        "glosses": [
+          "remind one forcibly (of something)",
+          "put in mind",
+          "admonish",
+          "impress upon (in good prose"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "commonefacio"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "comporto": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "comporto",
+            "comportare",
+            "comportaui",
+            "comportatum"
+          ]
+        },
+        "dictionary_entry": "comporto, comportare, comportaui, comportatum",
+        "glosses": [
+          "bear",
+          "carry",
+          "or bring together",
+          "collect (class.): : : : : :"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "comporto"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "concedo": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-cessi, cessum, 3",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "concedo",
+          "pos": "noun"
+        },
+        "dictionary_entry": "concedo -cessi, cessum, 3",
+        "glosses": [
+          "go",
+          "walk"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "concedo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "concido": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-cidi, 3",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "concido",
+          "pos": "noun"
+        },
+        "dictionary_entry": "concido -cidi, 3",
+        "glosses": [
+          "fall together",
+          "fall down",
+          "tumble to the ground (class"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "concido1"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "conduco": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-xi, ctum, 3",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "conduco",
+          "pos": "noun"
+        },
+        "dictionary_entry": "conduco -xi, ctum, 3",
+        "glosses": [
+          "draw",
+          "bring",
+          "or lead together",
+          "assemble"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "conduco"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "conquiro": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "conquiro",
+          "pos": "other"
+        },
+        "dictionary_entry": "conquiro",
+        "glosses": [
+          "seek or search for",
+          "procure",
+          "bring together",
+          "collect (class."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "conquiro"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "conscius": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "forms": [
+            "conscius",
+            "a,",
+            "um"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "conscius, a,, um",
+        "glosses": [
+          "that knows something in company with others or by himself",
+          "knowing with others or self-knowing (freq"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "conscius"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "consedio": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "consedo",
+          "pos": "other"
+        },
+        "dictionary_entry": "consedo",
+        "glosses": [
+          "still",
+          "allay",
+          "quiet"
+        ],
+        "normalized_lookup": "consedo",
+        "source": "LewisShortPerseusXML",
+        "source_key": "consedo1"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "consensus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "consensus",
+          "pos": "adjective"
+        },
+        "dictionary_entry": "consensus, a um",
+        "glosses": [
+          "agreed upon"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "consensus1"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "consequor": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "consequor",
+          "pos": "other"
+        },
+        "dictionary_entry": "consequor, consequi, consecutus sum",
+        "glosses": [
+          "follow"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "consequor"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "conspectus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "conspectus",
+          "pos": "adjective"
+        },
+        "dictionary_entry": "conspectus, a, um",
+        "glosses": [
+          "visible"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "conspectus1"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "conspicio": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-spexi, spectum, 3",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "conspicio",
+          "pos": "noun"
+        },
+        "dictionary_entry": "conspicio -spexi, spectum, 3",
+        "glosses": [
+          "look at attentively",
+          "get sight of",
+          "descry",
+          "perceive"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "conspicio1"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "consulo": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-lui, ltum, 3",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "consulo",
+          "pos": "noun"
+        },
+        "dictionary_entry": "consulo -lui, ltum, 3",
+        "glosses": [
+          "take counsel"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "consulo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "consumo": {
+      "issues": [
+        "BOGUS_PP"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "consumo",
+            "consumere",
+            "consumsumpsi",
+            "consumsumptum"
+          ]
+        },
+        "dictionary_entry": "consumo, consumere, consumsumpsi, consumsumptum",
+        "glosses": [
+          "take wholly or completely"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "consumo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "continenter": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "continenter",
+          "pos": "adv."
+        },
+        "dictionary_entry": "continenter",
+        "glosses": [
+          "continuously"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "continenter"
+      },
+      "upos_from_vocab": "ADV"
+    },
+    "contingo": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-tigi, tactum, 3",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "contingo",
+          "pos": "noun"
+        },
+        "dictionary_entry": "contingo -tigi, tactum, 3",
+        "glosses": [
+          "touch on all sides"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "contingo1"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "cotidianus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "cotidianus",
+          "pos": "other"
+        },
+        "dictionary_entry": "cotidianus",
+        "glosses": [
+          "cō^tīdĭānus",
+          "cŏtīdĭe",
+          "etc."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "cotidianus"
+      },
+      "upos_from_vocab": "ADJ"
+    },
+    "curo": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "curo",
+          "pos": "other"
+        },
+        "dictionary_entry": "curo",
+        "glosses": [
+          "care for",
+          "take or have care of",
+          "be solicitous for",
+          "look or attend to"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "curo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "decem": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "decem",
+          "pos": "other"
+        },
+        "dictionary_entry": "decem",
+        "glosses": [
+          "ten"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "decem"
+      },
+      "upos_from_vocab": "NUM"
+    },
+    "decerto": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-aui, atum, 1",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "decerto",
+          "pos": "noun"
+        },
+        "dictionary_entry": "decerto -aui, atum, 1",
+        "glosses": [
+          "go through a decisive contest",
+          "fight it out (but certare",
+          "fight",
+          "without reference to the result"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "decerto"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "decido": {
+      "issues": [
+        "POS_MISMATCH",
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-cidi, 3",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "decido",
+          "pos": "noun"
+        },
+        "dictionary_entry": "decido -cidi, 3",
+        "glosses": [
+          "fall off",
+          "fall down (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "decido1"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "decurio": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "decurio",
+            "decurare",
+            "decuriaui",
+            "decuriatum"
+          ]
+        },
+        "dictionary_entry": "decurio, decurare, decuriaui, decuriatum",
+        "glosses": [
+          "divide into squads of ten."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "decurio1"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "deduco": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "deduco",
+          "pos": "other"
+        },
+        "dictionary_entry": "deduco",
+        "glosses": [
+          "lead or bring away",
+          "lead",
+          "fetch",
+          "bring or draw down (for syn"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "deduco"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "deinde": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "deinde",
+          "pos": "other"
+        },
+        "dictionary_entry": "deinde",
+        "glosses": [
+          "the class"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "deinde"
+      },
+      "upos_from_vocab": "ADV"
+    },
+    "demum": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "demum",
+          "pos": "other"
+        },
+        "dictionary_entry": "demum",
+        "glosses": [
+          "at length",
+          "at last",
+          "not till then"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "demum"
+      },
+      "upos_from_vocab": "ADV"
+    },
+    "denique": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "denique",
+          "pos": "other"
+        },
+        "dictionary_entry": "denique",
+        "glosses": [
+          "the sequel ."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "denique"
+      },
+      "upos_from_vocab": "ADV"
+    },
+    "depopulo": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "depopulo",
+          "pos": "other"
+        },
+        "dictionary_entry": "depopulo, depopulare, depopulavi, depopulatus",
+        "glosses": [
+          "sack",
+          "plunder"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "depopulo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "desero": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "desero",
+          "pos": "other"
+        },
+        "dictionary_entry": "desero",
+        "glosses": [
+          "sow",
+          "plant : ."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "desero1"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "designo": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "designo",
+          "pos": "other"
+        },
+        "dictionary_entry": "designo",
+        "glosses": [
+          "mark out",
+          "trace out (freq"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "designo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "despero": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-aui, atum, 1",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "despero",
+          "pos": "noun"
+        },
+        "dictionary_entry": "despero -aui, atum, 1",
+        "glosses": [
+          "be hopeless"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "despero"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "despicio": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "despicio",
+            "despicere",
+            "despiciexi",
+            "despiciectum"
+          ]
+        },
+        "dictionary_entry": "despicio, despicere, despiciexi, despiciectum",
+        "glosses": [
+          "inf"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "despicio"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "desuper": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "desuper",
+          "pos": "other"
+        },
+        "dictionary_entry": "desuper",
+        "glosses": [
+          "the historians and poets"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "desuper"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "deterius": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "deterius",
+          "pos": "other"
+        },
+        "dictionary_entry": "deterius",
+        "glosses": [
+          "adv.",
+          "worse"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "deterius"
+      },
+      "upos_from_vocab": "ADJ"
+    },
+    "deus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "deus",
+          "pos": "other"
+        },
+        "dictionary_entry": "deus",
+        "glosses": [
+          "gleam: dyāus (Gr"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "deus"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "dexter": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "dexter",
+          "pos": "other"
+        },
+        "dictionary_entry": "dexter",
+        "glosses": [
+          "the right",
+          "on the right side",
+          "right (opp"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "dexter"
+      },
+      "upos_from_vocab": "ADJ"
+    },
+    "dispergo": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "dispergo",
+          "pos": "other"
+        },
+        "dictionary_entry": "dispergo, dispergere, dispersi, dispersus",
+        "glosses": [
+          "scatter on all sides",
+          "scatter about",
+          "disperse"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "dispergo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "dispono": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "dispono",
+          "pos": "other"
+        },
+        "dictionary_entry": "dispono, disponere, disposui, dispositus",
+        "glosses": [
+          "place here and there",
+          "set in different places",
+          "distribute regularly",
+          "dispose"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "dispono"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "diuo": {
+      "issues": [
+        "POS_MISMATCH",
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-i",
+          "gen_sg": null,
+          "gender": "m.",
+          "nom_sg": "diuus",
+          "pos": "noun"
+        },
+        "dictionary_entry": "diuus, -i m.",
+        "glosses": [
+          "god"
+        ],
+        "normalized_lookup": "diuus",
+        "source": "LewisShortPerseusXML",
+        "source_key": "divum"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "effero": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "effero",
+          "pos": "other"
+        },
+        "dictionary_entry": "effero",
+        "glosses": [
+          "bring or carry out",
+          "bring forth (very freq"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "effero1"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "ego": {
+      "issues": [
+        "POS_MISMATCH",
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "ego",
+          "pos": "other"
+        },
+        "dictionary_entry": "ego",
+        "glosses": [
+          "to"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "ego"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "egredior": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "egredior",
+            "egrediorere",
+            "gressus",
+            null
+          ]
+        },
+        "dictionary_entry": "egredior, egrediorere, gressus",
+        "glosses": [
+          "inf"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "egredior"
+      },
+      "upos_from_vocab": null
+    },
+    "egregius": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "egregius",
+          "pos": "other"
+        },
+        "dictionary_entry": "egregius",
+        "glosses": [
+          "the herd"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "egregius"
+      },
+      "upos_from_vocab": "ADJ"
+    },
+    "emeo": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "emeo",
+          "pos": "other"
+        },
+        "dictionary_entry": "emeo",
+        "glosses": [
+          "pass through",
+          "traverse : ."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "emeo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "exprimo": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "exprimo",
+            "exprimere",
+            "exprimpressi",
+            "exprimpressum"
+          ]
+        },
+        "dictionary_entry": "exprimo, exprimere, exprimpressi, exprimpressum",
+        "glosses": [
+          "press or squeeze out",
+          "force out (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "exprimo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "fabio": {
+      "issues": [
+        "POS_MISMATCH",
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "fabius",
+          "pos": "other"
+        },
+        "dictionary_entry": "fabius",
+        "glosses": [
+          "the name of a Roman gens",
+          "concerning which see -50"
+        ],
+        "normalized_lookup": "Fabius",
+        "source": "LewisShortPerseusXML",
+        "source_key": "Fabius"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "faciliter": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "faciliter",
+          "pos": "other"
+        },
+        "dictionary_entry": "faciliter",
+        "glosses": [
+          "easily"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "faciliter"
+      },
+      "upos_from_vocab": "ADV"
+    },
+    "factus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "factus",
+          "pos": "adjective"
+        },
+        "dictionary_entry": "factus, facta, factum",
+        "glosses": [
+          "thing made"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "factus1"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "familia": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "familia",
+          "pos": "other"
+        },
+        "dictionary_entry": "familia",
+        "glosses": [
+          "a temple:"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "familia"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "familiaris": {
+      "issues": [
+        "POS_MISMATCH",
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "familiaris",
+          "pos": "other"
+        },
+        "dictionary_entry": "familiaris",
+        "glosses": [
+          "abl"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "familiaris"
+      },
+      "upos_from_vocab": "ADJ"
+    },
+    "fas": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-indecl.",
+          "gen_sg": null,
+          "gender": "n",
+          "nom_sg": "fas",
+          "pos": "noun"
+        },
+        "dictionary_entry": "fas, -indecl. n.",
+        "glosses": [
+          "the relig"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "fas"
+      },
+      "upos_from_vocab": "ADJ"
+    },
+    "fatum": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "fatum",
+          "pos": "other"
+        },
+        "dictionary_entry": "fatum",
+        "glosses": [
+          "an utterance"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "fatum"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "filia": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "filia",
+          "pos": "other"
+        },
+        "dictionary_entry": "filia",
+        "glosses": [
+          "a daughter : : .—In apposition: :"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "filia"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "filius": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "filius",
+          "pos": "other"
+        },
+        "dictionary_entry": "filius",
+        "glosses": [
+          "give birth to (fe-o)",
+          "whence: fecundus",
+          "femina",
+          "felix"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "filius"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "finio": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "finio",
+            "finire",
+            "finiiui or ii",
+            "finiitum"
+          ]
+        },
+        "dictionary_entry": "finio, finire, finiiui or ii, finiitum",
+        "glosses": [
+          "limit",
+          "bound",
+          "enclose within boundaries (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "finio"
+      },
+      "upos_from_vocab": null
+    },
+    "finitus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "finitus",
+          "pos": "other"
+        },
+        "dictionary_entry": "finitus, finita, finitum",
+        "glosses": [
+          "utmost"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "finitus"
+      },
+      "upos_from_vocab": "ADJ"
+    },
+    "flaccus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "forms": [
+            "flaccus",
+            "a,",
+            "um"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "flaccus, a,, um",
+        "glosses": [
+          "flabby",
+          "hanging down."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "flaccus1"
+      },
+      "upos_from_vocab": "PROPN"
+    },
+    "fleo": {
+      "issues": [
+        "BOGUS_PP"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "fleo",
+            "fleere",
+            "flefleui",
+            "flefletum"
+          ]
+        },
+        "dictionary_entry": "fleo, fleere, flefleui, flefletum",
+        "glosses": [
+          "bubble up",
+          "etc."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "fleo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "fluo": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "fluo",
+            "fluere",
+            "fluxi",
+            "fluxum"
+          ]
+        },
+        "dictionary_entry": "fluo, fluere, fluxi, fluxum",
+        "glosses": [
+          "P."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "fluo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "fossa": {
+      "issues": [
+        "POS_MISMATCH",
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-ae",
+          "gen_sg": null,
+          "gender": "f",
+          "nom_sg": "fossa",
+          "pos": "noun"
+        },
+        "dictionary_entry": "fossa, -ae f.",
+        "glosses": [
+          "a ditch",
+          "trench",
+          "fosse (syn.: fovea",
+          "scrobs"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "fossa"
+      },
+      "upos_from_vocab": "ADJ"
+    },
+    "fugio": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "fugio",
+          "pos": "other"
+        },
+        "dictionary_entry": "fugio",
+        "glosses": [
+          "flee or fly",
+          "take flight",
+          "run away."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "fugio"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "furor": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "furor",
+            "furorare",
+            "atus",
+            null
+          ]
+        },
+        "dictionary_entry": "furor, furorare, atus",
+        "glosses": [
+          "steal",
+          "purloin",
+          "pilfer (syn.: latrocinor",
+          "clepo"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "furor1"
+      },
+      "upos_from_vocab": null
+    },
+    "futurus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "futurus",
+          "pos": "adjective"
+        },
+        "dictionary_entry": "futurus, futura, futurm",
+        "glosses": [
+          "future"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "futurus"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "gladius": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-ii",
+          "gen_sg": null,
+          "gender": "m",
+          "nom_sg": "gladius",
+          "pos": "noun"
+        },
+        "dictionary_entry": "gladius, -ii m.",
+        "glosses": [
+          "to"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "gladius"
+      },
+      "upos_from_vocab": null
+    },
+    "graioceli": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-orum",
+          "gen_sg": null,
+          "gender": "m",
+          "nom_sg": "graioceli",
+          "pos": "noun"
+        },
+        "dictionary_entry": "graioceli, -orum m.",
+        "glosses": [
+          "a Gallic tribe in the valleys of Mont Cenis",
+          "(others read Garoceli)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "Graioceli"
+      },
+      "upos_from_vocab": "ADV"
+    },
+    "hora": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "hora",
+          "pos": "other"
+        },
+        "dictionary_entry": "hora",
+        "glosses": [
+          "a definite space of time",
+          "fixed by natural laws"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "hora1"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "hospitio": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-ii",
+          "gen_sg": null,
+          "gender": "n",
+          "nom_sg": "hospitium",
+          "pos": "noun"
+        },
+        "dictionary_entry": "hospitium, -ii n.",
+        "glosses": [
+          "Hospitality (class.):"
+        ],
+        "normalized_lookup": "hospitium",
+        "source": "LewisShortPerseusXML",
+        "source_key": "hospitium"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "hospitus": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "hospitus",
+          "pos": "other"
+        },
+        "dictionary_entry": "hospitus",
+        "glosses": [
+          "fem"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "hospitus"
+      },
+      "upos_from_vocab": null
+    },
+    "hostius": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "hostius",
+          "pos": "other"
+        },
+        "dictionary_entry": "hostius",
+        "glosses": [
+          "a Roman gens",
+          "Gerl"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "Hostius"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "immortalis": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "forms": [
+            "immortalis",
+            "e"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "immortalis, e",
+        "glosses": [
+          "undying",
+          "immortal (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "immortalis"
+      },
+      "upos_from_vocab": null
+    },
+    "imperator": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "imperator",
+          "pos": "other"
+        },
+        "dictionary_entry": "imperator",
+        "glosses": [
+          "init"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "imperator"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "impetum": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "impetus",
+          "pos": "other"
+        },
+        "dictionary_entry": "impetus",
+        "glosses": [
+          "an attack",
+          "assault",
+          "onset (freq"
+        ],
+        "normalized_lookup": "impetus",
+        "source": "LewisShortPerseusXML",
+        "source_key": "impetus"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "improuiso": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "forms": [
+            "improuisus",
+            "a,",
+            "um"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "improuisus, a,, um",
+        "glosses": [
+          "not foreseen",
+          "unforeseen",
+          "unexpected (class.):"
+        ],
+        "normalized_lookup": "improuisus",
+        "source": "LewisShortPerseusXML",
+        "source_key": "improvisus"
+      },
+      "upos_from_vocab": null
+    },
+    "influo": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-xi, xum, 3",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "influo",
+          "pos": "noun"
+        },
+        "dictionary_entry": "influo -xi, xum, 3",
+        "glosses": [
+          "flow or run into."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "influo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "iniicio": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "iniicio",
+          "pos": "other"
+        },
+        "dictionary_entry": "iniicio",
+        "glosses": [
+          "injĭcĭo"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "injicio"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "insequor": {
+      "issues": [
+        "POS_MISMATCH",
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "insequor",
+          "pos": "other"
+        },
+        "dictionary_entry": "insequor",
+        "glosses": [
+          "follow",
+          "follow after or upon a person or thing (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "insequor"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "insto": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "insto",
+          "pos": "other"
+        },
+        "dictionary_entry": "insto",
+        "glosses": [
+          "stand in or upon a thing (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "insto"
+      },
+      "upos_from_vocab": null
+    },
+    "intercedo": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-cessi, cessum, 3",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "intercedo",
+          "pos": "noun"
+        },
+        "dictionary_entry": "intercedo -cessi, cessum, 3",
+        "glosses": [
+          "intervene",
+          "go or come between",
+          "be between (syn"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "intercedo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "interea": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "interea",
+          "pos": "other"
+        },
+        "dictionary_entry": "interea",
+        "glosses": [
+          "meanwhile"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "interea"
+      },
+      "upos_from_vocab": "ADV"
+    },
+    "interfacio": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "interfacio",
+          "pos": "other"
+        },
+        "dictionary_entry": "interfacio",
+        "glosses": [
+          "interfăcĭo",
+          "false reading for in perficiendo"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "interfacio"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "interpres": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-etis",
+          "gen_sg": null,
+          "gender": "c",
+          "nom_sg": "interpres",
+          "pos": "noun"
+        },
+        "dictionary_entry": "interpres, -etis c.",
+        "glosses": [
+          "a broker",
+          "factor",
+          "negotiator (class.): : :"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "interpres"
+      },
+      "upos_from_vocab": null
+    },
+    "intersum": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "intersum",
+          "pos": "other"
+        },
+        "dictionary_entry": "intersum",
+        "glosses": [
+          "be between",
+          "lie between (class."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "intersum"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "intueor": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "intueor",
+            "intueorere",
+            "itus",
+            null
+          ]
+        },
+        "dictionary_entry": "intueor, intueorere, itus",
+        "glosses": [
+          "look at",
+          "upon",
+          "or towards (syn.: adspicio",
+          "contemplor"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "intueor"
+      },
+      "upos_from_vocab": null
+    },
+    "inuo": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-i",
+          "gen_sg": null,
+          "gender": "m",
+          "nom_sg": "inuus",
+          "pos": "noun"
+        },
+        "dictionary_entry": "inuus, -i m.",
+        "glosses": [
+          "the herds"
+        ],
+        "normalized_lookup": "inuus",
+        "source": "LewisShortPerseusXML",
+        "source_key": "inuus"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "iuro": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-aui, atum, 1",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "iuro",
+          "pos": "noun"
+        },
+        "dictionary_entry": "iuro -aui, atum, 1",
+        "glosses": [
+          "swear",
+          "take an oath ."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "juro"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "iusso": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-i",
+          "gen_sg": null,
+          "gender": "n",
+          "nom_sg": "jussum",
+          "pos": "noun"
+        },
+        "dictionary_entry": "jussum, -i n.",
+        "glosses": [
+          "an order",
+          "command"
+        ],
+        "normalized_lookup": "jussum",
+        "source": "LewisShortPerseusXML",
+        "source_key": "jussum"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "laboro": {
+      "issues": [
+        "DIRTY_GLOSS",
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-aui, atum, 1",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "laboro",
+          "pos": "noun"
+        },
+        "dictionary_entry": "laboro -aui, atum, 1",
+        "glosses": [
+          "[2"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "laboro"
+      },
+      "upos_from_vocab": null
+    },
+    "lateo": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-ui, 2",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "lateo",
+          "pos": "noun"
+        },
+        "dictionary_entry": "lateo -ui, 2",
+        "glosses": [
+          "lurk",
+          "be or lie hid or concealed",
+          "skulk (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "lateo"
+      },
+      "upos_from_vocab": null
+    },
+    "latitudo": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-inis",
+          "gen_sg": null,
+          "gender": "f",
+          "nom_sg": "latitudo",
+          "pos": "noun"
+        },
+        "dictionary_entry": "latitudo, -inis f.",
+        "glosses": [
+          "breadth",
+          "width of any thing (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "latitudo"
+      },
+      "upos_from_vocab": null
+    },
+    "lex": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-legis",
+          "gen_sg": null,
+          "gender": "f",
+          "nom_sg": "lex",
+          "pos": "noun"
+        },
+        "dictionary_entry": "lex, -legis f.",
+        "glosses": [
+          "law"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "lex"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "magnitudo": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-inis",
+          "gen_sg": null,
+          "gender": "f",
+          "nom_sg": "magnitudo",
+          "pos": "noun"
+        },
+        "dictionary_entry": "magnitudo, -inis f.",
+        "glosses": [
+          "greatness",
+          "size",
+          "bulk",
+          "magnitude (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "magnitudo"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "maturo": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-aui, atum, 1",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "maturo",
+          "pos": "noun"
+        },
+        "dictionary_entry": "maturo -aui, atum, 1",
+        "glosses": [
+          "make ripe",
+          "ripen",
+          "bring to ma turity (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "maturo"
+      },
+      "upos_from_vocab": null
+    },
+    "medius": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "forms": [
+            "medius",
+            "a,",
+            "um"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "medius, a,, um",
+        "glosses": [
+          "the middle or midst",
+          "mid",
+          "middle (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "medius1"
+      },
+      "upos_from_vocab": "ADJ"
+    },
+    "misero": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "misero",
+            "miserare",
+            null,
+            null
+          ]
+        },
+        "dictionary_entry": "misero, miserare",
+        "glosses": [
+          "act"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "misero"
+      },
+      "upos_from_vocab": null
+    },
+    "mors": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-tis",
+          "gen_sg": null,
+          "gender": "f",
+          "nom_sg": "mors",
+          "pos": "noun"
+        },
+        "dictionary_entry": "mors, -tis f.",
+        "glosses": [
+          "death in every form",
+          "natural or violent (syn.: letum",
+          "nex)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "mors"
+      },
+      "upos_from_vocab": null
+    },
+    "munitio": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-onis",
+          "gen_sg": null,
+          "gender": "f",
+          "nom_sg": "munitio",
+          "pos": "noun"
+        },
+        "dictionary_entry": "munitio, -onis f.",
+        "glosses": [
+          "a defending",
+          "fortifying",
+          "protecting (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "munitio"
+      },
+      "upos_from_vocab": null
+    },
+    "nauus": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "forms": [
+            "nauus",
+            "a,",
+            "um"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "nauus, a,, um",
+        "glosses": [
+          "busy",
+          "diligent",
+          "assiduous",
+          "active (syn.: impiger"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "navus"
+      },
+      "upos_from_vocab": null
+    },
+    "nocturnus": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "forms": [
+            "nocturnus",
+            "a,",
+            "um"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "nocturnus, a,, um",
+        "glosses": [
+          "the night",
+          "nocturnal (class.):"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "nocturnus"
+      },
+      "upos_from_vocab": null
+    },
+    "nonaginta": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "nonaginta",
+          "pos": "other"
+        },
+        "dictionary_entry": "nonaginta",
+        "glosses": [
+          "num"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "nonaginta"
+      },
+      "upos_from_vocab": null
+    },
+    "nunc": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "nunc",
+          "pos": "other"
+        },
+        "dictionary_entry": "nunc",
+        "glosses": [
+          "the speaker or writer)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "nunc"
+      },
+      "upos_from_vocab": "ADV"
+    },
+    "obseruo": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "obseruo",
+            "obseruare",
+            "obseruaui",
+            "obseruatum"
+          ]
+        },
+        "dictionary_entry": "obseruo, obseruare, obseruaui, obseruatum",
+        "glosses": [
+          "fut"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "observo"
+      },
+      "upos_from_vocab": null
+    },
+    "offendo": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-di, sum, 3",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "offendo",
+          "pos": "noun"
+        },
+        "dictionary_entry": "offendo -di, sum, 3",
+        "glosses": [
+          "hit",
+          "thrust",
+          "strike",
+          "or dash against something (syn.: illido"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "offendo1"
+      },
+      "upos_from_vocab": null
+    },
+    "oppido": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "oppido",
+          "pos": "other"
+        },
+        "dictionary_entry": "oppido",
+        "glosses": [
+          "familiar discourse"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "oppido"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "oppugno": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "oppugno",
+          "pos": "other"
+        },
+        "dictionary_entry": "oppugno",
+        "glosses": [
+          "fight against",
+          "attack",
+          "assail",
+          "assault"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "oppugno1"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "pagus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "pagus",
+          "pos": "other"
+        },
+        "dictionary_entry": "pagus",
+        "glosses": [
+          "make fast or firm",
+          "whence pango",
+          "pax",
+          "pagina"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "pagus"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "par": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "par",
+          "pos": "other"
+        },
+        "dictionary_entry": "par",
+        "glosses": [
+          "P."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "par"
+      },
+      "upos_from_vocab": null
+    },
+    "pario": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-aui, atum, 1",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "pario",
+          "pos": "noun"
+        },
+        "dictionary_entry": "pario -aui, atum, 1",
+        "glosses": [
+          "Act."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "pario1"
+      },
+      "upos_from_vocab": null
+    },
+    "parue": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "parue",
+          "pos": "adjective"
+        },
+        "dictionary_entry": "parue, purua, puruum",
+        "glosses": [
+          "small"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "parve"
+      },
+      "upos_from_vocab": "ADV"
+    },
+    "perfacilis": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "forms": [
+            "perfacilis",
+            "e"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "perfacilis, e",
+        "glosses": [
+          "Very easy (class.): Madv"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "perfacilis"
+      },
+      "upos_from_vocab": null
+    },
+    "planities": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-ei",
+          "gen_sg": null,
+          "gender": "f",
+          "nom_sg": "planities",
+          "pos": "noun"
+        },
+        "dictionary_entry": "planities, -ei f.",
+        "glosses": [
+          "a flat or even surface",
+          "level ground",
+          "a plain (class.): : :"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "planities"
+      },
+      "upos_from_vocab": null
+    },
+    "pollicitus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "pollicitus",
+          "pos": "verb"
+        },
+        "dictionary_entry": "polliceor, polliceri, pollicitus sum",
+        "glosses": [
+          "promise"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "pollicitus"
+      },
+      "upos_from_vocab": "ADJ"
+    },
+    "possideo": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "possideo",
+            "possideere",
+            "possidesedi",
+            "possidesessum"
+          ]
+        },
+        "dictionary_entry": "possideo, possideere, possidesedi, possidesessum",
+        "glosses": [
+          "have and hold",
+          "be master of",
+          "own",
+          "possess (syn.: teneo"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "possideo"
+      },
+      "upos_from_vocab": null
+    },
+    "posterus": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "posterus",
+          "pos": "other"
+        },
+        "dictionary_entry": "posterus",
+        "glosses": [
+          "nom"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "posterus"
+      },
+      "upos_from_vocab": null
+    },
+    "postridie": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "postridie",
+          "pos": "other"
+        },
+        "dictionary_entry": "postridie",
+        "glosses": [
+          "the day after",
+          "the following or next day (class.)"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "postridie"
+      },
+      "upos_from_vocab": null
+    },
+    "praepono": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "praepono",
+            "praeponere",
+            "praeponposui",
+            "praeponpositum"
+          ]
+        },
+        "dictionary_entry": "praepono, praeponere, praeponposui, praeponpositum",
+        "glosses": [
+          "put or set before",
+          "place first (syn.: praefero",
+          "praeficio)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "praepono"
+      },
+      "upos_from_vocab": null
+    },
+    "praescribo": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "praescribo",
+            "praescribere",
+            "praescribpsi",
+            "praescribptum"
+          ]
+        },
+        "dictionary_entry": "praescribo, praescribere, praescribpsi, praescribptum",
+        "glosses": [
+          "write before",
+          "in front",
+          "or previously",
+          "prefix in writing (syn.: praefinio"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "praescribo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "praetereo": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "praetereo",
+          "pos": "other"
+        },
+        "dictionary_entry": "praetereo",
+        "glosses": [
+          "fut"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "praetereo"
+      },
+      "upos_from_vocab": null
+    },
+    "premo": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "premo",
+            "premere",
+            "premessi",
+            "premessum"
+          ]
+        },
+        "dictionary_entry": "premo, premere, premessi, premessum",
+        "glosses": [
+          "press (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "premo"
+      },
+      "upos_from_vocab": null
+    },
+    "pretium": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-ii",
+          "gen_sg": null,
+          "gender": "n",
+          "nom_sg": "pretium",
+          "pos": "noun"
+        },
+        "dictionary_entry": "pretium, -ii n.",
+        "glosses": [
+          "that for or by which any thing is bought or sold (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "pretium"
+      },
+      "upos_from_vocab": null
+    },
+    "primus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "primus",
+          "pos": "other"
+        },
+        "dictionary_entry": "primus",
+        "glosses": [
+          "the second",
+          "is prior"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "primus"
+      },
+      "upos_from_vocab": "ADJ"
+    },
+    "principatus": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-us",
+          "gen_sg": null,
+          "gender": "m",
+          "nom_sg": "principatus",
+          "pos": "noun"
+        },
+        "dictionary_entry": "principatus, -us m.",
+        "glosses": [
+          "the first place",
+          "pre-eminence",
+          "preference (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "principatus"
+      },
+      "upos_from_vocab": null
+    },
+    "procedo": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-cessi, cessum, 3",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "procedo",
+          "pos": "noun"
+        },
+        "dictionary_entry": "procedo -cessi, cessum, 3",
+        "glosses": [
+          "go forth or before",
+          "go forwards",
+          "advance",
+          "proceed (class."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "procedo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "progressus": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "progressus",
+          "pos": "other"
+        },
+        "dictionary_entry": "progressus",
+        "glosses": [
+          "P.a"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "progressus1"
+      },
+      "upos_from_vocab": null
+    },
+    "prope": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "prope",
+          "pos": "other"
+        },
+        "dictionary_entry": "prope",
+        "glosses": [
+          "Adv"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "prope"
+      },
+      "upos_from_vocab": null
+    },
+    "propinquus": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "forms": [
+            "propinquus",
+            "a,",
+            "um"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "propinquus, a,, um",
+        "glosses": [
+          "near",
+          "neighboring (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "propinquus"
+      },
+      "upos_from_vocab": null
+    },
+    "propulso": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "propulso",
+            "propulsare",
+            "propulsaui",
+            "propulsatum"
+          ]
+        },
+        "dictionary_entry": "propulso, propulsare, propulsaui, propulsatum",
+        "glosses": [
+          "drive back",
+          "keep or ward off",
+          "repel",
+          "repulse (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "propulso"
+      },
+      "upos_from_vocab": null
+    },
+    "purgo": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "purgo",
+            "purgare",
+            "purgaui",
+            "purgatum"
+          ]
+        },
+        "dictionary_entry": "purgo, purgare, purgaui, purgatum",
+        "glosses": [
+          "make clean or pure",
+          "clean",
+          "cleanse",
+          "purify (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "purgo"
+      },
+      "upos_from_vocab": null
+    },
+    "qualis": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "forms": [
+            "qualis",
+            "e"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "qualis, e",
+        "glosses": [
+          "a (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "qualis"
+      },
+      "upos_from_vocab": null
+    },
+    "quis": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "quis",
+          "pos": "other"
+        },
+        "dictionary_entry": "quis",
+        "glosses": [
+          "nom"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "quis1"
+      },
+      "upos_from_vocab": null
+    },
+    "quisquam": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "quisquam",
+          "pos": "other"
+        },
+        "dictionary_entry": "quisquam",
+        "glosses": [
+          "abl"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "quisquam"
+      },
+      "upos_from_vocab": null
+    },
+    "quot": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "quot",
+          "pos": "other"
+        },
+        "dictionary_entry": "quot",
+        "glosses": [
+          "adj"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "quot"
+      },
+      "upos_from_vocab": null
+    },
+    "quoto": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "forms": [
+            "quotus",
+            "a,",
+            "um"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "quotus, a,, um",
+        "glosses": [
+          "be"
+        ],
+        "normalized_lookup": "quotus",
+        "source": "LewisShortPerseusXML",
+        "source_key": "quotus"
+      },
+      "upos_from_vocab": null
+    },
+    "reddo": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "reddo",
+            "reddere",
+            "redddidi",
+            "reddditum"
+          ]
+        },
+        "dictionary_entry": "reddo, reddere, redddidi, reddditum",
+        "glosses": [
+          "to"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "reddo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "sedes": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "sedes",
+          "pos": "other"
+        },
+        "dictionary_entry": "sedes",
+        "glosses": [
+          "P.: Drak"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "sedes"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "semel": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "semel",
+          "pos": "other"
+        },
+        "dictionary_entry": "semel",
+        "glosses": [
+          "a single time : ter sub armis malim vitam cernere",
+          "Quam semel modo parere",
+          "Enn"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "semel"
+      },
+      "upos_from_vocab": "ADV"
+    },
+    "senatum": {
+      "issues": [
+        "POS_MISMATCH",
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "senatus",
+          "pos": "other"
+        },
+        "dictionary_entry": "senatus",
+        "glosses": [
+          "to"
+        ],
+        "normalized_lookup": "senatus",
+        "source": "LewisShortPerseusXML",
+        "source_key": "senatus"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "septentrio": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "noun",
+          "pos": "other"
+        },
+        "dictionary_entry": "septentrio, septentrionis, m.",
+        "glosses": [
+          "Big/Little Dipper"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "septentrio"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "seruilis": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "forms": [
+            "seruilis",
+            "e"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "seruilis, e",
+        "glosses": [
+          "a slave",
+          "slavish",
+          "servile (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "servilis"
+      },
+      "upos_from_vocab": null
+    },
+    "spiritus": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "spiritus",
+          "pos": "other"
+        },
+        "dictionary_entry": "spiritus",
+        "glosses": [
+          "a breathing or gentle blowing of air",
+          "a breath",
+          "breeze (syn.: aura",
+          "flatus)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "spiritus"
+      },
+      "upos_from_vocab": null
+    },
+    "superior": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "superior",
+          "pos": "comp adj"
+        },
+        "dictionary_entry": "superior, superior, superius",
+        "glosses": [
+          "far above"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "superior"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "suppeto": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-iui or ii, itum, 3",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "suppeto",
+          "pos": "noun"
+        },
+        "dictionary_entry": "suppeto -iui or ii, itum, 3",
+        "glosses": [
+          "one"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "suppeto"
+      },
+      "upos_from_vocab": null
+    },
+    "suspicor": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "suspicor",
+          "pos": "other"
+        },
+        "dictionary_entry": "suspicor",
+        "glosses": [
+          "mistrust",
+          "suspect (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "suspicor"
+      },
+      "upos_from_vocab": null
+    },
+    "taceo": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-cui, citum, 2",
+          "gen_sg": null,
+          "gender": null,
+          "nom_sg": "taceo",
+          "pos": "noun"
+        },
+        "dictionary_entry": "taceo -cui, citum, 2",
+        "glosses": [
+          "be or make quiet",
+          "content"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "taceo"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "terrenus": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "forms": [
+            "terrenus",
+            "a,",
+            "um"
+          ],
+          "pos": "adjective"
+        },
+        "dictionary_entry": "terrenus, a,, um",
+        "glosses": [
+          "Consisting of earth",
+          "earthy",
+          "earthen (class.)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "terrenus"
+      },
+      "upos_from_vocab": null
+    },
+    "tigurinus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "tigurinus",
+          "pos": "other"
+        },
+        "dictionary_entry": "tigurinus",
+        "glosses": [
+          "a district in Helvetia",
+          "perh"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "Tigurinus"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "totis": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "tot",
+          "pos": "other"
+        },
+        "dictionary_entry": "tot",
+        "glosses": [
+          "num"
+        ],
+        "normalized_lookup": "tot",
+        "source": "LewisShortPerseusXML",
+        "source_key": "tot"
+      },
+      "upos_from_vocab": null
+    },
+    "uia": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "uia",
+          "pos": "other"
+        },
+        "dictionary_entry": "uia",
+        "glosses": [
+          "a way",
+          "in the most general sense (for men",
+          "beasts",
+          "or carriages"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "via"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "uico": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-i",
+          "gen_sg": null,
+          "gender": "m",
+          "nom_sg": "uicus",
+          "pos": "noun"
+        },
+        "dictionary_entry": "uicus, -i m.",
+        "glosses": [
+          "a row of houses in town or country",
+          "a quarter of a city",
+          "a street"
+        ],
+        "normalized_lookup": "uicus",
+        "source": "LewisShortPerseusXML",
+        "source_key": "vicus"
+      },
+      "upos_from_vocab": "VERB"
+    },
+    "uisus": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "uisus",
+          "pos": "verb"
+        },
+        "dictionary_entry": "video, videre, vidi, visus",
+        "glosses": [
+          "see"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "visus1"
+      },
+      "upos_from_vocab": null
+    },
+    "ultimus": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "ultimus",
+          "pos": "other"
+        },
+        "dictionary_entry": "ultimus, ultima, ultimum",
+        "glosses": [
+          "ultimate",
+          "farthest"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "ultimus"
+      },
+      "upos_from_vocab": "ADJ"
+    },
+    "ultro": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "ultro",
+          "pos": "other"
+        },
+        "dictionary_entry": "ultro",
+        "glosses": [
+          "the farther side",
+          "beyond",
+          "on the other side."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "ultro"
+      },
+      "upos_from_vocab": "ADV"
+    },
+    "umquam": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "umquam",
+          "pos": "other"
+        },
+        "dictionary_entry": "umquam",
+        "glosses": [
+          "adv"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "umquam"
+      },
+      "upos_from_vocab": null
+    },
+    "unde": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "unde",
+          "pos": "other"
+        },
+        "dictionary_entry": "unde",
+        "glosses": [
+          "from which place",
+          "whence."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "unde"
+      },
+      "upos_from_vocab": "ADV"
+    },
+    "uoco": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "uoco",
+          "pos": "other"
+        },
+        "dictionary_entry": "uoco",
+        "glosses": [
+          "say"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "voco"
+      },
+      "upos_from_vocab": null
+    },
+    "uoluptas": {
+      "issues": [
+        "POS_MISMATCH"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "uoluptas",
+          "pos": "other"
+        },
+        "dictionary_entry": "uoluptas",
+        "glosses": [
+          "hope"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "voluptas"
+      },
+      "upos_from_vocab": "NOUN"
+    },
+    "usum": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "form": "usus",
+          "pos": "verb"
+        },
+        "dictionary_entry": "utor, uti, usus sum",
+        "glosses": [
+          "use"
+        ],
+        "normalized_lookup": "usus",
+        "source": "LewisShortPerseusXML",
+        "source_key": "usus1"
+      },
+      "upos_from_vocab": null
+    },
+    "uterus": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_abbrev": "-i",
+          "gen_sg": null,
+          "gender": "m",
+          "nom_sg": "uterus",
+          "pos": "noun"
+        },
+        "dictionary_entry": "uterus, -i m.",
+        "glosses": [
+          "to"
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "uterus"
+      },
+      "upos_from_vocab": null
+    },
+    "uulnero": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "verb",
+          "principal_parts": [
+            "uulnero",
+            "uulnerare",
+            "uulneraui",
+            "uulneratum"
+          ]
+        },
+        "dictionary_entry": "uulnero, uulnerare, uulneraui, uulneratum",
+        "glosses": [
+          "wound",
+          "hurt",
+          "or injure by a wound (syn.: saucio",
+          "ferio)."
+        ],
+        "source": "LewisShortPerseusXML",
+        "source_key": "vulnero"
+      },
+      "upos_from_vocab": null
+    },
+    "cc": {
+      "issues": [
+        "DIRTY_GLOSS",
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gender": "m",
+          "pos": "noun"
+        },
+        "dictionary_entry": "",
+        "glosses": [
+          "200"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "citerus": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "other"
+        },
+        "dictionary_entry": "cĭter, tra, trum (comp. citerior; sup. citimus; most freq. in comp.; in posit. only Cato ap. Prisc. pp. 589 and 999 P.; and Afran. ap. Prisc",
+        "glosses": [
+          "sup. cĭtĭmē, least, acc. to Prisc. p. 1016"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "coepis": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "other"
+        },
+        "dictionary_entry": "coepĭo, coepi, coeptum, 3 (the tempp. press. only a few times in the ante-class. period, and coepturus, Liv. 30, 5, 6; 42, 47, 3; Quint. 10",
+        "glosses": [
+          "1, 46"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "consuero": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "other"
+        },
+        "dictionary_entry": "con-vertor or -vortor, ti, acc. to Non. p. 480, dep. collat. form of converto; only in the line: sed fugam in se tamen nemo convortitur, Pla",
+        "glosses": [
+          "ut. Am. 1, 1, 83"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "denus": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "other"
+        },
+        "dictionary_entry": "denso, āvi, ātum, 1, and (less freq.) denseo, no perf., ētum, 2 (cf. Prisc. p. 837 P.; Charis. p. 233 ib. The MSS. often confound the two fo",
+        "glosses": [
+          "rms"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "egridio": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "conjugation": 4,
+          "deponent": true,
+          "infinitive": "egrediri",
+          "pos": "verb",
+          "principal_parts": "egredior, egrediri, gressus sum, 3 (inf. egredier, Plaut. Poen. 3, 32)"
+        },
+        "dictionary_entry": "egredior, egrediri, gressus sum, 3 (inf. egredier, Plaut. Poen. 3, 32)",
+        "glosses": [
+          "to go or come out, come forth (class.)."
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "equitas": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_sg": "us",
+          "gender": "m",
+          "nom_sg": "equitatus",
+          "pos": "noun"
+        },
+        "dictionary_entry": "ĕquĭtātus, ūs, m. id.. * In abstr., = equitatio",
+        "glosses": [
+          "a riding: atteri equitatu, Plin. 28, 15, 61"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "equitus": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_sg": "ii",
+          "gender": "n",
+          "nom_sg": "equitium",
+          "pos": "noun"
+        },
+        "dictionary_entry": "ĕquĭtĭum, ii, n. equus",
+        "glosses": [
+          "a stud of horses, Col. 6, 27, 1"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "frug": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "conjugation": 3,
+          "infinitive": "frugiere",
+          "pos": "verb",
+          "principal_parts": "frugi, frugiere"
+        },
+        "dictionary_entry": "frugi, frugiere",
+        "glosses": [
+          "B."
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "frumentaris": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_sg": "inis",
+          "gender": "n",
+          "nom_sg": "frumen",
+          "pos": "noun"
+        },
+        "dictionary_entry": "frūmen, ĭnis, n. fruor (post-class.). * A gruel or porridge made of corn, and used in sacrifices, Arn. 7, 230.— = λάρυγξ",
+        "glosses": [
+          "the larynx, throat, Don. Ter. Phorm. 2, 2"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "hux": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "other"
+        },
+        "dictionary_entry": "hīc, haec, hōc (gen. hujus, monosyl., Plaut. Am. prol. 51; 96; 1, 1, 115; dat. huïc, Sidon. Carm. 7, 145; Avien. Descr. Orb. 22; dat. sing.",
+        "glosses": [
+          "fem. hae rei, Cato, R. R. 14, 3"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "indiceo": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "conjugation": 3,
+          "infinitive": "indicere",
+          "pos": "verb",
+          "principal_parts": "indico, indicere, avi, atum, are"
+        },
+        "dictionary_entry": "indico, indicere, avi, atum, are",
+        "glosses": [
+          "to point out, indicate (class.). In gen., to"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "inuitor": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_sg": "us",
+          "gender": "m",
+          "nom_sg": "invitatus",
+          "pos": "noun"
+        },
+        "dictionary_entry": "invītātus, ūs, m. (only in abl. sing.) [invito]",
+        "glosses": [
+          "an inviting, invitation (rare), Cic. Fam. 7, 5"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "italis": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "conjugation": 3,
+          "infinitive": "italiaere",
+          "pos": "verb",
+          "principal_parts": "italia, italiaere, ae, f. for Vitalia from vitulus; cf. ιταλος, from the abundance and excellence of its cattle"
+        },
+        "dictionary_entry": "italia, italiaere, ae, f. for Vitalia from vitulus; cf. ιταλος, from the abundance and excellence of its cattle",
+        "glosses": [
+          "1, 6, 3"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "iussisto": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_sg": "idis",
+          "gender": "f",
+          "nom_sg": "iulis",
+          "pos": "noun"
+        },
+        "dictionary_entry": "ĭūlis, ĭdis, f., = ἰουλίς",
+        "glosses": [
+          "a kind of rockfish, Plin. 32, 9, 31"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "latobrigus": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_sg": "f.",
+          "gender": "f",
+          "nom_sg": "lactoris",
+          "pos": "noun"
+        },
+        "dictionary_entry": "lactŏris, f. lac",
+        "glosses": [
+          "a kind of milky plant, Plin. 24, 18"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "laturus": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "conjugation": 3,
+          "infinitive": "ferere",
+          "note": "Future active participle; lemma 'laturus' treated as verb.",
+          "pos": "verb",
+          "principal_parts": "fero, ferere, ferre, tuli, latum"
+        },
+        "dictionary_entry": "fero, ferere, ferre, tuli, latum",
+        "glosses": [
+          "to bring/carry; about to bring",
+          "30, 16"
+        ],
+        "source": "ls_perseus+context; participle-as-verb override"
+      },
+      "upos_from_vocab": null
+    },
+    "menses": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "other"
+        },
+        "dictionary_entry": "mens, mentis (nom. sing. mentis: terra corpus est, at mentis ignis est, Enn. ap. Prisc. p. 764 P.; so too, istic est de sole sumptus; isque",
+        "glosses": [
+          "cf. Enn. p. 168, v. 6 and 7"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "milis": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "adverb"
+        },
+        "dictionary_entry": "millĭes or mīlĭes (milliens or mi-liens), adv. id.",
+        "glosses": [
+          "a thousand times (class.): quinquies millies, Plin. 2"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "mouio": {
+      "issues": [
+        "STUB_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "conjugation": 1,
+          "infinitive": "moveare",
+          "pos": "verb",
+          "principal_parts": "moveo, moveare, movi, motum, 2 (sync., mostis for movistis, Mart. 3, 67, 1; morunt for moverunt, Sil. 14, 141)"
+        },
+        "dictionary_entry": "moveo, moveare, movi, motum, 2 (sync., mostis for movistis, Mart. 3, 67, 1; morunt for moverunt, Sil. 14, 141)",
+        "glosses": [
+          "on"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "occupatoqus": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_sg": "onis",
+          "gender": "f",
+          "nom_sg": "occupatio",
+          "pos": "noun"
+        },
+        "dictionary_entry": "occŭpātĭo, ōnis, f. occupo",
+        "glosses": [
+          "a seizing, occupying (class.). Lit. (very rare): fori"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "pae": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "adverb"
+        },
+        "dictionary_entry": "paene (less correctly pēne), adv. etym. dub., nearly, almost, as I may say (class.): fores paene effregisti, Plaut. Bacch. 4, 2, 4; id. Am.",
+        "glosses": [
+          "4, 2, 6"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "paratissimam": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_sg": "ae",
+          "gender": "f",
+          "nom_sg": "parasita",
+          "pos": "noun"
+        },
+        "dictionary_entry": "părăsīta, ae, f. parasitus",
+        "glosses": [
+          "a female parasite: ciniflones, parasitae, Hor. S. 1"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "persolueo": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "other"
+        },
+        "dictionary_entry": "persŏlūta",
+        "glosses": [
+          "a corrupt read. for pesoluta, Plin. 21, 33"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "poltulo": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "conjugation": 1,
+          "infinitive": "postulare",
+          "pos": "verb",
+          "principal_parts": "postulo, postulare, avi, atum"
+        },
+        "dictionary_entry": "postulo, postulare, avi, atum",
+        "glosses": [
+          "to ask, demand, require, request, desire (syn.: posco"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "postridio": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "adverb"
+        },
+        "dictionary_entry": "postrīdĭē (ante-class. collat. form po-strīdŭo, Plaut. Mil. 4, 2, 90), adv. loc. form from posterus and die, on the day after",
+        "glosses": [
+          "the following or next day (class.), Cic. Phil."
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "principibus": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "fem_nom_sg": "e",
+          "masc_nom_sg": "principalis",
+          "neut_nom_sg": "adj",
+          "pos": "adjective"
+        },
+        "dictionary_entry": "princĭpālis, e, adj. princeps. In gen., first, original, primitive (class.): causae, Cic. Fat. 5, 9: est igitur tropus sermo a naturali et p",
+        "glosses": [
+          "rincipali significatione translatus ad aliam, Quint. 9, 1"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "principis": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "fem_nom_sg": "e",
+          "masc_nom_sg": "principalis",
+          "neut_nom_sg": "adj",
+          "pos": "adjective"
+        },
+        "dictionary_entry": "princĭpālis, e, adj. princeps. In gen., first, original, primitive (class.): causae, Cic. Fat. 5, 9: est igitur tropus sermo a naturali et p",
+        "glosses": [
+          "rincipali significatione translatus ad aliam, Quint. 9, 1"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "querio": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "conjunction"
+        },
+        "dictionary_entry": "quĕ (lengthened in arsis by the poets, like the Gr. τε: Faunique Satyrique, Ov. M. 1, 193; 4, 10; 5, 484; Verg. A. 3, 91 al.), conj. encliti",
+        "glosses": [
+          "and in archaic formulae: potes pollesque, Liv. 1"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "reliquas": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "conjugation": 3,
+          "infinitive": "reliquusere",
+          "pos": "verb",
+          "principal_parts": "reliquus, reliquusere, rell-, -qus"
+        },
+        "dictionary_entry": "reliquus, reliquusere, rell-, -qus",
+        "glosses": [
+          "and with this cf. Sall. H. Fragm. 1"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "repullo": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_sg": "onis",
+          "gender": "f",
+          "nom_sg": "repulsio",
+          "pos": "noun"
+        },
+        "dictionary_entry": "rĕpulsĭo, ōnis, f. repello. Lit.",
+        "glosses": [
+          "a repelling, resistance: violentiae per vim, Isid. 5"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "semeo": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_sg": "inis",
+          "gender": "n",
+          "nom_sg": "semen",
+          "pos": "noun"
+        },
+        "dictionary_entry": "sēmen, ĭnis, n. root sa-, sē-; cf.: sero, sevi; Saturnus, sator, etc.. Seed. Of plants, Cato, R. R. 17; 27; 31 fin.; 34; Varr. R. R. 1, 40 s",
+        "glosses": [
+          "q.: semen manu spargere, Cic. Rosc. Am. 18"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "sequanis": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_sg": "ae",
+          "gender": "f",
+          "nom_sg": "Sequana",
+          "pos": "noun"
+        },
+        "dictionary_entry": "Sēquăna, ae, f., one of the principal rivers of Gallia Celtica",
+        "glosses": [
+          "the Seine, Caes. B. G. 1, 1"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "sequanisquusqui": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_sg": "ae",
+          "gender": "f",
+          "nom_sg": "Sequana",
+          "pos": "noun"
+        },
+        "dictionary_entry": "Sēquăna, ae, f., one of the principal rivers of Gallia Celtica",
+        "glosses": [
+          "the Seine, Caes. B. G. 1, 1"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "siluas": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_sg": "(less",
+          "gender": "f",
+          "nom_sg": "silva",
+          "pos": "noun"
+        },
+        "dictionary_entry": "silva (less correctly sylva), ae (old gen. silvaï; silua as trisyl., Hor. C. 1, 23, 4; id. Epod. 13, 2; cf. Prisc. p. 546 P.), f. cf. Gr. ὕλ",
+        "glosses": [
+          "η,, a wood, forest, woodland (syn.: saltus, nemus"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "siluum": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_sg": "(less",
+          "gender": "f",
+          "nom_sg": "silva",
+          "pos": "noun"
+        },
+        "dictionary_entry": "silva (less correctly sylva), ae (old gen. silvaï; silua as trisyl., Hor. C. 1, 23, 4; id. Epod. 13, 2; cf. Prisc. p. 546 P.), f. cf. Gr. ὕλ",
+        "glosses": [
+          "η,, a wood, forest, woodland (syn.: saltus, nemus"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "subministro": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "conjugation": 1,
+          "infinitive": "sumministrare",
+          "pos": "verb",
+          "principal_parts": "sumministro, sumministrare, avi, atum"
+        },
+        "dictionary_entry": "sumministro, sumministrare, avi, atum",
+        "glosses": [
+          "to give, furnish, afford, supply (class.). Lit.: pecuniam"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "sueba": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_sg": "es",
+          "gender": "f",
+          "nom_sg": "Sue",
+          "pos": "noun"
+        },
+        "dictionary_entry": "Suē, ēs, f.",
+        "glosses": [
+          "a town in Assyria, Plin. 6, 26, 30"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "summaqus": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "conjugation": 1,
+          "infinitive": "summaare",
+          "pos": "verb",
+          "principal_parts": "summa, summaare, ae, f. (sc. res; old gen. summai, Lucr. 1, 984; 6, 679) [summus"
+        },
+        "dictionary_entry": "summa, summaare, ae, f. (sc. res; old gen. summai, Lucr. 1, 984; 6, 679) [summus",
+        "glosses": [
+          "cf.: haec belli summa nefandi, Verg. A. 12"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "supserfuo": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "conjugation": 3,
+          "infinitive": "superfundere",
+          "pos": "verb",
+          "principal_parts": "superfundo, superfundere, fudi, fusum"
+        },
+        "dictionary_entry": "superfundo, superfundere, fudi, fusum",
+        "glosses": [
+          "composueris, oleum superfundito, Col. 12, 57, 1"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "suspicium": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "conjugation": 3,
+          "infinitive": "suspicere",
+          "pos": "verb",
+          "principal_parts": "suspicio, suspicere, spexi, spectum"
+        },
+        "dictionary_entry": "suspicio, suspicere, spexi, spectum",
+        "glosses": [
+          "that excites suspicion. Of persons, Plaut. Bacch. 4"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "teuto": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_sg": "orum",
+          "gender": "m",
+          "nom_sg": "Teutoni",
+          "pos": "noun"
+        },
+        "dictionary_entry": "Teutŏni, ōrum (collat. form Teutŏ-nes, um, Caes. B. G. 7, 77 fin.; Vell. 2, 12, 4; Aur. Vict. Vir. Ill. 67; Eutr. 5, 1 sq.), m.",
+        "glosses": [
+          "the Teutons, a people of Germany, Mel. 3"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "teuton": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_sg": "orum",
+          "gender": "m",
+          "nom_sg": "Teutoni",
+          "pos": "noun"
+        },
+        "dictionary_entry": "Teutŏni, ōrum (collat. form Teutŏ-nes, um, Caes. B. G. 7, 77 fin.; Vell. 2, 12, 4; Aur. Vict. Vir. Ill. 67; Eutr. 5, 1 sq.), m.",
+        "glosses": [
+          "the Teutons, a people of Germany, Mel. 3"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "troucillum": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_sg": "(trullium)",
+          "gender": "n",
+          "nom_sg": "trulleum",
+          "pos": "noun"
+        },
+        "dictionary_entry": "trullĕum (trullĭum), i, n. trulla",
+        "glosses": [
+          "a basin, wash-basin, Varr. L. L. 5, 25"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "uerbigenus": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "other"
+        },
+        "dictionary_entry": "verbĕrĕus",
+        "glosses": [
+          "also called statua, id. Capt. 5, 1, 31"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "uido": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_sg": "vis",
+          "gender": "f",
+          "nom_sg": "vis",
+          "pos": "noun"
+        },
+        "dictionary_entry": "vīs, vis, f., plur. vīres, ĭum (class. only in nom., acc. and abl. sing. and in plur.; gen. sing. very rare; Tac. Or. 26; Dig. 4, 2, 1; Paul",
+        "glosses": [
+          ". Sent. 5, 30"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "xiiii": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "gen_sg": "ae",
+          "gender": "f",
+          "nom_sg": "apoplexia",
+          "pos": "noun"
+        },
+        "dictionary_entry": "ăpŏplēxĭa, ae, or -xis, is, f., = ἀποπληξια or ἀπόπληξις, med. t., apoplexy; form apoplexia, Cael. Aur. Acut. 3, 5.—Form apoplexis, Tert. An",
+        "glosses": [
+          "im. 53"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "xx": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "adjective"
+        },
+        "dictionary_entry": "vīginti (or XX.), num. adj. Sanscr. vicati; Gr. εἴκοσι; Boeot. ϝίκατι, twenty: viginti jam usu'st filio argenti minis, Plaut. As. 1, 1, 76:",
+        "glosses": [
+          "si viginti quiessem dies, Cic. Planc. 37, 90"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "xxiiius": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "adjective"
+        },
+        "dictionary_entry": "vīginti (or XX.), num. adj. Sanscr. vicati; Gr. εἴκοσι; Boeot. ϝίκατι, twenty: viginti jam usu'st filio argenti minis, Plaut. As. 1, 1, 76:",
+        "glosses": [
+          "si viginti quiessem dies, Cic. Planc. 37, 90"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "xxiius": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "adjective"
+        },
+        "dictionary_entry": "vīginti (or XX.), num. adj. Sanscr. vicati; Gr. εἴκοσι; Boeot. ϝίκατι, twenty: viginti jam usu'st filio argenti minis, Plaut. As. 1, 1, 76:",
+        "glosses": [
+          "si viginti quiessem dies, Cic. Planc. 37, 90"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "xxxii": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "adjective"
+        },
+        "dictionary_entry": "vīginti (or XX.), num. adj. Sanscr. vicati; Gr. εἴκοσι; Boeot. ϝίκατι, twenty: viginti jam usu'st filio argenti minis, Plaut. As. 1, 1, 76:",
+        "glosses": [
+          "si viginti quiessem dies, Cic. Planc. 37, 90"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    },
+    "xxxui": {
+      "issues": [
+        "DIRTY_GLOSS"
+      ],
+      "current": {
+        "dictionary": {
+          "pos": "adjective"
+        },
+        "dictionary_entry": "vīginti (or XX.), num. adj. Sanscr. vicati; Gr. εἴκοσι; Boeot. ϝίκατι, twenty: viginti jam usu'st filio argenti minis, Plaut. As. 1, 1, 76:",
+        "glosses": [
+          "si viginti quiessem dies, Cic. Planc. 37, 90"
+        ],
+        "source": "ls_perseus+context"
+      },
+      "upos_from_vocab": null
+    }
+  }
+}

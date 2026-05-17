@@ -1,0 +1,5062 @@
+{
+  "summary": {
+    "auto": 3,
+    "review": 309,
+    "skip": 24
+  },
+  "auto": {
+    "quam|qui": "quam",
+    "quod|qui": "quod",
+    "conloquium|conloqui": "conloquium"
+  },
+  "review": [
+    {
+      "form": "castris",
+      "stanza_lemma": "castr",
+      "proposed_target": "castra",
+      "occurrences": 24,
+      "whitakers_options": [
+        "castra (N)",
+        "castr.is (N)",
+        "castr.is (N)",
+        "castr.is (N)",
+        "castr.is (N)"
+      ],
+      "unique_pos_lemmas": [
+        "castra",
+        "castris"
+      ],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "helvetii",
+      "stanza_lemma": "helvetium",
+      "proposed_target": "heluetius",
+      "occurrences": 22,
+      "whitakers_options": [
+        "helvetius (N)",
+        "helvetius (ADJ)",
+        "helveti.i (N)",
+        "helveti.i (N)",
+        "helveti.i (N)"
+      ],
+      "unique_pos_lemmas": [
+        "heluetii",
+        "heluetius"
+      ],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "milia",
+      "stanza_lemma": "milius",
+      "proposed_target": "mille",
+      "occurrences": 15,
+      "whitakers_options": [
+        "mille (N)",
+        "mili.a (N)",
+        "mili.a (N)",
+        "mili.a (N)",
+        "milium (N)"
+      ],
+      "unique_pos_lemmas": [
+        "milia",
+        "milium",
+        "mille"
+      ],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "helvetios",
+      "stanza_lemma": "helvetio",
+      "proposed_target": "heluetius",
+      "occurrences": 14,
+      "whitakers_options": [
+        "helvetius (N)",
+        "helvetius (ADJ)",
+        "helveti.os (N)",
+        "helveti.os (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "heluetios",
+        "heluetius"
+      ],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "minus",
+      "stanza_lemma": "parue",
+      "proposed_target": "paruus",
+      "occurrences": 14,
+      "whitakers_options": [
+        "parvus (ADJ)",
+        "minus (ADV)",
+        "minus (ADV)",
+        "parum (ADV)",
+        "min.us (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "minus",
+        "parum"
+      ],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "hostium",
+      "stanza_lemma": "hostius",
+      "proposed_target": "hostis",
+      "occurrences": 14,
+      "whitakers_options": [
+        "hostis (N)",
+        "hosti.um (N)",
+        "hostia (N)",
+        "host.ium (N)"
+      ],
+      "unique_pos_lemmas": [
+        "hostia",
+        "hostis",
+        "hostium"
+      ],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "helvetiorum",
+      "stanza_lemma": "helvetio",
+      "proposed_target": "heluetius",
+      "occurrences": 13,
+      "whitakers_options": [
+        "helvetius (N)",
+        "helvetius (ADJ)",
+        "helveti.orum (N)",
+        "helveti.orum (ADJ)",
+        "helveti.orum (ADJ)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "copias",
+      "stanza_lemma": "copus",
+      "proposed_target": "copia",
+      "occurrences": 13,
+      "whitakers_options": [
+        "copia (N)",
+        "copi.as (N)"
+      ],
+      "unique_pos_lemmas": [
+        "copia",
+        "copias"
+      ],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "itinere",
+      "stanza_lemma": "itinum",
+      "proposed_target": "iter",
+      "occurrences": 11,
+      "whitakers_options": [
+        "iter (N)",
+        "itiner.e (N)",
+        "itiner.e (N)",
+        "itiner.e (N)",
+        "itiner (N)"
+      ],
+      "unique_pos_lemmas": [
+        "iter",
+        "itiner",
+        "itinere"
+      ],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "hostes",
+      "stanza_lemma": "hoss",
+      "proposed_target": "hostis",
+      "occurrences": 11,
+      "whitakers_options": [
+        "hostis (N)",
+        "host.es (N)",
+        "host.es (N)",
+        "host.es (N)"
+      ],
+      "unique_pos_lemmas": [
+        "hostes",
+        "hostis"
+      ],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "gallorum",
+      "stanza_lemma": "gallum",
+      "proposed_target": "gallus",
+      "occurrences": 9,
+      "whitakers_options": [
+        "gallus (N)",
+        "gallus (N)",
+        "gallus (ADJ)",
+        "gall.orum (N)",
+        "gall.orum (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "gallorum",
+        "gallus"
+      ],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "germani",
+      "stanza_lemma": "germanis",
+      "proposed_target": "germanus",
+      "occurrences": 9,
+      "whitakers_options": [
+        "germanus (ADJ)",
+        "germanus (N)",
+        "germanus (N)",
+        "german.i (ADJ)",
+        "german.i (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "germani",
+        "germanus"
+      ],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "caesari",
+      "stanza_lemma": "caeso",
+      "proposed_target": "caesar",
+      "occurrences": 8,
+      "whitakers_options": [
+        "caesar (N)",
+        "caesar.i (N)",
+        "caesar.i (N)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "haedui",
+      "stanza_lemma": "haedus",
+      "proposed_target": "haeduus",
+      "occurrences": 8,
+      "whitakers_options": [
+        "haeduus (N)",
+        "haedu.i (N)",
+        "haedu.i (N)",
+        "haedu.i (N)",
+        "haedu.i (N)"
+      ],
+      "unique_pos_lemmas": [
+        "haedui",
+        "haeduus"
+      ],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "caesarem",
+      "stanza_lemma": "caesaris",
+      "proposed_target": "caesar",
+      "occurrences": 8,
+      "whitakers_options": [
+        "caesar (N)",
+        "caesar.em (N)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "vellet",
+      "stanza_lemma": "velleo",
+      "proposed_target": "uolo",
+      "occurrences": 6,
+      "whitakers_options": [
+        "volo (V)",
+        "vell.et (V)",
+        "vello (V)",
+        "vello (V)",
+        "vello (V)"
+      ],
+      "unique_pos_lemmas": [
+        "uellet",
+        "uello",
+        "uolo"
+      ],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "milium",
+      "stanza_lemma": "milius",
+      "proposed_target": "mille",
+      "occurrences": 6,
+      "whitakers_options": [
+        "mille (N)",
+        "mili.um (N)",
+        "mili.um (N)",
+        "mili.um (N)",
+        "mili.um (N)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "equitatu",
+      "stanza_lemma": "equitas",
+      "proposed_target": "equitatus",
+      "occurrences": 6,
+      "whitakers_options": [
+        "equitatus (N)",
+        "equitat.u (N)",
+        "equitat.u (N)",
+        "equito (V)"
+      ],
+      "unique_pos_lemmas": [
+        "equitatu",
+        "equitatus"
+      ],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "gallis",
+      "stanza_lemma": "galla",
+      "proposed_target": "gallus",
+      "occurrences": 6,
+      "whitakers_options": [
+        "gallus (N)",
+        "gallus (N)",
+        "gallus (ADJ)",
+        "gall.is (N)",
+        "gall.is (N)"
+      ],
+      "unique_pos_lemmas": [
+        "gallis",
+        "gallus"
+      ],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "copiis",
+      "stanza_lemma": "copius",
+      "proposed_target": "copia",
+      "occurrences": 5,
+      "whitakers_options": [
+        "copia (N)",
+        "copi.is (N)",
+        "copi.is (N)",
+        "copi.is (N)"
+      ],
+      "unique_pos_lemmas": [
+        "copia",
+        "copiis"
+      ],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "agris",
+      "stanza_lemma": "agr",
+      "proposed_target": "ager",
+      "occurrences": 5,
+      "whitakers_options": [
+        "ager (N)",
+        "agr.is (N)",
+        "agr.is (N)",
+        "agr.is (N)"
+      ],
+      "unique_pos_lemmas": [
+        "ager",
+        "agris"
+      ],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "itineribus",
+      "stanza_lemma": "itieer",
+      "proposed_target": "iter",
+      "occurrences": 5,
+      "whitakers_options": [
+        "iter (N)",
+        "itiner.ibus (N)",
+        "itiner.ibus (N)",
+        "itiner.ibus (N)",
+        "itiner (N)"
+      ],
+      "unique_pos_lemmas": [
+        "iter",
+        "itiner",
+        "itineribus"
+      ],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "vellent",
+      "stanza_lemma": "velleo",
+      "proposed_target": "uolo",
+      "occurrences": 5,
+      "whitakers_options": [
+        "volo (V)",
+        "vell.ent (V)",
+        "vello (V)",
+        "vello (V)",
+        "vello (V)"
+      ],
+      "unique_pos_lemmas": [
+        "uellent",
+        "uello",
+        "uolo"
+      ],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "milibus",
+      "stanza_lemma": "milis",
+      "proposed_target": "mille",
+      "occurrences": 5,
+      "whitakers_options": [
+        "mille (N)",
+        "mil.ibus (N)",
+        "mil.ibus (N)",
+        "mil.ibus (N)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "hostibus",
+      "stanza_lemma": "hostus",
+      "proposed_target": "hostis",
+      "occurrences": 5,
+      "whitakers_options": [
+        "hostis (N)",
+        "host.ibus (N)",
+        "host.ibus (N)",
+        "host.ibus (N)"
+      ],
+      "unique_pos_lemmas": [
+        "hostibus",
+        "hostis"
+      ],
+      "reason_for_review": "ambiguous_whitakers"
+    },
+    {
+      "form": "dividit",
+      "stanza_lemma": "dico",
+      "proposed_target": "divido",
+      "occurrences": 4,
+      "whitakers_options": [
+        "divido (V)",
+        "divid.it (V)"
+      ],
+      "unique_pos_lemmas": [
+        "diuidit",
+        "diuido"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "maxime",
+      "stanza_lemma": "magne",
+      "proposed_target": "magnus",
+      "occurrences": 4,
+      "whitakers_options": [
+        "magnus (ADJ)",
+        "maximus (ADJ)",
+        "maxime (ADV)",
+        "maxime (ADV)",
+        "maxi.me (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "maxime"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "hostem",
+      "stanza_lemma": "hostim",
+      "proposed_target": "hostis",
+      "occurrences": 4,
+      "whitakers_options": [
+        "hostis (N)",
+        "host.em (N)"
+      ],
+      "unique_pos_lemmas": [
+        "hostem",
+        "hostis"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "diutius",
+      "stanza_lemma": "diute",
+      "proposed_target": "diu",
+      "occurrences": 4,
+      "whitakers_options": [
+        "diu (ADV)",
+        "diutius (ADV)"
+      ],
+      "unique_pos_lemmas": [
+        "diu",
+        "diutius"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "equitatui",
+      "stanza_lemma": "equitas",
+      "proposed_target": "equitatus",
+      "occurrences": 4,
+      "whitakers_options": [
+        "equitatus (N)",
+        "equitat.ui (N)"
+      ],
+      "unique_pos_lemmas": [
+        "equitatui",
+        "equitatus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "galliae",
+      "stanza_lemma": "gallias",
+      "proposed_target": "gallia",
+      "occurrences": 4,
+      "whitakers_options": [
+        "gallia (N)",
+        "galli.ae (N)",
+        "galli.ae (N)",
+        "galli.ae (N)",
+        "galli.ae (N)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "consulibus",
+      "stanza_lemma": "consulus",
+      "proposed_target": "consul",
+      "occurrences": 3,
+      "whitakers_options": [
+        "consul (N)",
+        "consul.ibus (N)",
+        "consul.ibus (N)",
+        "consul.ibus (N)"
+      ],
+      "unique_pos_lemmas": [
+        "consul",
+        "consulibus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "facilius",
+      "stanza_lemma": "faciliter",
+      "proposed_target": "facilis",
+      "occurrences": 3,
+      "whitakers_options": [
+        "facilis (ADJ)",
+        "facilius (ADV)",
+        "facile (ADV)",
+        "facili.us (ADJ)",
+        "facili.us (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "facile",
+        "facilius"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "agrum",
+      "stanza_lemma": "agrus",
+      "proposed_target": "ager",
+      "occurrences": 3,
+      "whitakers_options": [
+        "ager (N)",
+        "agr.um (N)"
+      ],
+      "unique_pos_lemmas": [
+        "ager",
+        "agrum"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "orgetorigis",
+      "stanza_lemma": "orgetorigus",
+      "proposed_target": "orgetorix",
+      "occurrences": 3,
+      "whitakers_options": [
+        "orgetorix (N)",
+        "orgetorig.is (N)",
+        "orgetorig.is (N)"
+      ],
+      "unique_pos_lemmas": [
+        "orgetorigis",
+        "orgetorix"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "pulsis",
+      "stanza_lemma": "pulto",
+      "proposed_target": "pello",
+      "occurrences": 3,
+      "whitakers_options": [
+        "pello (V)"
+      ],
+      "unique_pos_lemmas": [
+        "pello"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "eorumque",
+      "stanza_lemma": "idem",
+      "proposed_target": "is",
+      "occurrences": 3,
+      "whitakers_options": [
+        "is (PRON)",
+        "e.orum (PRON)",
+        "e.orum (PRON)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "romano",
+      "stanza_lemma": "romanum",
+      "proposed_target": "romanus",
+      "occurrences": 3,
+      "whitakers_options": [
+        "romanus (N)",
+        "romanus (ADJ)",
+        "roman.o (N)",
+        "roman.o (N)",
+        "roman.o (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "romano",
+        "romanus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "equitatumque",
+      "stanza_lemma": "equitas",
+      "proposed_target": "equitatus",
+      "occurrences": 3,
+      "whitakers_options": [
+        "equitatus (N)",
+        "equitat.um (N)",
+        "equitat.um (N)",
+        "equito (V)"
+      ],
+      "unique_pos_lemmas": [
+        "equitatum",
+        "equitatus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "equitibus",
+      "stanza_lemma": "equitus",
+      "proposed_target": "eques",
+      "occurrences": 3,
+      "whitakers_options": [
+        "eques (N)",
+        "equit.ibus (N)",
+        "equit.ibus (N)",
+        "equit.ibus (N)"
+      ],
+      "unique_pos_lemmas": [
+        "eques",
+        "equitibus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "equitum",
+      "stanza_lemma": "equitus",
+      "proposed_target": "eques",
+      "occurrences": 3,
+      "whitakers_options": [
+        "eques (N)",
+        "equit.um (N)"
+      ],
+      "unique_pos_lemmas": [
+        "eques",
+        "equitum"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "praeerat",
+      "stanza_lemma": "praeero",
+      "proposed_target": "praesum",
+      "occurrences": 3,
+      "whitakers_options": [
+        "praesum (V)",
+        "prae.erat (V)"
+      ],
+      "unique_pos_lemmas": [
+        "praeerat",
+        "praesum"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "pluribus",
+      "stanza_lemma": "multus",
+      "proposed_target": "plus",
+      "occurrences": 3,
+      "whitakers_options": [
+        "plus (N)",
+        "plus (ADJ)",
+        "plur.ibus (N)",
+        "plur.ibus (N)",
+        "plur.ibus (N)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "quarta",
+      "stanza_lemma": "quartus",
+      "proposed_target": "quattuor",
+      "occurrences": 3,
+      "whitakers_options": [
+        "quattuor (NUM)",
+        "quart.a (NUM)",
+        "quart.a (NUM)",
+        "quart.a (NUM)",
+        "quart.a (NUM)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "frumentariae",
+      "stanza_lemma": "frumentaris",
+      "proposed_target": "frumentarius",
+      "occurrences": 3,
+      "whitakers_options": [
+        "frumentarius (ADJ)",
+        "frumentari.ae (ADJ)",
+        "frumentari.ae (ADJ)",
+        "frumentari.ae (ADJ)",
+        "frumentari.ae (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "frumentariae",
+        "frumentarius"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "carros",
+      "stanza_lemma": "carer",
+      "proposed_target": "carrus",
+      "occurrences": 3,
+      "whitakers_options": [
+        "carrus (N)",
+        "carr.os (N)"
+      ],
+      "unique_pos_lemmas": [
+        "carros",
+        "carrus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "imperavit",
+      "stanza_lemma": "imperavo",
+      "proposed_target": "impero",
+      "occurrences": 3,
+      "whitakers_options": [
+        "impero (V)",
+        "imperav.it (V)"
+      ],
+      "unique_pos_lemmas": [
+        "imperauit",
+        "impero"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "reverti",
+      "stanza_lemma": "reverio",
+      "proposed_target": "reuerto",
+      "occurrences": 3,
+      "whitakers_options": [
+        "reverto (V)",
+        "revert.i (V)",
+        "revert.i (V)",
+        "revert.i (V)",
+        "revertor (V)"
+      ],
+      "unique_pos_lemmas": [
+        "reuerti",
+        "reuerto",
+        "reuertor"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "divisa",
+      "stanza_lemma": "dico",
+      "proposed_target": "divido",
+      "occurrences": 2,
+      "whitakers_options": [
+        "divido (V)"
+      ],
+      "unique_pos_lemmas": [
+        "diuido"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "persuasit",
+      "stanza_lemma": "persua",
+      "proposed_target": "persuadeo",
+      "occurrences": 2,
+      "whitakers_options": [
+        "persuadeo (V)",
+        "persuas.it (V)"
+      ],
+      "unique_pos_lemmas": [
+        "persuadeo",
+        "persuasit"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "finitimis",
+      "stanza_lemma": "finitus",
+      "proposed_target": "finitimus",
+      "occurrences": 2,
+      "whitakers_options": [
+        "finitimus (ADJ)",
+        "finitimus (N)",
+        "finitim.is (ADJ)",
+        "finitim.is (ADJ)",
+        "finitim.is (N)"
+      ],
+      "unique_pos_lemmas": [
+        "finitimis",
+        "finitimus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "extremum",
+      "stanza_lemma": "exterior",
+      "proposed_target": "extremus",
+      "occurrences": 2,
+      "whitakers_options": [
+        "extremus (N)",
+        "extre.mum (ADJ)",
+        "extre.mum (ADJ)",
+        "extre.mum (ADJ)",
+        "extre.mum (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "extremum"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "legio",
+      "stanza_lemma": "legium",
+      "proposed_target": "legio",
+      "occurrences": 2,
+      "whitakers_options": [
+        "legio (N)",
+        "legio (N)",
+        "legio (N)"
+      ],
+      "unique_pos_lemmas": [
+        "legio"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "consulem",
+      "stanza_lemma": "consulus",
+      "proposed_target": "consul",
+      "occurrences": 2,
+      "whitakers_options": [
+        "consul (N)",
+        "consul.em (N)"
+      ],
+      "unique_pos_lemmas": [
+        "consul",
+        "consulem"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "imperaverat",
+      "stanza_lemma": "imperavo",
+      "proposed_target": "impero",
+      "occurrences": 2,
+      "whitakers_options": [
+        "impero (V)",
+        "imperav.erat (V)"
+      ],
+      "unique_pos_lemmas": [
+        "imperauerat",
+        "impero"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "venit",
+      "stanza_lemma": "vigo",
+      "proposed_target": "uenio",
+      "occurrences": 2,
+      "whitakers_options": [
+        "venio (V)",
+        "veni.t (V)",
+        "veneo (V)",
+        "ven.it (V)",
+        "ven.it (V)"
+      ],
+      "unique_pos_lemmas": [
+        "ueneo",
+        "uenio",
+        "uenit"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "saepius",
+      "stanza_lemma": "saepus",
+      "proposed_target": "saepe",
+      "occurrences": 2,
+      "whitakers_options": [
+        "saepe (ADV)",
+        "saepius (ADV)"
+      ],
+      "unique_pos_lemmas": [
+        "saepe",
+        "saepius"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "destiterunt",
+      "stanza_lemma": "destituo",
+      "proposed_target": "desisto",
+      "occurrences": 2,
+      "whitakers_options": [
+        "desisto (V)",
+        "destit.erunt (V)"
+      ],
+      "unique_pos_lemmas": [
+        "desisto",
+        "destiterunt"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "hibernis",
+      "stanza_lemma": "hibero",
+      "proposed_target": "hibernus",
+      "occurrences": 2,
+      "whitakers_options": [
+        "hibernus (N)",
+        "hibernus (ADJ)",
+        "hibern.is (N)",
+        "hibern.is (N)",
+        "hibern.is (N)"
+      ],
+      "unique_pos_lemmas": [
+        "hibernis",
+        "hibernus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "exisset",
+      "stanza_lemma": "ixsisto",
+      "proposed_target": "exeo",
+      "occurrences": 2,
+      "whitakers_options": [
+        "exeo (V)",
+        "exiv.isset (V)"
+      ],
+      "unique_pos_lemmas": [
+        "exeo",
+        "exiuisset"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "divico",
+      "stanza_lemma": "divicus",
+      "proposed_target": "uicus",
+      "occurrences": 2,
+      "whitakers_options": [
+        "vicus (N)",
+        "vic.o (N)",
+        "vic.o (N)"
+      ],
+      "unique_pos_lemmas": [
+        "uico",
+        "uicus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "caesare",
+      "stanza_lemma": "caesaris",
+      "proposed_target": "caesar",
+      "occurrences": 2,
+      "whitakers_options": [
+        "caesar (N)",
+        "caesar.e (N)",
+        "caesar.e (N)",
+        "caesar.e (N)"
+      ],
+      "unique_pos_lemmas": [
+        "caesar",
+        "caesare"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "egit",
+      "stanza_lemma": "ego",
+      "proposed_target": "ago",
+      "occurrences": 2,
+      "whitakers_options": [
+        "ago (V)",
+        "eg.it (V)"
+      ],
+      "unique_pos_lemmas": [
+        "ago",
+        "egit"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "veteris",
+      "stanza_lemma": "veterus",
+      "proposed_target": "ueter",
+      "occurrences": 2,
+      "whitakers_options": [
+        "veter (ADJ)",
+        "veter.is (ADJ)",
+        "veter.is (ADJ)",
+        "veter.is (ADJ)",
+        "veter.is (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "ueter",
+        "ueteris"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "tulisse",
+      "stanza_lemma": "tuleo",
+      "proposed_target": "fero",
+      "occurrences": 2,
+      "whitakers_options": [
+        "fero (V)",
+        "tul.isse (V)"
+      ],
+      "unique_pos_lemmas": [
+        "fero",
+        "tulisse"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "sociisque",
+      "stanza_lemma": "sociisqus",
+      "proposed_target": "socia",
+      "occurrences": 2,
+      "whitakers_options": [
+        "socia (N)",
+        "socius (N)",
+        "socius (ADJ)",
+        "soci.is (N)",
+        "soci.is (N)"
+      ],
+      "unique_pos_lemmas": [
+        "socia",
+        "sociis",
+        "socius"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "consuerint",
+      "stanza_lemma": "consuero",
+      "proposed_target": "consuesco",
+      "occurrences": 2,
+      "whitakers_options": [
+        "consuesco (V)",
+        "consu.erint (V)",
+        "consu.erint (V)",
+        "consuo (V)",
+        "consuev.erint (V)"
+      ],
+      "unique_pos_lemmas": [
+        "consuerint",
+        "consuesco",
+        "consueuerint",
+        "consuo"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "agmine",
+      "stanza_lemma": "agmus",
+      "proposed_target": "agmen",
+      "occurrences": 2,
+      "whitakers_options": [
+        "agmen (N)",
+        "agmin.e (N)",
+        "agmin.e (N)",
+        "agmin.e (N)"
+      ],
+      "unique_pos_lemmas": [
+        "agmen",
+        "agmine"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "equitatum",
+      "stanza_lemma": "equitas",
+      "proposed_target": "equitatus",
+      "occurrences": 2,
+      "whitakers_options": [
+        "equitatus (N)",
+        "equitat.um (N)",
+        "equitat.um (N)",
+        "equito (V)"
+      ],
+      "unique_pos_lemmas": [
+        "equitatum",
+        "equitatus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "perterritum",
+      "stanza_lemma": "perterre",
+      "proposed_target": "perterreo",
+      "occurrences": 2,
+      "whitakers_options": [
+        "perterreo (V)",
+        "perterrit.um (ADJ)",
+        "perterrit.um (ADJ)",
+        "perterrit.um (ADJ)",
+        "perterrit.um (ADJ)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "valerium",
+      "stanza_lemma": "valer",
+      "proposed_target": "ualerius",
+      "occurrences": 2,
+      "whitakers_options": [
+        "valerius (N)",
+        "valerius (ADJ)",
+        "valeri.um (N)",
+        "valeri.um (N)",
+        "valeri.um (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "ualerium",
+        "ualerius"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "ierant",
+      "stanza_lemma": "ieranes",
+      "proposed_target": "eo",
+      "occurrences": 2,
+      "whitakers_options": [
+        "eo (V)",
+        "iv.erant (V)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "perterritos",
+      "stanza_lemma": "perterro",
+      "proposed_target": "perterreo",
+      "occurrences": 2,
+      "whitakers_options": [
+        "perterreo (V)",
+        "perterrit.os (ADJ)",
+        "perterritus (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "perterreo"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "frumentaria",
+      "stanza_lemma": "frumentaris",
+      "proposed_target": "frumentarius",
+      "occurrences": 2,
+      "whitakers_options": [
+        "frumentarius (ADJ)",
+        "frumentari.a (ADJ)",
+        "frumentari.a (ADJ)",
+        "frumentari.a (ADJ)",
+        "frumentari.a (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "frumentaria",
+        "frumentarius"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "carris",
+      "stanza_lemma": "caro",
+      "proposed_target": "carrus",
+      "occurrences": 2,
+      "whitakers_options": [
+        "carrus (N)",
+        "carr.is (N)",
+        "carr.is (N)",
+        "carr.is (N)",
+        "carr.is (N)"
+      ],
+      "unique_pos_lemmas": [
+        "carris",
+        "carrus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "phalange",
+      "stanza_lemma": "phalan",
+      "proposed_target": "phalanx",
+      "occurrences": 2,
+      "whitakers_options": [
+        "phalanx (N)",
+        "phalang.e (N)",
+        "phalang.e (N)",
+        "phalang.e (N)"
+      ],
+      "unique_pos_lemmas": [
+        "phalange",
+        "phalanx"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "pervenerunt",
+      "stanza_lemma": "pervo",
+      "proposed_target": "peruenio",
+      "occurrences": 2,
+      "whitakers_options": [
+        "pervenio (V)",
+        "perven.erunt (V)"
+      ],
+      "unique_pos_lemmas": [
+        "peruenerunt",
+        "peruenio"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "omniumque",
+      "stanza_lemma": "omnisque",
+      "proposed_target": "omnis",
+      "occurrences": 2,
+      "whitakers_options": [
+        "omnis (ADJ)",
+        "omnis (N)",
+        "omn.ium (ADJ)",
+        "omn.ium (N)",
+        "omne (N)"
+      ],
+      "unique_pos_lemmas": [
+        "omnis",
+        "omnium"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "velle",
+      "stanza_lemma": "vo",
+      "proposed_target": "uolo",
+      "occurrences": 2,
+      "whitakers_options": [
+        "volo (V)",
+        "vell.e (V)",
+        "vello (V)",
+        "vello (V)",
+        "vello (V)"
+      ],
+      "unique_pos_lemmas": [
+        "uelle",
+        "uello",
+        "uolo"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "velit",
+      "stanza_lemma": "vigo",
+      "proposed_target": "uolo",
+      "occurrences": 2,
+      "whitakers_options": [
+        "volo (V)",
+        "vel.it (V)"
+      ],
+      "unique_pos_lemmas": [
+        "uelit",
+        "uolo"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "populique",
+      "stanza_lemma": "populique",
+      "proposed_target": "populus",
+      "occurrences": 2,
+      "whitakers_options": [
+        "populus (N)",
+        "populus (N)",
+        "popul.i (N)",
+        "popul.i (N)",
+        "popul.i (N)"
+      ],
+      "unique_pos_lemmas": [
+        "populi",
+        "populus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "congressi",
+      "stanza_lemma": "congrido",
+      "proposed_target": "congredior",
+      "occurrences": 2,
+      "whitakers_options": [
+        "congredior (V)",
+        "congredior (V)"
+      ],
+      "unique_pos_lemmas": [
+        "congredior"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "iamque",
+      "stanza_lemma": "iamque",
+      "proposed_target": "eo",
+      "occurrences": 2,
+      "whitakers_options": [
+        "eo (V)",
+        "iam (ADV)",
+        "i.am (V)",
+        "jam (ADV)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "quamque",
+      "stanza_lemma": "quisque",
+      "proposed_target": "quam",
+      "occurrences": 2,
+      "whitakers_options": [
+        "quam (ADV)",
+        "quam (ADV)",
+        "quam (CONJ)",
+        "quam (CONJ)",
+        "qu.am (PRON)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "hoste",
+      "stanza_lemma": "hos",
+      "proposed_target": "hostis",
+      "occurrences": 2,
+      "whitakers_options": [
+        "hostis (N)",
+        "host.e (N)",
+        "host.e (N)",
+        "host.e (N)"
+      ],
+      "unique_pos_lemmas": [
+        "hoste",
+        "hostis"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "longissime",
+      "stanza_lemma": "longes",
+      "proposed_target": "longe",
+      "occurrences": 1,
+      "whitakers_options": [
+        "longe (ADV)",
+        "longus (ADJ)",
+        "longissime (ADV)",
+        "longissi.me (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "longe",
+        "longissime"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "minimeque",
+      "stanza_lemma": "minimeque",
+      "proposed_target": "minime",
+      "occurrences": 1,
+      "whitakers_options": [
+        "minime (ADV)",
+        "parvus (ADJ)",
+        "parum (ADV)",
+        "mini.me (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "minime",
+        "parum"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "proximique",
+      "stanza_lemma": "proximiquus",
+      "proposed_target": "proximus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "proximus (ADJ)",
+        "proximus (N)",
+        "proxi.mi (ADJ)",
+        "proxi.mi (ADJ)",
+        "proxi.mi (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "proximi",
+        "proximus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "extremis",
+      "stanza_lemma": "exterior",
+      "proposed_target": "extremus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "extremus (N)",
+        "extre.mis (ADJ)",
+        "extre.mis (ADJ)",
+        "exter (ADJ)",
+        "extrem.is (N)"
+      ],
+      "unique_pos_lemmas": [
+        "exter",
+        "extremis"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "praestarent",
+      "stanza_lemma": "praestaro",
+      "proposed_target": "praesto",
+      "occurrences": 1,
+      "whitakers_options": [
+        "praesto (V)",
+        "praesto (V)",
+        "praest.arent (V)",
+        "praestat (V)"
+      ],
+      "unique_pos_lemmas": [
+        "praestarent",
+        "praestat",
+        "praesto"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "patebant",
+      "stanza_lemma": "patior",
+      "proposed_target": "pateo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "pateo (V)",
+        "pat.ebant (V)"
+      ],
+      "unique_pos_lemmas": [
+        "patebant",
+        "pateo"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "carrorum",
+      "stanza_lemma": "careus",
+      "proposed_target": "carrus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "carrus (N)",
+        "carr.orum (N)",
+        "carr.orum (N)",
+        "carrum (N)"
+      ],
+      "unique_pos_lemmas": [
+        "carrorum",
+        "carrum",
+        "carrus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "castico",
+      "stanza_lemma": "casticus",
+      "proposed_target": "casus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "casus (N)",
+        "castic.o (ADJ)",
+        "castic.o (ADJ)",
+        "castic.o (ADJ)",
+        "castic.o (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "castico"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "factu",
+      "stanza_lemma": "factus",
+      "proposed_target": "facio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "facio (V)",
+        "fio (V)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "suoque",
+      "stanza_lemma": "suoquis",
+      "proposed_target": "suus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "suus (ADJ)",
+        "suus (N)",
+        "su.o (ADJ)",
+        "su.o (ADJ)",
+        "su.o (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "suo",
+        "suus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "coegerunt",
+      "stanza_lemma": "coego",
+      "proposed_target": "cogo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "cogo (V)",
+        "coeg.erunt (V)"
+      ],
+      "unique_pos_lemmas": [
+        "coegerunt",
+        "cogo"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "eripuit",
+      "stanza_lemma": "eripuio",
+      "proposed_target": "eripio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "eripio (V)",
+        "eripu.it (V)"
+      ],
+      "unique_pos_lemmas": [
+        "eripio",
+        "eripuit"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "suspicio",
+      "stanza_lemma": "suspicium",
+      "proposed_target": "suspicio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "suspicio (N)",
+        "suspicio (N)",
+        "suspicio (N)",
+        "suspicio (V)",
+        "suspici.o (V)"
+      ],
+      "unique_pos_lemmas": [
+        "suspicio"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "mensum",
+      "stanza_lemma": "mensus",
+      "proposed_target": "metior",
+      "occurrences": 1,
+      "whitakers_options": [
+        "metior (V)",
+        "mens.um (N)",
+        "mensis (N)"
+      ],
+      "unique_pos_lemmas": [
+        "mensis",
+        "mensum"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "tulingis",
+      "stanza_lemma": "tulinga",
+      "proposed_target": "tulingus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "tulingus (N)",
+        "tuling.is (N)",
+        "tuling.is (N)",
+        "tuling.is (N)"
+      ],
+      "unique_pos_lemmas": [
+        "tulingis",
+        "tulingus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "vicisque",
+      "stanza_lemma": "vicisque",
+      "proposed_target": "uicus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "vicus (N)",
+        "vicis (N)",
+        "vicis (N)",
+        "vicis (N)",
+        "vic.is (N)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "incoluerant",
+      "stanza_lemma": "incoluero",
+      "proposed_target": "incolo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "incolo (V)",
+        "incolu.erant (V)"
+      ],
+      "unique_pos_lemmas": [
+        "incolo",
+        "incoluerant"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "carri",
+      "stanza_lemma": "caro",
+      "proposed_target": "carrus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "carrus (N)",
+        "carr.i (N)",
+        "carr.i (N)",
+        "carr.i (N)",
+        "carr.i (N)"
+      ],
+      "unique_pos_lemmas": [
+        "carri",
+        "carrus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "isque",
+      "stanza_lemma": "isque",
+      "proposed_target": "eo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "eo (V)",
+        "is (PRON)",
+        "i.s (V)",
+        "i.s (PRON)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "proximumque",
+      "stanza_lemma": "proximumquus",
+      "proposed_target": "proximus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "proximus (ADJ)",
+        "proximus (N)",
+        "proxi.mum (ADJ)",
+        "proxi.mum (ADJ)",
+        "proxi.mum (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "proximum",
+        "proximus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "genava",
+      "stanza_lemma": "genavus",
+      "proposed_target": "genaua",
+      "occurrences": 1,
+      "whitakers_options": [
+        "genava (N)",
+        "genav.a (N)",
+        "genav.a (N)",
+        "genav.a (N)"
+      ],
+      "unique_pos_lemmas": [
+        "genaua"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "persuasuros",
+      "stanza_lemma": "persua",
+      "proposed_target": "persuadeo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "persuadeo (V)"
+      ],
+      "unique_pos_lemmas": [
+        "persuadeo"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "existimabant",
+      "stanza_lemma": "exsistimo",
+      "proposed_target": "existimo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "existimo (V)",
+        "existim.abant (V)"
+      ],
+      "unique_pos_lemmas": [
+        "existimabant",
+        "existimo"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "vi",
+      "stanza_lemma": "vies",
+      "proposed_target": "uis",
+      "occurrences": 1,
+      "whitakers_options": [
+        "vis (N)",
+        "v.i (N)",
+        "v.i (N)",
+        "v.i (N)",
+        "vi (NUM)"
+      ],
+      "unique_pos_lemmas": [
+        "ui",
+        "uis"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "coacturos",
+      "stanza_lemma": "coacito",
+      "proposed_target": "cogo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "cogo (V)"
+      ],
+      "unique_pos_lemmas": [
+        "cogo"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "maturat",
+      "stanza_lemma": "mateo",
+      "proposed_target": "maturo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "maturo (V)",
+        "matur.at (V)"
+      ],
+      "unique_pos_lemmas": [
+        "maturat",
+        "maturo"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "pulsum",
+      "stanza_lemma": "pulto",
+      "proposed_target": "pello",
+      "occurrences": 1,
+      "whitakers_options": [
+        "pello (V)",
+        "puls.um (N)",
+        "pulsus (N)"
+      ],
+      "unique_pos_lemmas": [
+        "pello"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "interea",
+      "stanza_lemma": "interdo",
+      "proposed_target": "interea",
+      "occurrences": 1,
+      "whitakers_options": [
+        "interea (ADV)",
+        "interea (ADV)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "militibusque",
+      "stanza_lemma": "militus",
+      "proposed_target": "miles",
+      "occurrences": 1,
+      "whitakers_options": [
+        "miles (N)",
+        "milit.ibus (N)",
+        "milit.ibus (N)",
+        "milit.ibus (N)"
+      ],
+      "unique_pos_lemmas": [
+        "miles",
+        "militibus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "convenerant",
+      "stanza_lemma": "convenero",
+      "proposed_target": "conuenio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "convenio (V)",
+        "conven.erant (V)",
+        "convenit (V)"
+      ],
+      "unique_pos_lemmas": [
+        "conuenerant",
+        "conuenio",
+        "conuenit"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "vadis",
+      "stanza_lemma": "vadus",
+      "proposed_target": "uado",
+      "occurrences": 1,
+      "whitakers_options": [
+        "vado (V)",
+        "vad.is (N)",
+        "vad.is (N)",
+        "vad.is (N)",
+        "vadum (N)"
+      ],
+      "unique_pos_lemmas": [
+        "uadis",
+        "uadum"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "invitis",
+      "stanza_lemma": "invo",
+      "proposed_target": "inuitus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "invitus (ADJ)",
+        "invit.is (ADJ)",
+        "invit.is (ADJ)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "obstrictas",
+      "stanza_lemma": "obstribuo",
+      "proposed_target": "obstringo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "obstringo (V)"
+      ],
+      "unique_pos_lemmas": [
+        "obstringo"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "maximeque",
+      "stanza_lemma": "magnex",
+      "proposed_target": "magnus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "magnus (ADJ)",
+        "maximus (ADJ)",
+        "maxime (ADV)",
+        "maxime (ADV)",
+        "maxi.me (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "maxime"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "finitimos",
+      "stanza_lemma": "finitus",
+      "proposed_target": "finitimus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "finitimus (ADJ)",
+        "finitimus (N)",
+        "finitim.os (ADJ)",
+        "finitim.os (N)"
+      ],
+      "unique_pos_lemmas": [
+        "finitimos",
+        "finitimus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "compluribus",
+      "stanza_lemma": "complerus",
+      "proposed_target": "complus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "complus (ADJ)",
+        "complus (N)",
+        "complus (N)",
+        "complur.ibus (ADJ)",
+        "complur.ibus (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "compluribus",
+        "complus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "citerioris",
+      "stanza_lemma": "citerus",
+      "proposed_target": "citer",
+      "occurrences": 1,
+      "whitakers_options": [
+        "citer (ADJ)",
+        "citeri.oris (ADJ)",
+        "citeri.oris (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "citer",
+        "citerioris"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "pervenerant",
+      "stanza_lemma": "pervenero",
+      "proposed_target": "peruenio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "pervenio (V)",
+        "perven.erant (V)"
+      ],
+      "unique_pos_lemmas": [
+        "peruenerant",
+        "peruenio"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "fortunis",
+      "stanza_lemma": "fortunus",
+      "proposed_target": "fortuna",
+      "occurrences": 1,
+      "whitakers_options": [
+        "fortuna (N)",
+        "fortun.is (N)",
+        "fortun.is (N)",
+        "fortun.is (N)"
+      ],
+      "unique_pos_lemmas": [
+        "fortuna",
+        "fortunis"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "sociorum",
+      "stanza_lemma": "socium",
+      "proposed_target": "socius",
+      "occurrences": 1,
+      "whitakers_options": [
+        "socius (N)",
+        "socius (ADJ)",
+        "soci.orum (N)",
+        "soci.orum (ADJ)",
+        "soci.orum (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "sociorum",
+        "socius"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "quartam",
+      "stanza_lemma": "quartus",
+      "proposed_target": "quattuor",
+      "occurrences": 1,
+      "whitakers_options": [
+        "quattuor (NUM)",
+        "quart.am (NUM)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "ararim",
+      "stanza_lemma": "arari",
+      "proposed_target": "aro",
+      "occurrences": 1,
+      "whitakers_options": [
+        "aro (V)",
+        "arar.im (N)",
+        "araris (N)",
+        "arav.erim (V)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "intulerat",
+      "stanza_lemma": "intulo",
+      "proposed_target": "infero",
+      "occurrences": 1,
+      "whitakers_options": [
+        "infero (V)",
+        "infero (V)",
+        "intul.erat (V)"
+      ],
+      "unique_pos_lemmas": [
+        "infero",
+        "intulerat"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "ituros",
+      "stanza_lemma": "iturus",
+      "proposed_target": "eo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "eo (V)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "insidiis",
+      "stanza_lemma": "insidium",
+      "proposed_target": "insidia",
+      "occurrences": 1,
+      "whitakers_options": [
+        "insidia (N)",
+        "insidi.is (N)",
+        "insidi.is (N)",
+        "insidi.is (N)"
+      ],
+      "unique_pos_lemmas": [
+        "insidia",
+        "insidiis"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "recentium",
+      "stanza_lemma": "recentius",
+      "proposed_target": "recens",
+      "occurrences": 1,
+      "whitakers_options": [
+        "recens (ADJ)",
+        "recent.ium (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "recens",
+        "recentium"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "quodque",
+      "stanza_lemma": "quodque",
+      "proposed_target": "quod",
+      "occurrences": 1,
+      "whitakers_options": [
+        "quod (ADV)",
+        "quod (ADV)",
+        "quod (CONJ)",
+        "quod (CONJ)",
+        "qu.od (PRON)"
+      ],
+      "unique_pos_lemmas": [
+        "quod"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "intulerint",
+      "stanza_lemma": "intulo",
+      "proposed_target": "infero",
+      "occurrences": 1,
+      "whitakers_options": [
+        "infero (V)",
+        "infero (V)",
+        "intul.erint (V)",
+        "intul.erint (V)"
+      ],
+      "unique_pos_lemmas": [
+        "infero",
+        "intulerint"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "principibus",
+      "stanza_lemma": "principis",
+      "proposed_target": "princeps",
+      "occurrences": 1,
+      "whitakers_options": [
+        "princeps (N)",
+        "princeps (ADJ)",
+        "princip.ibus (N)",
+        "princip.ibus (N)",
+        "princip.ibus (N)"
+      ],
+      "unique_pos_lemmas": [
+        "princeps",
+        "principibus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "romanorum",
+      "stanza_lemma": "romanum",
+      "proposed_target": "romanus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "romanus (N)",
+        "romanus (ADJ)",
+        "roman.orum (N)",
+        "roman.orum (ADJ)",
+        "roman.orum (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "romanorum",
+        "romanus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "superaverint",
+      "stanza_lemma": "superavio",
+      "proposed_target": "supero",
+      "occurrences": 1,
+      "whitakers_options": [
+        "supero (V)",
+        "superav.erint (V)",
+        "superav.erint (V)"
+      ],
+      "unique_pos_lemmas": [
+        "superauerint",
+        "supero"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "erepturi",
+      "stanza_lemma": "ersepio",
+      "proposed_target": "eripio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "eripio (V)"
+      ],
+      "unique_pos_lemmas": [
+        "eripio"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "isdem",
+      "stanza_lemma": "unus",
+      "proposed_target": "idem",
+      "occurrences": 1,
+      "whitakers_options": [
+        "idem (PRON)",
+        "i.s (PRON)",
+        "i.s (PRON)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "liscum",
+      "stanza_lemma": "liscus",
+      "proposed_target": "cum",
+      "occurrences": 1,
+      "whitakers_options": [
+        "cum (ADV)",
+        "cum (ADV)",
+        "cum (PREP)",
+        "cum (PREP)",
+        "lis (N)"
+      ],
+      "unique_pos_lemmas": [
+        "lis"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "liberius",
+      "stanza_lemma": "libere",
+      "proposed_target": "liber",
+      "occurrences": 1,
+      "whitakers_options": [
+        "liber (ADJ)",
+        "liberi.us (ADJ)",
+        "liberi.us (ADJ)",
+        "liberi.us (ADJ)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "novarum",
+      "stanza_lemma": "novas",
+      "proposed_target": "nouus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "novus (ADJ)",
+        "nov.arum (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "nouarum",
+        "nouus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "sumptu",
+      "stanza_lemma": "sumptum",
+      "proposed_target": "sumo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "sumo (V)",
+        "sumpt.u (N)",
+        "sumptus (N)"
+      ],
+      "unique_pos_lemmas": [
+        "sumptu",
+        "sumptus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "sororum",
+      "stanza_lemma": "sorus",
+      "proposed_target": "soror",
+      "occurrences": 1,
+      "whitakers_options": [
+        "soror (N)",
+        "soror.um (N)"
+      ],
+      "unique_pos_lemmas": [
+        "soror",
+        "sororum"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "romanis",
+      "stanza_lemma": "roma",
+      "proposed_target": "romanus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "romanus (N)",
+        "romanus (ADJ)",
+        "roman.is (N)",
+        "roman.is (N)",
+        "roman.is (N)"
+      ],
+      "unique_pos_lemmas": [
+        "romanis",
+        "romanus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "equestre",
+      "stanza_lemma": "equestrus",
+      "proposed_target": "equester",
+      "occurrences": 1,
+      "whitakers_options": [
+        "equester (ADJ)",
+        "equester (N)",
+        "equestr.e (ADJ)",
+        "equestr.e (ADJ)",
+        "equestr.e (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "equester",
+        "equestre"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "adversum",
+      "stanza_lemma": "adverdo",
+      "proposed_target": "aduerto",
+      "occurrences": 1,
+      "whitakers_options": [
+        "adverto (V)",
+        "adversus (N)",
+        "adversus (ADJ)",
+        "advers.um (N)",
+        "advers.um (N)"
+      ],
+      "unique_pos_lemmas": [
+        "aduerto"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "traduxisset",
+      "stanza_lemma": "trado",
+      "proposed_target": "traduco",
+      "occurrences": 1,
+      "whitakers_options": [
+        "traduco (V)",
+        "tradux.isset (V)"
+      ],
+      "unique_pos_lemmas": [
+        "traduco",
+        "traduxisset"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "cognoverat",
+      "stanza_lemma": "cognovo",
+      "proposed_target": "cognosco",
+      "occurrences": 1,
+      "whitakers_options": [
+        "cognosco (V)",
+        "cognov.erat (V)"
+      ],
+      "unique_pos_lemmas": [
+        "cognosco",
+        "cognouerat"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "diviciacum",
+      "stanza_lemma": "diviciax",
+      "proposed_target": "diuiciacus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "diviciacus (N)",
+        "diviciac.um (N)",
+        "diviciac.um (N)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "cognoverant",
+      "stanza_lemma": "cognoho",
+      "proposed_target": "cognosco",
+      "occurrences": 1,
+      "whitakers_options": [
+        "cognosco (V)",
+        "cognov.erant (V)"
+      ],
+      "unique_pos_lemmas": [
+        "cognosco",
+        "cognouerant"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "proelioque",
+      "stanza_lemma": "proelius",
+      "proposed_target": "proelium",
+      "occurrences": 1,
+      "whitakers_options": [
+        "proelium (N)",
+        "proeli.o (N)",
+        "proeli.o (N)"
+      ],
+      "unique_pos_lemmas": [
+        "proelio",
+        "proelium"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "cognovit",
+      "stanza_lemma": "cognoho",
+      "proposed_target": "cognosco",
+      "occurrences": 1,
+      "whitakers_options": [
+        "cognosco (V)",
+        "cognov.it (V)"
+      ],
+      "unique_pos_lemmas": [
+        "cognosco",
+        "cognouit"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "movisse",
+      "stanza_lemma": "movio",
+      "proposed_target": "moueo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "moveo (V)",
+        "mov.isse (V)"
+      ],
+      "unique_pos_lemmas": [
+        "moueo",
+        "mouisse"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "vidisset",
+      "stanza_lemma": "vido",
+      "proposed_target": "uideo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "video (V)",
+        "vid.isset (V)"
+      ],
+      "unique_pos_lemmas": [
+        "uideo",
+        "uidisset"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "viso",
+      "stanza_lemma": "visus",
+      "proposed_target": "uideo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "video (V)",
+        "vis.o (N)",
+        "vis.o (N)",
+        "visum (N)",
+        "vis.o (V)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "consuerat",
+      "stanza_lemma": "consuero",
+      "proposed_target": "consuesco",
+      "occurrences": 1,
+      "whitakers_options": [
+        "consuesco (V)",
+        "consu.erat (V)",
+        "consuo (V)",
+        "consuev.erat (V)",
+        "consueo (V)"
+      ],
+      "unique_pos_lemmas": [
+        "consueo",
+        "consuerat",
+        "consuesco",
+        "consueuerat",
+        "consuo"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "tulingi",
+      "stanza_lemma": "tulinga",
+      "proposed_target": "tulingus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "tulingus (N)",
+        "tuling.i (N)",
+        "tuling.i (N)",
+        "tuling.i (N)",
+        "tuling.i (N)"
+      ],
+      "unique_pos_lemmas": [
+        "tulingi",
+        "tulingus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "novissimis",
+      "stanza_lemma": "novitus",
+      "proposed_target": "nouus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "novus (ADJ)",
+        "novissimus (ADJ)",
+        "novissi.mis (ADJ)",
+        "novissi.mis (ADJ)",
+        "novissim.is (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "nouissimis",
+        "nouissimus",
+        "nouus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "receperant",
+      "stanza_lemma": "recipero",
+      "proposed_target": "recipio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "recipio (V)",
+        "recep.erant (V)"
+      ],
+      "unique_pos_lemmas": [
+        "receperant",
+        "recipio"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "conversa",
+      "stanza_lemma": "converdo",
+      "proposed_target": "conuerso",
+      "occurrences": 1,
+      "whitakers_options": [
+        "converso (V)",
+        "converro (V)",
+        "convers.a (V)",
+        "converto (V)",
+        "convertor (V)"
+      ],
+      "unique_pos_lemmas": [
+        "conuerro",
+        "conuersa",
+        "conuerso",
+        "conuerto",
+        "conuertor"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "intulerunt",
+      "stanza_lemma": "intuldo",
+      "proposed_target": "infero",
+      "occurrences": 1,
+      "whitakers_options": [
+        "infero (V)",
+        "infero (V)",
+        "intul.erunt (V)"
+      ],
+      "unique_pos_lemmas": [
+        "infero",
+        "intulerunt"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "aversum",
+      "stanza_lemma": "avorio",
+      "proposed_target": "auerto",
+      "occurrences": 1,
+      "whitakers_options": [
+        "averto (V)",
+        "averro (V)",
+        "avers.um (N)",
+        "avers.um (N)",
+        "avers.um (N)"
+      ],
+      "unique_pos_lemmas": [
+        "auerro",
+        "auerto"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "videre",
+      "stanza_lemma": "vido",
+      "proposed_target": "uideo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "video (V)",
+        "vid.ere (V)",
+        "vid.ere (V)",
+        "vid.ere (V)",
+        "vid.ere (V)"
+      ],
+      "unique_pos_lemmas": [
+        "uideo",
+        "uidere"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "nostrosque",
+      "stanza_lemma": "nosterqui",
+      "proposed_target": "noster",
+      "occurrences": 1,
+      "whitakers_options": [
+        "noster (ADJ)",
+        "noster (N)",
+        "nostr.os (ADJ)",
+        "nostr.os (N)"
+      ],
+      "unique_pos_lemmas": [
+        "noster",
+        "nostros"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "castrisque",
+      "stanza_lemma": "castrisqui",
+      "proposed_target": "castra",
+      "occurrences": 1,
+      "whitakers_options": [
+        "castra (N)",
+        "castr.is (N)",
+        "castr.is (N)",
+        "castr.is (N)",
+        "castr.is (N)"
+      ],
+      "unique_pos_lemmas": [
+        "castra",
+        "castris"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "potiti",
+      "stanza_lemma": "poscum",
+      "proposed_target": "potior",
+      "occurrences": 1,
+      "whitakers_options": [
+        "potior (V)",
+        "potior (V)"
+      ],
+      "unique_pos_lemmas": [
+        "potior"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "filia",
+      "stanza_lemma": "filius",
+      "proposed_target": "filia",
+      "occurrences": 1,
+      "whitakers_options": [
+        "filia (N)",
+        "fili.a (N)",
+        "fili.a (N)",
+        "fili.a (N)"
+      ],
+      "unique_pos_lemmas": [
+        "filia"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "continenter",
+      "stanza_lemma": "contineo",
+      "proposed_target": "continenter",
+      "occurrences": 1,
+      "whitakers_options": [
+        "continenter (ADV)",
+        "continenter (ADV)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "ierunt",
+      "stanza_lemma": "iero",
+      "proposed_target": "eo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "eo (V)",
+        "iv.erunt (V)"
+      ],
+      "unique_pos_lemmas": [
+        "eo",
+        "iuerunt"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "noctis",
+      "stanza_lemma": "noctus",
+      "proposed_target": "nox",
+      "occurrences": 1,
+      "whitakers_options": [
+        "nox (N)",
+        "noct.is (N)",
+        "noct.is (N)"
+      ],
+      "unique_pos_lemmas": [
+        "noctis",
+        "nox"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "quarto",
+      "stanza_lemma": "quartus",
+      "proposed_target": "quattuor",
+      "occurrences": 1,
+      "whitakers_options": [
+        "quattuor (NUM)",
+        "quart.o (NUM)",
+        "quart.o (NUM)",
+        "quart.o (NUM)",
+        "quart.o (NUM)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "occisorum",
+      "stanza_lemma": "occisus",
+      "proposed_target": "occido",
+      "occurrences": 1,
+      "whitakers_options": [
+        "occido (V)",
+        "occisor.um (N)",
+        "occisor (N)"
+      ],
+      "unique_pos_lemmas": [
+        "occisor",
+        "occisorum"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "lingonas",
+      "stanza_lemma": "lingona",
+      "proposed_target": "lingo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "lingo (V)",
+        "ling.o (V)",
+        "n.as (V)",
+        "no (V)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "nuntiosque",
+      "stanza_lemma": "nuntiosqus",
+      "proposed_target": "nuntius",
+      "occurrences": 1,
+      "whitakers_options": [
+        "nuntius (ADJ)",
+        "nuntius (N)",
+        "nunti.os (ADJ)",
+        "nunti.os (N)"
+      ],
+      "unique_pos_lemmas": [
+        "nuntios",
+        "nuntius"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "convenissent",
+      "stanza_lemma": "convenisso",
+      "proposed_target": "conuenio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "convenio (V)",
+        "conven.issent (V)",
+        "convenit (V)"
+      ],
+      "unique_pos_lemmas": [
+        "conuenio",
+        "conuenissent",
+        "conuenit"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "suppliciterque",
+      "stanza_lemma": "suppliciterque",
+      "proposed_target": "suppliciter",
+      "occurrences": 1,
+      "whitakers_options": [
+        "suppliciter (ADV)",
+        "suppliciter (ADV)"
+      ],
+      "unique_pos_lemmas": [
+        "suppliciter"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "petissent",
+      "stanza_lemma": "pesisso",
+      "proposed_target": "peto",
+      "occurrences": 1,
+      "whitakers_options": [
+        "peto (V)",
+        "petiss.ent (V)",
+        "petisso (V)",
+        "petiv.issent (V)"
+      ],
+      "unique_pos_lemmas": [
+        "petissent",
+        "petisso",
+        "petiuissent",
+        "peto"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "egressi",
+      "stanza_lemma": "egridio",
+      "proposed_target": "egredior",
+      "occurrences": 1,
+      "whitakers_options": [
+        "egredior (V)"
+      ],
+      "unique_pos_lemmas": [
+        "egredior"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "finesque",
+      "stanza_lemma": "finisque",
+      "proposed_target": "finis",
+      "occurrences": 1,
+      "whitakers_options": [
+        "finis (N)",
+        "fin.es (N)",
+        "fin.es (N)",
+        "fin.es (N)"
+      ],
+      "unique_pos_lemmas": [
+        "fines",
+        "finis"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "perfugis",
+      "stanza_lemma": "perfux",
+      "proposed_target": "perfugio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "perfugio (V)",
+        "perfug.is (N)",
+        "perfug.is (N)",
+        "perfug.is (N)",
+        "perfuga (N)"
+      ],
+      "unique_pos_lemmas": [
+        "perfuga",
+        "perfugis"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "tulingos",
+      "stanza_lemma": "tulinga",
+      "proposed_target": "tulingus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "tulingus (N)",
+        "tuling.os (N)"
+      ],
+      "unique_pos_lemmas": [
+        "tulingos",
+        "tulingus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "vicosque",
+      "stanza_lemma": "vicosqus",
+      "proposed_target": "uicus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "vicus (N)",
+        "vic.os (N)"
+      ],
+      "unique_pos_lemmas": [
+        "uicos",
+        "uicus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "finitimi",
+      "stanza_lemma": "finio",
+      "proposed_target": "finitimus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "finitimus (N)",
+        "finitimus (ADJ)",
+        "finitim.i (N)",
+        "finitim.i (N)",
+        "finitim.i (N)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "libertatisque",
+      "stanza_lemma": "libertasqus",
+      "proposed_target": "libertas",
+      "occurrences": 1,
+      "whitakers_options": [
+        "libertas (N)",
+        "libertat.is (N)",
+        "libert.atis (V)",
+        "liberto (V)"
+      ],
+      "unique_pos_lemmas": [
+        "libertas",
+        "libertatis"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "tabulis",
+      "stanza_lemma": "tabulus",
+      "proposed_target": "tabula",
+      "occurrences": 1,
+      "whitakers_options": [
+        "tabula (N)",
+        "tabul.is (N)",
+        "tabul.is (N)",
+        "tabul.is (N)"
+      ],
+      "unique_pos_lemmas": [
+        "tabula",
+        "tabulis"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "imperioque",
+      "stanza_lemma": "imperioqus",
+      "proposed_target": "imperium",
+      "occurrences": 1,
+      "whitakers_options": [
+        "imperium (N)",
+        "imperi.o (N)",
+        "imperi.o (N)"
+      ],
+      "unique_pos_lemmas": [
+        "imperio",
+        "imperium"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "potirentur",
+      "stanza_lemma": "possum",
+      "proposed_target": "potior",
+      "occurrences": 1,
+      "whitakers_options": [
+        "potior (V)",
+        "pot.irentur (V)"
+      ],
+      "unique_pos_lemmas": [
+        "potior",
+        "potirentur"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "locumque",
+      "stanza_lemma": "locumqais",
+      "proposed_target": "locus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "locus (N)",
+        "loc.um (N)",
+        "loc.um (N)",
+        "loc.um (N)",
+        "loc.um (N)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "reliquasque",
+      "stanza_lemma": "reliquasque",
+      "proposed_target": "reliquus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "reliquus (ADJ)",
+        "reliqu.as (ADJ)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "petierunt",
+      "stanza_lemma": "petio",
+      "proposed_target": "peto",
+      "occurrences": 1,
+      "whitakers_options": [
+        "peto (V)",
+        "petiv.erunt (V)"
+      ],
+      "unique_pos_lemmas": [
+        "petiuerunt",
+        "peto"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "permissa",
+      "stanza_lemma": "peimitto",
+      "proposed_target": "permitto",
+      "occurrences": 1,
+      "whitakers_options": [
+        "permitto (V)"
+      ],
+      "unique_pos_lemmas": [
+        "permitto"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "petieruntque",
+      "stanza_lemma": "petior",
+      "proposed_target": "peto",
+      "occurrences": 1,
+      "whitakers_options": [
+        "peto (V)",
+        "sum (V)",
+        "pet.i (V)"
+      ],
+      "unique_pos_lemmas": [
+        "peti",
+        "peto",
+        "sum"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "venturos",
+      "stanza_lemma": "ventur",
+      "proposed_target": "uenio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "venio (V)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "arvernis",
+      "stanza_lemma": "arver",
+      "proposed_target": "aruernus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "arvernus (N)",
+        "arvern.is (N)",
+        "arvern.is (N)",
+        "arvern.is (N)"
+      ],
+      "unique_pos_lemmas": [
+        "aruernis",
+        "aruernus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "sequanisque",
+      "stanza_lemma": "sequanisquusqui",
+      "proposed_target": "sequanus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "sequanus (ADJ)",
+        "sequana (N)",
+        "sequanus (N)",
+        "sequan.is (ADJ)",
+        "sequan.is (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "sequanis",
+        "sequanus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "plures",
+      "stanza_lemma": "multus",
+      "proposed_target": "plus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "plus (ADJ)",
+        "plur.es (ADJ)",
+        "plur.es (ADJ)",
+        "plur.es (ADJ)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "pulsos",
+      "stanza_lemma": "pulto",
+      "proposed_target": "pello",
+      "occurrences": 1,
+      "whitakers_options": [
+        "pello (V)"
+      ],
+      "unique_pos_lemmas": [
+        "pello"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "calamitatibusque",
+      "stanza_lemma": "calamito",
+      "proposed_target": "calamitas",
+      "occurrences": 1,
+      "whitakers_options": [
+        "calamitas (N)",
+        "calamitat.ibus (N)",
+        "calamitat.ibus (N)",
+        "calamitat.ibus (N)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "repetituros",
+      "stanza_lemma": "repito",
+      "proposed_target": "repeto",
+      "occurrences": 1,
+      "whitakers_options": [
+        "repeto (V)"
+      ],
+      "unique_pos_lemmas": [
+        "repeto"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "romam",
+      "stanza_lemma": "romo",
+      "proposed_target": "roma",
+      "occurrences": 1,
+      "whitakers_options": [
+        "roma (N)",
+        "rom.am (N)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "aderant",
+      "stanza_lemma": "adero",
+      "proposed_target": "adsum",
+      "occurrences": 1,
+      "whitakers_options": [
+        "adsum (V)",
+        "adsum (V)",
+        "ad.erant (V)",
+        "assum (V)"
+      ],
+      "unique_pos_lemmas": [
+        "aderant",
+        "adsum",
+        "assum"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "capite",
+      "stanza_lemma": "capitus",
+      "proposed_target": "capio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "capio (V)",
+        "capit.e (N)",
+        "capit.e (N)",
+        "capit.e (N)",
+        "caput (N)"
+      ],
+      "unique_pos_lemmas": [
+        "capite",
+        "caput"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "quaesiit",
+      "stanza_lemma": "quaesco",
+      "proposed_target": "quaero",
+      "occurrences": 1,
+      "whitakers_options": [
+        "quaero (V)",
+        "quaesiv.it (V)"
+      ],
+      "unique_pos_lemmas": [
+        "quaero",
+        "quaesiuit"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "ullam",
+      "stanza_lemma": "ulllus",
+      "proposed_target": "ullus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "ullus (ADJ)",
+        "ull.am (ADJ)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "vocem",
+      "stanza_lemma": "vocus",
+      "proposed_target": "uoco",
+      "occurrences": 1,
+      "whitakers_options": [
+        "voco (V)",
+        "voc.em (N)",
+        "vox (N)",
+        "voc.em (V)"
+      ],
+      "unique_pos_lemmas": [
+        "uocem",
+        "uox"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "divideret",
+      "stanza_lemma": "divo",
+      "proposed_target": "divido",
+      "occurrences": 1,
+      "whitakers_options": [
+        "divido (V)",
+        "divid.eret (V)"
+      ],
+      "unique_pos_lemmas": [
+        "diuideret",
+        "diuido"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "videretur",
+      "stanza_lemma": "vido",
+      "proposed_target": "uideo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "video (V)",
+        "vid.eretur (V)"
+      ],
+      "unique_pos_lemmas": [
+        "uideo",
+        "uideretur"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "venturum",
+      "stanza_lemma": "vo",
+      "proposed_target": "uenio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "venio (V)"
+      ],
+      "unique_pos_lemmas": [
+        "uenio"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "sequanisque",
+      "stanza_lemma": "sequanisque",
+      "proposed_target": "sequana",
+      "occurrences": 1,
+      "whitakers_options": [
+        "sequana (N)",
+        "sequanus (N)",
+        "sequanus (ADJ)",
+        "sequan.is (N)",
+        "sequan.is (N)"
+      ],
+      "unique_pos_lemmas": [
+        "sequana",
+        "sequanis",
+        "sequanus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "ceterosque",
+      "stanza_lemma": "ceterosqui",
+      "proposed_target": "ceterus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "ceterus (ADJ)",
+        "ceter.os (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "ceteros",
+        "ceterus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "inlaturum",
+      "stanza_lemma": "inlatuo",
+      "proposed_target": "infero",
+      "occurrences": 1,
+      "whitakers_options": [
+        "infero (V)"
+      ],
+      "unique_pos_lemmas": [
+        "infero"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "convenisset",
+      "stanza_lemma": "convenisco",
+      "proposed_target": "conuenio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "convenio (V)",
+        "conven.isset (V)",
+        "convenit (V)"
+      ],
+      "unique_pos_lemmas": [
+        "conuenio",
+        "conuenisset",
+        "conuenit"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "stipendiumque",
+      "stanza_lemma": "stipendiumque",
+      "proposed_target": "stipendium",
+      "occurrences": 1,
+      "whitakers_options": [
+        "stipendium (N)",
+        "stipendi.um (N)",
+        "stipendi.um (N)",
+        "stipendi.um (N)",
+        "stipendi.um (N)"
+      ],
+      "unique_pos_lemmas": [
+        "stipendium"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "afuturum",
+      "stanza_lemma": "afutor",
+      "proposed_target": "absum",
+      "occurrences": 1,
+      "whitakers_options": [
+        "absum (V)",
+        "apsum (V)"
+      ],
+      "unique_pos_lemmas": [
+        "absum",
+        "apsum"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "neglecturum",
+      "stanza_lemma": "neglectus",
+      "proposed_target": "neglego",
+      "occurrences": 1,
+      "whitakers_options": [
+        "neglego (V)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "congrederetur",
+      "stanza_lemma": "congredo",
+      "proposed_target": "congredior",
+      "occurrences": 1,
+      "whitakers_options": [
+        "congredior (V)",
+        "congred.eretur (V)"
+      ],
+      "unique_pos_lemmas": [
+        "congrederetur",
+        "congredior"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "subissent",
+      "stanza_lemma": "subsum",
+      "proposed_target": "subeo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "subeo (V)",
+        "subiv.issent (V)"
+      ],
+      "unique_pos_lemmas": [
+        "subeo",
+        "subiuissent"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "nasuam",
+      "stanza_lemma": "nasua",
+      "proposed_target": "suus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "suus (ADJ)",
+        "n.a (V)",
+        "no (V)",
+        "su.am (ADJ)",
+        "su.am (V)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "commotus",
+      "stanza_lemma": "commo",
+      "proposed_target": "commoueo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "commoveo (V)",
+        "commot.us (N)",
+        "commot.us (N)",
+        "commot.us (N)",
+        "commot.us (N)"
+      ],
+      "unique_pos_lemmas": [
+        "commoueo"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "usui",
+      "stanza_lemma": "usuus",
+      "proposed_target": "usus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "usus (N)",
+        "us.ui (N)"
+      ],
+      "unique_pos_lemmas": [
+        "usui",
+        "usus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "idque",
+      "stanza_lemma": "idque",
+      "proposed_target": "is",
+      "occurrences": 1,
+      "whitakers_options": [
+        "is (PRON)",
+        "i.d (PRON)",
+        "i.d (PRON)",
+        "id (N)",
+        "id (N)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "diurnisque",
+      "stanza_lemma": "diurnusque",
+      "proposed_target": "diurnus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "diurnus (ADJ)",
+        "diurn.is (ADJ)",
+        "diurn.is (ADJ)",
+        "diurn.is (N)",
+        "diurn.is (N)"
+      ],
+      "unique_pos_lemmas": [
+        "diurnis",
+        "diurnus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "occupatoque",
+      "stanza_lemma": "occupatoqus",
+      "proposed_target": "occupo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "occupo (V)",
+        "occup.ato (V)",
+        "occup.ato (V)",
+        "occupat.o (ADJ)",
+        "occupat.o (ADJ)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "animosque",
+      "stanza_lemma": "animosqus",
+      "proposed_target": "animus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "animus (N)",
+        "anim.os (N)"
+      ],
+      "unique_pos_lemmas": [
+        "animos",
+        "animus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "reliquisque",
+      "stanza_lemma": "reliqui",
+      "proposed_target": "reliquus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "reliquus (ADJ)",
+        "reliqu.is (N)",
+        "reliqu.is (N)",
+        "reliqu.is (N)",
+        "reliquum (N)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "inlata",
+      "stanza_lemma": "inlascor",
+      "proposed_target": "infero",
+      "occurrences": 1,
+      "whitakers_options": [
+        "infero (V)"
+      ],
+      "unique_pos_lemmas": [
+        "infero"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "vitarent",
+      "stanza_lemma": "vitaro",
+      "proposed_target": "uito",
+      "occurrences": 1,
+      "whitakers_options": [
+        "vito (V)",
+        "vit.arent (V)"
+      ],
+      "unique_pos_lemmas": [
+        "uitarent",
+        "uito"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "familiaribus",
+      "stanza_lemma": "familias",
+      "proposed_target": "familiaris",
+      "occurrences": 1,
+      "whitakers_options": [
+        "familiaris (ADJ)",
+        "familiaris (N)",
+        "familiar.ibus (ADJ)",
+        "familiar.ibus (ADJ)",
+        "familiar.ibus (N)"
+      ],
+      "unique_pos_lemmas": [
+        "familiaribus",
+        "familiaris"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "quique",
+      "stanza_lemma": "quique",
+      "proposed_target": "qui",
+      "occurrences": 1,
+      "whitakers_options": [
+        "qui (V)",
+        "qui (ADV)",
+        "qui (ADV)",
+        "qu.i (PRON)",
+        "qu.i (PRON)"
+      ],
+      "unique_pos_lemmas": [
+        "qui"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "praeerant",
+      "stanza_lemma": "praeero",
+      "proposed_target": "praesum",
+      "occurrences": 1,
+      "whitakers_options": [
+        "praesum (V)",
+        "prae.erant (V)"
+      ],
+      "unique_pos_lemmas": [
+        "praeerant",
+        "praesum"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "frumentariam",
+      "stanza_lemma": "frumentaris",
+      "proposed_target": "frumentarius",
+      "occurrences": 1,
+      "whitakers_options": [
+        "frumentarius (ADJ)",
+        "frumentari.am (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "frumentariam",
+        "frumentarius"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "laturos",
+      "stanza_lemma": "laturus",
+      "proposed_target": "fero",
+      "occurrences": 1,
+      "whitakers_options": [
+        "fero (V)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "vertisset",
+      "stanza_lemma": "vero",
+      "proposed_target": "uerto",
+      "occurrences": 1,
+      "whitakers_options": [
+        "verto (V)",
+        "vert.isset (V)"
+      ],
+      "unique_pos_lemmas": [
+        "uertisset",
+        "uerto"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "consule",
+      "stanza_lemma": "consulus",
+      "proposed_target": "consul",
+      "occurrences": 1,
+      "whitakers_options": [
+        "consul (N)",
+        "consulo (V)",
+        "consul.e (N)",
+        "consul.e (N)",
+        "consul.e (N)"
+      ],
+      "unique_pos_lemmas": [
+        "consul",
+        "consule"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "cupidissime",
+      "stanza_lemma": "cupus",
+      "proposed_target": "cupidus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "cupidus (ADJ)",
+        "cupidissime (ADV)",
+        "cupide (ADV)",
+        "cupidissi.me (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "cupide",
+        "cupidissime"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "adpetisse",
+      "stanza_lemma": "adpisceo",
+      "proposed_target": "adpeto",
+      "occurrences": 1,
+      "whitakers_options": [
+        "adpeto (V)",
+        "adpetiss.e (V)",
+        "adpetisso (V)",
+        "adpetiv.isse (V)"
+      ],
+      "unique_pos_lemmas": [
+        "adpetisse",
+        "adpetisso",
+        "adpetiuisse",
+        "adpeto"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "intulisset",
+      "stanza_lemma": "intulles",
+      "proposed_target": "infero",
+      "occurrences": 1,
+      "whitakers_options": [
+        "infero (V)",
+        "infero (V)",
+        "intul.isset (V)"
+      ],
+      "unique_pos_lemmas": [
+        "infero",
+        "intulisset"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "plerumque",
+      "stanza_lemma": "plerusque",
+      "proposed_target": "plerus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "plerus (ADJ)",
+        "plerumque (ADV)",
+        "plerumque (ADV)",
+        "pler.um (ADJ)",
+        "pler.um (ADJ)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "laturi",
+      "stanza_lemma": "lateo",
+      "proposed_target": "fero",
+      "occurrences": 1,
+      "whitakers_options": [
+        "fero (V)"
+      ],
+      "unique_pos_lemmas": [
+        "fero"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "defuisse",
+      "stanza_lemma": "disum",
+      "proposed_target": "desum",
+      "occurrences": 1,
+      "whitakers_options": [
+        "desum (V)",
+        "desum (V)",
+        "defu.isse (V)"
+      ],
+      "unique_pos_lemmas": [
+        "defuisse",
+        "desum"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "conlaturus",
+      "stanza_lemma": "conlaro",
+      "proposed_target": "confero",
+      "occurrences": 1,
+      "whitakers_options": [
+        "confero (V)"
+      ],
+      "unique_pos_lemmas": [
+        "confero"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "decima",
+      "stanza_lemma": "decimus",
+      "proposed_target": "decem",
+      "occurrences": 1,
+      "whitakers_options": [
+        "decem (NUM)",
+        "decim.a (NUM)",
+        "decim.a (NUM)",
+        "decim.a (NUM)",
+        "decim.a (NUM)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "iturum",
+      "stanza_lemma": "iturus",
+      "proposed_target": "eo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "eo (V)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "cohortem",
+      "stanza_lemma": "cohor",
+      "proposed_target": "cohorto",
+      "occurrences": 1,
+      "whitakers_options": [
+        "cohorto (V)",
+        "cohort.em (N)",
+        "cohors (N)",
+        "cohort.em (V)"
+      ],
+      "unique_pos_lemmas": [
+        "cohors",
+        "cohortem"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "summaque",
+      "stanza_lemma": "summaqus",
+      "proposed_target": "summus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "summus (ADJ)",
+        "sum.ma (ADJ)",
+        "sum.ma (ADJ)",
+        "sum.ma (ADJ)",
+        "sum.ma (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "summa",
+        "summus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "existimavisse",
+      "stanza_lemma": "exsistimo",
+      "proposed_target": "existimo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "existimo (V)",
+        "existimav.isse (V)"
+      ],
+      "unique_pos_lemmas": [
+        "existimauisse",
+        "existimo"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "magnamque",
+      "stanza_lemma": "magnamquus",
+      "proposed_target": "magnus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "magnus (ADJ)",
+        "magn.am (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "magnam",
+        "magnus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "citroque",
+      "stanza_lemma": "citeroque",
+      "proposed_target": "citrus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "citrus (N)",
+        "citrus (N)",
+        "citro (ADV)",
+        "citro (ADV)",
+        "citr.o (N)"
+      ],
+      "unique_pos_lemmas": [
+        "citro"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "venturum",
+      "stanza_lemma": "ventus",
+      "proposed_target": "uenio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "venio (V)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "venerunt",
+      "stanza_lemma": "venero",
+      "proposed_target": "uenio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "venio (V)",
+        "ven.erunt (V)"
+      ],
+      "unique_pos_lemmas": [
+        "uenerunt",
+        "uenio"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "denos",
+      "stanza_lemma": "denus",
+      "proposed_target": "decem",
+      "occurrences": 1,
+      "whitakers_options": [
+        "decem (NUM)",
+        "den.os (NUM)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "ventum",
+      "stanza_lemma": "vo",
+      "proposed_target": "uenio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "venio (V)",
+        "ventus (N)",
+        "vent.um (N)"
+      ],
+      "unique_pos_lemmas": [
+        "uenio"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "senatusque",
+      "stanza_lemma": "senatusqus",
+      "proposed_target": "senatus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "senatus (N)",
+        "senatus (ADJ)",
+        "senat.us (N)",
+        "senat.us (N)",
+        "senat.us (N)"
+      ],
+      "unique_pos_lemmas": [
+        "senatus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "attulissent",
+      "stanza_lemma": "atfero",
+      "proposed_target": "affero",
+      "occurrences": 1,
+      "whitakers_options": [
+        "affero (V)",
+        "attul.issent (V)"
+      ],
+      "unique_pos_lemmas": [
+        "affero",
+        "attulissent"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "dederat",
+      "stanza_lemma": "dedero",
+      "proposed_target": "do",
+      "occurrences": 1,
+      "whitakers_options": [
+        "do (V)",
+        "ded.erat (V)"
+      ],
+      "unique_pos_lemmas": [
+        "dederat",
+        "do"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "postulata",
+      "stanza_lemma": "poltulo",
+      "proposed_target": "postulo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "postulo (V)",
+        "postulat.a (N)",
+        "postulat.a (N)",
+        "postulat.a (N)",
+        "postulatum (N)"
+      ],
+      "unique_pos_lemmas": [
+        "postulo"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "propinquosque",
+      "stanza_lemma": "propinquosqus",
+      "proposed_target": "propinquus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "propinquus (ADJ)",
+        "propinquus (N)",
+        "propinqu.os (ADJ)",
+        "propinqu.os (N)"
+      ],
+      "unique_pos_lemmas": [
+        "propinquos",
+        "propinquus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "intulisse",
+      "stanza_lemma": "intulo",
+      "proposed_target": "infero",
+      "occurrences": 1,
+      "whitakers_options": [
+        "infero (V)",
+        "infero (V)",
+        "intul.isse (V)"
+      ],
+      "unique_pos_lemmas": [
+        "infero",
+        "intulisse"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "pulsas",
+      "stanza_lemma": "pulto",
+      "proposed_target": "pello",
+      "occurrences": 1,
+      "whitakers_options": [
+        "pello (V)",
+        "puls.as (V)",
+        "pulso (V)"
+      ],
+      "unique_pos_lemmas": [
+        "pello",
+        "pulsas",
+        "pulso"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "pependerint",
+      "stanza_lemma": "pependeo",
+      "proposed_target": "pendo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "pendo (V)",
+        "pepend.erint (V)",
+        "pepend.erint (V)",
+        "pepend.erint (V)",
+        "pepend.erint (V)"
+      ],
+      "unique_pos_lemmas": [
+        "pendo",
+        "pependerint"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "petisse",
+      "stanza_lemma": "pesum",
+      "proposed_target": "peto",
+      "occurrences": 1,
+      "whitakers_options": [
+        "peto (V)",
+        "petiss.e (V)",
+        "petisso (V)",
+        "petiv.isse (V)"
+      ],
+      "unique_pos_lemmas": [
+        "petisse",
+        "petisso",
+        "petiuisse",
+        "peto"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "venerit",
+      "stanza_lemma": "venero",
+      "proposed_target": "uenio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "venio (V)",
+        "ven.erit (V)",
+        "ven.erit (V)"
+      ],
+      "unique_pos_lemmas": [
+        "uenerit",
+        "uenio"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "intulerit",
+      "stanza_lemma": "intulo",
+      "proposed_target": "infero",
+      "occurrences": 1,
+      "whitakers_options": [
+        "infero (V)",
+        "infero (V)",
+        "intul.erit (V)",
+        "intul.erit (V)"
+      ],
+      "unique_pos_lemmas": [
+        "infero",
+        "intulerit"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "usos",
+      "stanza_lemma": "usum",
+      "proposed_target": "utor",
+      "occurrences": 1,
+      "whitakers_options": [
+        "utor (V)"
+      ],
+      "unique_pos_lemmas": [
+        "utor"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "optime",
+      "stanza_lemma": "melius",
+      "proposed_target": "bonus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "bonus (ADJ)",
+        "optime (ADV)",
+        "bene (ADV)",
+        "opti.me (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "bene",
+        "optime"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "potius",
+      "stanza_lemma": "pote",
+      "proposed_target": "potior",
+      "occurrences": 1,
+      "whitakers_options": [
+        "potior (ADJ)",
+        "potius (ADV)",
+        "potius (ADV)",
+        "poti.us (ADJ)",
+        "poti.us (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "potius"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "quodque",
+      "stanza_lemma": "quisquis",
+      "proposed_target": "quod",
+      "occurrences": 1,
+      "whitakers_options": [
+        "quod (ADV)",
+        "quod (ADV)",
+        "quod (CONJ)",
+        "quod (CONJ)",
+        "qu.od (PRON)"
+      ],
+      "unique_pos_lemmas": [
+        "quod"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "telaque",
+      "stanza_lemma": "telaqum",
+      "proposed_target": "tela",
+      "occurrences": 1,
+      "whitakers_options": [
+        "tela (N)",
+        "tel.a (N)",
+        "tel.a (N)",
+        "tel.a (N)",
+        "tel.a (N)"
+      ],
+      "unique_pos_lemmas": [
+        "tela"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "suisque",
+      "stanza_lemma": "sui",
+      "proposed_target": "suus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "suus (N)",
+        "suus (ADJ)",
+        "su.is (N)",
+        "su.is (N)",
+        "su.is (N)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "telum",
+      "stanza_lemma": "telus",
+      "proposed_target": "telis",
+      "occurrences": 1,
+      "whitakers_options": [
+        "telis (N)",
+        "tel.um (N)",
+        "tel.um (N)",
+        "tel.um (N)",
+        "telum (N)"
+      ],
+      "unique_pos_lemmas": [
+        "telis",
+        "telum"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "circumventos",
+      "stanza_lemma": "circumvens",
+      "proposed_target": "circumuenio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "circumvenio (V)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "elatum",
+      "stanza_lemma": "elo",
+      "proposed_target": "effero",
+      "occurrences": 1,
+      "whitakers_options": [
+        "effero (V)",
+        "elat.um (ADJ)",
+        "elat.um (ADJ)",
+        "elat.um (ADJ)",
+        "elat.um (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "effero"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "studiumque",
+      "stanza_lemma": "studiumque",
+      "proposed_target": "studium",
+      "occurrences": 1,
+      "whitakers_options": [
+        "studium (N)",
+        "studi.um (N)",
+        "studi.um (N)",
+        "studi.um (N)"
+      ],
+      "unique_pos_lemmas": [
+        "studium"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "visa",
+      "stanza_lemma": "vido",
+      "proposed_target": "uideo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "video (V)",
+        "viso (V)",
+        "vis.a (N)",
+        "vis.a (N)",
+        "vis.a (N)"
+      ],
+      "unique_pos_lemmas": [
+        "uideo",
+        "uiso"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "coicerent",
+      "stanza_lemma": "coicero",
+      "proposed_target": "coicio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "coicio (V)",
+        "coic.erent (V)"
+      ],
+      "unique_pos_lemmas": [
+        "coicerent",
+        "coicio"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "feris",
+      "stanza_lemma": "fer",
+      "proposed_target": "ferus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "ferus (N)",
+        "ferus (ADJ)",
+        "fer.is (N)",
+        "fer.is (N)",
+        "fer.is (N)"
+      ],
+      "unique_pos_lemmas": [
+        "feris",
+        "ferus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "valerii",
+      "stanza_lemma": "valeria",
+      "proposed_target": "ualerius",
+      "occurrences": 1,
+      "whitakers_options": [
+        "valerius (N)",
+        "valerius (ADJ)",
+        "valeri.i (N)",
+        "valeri.i (N)",
+        "valeri.i (N)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "coniecit",
+      "stanza_lemma": "coniicio",
+      "proposed_target": "conicio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "conicio (V)",
+        "coniec.it (V)",
+        "conjicio (V)"
+      ],
+      "unique_pos_lemmas": [
+        "conicio",
+        "coniecit",
+        "conjicio"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "commeatuque",
+      "stanza_lemma": "commeatue",
+      "proposed_target": "commeatus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "commeatus (N)",
+        "commeo (V)",
+        "commeat.u (N)"
+      ],
+      "unique_pos_lemmas": [
+        "commeatu",
+        "commeatus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "delegerant",
+      "stanza_lemma": "delego",
+      "proposed_target": "deligo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "deligo (V)",
+        "deleg.erant (V)"
+      ],
+      "unique_pos_lemmas": [
+        "delegerant",
+        "deligo"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "celerius",
+      "stanza_lemma": "melero",
+      "proposed_target": "celeriter",
+      "occurrences": 1,
+      "whitakers_options": [
+        "celeriter (ADV)",
+        "celer (ADJ)",
+        "celerius (ADV)",
+        "celeri.us (ADJ)",
+        "celeri.us (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "celeriter",
+        "celerius"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "delegit",
+      "stanza_lemma": "delego",
+      "proposed_target": "deligo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "deligo (V)",
+        "deleg.it (V)"
+      ],
+      "unique_pos_lemmas": [
+        "delegit",
+        "deligo"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "hostibusque",
+      "stanza_lemma": "hostibusqus",
+      "proposed_target": "hostis",
+      "occurrences": 1,
+      "whitakers_options": [
+        "hostis (N)",
+        "host.ibus (N)",
+        "host.ibus (N)",
+        "host.ibus (N)"
+      ],
+      "unique_pos_lemmas": [
+        "hostibus",
+        "hostis"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "inlatis",
+      "stanza_lemma": "inlato",
+      "proposed_target": "infero",
+      "occurrences": 1,
+      "whitakers_options": [
+        "infero (V)"
+      ],
+      "unique_pos_lemmas": [
+        "infero"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "postridie",
+      "stanza_lemma": "postridio",
+      "proposed_target": "postridie",
+      "occurrences": 1,
+      "whitakers_options": [
+        "postridie (ADV)",
+        "postridie (ADV)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "visum",
+      "stanza_lemma": "vido",
+      "proposed_target": "uideo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "video (V)",
+        "visus (N)",
+        "viso (V)",
+        "vis.um (N)",
+        "vis.um (N)"
+      ],
+      "unique_pos_lemmas": [
+        "uideo",
+        "uiso"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "eduxerunt",
+      "stanza_lemma": "edo",
+      "proposed_target": "educo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "educo (V)",
+        "edux.erunt (V)"
+      ],
+      "unique_pos_lemmas": [
+        "educo",
+        "eduxerunt"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "generatimque",
+      "stanza_lemma": "generatimque",
+      "proposed_target": "generatim",
+      "occurrences": 1,
+      "whitakers_options": [
+        "generatim (ADV)",
+        "generatim (ADV)"
+      ],
+      "unique_pos_lemmas": [
+        "generatim"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "nemetes",
+      "stanza_lemma": "nemet",
+      "proposed_target": "ne",
+      "occurrences": 1,
+      "whitakers_options": [
+        "ne (ADV)",
+        "ne (ADV)",
+        "ne (CONJ)",
+        "ne (CONJ)",
+        "met.es (V)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "proficiscentes",
+      "stanza_lemma": "proficisceo",
+      "proposed_target": "proficiscor",
+      "occurrences": 1,
+      "whitakers_options": [
+        "proficiscor (V)"
+      ],
+      "unique_pos_lemmas": [
+        "proficiscor"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "praefecit",
+      "stanza_lemma": "praefacio",
+      "proposed_target": "praeficio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "praeficio (V)",
+        "praefec.it (V)"
+      ],
+      "unique_pos_lemmas": [
+        "praefecit",
+        "praeficio"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "minime",
+      "stanza_lemma": "parue",
+      "proposed_target": "minime",
+      "occurrences": 1,
+      "whitakers_options": [
+        "minime (ADV)",
+        "parvus (ADJ)",
+        "parum (ADV)",
+        "mini.me (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "minime",
+        "parum"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "verterat",
+      "stanza_lemma": "vero",
+      "proposed_target": "uerto",
+      "occurrences": 1,
+      "whitakers_options": [
+        "verto (V)",
+        "vert.erat (V)"
+      ],
+      "unique_pos_lemmas": [
+        "uerterat",
+        "uerto"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "celeriterque",
+      "stanza_lemma": "celeriterque",
+      "proposed_target": "celeriter",
+      "occurrences": 1,
+      "whitakers_options": [
+        "celeriter (ADV)",
+        "celeriter (ADV)"
+      ],
+      "unique_pos_lemmas": [
+        "celeriter"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "gladiorum",
+      "stanza_lemma": "gladium",
+      "proposed_target": "gladius",
+      "occurrences": 1,
+      "whitakers_options": [
+        "gladius (N)",
+        "gladius (N)",
+        "gladi.orum (N)",
+        "gladi.orum (N)"
+      ],
+      "unique_pos_lemmas": [
+        "gladiorum",
+        "gladius"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "complures",
+      "stanza_lemma": "compler",
+      "proposed_target": "complus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "complus (ADJ)",
+        "complus (N)",
+        "complur.es (ADJ)",
+        "complur.es (ADJ)",
+        "complur.es (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "complures",
+        "complus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "pulsa",
+      "stanza_lemma": "pulio",
+      "proposed_target": "pello",
+      "occurrences": 1,
+      "whitakers_options": [
+        "pello (V)",
+        "puls.a (V)",
+        "pulso (V)"
+      ],
+      "unique_pos_lemmas": [
+        "pello",
+        "pulsa",
+        "pulso"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "coniecta",
+      "stanza_lemma": "coniicio",
+      "proposed_target": "conicio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "conicio (V)",
+        "coniect.a (V)",
+        "conjecto (V)",
+        "conjicio (V)"
+      ],
+      "unique_pos_lemmas": [
+        "conicio",
+        "coniecta",
+        "conjecto",
+        "conjicio"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "verterunt",
+      "stanza_lemma": "vero",
+      "proposed_target": "uerto",
+      "occurrences": 1,
+      "whitakers_options": [
+        "verto (V)",
+        "vert.erunt (V)"
+      ],
+      "unique_pos_lemmas": [
+        "uerterunt",
+        "uerto"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "confisi",
+      "stanza_lemma": "confidio",
+      "proposed_target": "confideo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "confideo (V)",
+        "confido (V)"
+      ],
+      "unique_pos_lemmas": [
+        "confideo",
+        "confido"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "eduxerat",
+      "stanza_lemma": "eduxero",
+      "proposed_target": "educo",
+      "occurrences": 1,
+      "whitakers_options": [
+        "educo (V)",
+        "edux.erat (V)"
+      ],
+      "unique_pos_lemmas": [
+        "educo",
+        "eduxerat"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "missam",
+      "stanza_lemma": "missus",
+      "proposed_target": "missa",
+      "occurrences": 1,
+      "whitakers_options": [
+        "missa (N)",
+        "mitto (V)",
+        "miss.am (N)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "catenis",
+      "stanza_lemma": "caten",
+      "proposed_target": "catena",
+      "occurrences": 1,
+      "whitakers_options": [
+        "catena (N)",
+        "caten.is (N)",
+        "caten.is (N)",
+        "caten.is (N)"
+      ],
+      "unique_pos_lemmas": [
+        "catena",
+        "catenis"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "victoria",
+      "stanza_lemma": "victorius",
+      "proposed_target": "uictor",
+      "occurrences": 1,
+      "whitakers_options": [
+        "victor (ADJ)",
+        "victoria (N)",
+        "victor.ia (ADJ)",
+        "victor.ia (ADJ)",
+        "victor.ia (ADJ)"
+      ],
+      "unique_pos_lemmas": [
+        "uictor",
+        "uictoria"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "ereptum",
+      "stanza_lemma": "ersum",
+      "proposed_target": "eripio",
+      "occurrences": 1,
+      "whitakers_options": [
+        "eripio (V)"
+      ],
+      "unique_pos_lemmas": [
+        "eripio"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "metius",
+      "stanza_lemma": "metius",
+      "proposed_target": "ius",
+      "occurrences": 1,
+      "whitakers_options": [
+        "ius (N)",
+        "ius (N)",
+        "ius (N)",
+        "jus (N)"
+      ],
+      "unique_pos_lemmas": [
+        "ius",
+        "jus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "suebi",
+      "stanza_lemma": "sueb",
+      "proposed_target": "suebus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "suebus (N)",
+        "sueb.i (N)",
+        "sueb.i (N)",
+        "sueb.i (N)",
+        "sueb.i (N)"
+      ],
+      "unique_pos_lemmas": [
+        "suebi",
+        "suebus"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "aestate",
+      "stanza_lemma": "aesta",
+      "proposed_target": "aestas",
+      "occurrences": 1,
+      "whitakers_options": [
+        "aestas (N)",
+        "aestat.e (N)",
+        "aestat.e (N)",
+        "aestat.e (N)"
+      ],
+      "unique_pos_lemmas": [
+        "aestas",
+        "aestate"
+      ],
+      "reason_for_review": "low_occurrences"
+    },
+    {
+      "form": "maturius",
+      "stanza_lemma": "maturits",
+      "proposed_target": "maturus",
+      "occurrences": 1,
+      "whitakers_options": [
+        "maturus (ADJ)",
+        "maturi.us (ADJ)",
+        "maturi.us (ADJ)",
+        "maturi.us (ADJ)"
+      ],
+      "unique_pos_lemmas": [],
+      "reason_for_review": "low_occurrences"
+    }
+  ],
+  "skip": [
+    {
+      "form": "sequanis",
+      "stanza_lemma": "sequanis",
+      "proposed_target": "sequana",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "caesaris",
+      "stanza_lemma": "caesaris",
+      "proposed_target": "caesar",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "germanis",
+      "stanza_lemma": "germanis",
+      "proposed_target": "germanus",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "dumnorigem",
+      "stanza_lemma": "dumnorigus",
+      "proposed_target": "dumnorix",
+      "reason": "propn"
+    },
+    {
+      "form": "sui",
+      "stanza_lemma": "sui",
+      "proposed_target": "suus",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "arma",
+      "stanza_lemma": "arma",
+      "proposed_target": "armo",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "dumnorigi",
+      "stanza_lemma": "dumnorigus",
+      "proposed_target": "dumnorix",
+      "reason": "propn"
+    },
+    {
+      "form": "dumnorige",
+      "stanza_lemma": "dumnorigus",
+      "proposed_target": "dumnorix",
+      "reason": "propn"
+    },
+    {
+      "form": "pilis",
+      "stanza_lemma": "pilis",
+      "proposed_target": "pilum",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "senatum",
+      "stanza_lemma": "senatum",
+      "proposed_target": "senatus",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "tanto",
+      "stanza_lemma": "tanto",
+      "proposed_target": "tantus",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "esse",
+      "stanza_lemma": "esse",
+      "proposed_target": "edo",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "itinera",
+      "stanza_lemma": "itinera",
+      "proposed_target": "iter",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "suaque",
+      "stanza_lemma": "sua",
+      "proposed_target": "suus",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "reliquas",
+      "stanza_lemma": "reliquas",
+      "proposed_target": "reliquus",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "vulnera",
+      "stanza_lemma": "vulnera",
+      "proposed_target": "uulnero",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "adventum",
+      "stanza_lemma": "adventum",
+      "proposed_target": "aduentus",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "ariovisto",
+      "stanza_lemma": "ariovisto",
+      "proposed_target": "ariouistus",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "totis",
+      "stanza_lemma": "totis",
+      "proposed_target": "totus",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "angustiasque",
+      "stanza_lemma": "angustias",
+      "proposed_target": "angustia",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "principibusque",
+      "stanza_lemma": "principibus",
+      "proposed_target": "princeps",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "impetumque",
+      "stanza_lemma": "impetum",
+      "proposed_target": "impetus",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "metium",
+      "stanza_lemma": "metium",
+      "proposed_target": "metior",
+      "reason": "original_actually_valid"
+    },
+    {
+      "form": "hiberna",
+      "stanza_lemma": "hiberna",
+      "proposed_target": "hibernus",
+      "reason": "original_actually_valid"
+    }
+  ]
+}

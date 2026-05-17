@@ -271,6 +271,7 @@ export function logAttemptEvent({
   assignmentId,
   attemptId,
   excerptId,
+  textId,
   metadata,
 }) {
   const studentId = getCurrentStudentId({ assignmentId });
@@ -294,6 +295,7 @@ export function logAttemptEvent({
     assignmentId: assignmentId || null,
     attemptId: attemptId || null,
     excerptId: excerptId || null,
+    textId: textId || null,
     metadata: metadata || null,
   };
 
@@ -520,7 +522,7 @@ async function syncEventsToServer(assignmentId, events) {
   // In a production system, you'd batch these into a single call
   for (const event of events) {
     try {
-      await fetch(`${API_BASE_URL}/api/caesar/assignments/event`, {
+      await fetch(`${API_BASE_URL}/api/text/caesar/assignments/event`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({

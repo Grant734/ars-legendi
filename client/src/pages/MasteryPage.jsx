@@ -5,7 +5,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { useNavigate } from "react-router-dom";
-import TextSelector from "../components/TextSelector";
+import TextSelector, { useText } from "../components/TextSelector";
 import {
   getUserState,
 } from "../lib/userState";
@@ -53,17 +53,16 @@ function getLessonKeyForPracticeMode(practiceMode) {
 }
 
 // ============================================================================
-// CANONICAL FILTER: Caesar Vocab Events
-// Single source of truth for what counts as Caesar vocabulary
+// CANONICAL FILTER: Vocab Events (per-text)
+// Single source of truth for what counts as vocabulary for a given text
 // ============================================================================
 
 /**
- * Canonical filter for Caesar vocabulary events.
- * Use this everywhere Caesar vocab data is aggregated.
+ * Canonical filter for vocabulary events for a specific text.
  */
-function isCaesarVocabEvent(event) {
+function isVocabEvent(event, textId) {
   return (
-    event.mode === "caesar_vocab" &&
+    event.mode === `vocab:${textId}` &&
     event.eventType === "answer_submit"
   );
 }
@@ -86,7 +85,7 @@ function isGrammarEvent(event) {
  * Aggregate skills at concept level from raw events.
  * Returns both attempted skills and not-started skills.
  */
-function aggregateConceptSkills(events, userState) {
+function aggregateConceptSkills(events, userState, textId) {
   const skills = {};
   const attemptedConstructions = new Set();
 
@@ -239,7 +238,7 @@ function aggregateConceptSkills(events, userState) {
   }
 
   // Caesar vocabulary - using canonical filter
-  const caesarVocabEvents = events.filter(isCaesarVocabEvent);
+  const caesarVocabEvents = events.filter(e => isVocabEvent(e, textId));
 
   if (caesarVocabEvents.length > 0) {
     // Multiple choice (recognize)
@@ -255,10 +254,10 @@ function aggregateConceptSkills(events, userState) {
       const mcEloRating = mcData?.eloRating || ELO_CONSTANTS.INITIAL_RATING;
       const mcLevel = mcData?.level || ratingToLevel(mcEloRating);
 
-      skills["caesar_vocab_mc"] = {
-        category: "caesar_vocab_mc",
-        name: "Caesar Vocabulary - Multiple Choice",
-        practiceMode: "caesar_vocab",
+      skills[`vocab:${textId}_mc`] = {
+        category: `vocab:${textId}_mc`,
+        name: "Vocabulary - Multiple Choice",
+        practiceMode: `vocab:${textId}`,
         priority: 1,
         totalAttempts: total,
         totalCorrect: correct,
@@ -289,10 +288,10 @@ function aggregateConceptSkills(events, userState) {
       const recallEloRating = recallData?.eloRating || ELO_CONSTANTS.INITIAL_RATING;
       const recallLevel = recallData?.level || ratingToLevel(recallEloRating);
 
-      skills["caesar_vocab_recall"] = {
-        category: "caesar_vocab_recall",
-        name: "Caesar Vocabulary - Written Recall",
-        practiceMode: "caesar_vocab",
+      skills[`vocab:${textId}_recall`] = {
+        category: `vocab:${textId}_recall`,
+        name: "Vocabulary - Written Recall",
+        practiceMode: `vocab:${textId}`,
         priority: 1,
         totalAttempts: total,
         totalCorrect: correct,
@@ -323,10 +322,10 @@ function aggregateConceptSkills(events, userState) {
       const produceEloRating = produceData?.eloRating || ELO_CONSTANTS.INITIAL_RATING;
       const produceLevel = produceData?.level || ratingToLevel(produceEloRating);
 
-      skills["caesar_vocab_produce"] = {
-        category: "caesar_vocab_produce",
-        name: "Caesar Vocabulary - Typing",
-        practiceMode: "caesar_vocab",
+      skills[`vocab:${textId}_produce`] = {
+        category: `vocab:${textId}_produce`,
+        name: "Vocabulary - Typing",
+        practiceMode: `vocab:${textId}`,
         priority: 1,
         totalAttempts: total,
         totalCorrect: correct,
@@ -362,11 +361,11 @@ function aggregateConceptSkills(events, userState) {
   }
 
   // Check if Caesar vocab not started
-  if (!skills["caesar_vocab_mc"] && !skills["caesar_vocab_recall"]) {
+  if (!skills[`vocab:${textId}_mc`] && !skills[`vocab:${textId}_recall`]) {
     notStartedSkills.push({
-      category: "caesar_vocab",
-      name: "Caesar Vocabulary",
-      practiceMode: "caesar_vocab",
+      category: `vocab:${textId}`,
+      name: "Vocabulary",
+      practiceMode: `vocab:${textId}`,
       priority: 1,
       totalAttempts: 0,
       isNotStarted: true,
@@ -473,9 +472,9 @@ function calculateGrammarCoverage(events, userState, constructionCounts = {}) {
  * @param {Array} events - Answer events
  * @param {Object} vocabCountsByChapter - Map of chapter number to total word count from server
  */
-function calculateVocabCoverage(events, vocabCountsByChapter = {}) {
+function calculateVocabCoverage(events, vocabCountsByChapter = {}, textId) {
   // Use canonical filter
-  const caesarVocabEvents = events.filter(isCaesarVocabEvent);
+  const caesarVocabEvents = events.filter(e => isVocabEvent(e, textId));
 
   const byChapter = {};
 
@@ -502,25 +501,31 @@ function calculateVocabCoverage(events, vocabCountsByChapter = {}) {
     }
   }
 
-  // Get all chapters from server counts
+  // Get all chapters from server counts (supports both numeric and string keys)
   const allChapters = Object.keys(vocabCountsByChapter)
-    .map(Number)
-    .filter(n => Number.isFinite(n))
-    .sort((a, b) => a - b);
+    .filter(k => k && k !== "meta")
+    .sort((a, b) => {
+      const na = Number(a), nb = Number(b);
+      if (Number.isFinite(na) && Number.isFinite(nb)) return na - nb;
+      return String(a).localeCompare(String(b));
+    });
 
   // If no server data, use chapters from events
   if (allChapters.length === 0) {
     const eventChapters = Object.keys(byChapter)
-      .map(Number)
-      .filter(n => Number.isFinite(n))
-      .sort((a, b) => a - b);
+      .filter(k => k && k !== "unknown")
+      .sort((a, b) => {
+        const na = Number(a), nb = Number(b);
+        if (Number.isFinite(na) && Number.isFinite(nb)) return na - nb;
+        return String(a).localeCompare(String(b));
+      });
     allChapters.push(...eventChapters);
   }
 
   // Build chapter list with status
   const chapters = allChapters.map((chapter) => {
-    const data = byChapter[chapter];
-    const totalInChapter = vocabCountsByChapter[chapter] || 0;
+    const data = byChapter[String(chapter)] || byChapter[chapter];
+    const totalInChapter = vocabCountsByChapter[String(chapter)] || vocabCountsByChapter[chapter] || 0;
 
     if (!data) {
       // Not started
@@ -651,14 +656,14 @@ function generateNextFocus(attemptedSkills, notStartedSkills) {
 /**
  * Calculate progress over time metrics - using canonical filters.
  */
-function calculateProgressOverTime(events) {
+function calculateProgressOverTime(events, textId) {
   const now = Date.now();
   const dayMs = 24 * 60 * 60 * 1000;
   const weekMs = 7 * dayMs;
 
   // Use canonical filters
   const grammarEvents = events.filter(isGrammarEvent);
-  const vocabEvents = events.filter(isCaesarVocabEvent);
+  const vocabEvents = events.filter(e => isVocabEvent(e, textId));
   const allAnswerEvents = events.filter((e) => e.eventType === "answer_submit");
 
   // Daily activity for last 30 days - three series
@@ -1244,7 +1249,7 @@ function VocabCoverageSection({ chapters, onPractice }) {
  * - Accuracy: Line graph with grammar + vocab (no overall)
  * - Activity: Bar chart showing time spent
  */
-function ProgressOverTimeSection({ progress, events, constructionCounts, vocabCountsByChapter }) {
+function ProgressOverTimeSection({ progress, events, constructionCounts, vocabCountsByChapter, currentTextId }) {
   const [graphMode, setGraphMode] = useState("mastery"); // "mastery" | "accuracy" | "activity"
 
   // Calculate all-time accuracy
@@ -1317,6 +1322,7 @@ function ProgressOverTimeSection({ progress, events, constructionCounts, vocabCo
             events={events}
             constructionCounts={constructionCounts}
             vocabCountsByChapter={vocabCountsByChapter}
+            currentTextId={currentTextId}
           />
         )}
 
@@ -1355,18 +1361,28 @@ function ProgressOverTimeSection({ progress, events, constructionCounts, vocabCo
  * Mastery line graph with Grammar and Vocab lines
  * Mastery = (items mastered) / (total items) - can only increase
  */
-function MasteryLineGraph({ events, constructionCounts, vocabCountsByChapter }) {
+function MasteryLineGraph({ events, constructionCounts, vocabCountsByChapter, currentTextId }) {
   // Calculate total items
   const totalGrammarItems = Object.values(constructionCounts || {}).reduce((a, b) => a + b, 0);
   const totalVocabItems = Object.values(vocabCountsByChapter || {}).reduce((a, b) => a + b, 0);
 
-  // Get all answer events sorted by time
+  // Get all answer events sorted by time, filtered to active text
+  // Grammar events: filter by textId field if present, or by itemId prefix matching text sids
   const grammarEvents = (events || [])
-    .filter((e) => e.eventType === "answer_submit" && e.skillId?.startsWith("grammar:"))
+    .filter((e) => {
+      if (e.eventType !== "answer_submit" || !e.skillId?.startsWith("grammar:")) return false;
+      // If event has textId field, use it
+      if (e.textId) return e.textId === currentTextId;
+      // Otherwise infer from itemId: Pliny sids start with "pliny_", Caesar sids are numeric
+      const itemId = e.itemId || "";
+      if (currentTextId === "pliny") return itemId.startsWith("pliny_");
+      if (currentTextId === "caesar") return !itemId.startsWith("pliny_") && /^\d/.test(itemId);
+      return true;
+    })
     .sort((a, b) => a.timestamp - b.timestamp);
 
   const vocabEvents = (events || [])
-    .filter((e) => e.eventType === "answer_submit" && e.mode === "caesar_vocab")
+    .filter((e) => e.eventType === "answer_submit" && e.mode === `vocab:${currentTextId}`)
     .sort((a, b) => a.timestamp - b.timestamp);
 
   // Build daily mastery data for last 30 days
@@ -1374,12 +1390,17 @@ function MasteryLineGraph({ events, constructionCounts, vocabCountsByChapter }) 
   const dayMs = 24 * 60 * 60 * 1000;
 
   const buildMasteryData = (sortedEvents, totalItems) => {
-    if (totalItems === 0) return [];
+    if (totalItems === 0 || sortedEvents.length === 0) return [];
+
+    // Only show data from the first event date onward
+    const firstEventTime = sortedEvents[0].timestamp;
+    const firstEventDay = Math.floor((now - firstEventTime) / dayMs);
+    const daysToShow = Math.min(29, firstEventDay);
 
     const masteredItems = new Set();
     const dailyData = [];
 
-    for (let i = 29; i >= 0; i--) {
+    for (let i = daysToShow; i >= 0; i--) {
       const dayEnd = now - i * dayMs;
       const dateLabel = new Date(dayEnd - dayMs).toLocaleDateString("en-US", { month: "short", day: "numeric" });
 
@@ -1418,6 +1439,14 @@ function MasteryLineGraph({ events, constructionCounts, vocabCountsByChapter }) 
 
   const grammarPath = buildLinePath(grammarData);
   const vocabPath = buildLinePath(vocabData);
+
+  if (!grammarData.length && !vocabData.length) {
+    return (
+      <div className="text-center py-8 text-gray-500 text-sm">
+        No mastery data yet. Complete some practice to see progress.
+      </div>
+    );
+  }
 
   return (
     <div>
@@ -1699,6 +1728,7 @@ function StrongestSkillsSection({ skills, onPractice }) {
 // ============================================================================
 
 export default function MasteryPage() {
+  const { currentTextId, currentText } = useText();
   const navigate = useNavigate();
   const [userState, setUserState] = useState(null);
   const [events, setEvents] = useState([]);
@@ -1717,7 +1747,7 @@ export default function MasteryPage() {
     setLoading(false);
 
     // Fetch construction counts from server
-    fetch(`${API_BASE_URL}/api/caesar/constructionCounts`)
+    fetch(`${API_BASE_URL}/api/text/${currentTextId}/constructionCounts`)
       .then((res) => res.json())
       .then((data) => {
         if (data.ok && data.counts) {
@@ -1727,7 +1757,7 @@ export default function MasteryPage() {
       .catch(() => {});
 
     // Fetch vocab counts from server
-    fetch(`${API_BASE_URL}/api/caesar/vocabCounts`)
+    fetch(`${API_BASE_URL}/api/text/${currentTextId}/vocabCounts`)
       .then((res) => res.json())
       .then((data) => {
         if (data.ok && data.byChapter) {
@@ -1735,7 +1765,7 @@ export default function MasteryPage() {
         }
       })
       .catch(() => {});
-  }, []);
+  }, [currentTextId]);
 
   // Compute aggregated data
   const {
@@ -1758,7 +1788,7 @@ export default function MasteryPage() {
     }
 
     // Aggregate at concept level
-    const { skills, notStartedSkills: notStarted } = aggregateConceptSkills(events, userState);
+    const { skills, notStartedSkills: notStarted } = aggregateConceptSkills(events, userState, currentTextId);
 
     // Sort skills list
     const skillsList = Object.values(skills);
@@ -1854,10 +1884,10 @@ export default function MasteryPage() {
 
     // Coverage - now with server counts
     const grammar = calculateGrammarCoverage(events, userState, constructionCounts);
-    const vocab = calculateVocabCoverage(events, vocabCountsByChapter);
+    const vocab = calculateVocabCoverage(events, vocabCountsByChapter, currentTextId);
 
     // Progress
-    const progress = calculateProgressOverTime(events);
+    const progress = calculateProgressOverTime(events, currentTextId);
 
     // Generate "Your Next Focus" recommendation
     const focus = generateNextFocus(skillsList, notStartedSorted);
@@ -1874,8 +1904,8 @@ export default function MasteryPage() {
 
   // Handle practice launch
   const handlePractice = (skill) => {
-    if (skill.practiceMode === "caesar_vocab") {
-      navigate("/CaesarDBG1");
+    if (skill.practiceMode?.startsWith("vocab:")) {
+      navigate("/vocab");
     } else {
       navigate(`/grammar-practice?mode=${skill.practiceMode}`);
     }
@@ -1883,8 +1913,8 @@ export default function MasteryPage() {
 
   // Handle start for not-started skills - go to lesson first for grammar
   const handleStart = (skill) => {
-    if (skill.practiceMode === "caesar_vocab") {
-      navigate("/CaesarDBG1");
+    if (skill.practiceMode?.startsWith("vocab:")) {
+      navigate("/vocab");
     } else {
       // For grammar skills, direct to the lesson page first so they can learn before practicing
       const lessonKey = getLessonKeyForPracticeMode(skill.practiceMode);
@@ -1995,15 +2025,15 @@ export default function MasteryPage() {
         )}
       </div>
 
-      {/* Caesar Vocabulary Coverage - Expandable with total stats */}
+      {/* Vocabulary Coverage - Expandable with total stats */}
       <div className="mb-8 bg-white rounded-lg border p-6">
-        <h2 className="text-xl font-bold mb-2">Caesar Vocabulary Coverage</h2>
+        <h2 className="text-xl font-bold mb-2">Vocabulary Coverage</h2>
         <p className="text-gray-600 text-sm mb-4">
-          Track your vocabulary progress across all chapters. Click any chapter to practice.
+          Track your vocabulary progress. Click any {currentText?.unitName || "section"} to practice.
         </p>
 
         {vocabCoverage.all?.length === 0 ? (
-          <p className="text-gray-500">Start Caesar vocabulary practice to track coverage.</p>
+          <p className="text-gray-500">Start vocabulary practice to track coverage.</p>
         ) : (
           <VocabCoverageSection
             chapters={vocabCoverage.all || []}
@@ -2020,6 +2050,7 @@ export default function MasteryPage() {
             events={events}
             constructionCounts={constructionCounts}
             vocabCountsByChapter={vocabCountsByChapter}
+            currentTextId={currentTextId}
           />
         </div>
       )}

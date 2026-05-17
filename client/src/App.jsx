@@ -36,6 +36,7 @@ function App() {
           <main className={isHome ? '' : 'pt-6 pb-12'}>
             <div className={isHome ? '' : 'max-w-7xl mx-auto px-6'}>
               <Routes>
+              <Route path="/vocab" element={<CaesarDBG1 />} />
               <Route path="/CaesarDBG1" element={<CaesarDBG1 />} />
               <Route path="/" element={<Home />} />
               <Route path="/blog" element={<Blog />} />

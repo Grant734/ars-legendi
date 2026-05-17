@@ -1,0 +1,4466 @@
+{
+  "summary": {
+    "unique_pairs_checked": 2956,
+    "matches": 2158,
+    "corrections_proposed": 336,
+    "whitakers_unknown": 38,
+    "skipped_propn": 3,
+    "skipped_target_not_in_glossary": 421
+  },
+  "corrections": {
+    "castris|castr": {
+      "old": "castr",
+      "new": "castra",
+      "occurrences": 24,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "castra (N)",
+        "castr.is (N)",
+        "castr.is (N)",
+        "castr.is (N)",
+        "castr.is (N)"
+      ]
+    },
+    "helvetii|helvetium": {
+      "old": "helvetium",
+      "new": "heluetius",
+      "occurrences": 22,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "helvetius (N)",
+        "helvetius (ADJ)",
+        "helveti.i (N)",
+        "helveti.i (N)",
+        "helveti.i (N)"
+      ]
+    },
+    "milia|milius": {
+      "old": "milius",
+      "new": "mille",
+      "occurrences": 15,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "mille (N)",
+        "mili.a (N)",
+        "mili.a (N)",
+        "mili.a (N)",
+        "milium (N)"
+      ]
+    },
+    "helvetios|helvetio": {
+      "old": "helvetio",
+      "new": "heluetius",
+      "occurrences": 14,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "helvetius (N)",
+        "helvetius (ADJ)",
+        "helveti.os (N)",
+        "helveti.os (ADJ)"
+      ]
+    },
+    "minus|parue": {
+      "old": "parue",
+      "new": "paruus",
+      "occurrences": 14,
+      "upos": "ADV",
+      "whitakers_options": [
+        "parvus (ADJ)",
+        "minus (ADV)",
+        "minus (ADV)",
+        "parum (ADV)",
+        "min.us (ADJ)"
+      ]
+    },
+    "hostium|hostius": {
+      "old": "hostius",
+      "new": "hostis",
+      "occurrences": 14,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "hostis (N)",
+        "hosti.um (N)",
+        "hostia (N)",
+        "host.ium (N)"
+      ]
+    },
+    "helvetiorum|helvetio": {
+      "old": "helvetio",
+      "new": "heluetius",
+      "occurrences": 13,
+      "upos": "VERB",
+      "whitakers_options": [
+        "helvetius (N)",
+        "helvetius (ADJ)",
+        "helveti.orum (N)",
+        "helveti.orum (ADJ)",
+        "helveti.orum (ADJ)"
+      ]
+    },
+    "copias|copus": {
+      "old": "copus",
+      "new": "copia",
+      "occurrences": 13,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "copia (N)",
+        "copi.as (N)"
+      ]
+    },
+    "quam|qui": {
+      "old": "qui",
+      "new": "quam",
+      "occurrences": 11,
+      "upos": "PRON",
+      "whitakers_options": [
+        "quam (ADV)",
+        "quam (ADV)",
+        "quam (CONJ)",
+        "quam (CONJ)",
+        "qu.am (PRON)"
+      ]
+    },
+    "itinere|itinum": {
+      "old": "itinum",
+      "new": "iter",
+      "occurrences": 11,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "iter (N)",
+        "itiner.e (N)",
+        "itiner.e (N)",
+        "itiner.e (N)",
+        "itiner (N)"
+      ]
+    },
+    "hostes|hoss": {
+      "old": "hoss",
+      "new": "hostis",
+      "occurrences": 11,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "hostis (N)",
+        "host.es (N)",
+        "host.es (N)",
+        "host.es (N)"
+      ]
+    },
+    "quod|qui": {
+      "old": "qui",
+      "new": "quod",
+      "occurrences": 10,
+      "upos": "PRON",
+      "whitakers_options": [
+        "quod (ADV)",
+        "quod (ADV)",
+        "quod (CONJ)",
+        "quod (CONJ)",
+        "qu.od (PRON)"
+      ]
+    },
+    "sequanis|sequanis": {
+      "old": "sequanis",
+      "new": "sequana",
+      "occurrences": 9,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "sequana (N)",
+        "sequanus (N)",
+        "sequanus (ADJ)",
+        "sequan.is (N)",
+        "sequan.is (N)"
+      ]
+    },
+    "gallorum|gallum": {
+      "old": "gallum",
+      "new": "gallus",
+      "occurrences": 9,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "gallus (N)",
+        "gallus (N)",
+        "gallus (ADJ)",
+        "gall.orum (N)",
+        "gall.orum (ADJ)"
+      ]
+    },
+    "germani|germanis": {
+      "old": "germanis",
+      "new": "germanus",
+      "occurrences": 9,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "germanus (ADJ)",
+        "germanus (N)",
+        "germanus (N)",
+        "german.i (ADJ)",
+        "german.i (ADJ)"
+      ]
+    },
+    "caesari|caeso": {
+      "old": "caeso",
+      "new": "caesar",
+      "occurrences": 8,
+      "upos": "VERB",
+      "whitakers_options": [
+        "caesar (N)",
+        "caesar.i (N)",
+        "caesar.i (N)"
+      ]
+    },
+    "haedui|haedus": {
+      "old": "haedus",
+      "new": "haeduus",
+      "occurrences": 8,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "haeduus (N)",
+        "haedu.i (N)",
+        "haedu.i (N)",
+        "haedu.i (N)",
+        "haedu.i (N)"
+      ]
+    },
+    "caesarem|caesaris": {
+      "old": "caesaris",
+      "new": "caesar",
+      "occurrences": 8,
+      "upos": "PROPN",
+      "whitakers_options": [
+        "caesar (N)",
+        "caesar.em (N)"
+      ]
+    },
+    "caesaris|caesaris": {
+      "old": "caesaris",
+      "new": "caesar",
+      "occurrences": 7,
+      "upos": "PROPN",
+      "whitakers_options": [
+        "caesar (N)",
+        "caesar.is (N)"
+      ]
+    },
+    "vellet|velleo": {
+      "old": "velleo",
+      "new": "uolo",
+      "occurrences": 6,
+      "upos": "VERB",
+      "whitakers_options": [
+        "volo (V)",
+        "vell.et (V)",
+        "vello (V)",
+        "vello (V)",
+        "vello (V)"
+      ]
+    },
+    "milium|milius": {
+      "old": "milius",
+      "new": "mille",
+      "occurrences": 6,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "mille (N)",
+        "mili.um (N)",
+        "mili.um (N)",
+        "mili.um (N)",
+        "mili.um (N)"
+      ]
+    },
+    "equitatu|equitas": {
+      "old": "equitas",
+      "new": "equitatus",
+      "occurrences": 6,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "equitatus (N)",
+        "equitat.u (N)",
+        "equitat.u (N)",
+        "equito (V)"
+      ]
+    },
+    "gallis|galla": {
+      "old": "galla",
+      "new": "gallus",
+      "occurrences": 6,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "gallus (N)",
+        "gallus (N)",
+        "gallus (ADJ)",
+        "gall.is (N)",
+        "gall.is (N)"
+      ]
+    },
+    "conloquium|conloqui": {
+      "old": "conloqui",
+      "new": "conloquium",
+      "occurrences": 6,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "conloquium (N)",
+        "conloqui.um (N)",
+        "conloqui.um (N)",
+        "conloqui.um (N)"
+      ]
+    },
+    "copiis|copius": {
+      "old": "copius",
+      "new": "copia",
+      "occurrences": 5,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "copia (N)",
+        "copi.is (N)",
+        "copi.is (N)",
+        "copi.is (N)"
+      ]
+    },
+    "agris|agr": {
+      "old": "agr",
+      "new": "ager",
+      "occurrences": 5,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "ager (N)",
+        "agr.is (N)",
+        "agr.is (N)",
+        "agr.is (N)"
+      ]
+    },
+    "itineribus|itieer": {
+      "old": "itieer",
+      "new": "iter",
+      "occurrences": 5,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "iter (N)",
+        "itiner.ibus (N)",
+        "itiner.ibus (N)",
+        "itiner.ibus (N)",
+        "itiner (N)"
+      ]
+    },
+    "vellent|velleo": {
+      "old": "velleo",
+      "new": "uolo",
+      "occurrences": 5,
+      "upos": "VERB",
+      "whitakers_options": [
+        "volo (V)",
+        "vell.ent (V)",
+        "vello (V)",
+        "vello (V)",
+        "vello (V)"
+      ]
+    },
+    "milibus|milis": {
+      "old": "milis",
+      "new": "mille",
+      "occurrences": 5,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "mille (N)",
+        "mil.ibus (N)",
+        "mil.ibus (N)",
+        "mil.ibus (N)"
+      ]
+    },
+    "hostibus|hostus": {
+      "old": "hostus",
+      "new": "hostis",
+      "occurrences": 5,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "hostis (N)",
+        "host.ibus (N)",
+        "host.ibus (N)",
+        "host.ibus (N)"
+      ]
+    },
+    "dividit|dico": {
+      "old": "dico",
+      "new": "divido",
+      "occurrences": 4,
+      "upos": "VERB",
+      "whitakers_options": [
+        "divido (V)",
+        "divid.it (V)"
+      ]
+    },
+    "germanis|germanis": {
+      "old": "germanis",
+      "new": "germanus",
+      "occurrences": 4,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "germanus (ADJ)",
+        "germanus (N)",
+        "germanus (N)",
+        "german.is (ADJ)",
+        "german.is (ADJ)"
+      ]
+    },
+    "maxime|magne": {
+      "old": "magne",
+      "new": "magnus",
+      "occurrences": 4,
+      "upos": "ADV",
+      "whitakers_options": [
+        "magnus (ADJ)",
+        "maximus (ADJ)",
+        "maxime (ADV)",
+        "maxime (ADV)",
+        "maxi.me (ADJ)"
+      ]
+    },
+    "dumnorigem|dumnorigus": {
+      "old": "dumnorigus",
+      "new": "dumnorix",
+      "occurrences": 4,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "dumnorix (N)",
+        "dumnorig.em (N)"
+      ]
+    },
+    "hostem|hostim": {
+      "old": "hostim",
+      "new": "hostis",
+      "occurrences": 4,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "hostis (N)",
+        "host.em (N)"
+      ]
+    },
+    "diutius|diute": {
+      "old": "diute",
+      "new": "diu",
+      "occurrences": 4,
+      "upos": "ADV",
+      "whitakers_options": [
+        "diu (ADV)",
+        "diutius (ADV)"
+      ]
+    },
+    "equitatui|equitas": {
+      "old": "equitas",
+      "new": "equitatus",
+      "occurrences": 4,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "equitatus (N)",
+        "equitat.ui (N)"
+      ]
+    },
+    "galliae|gallias": {
+      "old": "gallias",
+      "new": "gallia",
+      "occurrences": 4,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "gallia (N)",
+        "galli.ae (N)",
+        "galli.ae (N)",
+        "galli.ae (N)",
+        "galli.ae (N)"
+      ]
+    },
+    "sui|sui": {
+      "old": "sui",
+      "new": "suus",
+      "occurrences": 4,
+      "upos": "PRON",
+      "whitakers_options": [
+        "suus (N)",
+        "suus (ADJ)",
+        "s.ui (PRON)",
+        "su.i (N)",
+        "su.i (N)"
+      ]
+    },
+    "consulibus|consulus": {
+      "old": "consulus",
+      "new": "consul",
+      "occurrences": 3,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "consul (N)",
+        "consul.ibus (N)",
+        "consul.ibus (N)",
+        "consul.ibus (N)"
+      ]
+    },
+    "facilius|faciliter": {
+      "old": "faciliter",
+      "new": "facilis",
+      "occurrences": 3,
+      "upos": "ADV",
+      "whitakers_options": [
+        "facilis (ADJ)",
+        "facilius (ADV)",
+        "facile (ADV)",
+        "facili.us (ADJ)",
+        "facili.us (ADJ)"
+      ]
+    },
+    "agrum|agrus": {
+      "old": "agrus",
+      "new": "ager",
+      "occurrences": 3,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "ager (N)",
+        "agr.um (N)"
+      ]
+    },
+    "orgetorigis|orgetorigus": {
+      "old": "orgetorigus",
+      "new": "orgetorix",
+      "occurrences": 3,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "orgetorix (N)",
+        "orgetorig.is (N)",
+        "orgetorig.is (N)"
+      ]
+    },
+    "pulsis|pulto": {
+      "old": "pulto",
+      "new": "pello",
+      "occurrences": 3,
+      "upos": "VERB",
+      "whitakers_options": [
+        "pello (V)"
+      ]
+    },
+    "eorumque|idem": {
+      "old": "idem",
+      "new": "is",
+      "occurrences": 3,
+      "upos": "DET",
+      "whitakers_options": [
+        "is (PRON)",
+        "e.orum (PRON)",
+        "e.orum (PRON)"
+      ]
+    },
+    "romano|romanum": {
+      "old": "romanum",
+      "new": "romanus",
+      "occurrences": 3,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "romanus (N)",
+        "romanus (ADJ)",
+        "roman.o (N)",
+        "roman.o (N)",
+        "roman.o (ADJ)"
+      ]
+    },
+    "equitatumque|equitas": {
+      "old": "equitas",
+      "new": "equitatus",
+      "occurrences": 3,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "equitatus (N)",
+        "equitat.um (N)",
+        "equitat.um (N)",
+        "equito (V)"
+      ]
+    },
+    "equitibus|equitus": {
+      "old": "equitus",
+      "new": "eques",
+      "occurrences": 3,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "eques (N)",
+        "equit.ibus (N)",
+        "equit.ibus (N)",
+        "equit.ibus (N)"
+      ]
+    },
+    "equitum|equitus": {
+      "old": "equitus",
+      "new": "eques",
+      "occurrences": 3,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "eques (N)",
+        "equit.um (N)"
+      ]
+    },
+    "praeerat|praeero": {
+      "old": "praeero",
+      "new": "praesum",
+      "occurrences": 3,
+      "upos": "VERB",
+      "whitakers_options": [
+        "praesum (V)",
+        "prae.erat (V)"
+      ]
+    },
+    "pluribus|multus": {
+      "old": "multus",
+      "new": "plus",
+      "occurrences": 3,
+      "upos": "DET",
+      "whitakers_options": [
+        "plus (N)",
+        "plus (ADJ)",
+        "plur.ibus (N)",
+        "plur.ibus (N)",
+        "plur.ibus (N)"
+      ]
+    },
+    "quarta|quartus": {
+      "old": "quartus",
+      "new": "quattuor",
+      "occurrences": 3,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "quattuor (NUM)",
+        "quart.a (NUM)",
+        "quart.a (NUM)",
+        "quart.a (NUM)",
+        "quart.a (NUM)"
+      ]
+    },
+    "frumentariae|frumentaris": {
+      "old": "frumentaris",
+      "new": "frumentarius",
+      "occurrences": 3,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "frumentarius (ADJ)",
+        "frumentari.ae (ADJ)",
+        "frumentari.ae (ADJ)",
+        "frumentari.ae (ADJ)",
+        "frumentari.ae (ADJ)"
+      ]
+    },
+    "carros|carer": {
+      "old": "carer",
+      "new": "carrus",
+      "occurrences": 3,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "carrus (N)",
+        "carr.os (N)"
+      ]
+    },
+    "arma|arma": {
+      "old": "arma",
+      "new": "armo",
+      "occurrences": 3,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "armo (V)",
+        "arm.a (N)",
+        "arm.a (N)",
+        "arm.a (N)",
+        "armum (N)"
+      ]
+    },
+    "imperavit|imperavo": {
+      "old": "imperavo",
+      "new": "impero",
+      "occurrences": 3,
+      "upos": "VERB",
+      "whitakers_options": [
+        "impero (V)",
+        "imperav.it (V)"
+      ]
+    },
+    "reverti|reverio": {
+      "old": "reverio",
+      "new": "reuerto",
+      "occurrences": 3,
+      "upos": "VERB",
+      "whitakers_options": [
+        "reverto (V)",
+        "revert.i (V)",
+        "revert.i (V)",
+        "revert.i (V)",
+        "revertor (V)"
+      ]
+    },
+    "divisa|dico": {
+      "old": "dico",
+      "new": "divido",
+      "occurrences": 2,
+      "upos": "VERB",
+      "whitakers_options": [
+        "divido (V)"
+      ]
+    },
+    "persuasit|persua": {
+      "old": "persua",
+      "new": "persuadeo",
+      "occurrences": 2,
+      "upos": "VERB",
+      "whitakers_options": [
+        "persuadeo (V)",
+        "persuas.it (V)"
+      ]
+    },
+    "finitimis|finitus": {
+      "old": "finitus",
+      "new": "finitimus",
+      "occurrences": 2,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "finitimus (ADJ)",
+        "finitimus (N)",
+        "finitim.is (ADJ)",
+        "finitim.is (ADJ)",
+        "finitim.is (N)"
+      ]
+    },
+    "dumnorigi|dumnorigus": {
+      "old": "dumnorigus",
+      "new": "dumnorix",
+      "occurrences": 2,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "dumnorix (N)",
+        "dumnorig.i (N)",
+        "dumnorig.i (N)"
+      ]
+    },
+    "extremum|exterior": {
+      "old": "exterior",
+      "new": "extremus",
+      "occurrences": 2,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "extremus (N)",
+        "extre.mum (ADJ)",
+        "extre.mum (ADJ)",
+        "extre.mum (ADJ)",
+        "extre.mum (ADJ)"
+      ]
+    },
+    "legio|legium": {
+      "old": "legium",
+      "new": "legio",
+      "occurrences": 2,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "legio (N)",
+        "legio (N)",
+        "legio (N)"
+      ]
+    },
+    "consulem|consulus": {
+      "old": "consulus",
+      "new": "consul",
+      "occurrences": 2,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "consul (N)",
+        "consul.em (N)"
+      ]
+    },
+    "imperaverat|imperavo": {
+      "old": "imperavo",
+      "new": "impero",
+      "occurrences": 2,
+      "upos": "VERB",
+      "whitakers_options": [
+        "impero (V)",
+        "imperav.erat (V)"
+      ]
+    },
+    "venit|vigo": {
+      "old": "vigo",
+      "new": "uenio",
+      "occurrences": 2,
+      "upos": "VERB",
+      "whitakers_options": [
+        "venio (V)",
+        "veni.t (V)",
+        "veneo (V)",
+        "ven.it (V)",
+        "ven.it (V)"
+      ]
+    },
+    "saepius|saepus": {
+      "old": "saepus",
+      "new": "saepe",
+      "occurrences": 2,
+      "upos": "ADV",
+      "whitakers_options": [
+        "saepe (ADV)",
+        "saepius (ADV)"
+      ]
+    },
+    "destiterunt|destituo": {
+      "old": "destituo",
+      "new": "desisto",
+      "occurrences": 2,
+      "upos": "VERB",
+      "whitakers_options": [
+        "desisto (V)",
+        "destit.erunt (V)"
+      ]
+    },
+    "hibernis|hibero": {
+      "old": "hibero",
+      "new": "hibernus",
+      "occurrences": 2,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "hibernus (N)",
+        "hibernus (ADJ)",
+        "hibern.is (N)",
+        "hibern.is (N)",
+        "hibern.is (N)"
+      ]
+    },
+    "exisset|ixsisto": {
+      "old": "ixsisto",
+      "new": "exeo",
+      "occurrences": 2,
+      "upos": "VERB",
+      "whitakers_options": [
+        "exeo (V)",
+        "exiv.isset (V)"
+      ]
+    },
+    "divico|divicus": {
+      "old": "divicus",
+      "new": "uicus",
+      "occurrences": 2,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "vicus (N)",
+        "vic.o (N)",
+        "vic.o (N)"
+      ]
+    },
+    "caesare|caesaris": {
+      "old": "caesaris",
+      "new": "caesar",
+      "occurrences": 2,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "caesar (N)",
+        "caesar.e (N)",
+        "caesar.e (N)",
+        "caesar.e (N)"
+      ]
+    },
+    "egit|ego": {
+      "old": "ego",
+      "new": "ago",
+      "occurrences": 2,
+      "upos": "VERB",
+      "whitakers_options": [
+        "ago (V)",
+        "eg.it (V)"
+      ]
+    },
+    "veteris|veterus": {
+      "old": "veterus",
+      "new": "ueter",
+      "occurrences": 2,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "veter (ADJ)",
+        "veter.is (ADJ)",
+        "veter.is (ADJ)",
+        "veter.is (ADJ)",
+        "veter.is (ADJ)"
+      ]
+    },
+    "tulisse|tuleo": {
+      "old": "tuleo",
+      "new": "fero",
+      "occurrences": 2,
+      "upos": "VERB",
+      "whitakers_options": [
+        "fero (V)",
+        "tul.isse (V)"
+      ]
+    },
+    "sociisque|sociisqus": {
+      "old": "sociisqus",
+      "new": "socia",
+      "occurrences": 2,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "socia (N)",
+        "socius (N)",
+        "socius (ADJ)",
+        "soci.is (N)",
+        "soci.is (N)"
+      ]
+    },
+    "consuerint|consuero": {
+      "old": "consuero",
+      "new": "consuesco",
+      "occurrences": 2,
+      "upos": "VERB",
+      "whitakers_options": [
+        "consuesco (V)",
+        "consu.erint (V)",
+        "consu.erint (V)",
+        "consuo (V)",
+        "consuev.erint (V)"
+      ]
+    },
+    "agmine|agmus": {
+      "old": "agmus",
+      "new": "agmen",
+      "occurrences": 2,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "agmen (N)",
+        "agmin.e (N)",
+        "agmin.e (N)",
+        "agmin.e (N)"
+      ]
+    },
+    "dumnorige|dumnorigus": {
+      "old": "dumnorigus",
+      "new": "dumnorix",
+      "occurrences": 2,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "dumnorix (N)",
+        "dumnorig.e (N)",
+        "dumnorig.e (N)",
+        "dumnorig.e (N)"
+      ]
+    },
+    "equitatum|equitas": {
+      "old": "equitas",
+      "new": "equitatus",
+      "occurrences": 2,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "equitatus (N)",
+        "equitat.um (N)",
+        "equitat.um (N)",
+        "equito (V)"
+      ]
+    },
+    "perterritum|perterre": {
+      "old": "perterre",
+      "new": "perterreo",
+      "occurrences": 2,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "perterreo (V)",
+        "perterrit.um (ADJ)",
+        "perterrit.um (ADJ)",
+        "perterrit.um (ADJ)",
+        "perterrit.um (ADJ)"
+      ]
+    },
+    "valerium|valer": {
+      "old": "valer",
+      "new": "ualerius",
+      "occurrences": 2,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "valerius (N)",
+        "valerius (ADJ)",
+        "valeri.um (N)",
+        "valeri.um (N)",
+        "valeri.um (ADJ)"
+      ]
+    },
+    "ierant|ieranes": {
+      "old": "ieranes",
+      "new": "eo",
+      "occurrences": 2,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "eo (V)",
+        "iv.erant (V)"
+      ]
+    },
+    "perterritos|perterro": {
+      "old": "perterro",
+      "new": "perterreo",
+      "occurrences": 2,
+      "upos": "VERB",
+      "whitakers_options": [
+        "perterreo (V)",
+        "perterrit.os (ADJ)",
+        "perterritus (ADJ)"
+      ]
+    },
+    "frumentaria|frumentaris": {
+      "old": "frumentaris",
+      "new": "frumentarius",
+      "occurrences": 2,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "frumentarius (ADJ)",
+        "frumentari.a (ADJ)",
+        "frumentari.a (ADJ)",
+        "frumentari.a (ADJ)",
+        "frumentari.a (ADJ)"
+      ]
+    },
+    "carris|caro": {
+      "old": "caro",
+      "new": "carrus",
+      "occurrences": 2,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "carrus (N)",
+        "carr.is (N)",
+        "carr.is (N)",
+        "carr.is (N)",
+        "carr.is (N)"
+      ]
+    },
+    "phalange|phalan": {
+      "old": "phalan",
+      "new": "phalanx",
+      "occurrences": 2,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "phalanx (N)",
+        "phalang.e (N)",
+        "phalang.e (N)",
+        "phalang.e (N)"
+      ]
+    },
+    "pilis|pilis": {
+      "old": "pilis",
+      "new": "pilum",
+      "occurrences": 2,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "pilum (N)",
+        "pil.is (N)",
+        "pil.is (N)",
+        "pil.is (N)",
+        "pila (N)"
+      ]
+    },
+    "pervenerunt|pervo": {
+      "old": "pervo",
+      "new": "peruenio",
+      "occurrences": 2,
+      "upos": "VERB",
+      "whitakers_options": [
+        "pervenio (V)",
+        "perven.erunt (V)"
+      ]
+    },
+    "omniumque|omnisque": {
+      "old": "omnisque",
+      "new": "omnis",
+      "occurrences": 2,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "omnis (ADJ)",
+        "omnis (N)",
+        "omn.ium (ADJ)",
+        "omn.ium (N)",
+        "omne (N)"
+      ]
+    },
+    "senatum|senatum": {
+      "old": "senatum",
+      "new": "senatus",
+      "occurrences": 2,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "senatus (N)",
+        "senatus (ADJ)",
+        "senat.um (N)",
+        "senat.um (ADJ)",
+        "senat.um (ADJ)"
+      ]
+    },
+    "tanto|tanto": {
+      "old": "tanto",
+      "new": "tantus",
+      "occurrences": 2,
+      "upos": "ADV",
+      "whitakers_options": [
+        "tantus (ADJ)",
+        "tant.o (ADJ)",
+        "tant.o (ADJ)",
+        "tant.o (ADJ)",
+        "tant.o (ADJ)"
+      ]
+    },
+    "velle|vo": {
+      "old": "vo",
+      "new": "uolo",
+      "occurrences": 2,
+      "upos": "VERB",
+      "whitakers_options": [
+        "volo (V)",
+        "vell.e (V)",
+        "vello (V)",
+        "vello (V)",
+        "vello (V)"
+      ]
+    },
+    "velit|vigo": {
+      "old": "vigo",
+      "new": "uolo",
+      "occurrences": 2,
+      "upos": "VERB",
+      "whitakers_options": [
+        "volo (V)",
+        "vel.it (V)"
+      ]
+    },
+    "populique|populique": {
+      "old": "populique",
+      "new": "populus",
+      "occurrences": 2,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "populus (N)",
+        "populus (N)",
+        "popul.i (N)",
+        "popul.i (N)",
+        "popul.i (N)"
+      ]
+    },
+    "congressi|congrido": {
+      "old": "congrido",
+      "new": "congredior",
+      "occurrences": 2,
+      "upos": "VERB",
+      "whitakers_options": [
+        "congredior (V)",
+        "congredior (V)"
+      ]
+    },
+    "esse|esse": {
+      "old": "esse",
+      "new": "edo",
+      "occurrences": 2,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "edo (V)",
+        "edo (V)",
+        "sum (V)",
+        "es.se (V)"
+      ]
+    },
+    "iamque|iamque": {
+      "old": "iamque",
+      "new": "eo",
+      "occurrences": 2,
+      "upos": "SCONJ",
+      "whitakers_options": [
+        "eo (V)",
+        "iam (ADV)",
+        "i.am (V)",
+        "jam (ADV)"
+      ]
+    },
+    "quamque|quisque": {
+      "old": "quisque",
+      "new": "quam",
+      "occurrences": 2,
+      "upos": "DET",
+      "whitakers_options": [
+        "quam (ADV)",
+        "quam (ADV)",
+        "quam (CONJ)",
+        "quam (CONJ)",
+        "qu.am (PRON)"
+      ]
+    },
+    "hoste|hos": {
+      "old": "hos",
+      "new": "hostis",
+      "occurrences": 2,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "hostis (N)",
+        "host.e (N)",
+        "host.e (N)",
+        "host.e (N)"
+      ]
+    },
+    "longissime|longes": {
+      "old": "longes",
+      "new": "longe",
+      "occurrences": 1,
+      "upos": "ADV",
+      "whitakers_options": [
+        "longe (ADV)",
+        "longus (ADJ)",
+        "longissime (ADV)",
+        "longissi.me (ADJ)"
+      ]
+    },
+    "minimeque|minimeque": {
+      "old": "minimeque",
+      "new": "minime",
+      "occurrences": 1,
+      "upos": "ADV",
+      "whitakers_options": [
+        "minime (ADV)",
+        "parvus (ADJ)",
+        "parum (ADV)",
+        "mini.me (ADJ)"
+      ]
+    },
+    "proximique|proximiquus": {
+      "old": "proximiquus",
+      "new": "proximus",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "proximus (ADJ)",
+        "proximus (N)",
+        "proxi.mi (ADJ)",
+        "proxi.mi (ADJ)",
+        "proxi.mi (ADJ)"
+      ]
+    },
+    "extremis|exterior": {
+      "old": "exterior",
+      "new": "extremus",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "extremus (N)",
+        "extre.mis (ADJ)",
+        "extre.mis (ADJ)",
+        "exter (ADJ)",
+        "extrem.is (N)"
+      ]
+    },
+    "praestarent|praestaro": {
+      "old": "praestaro",
+      "new": "praesto",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "praesto (V)",
+        "praesto (V)",
+        "praest.arent (V)",
+        "praestat (V)"
+      ]
+    },
+    "patebant|patior": {
+      "old": "patior",
+      "new": "pateo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "pateo (V)",
+        "pat.ebant (V)"
+      ]
+    },
+    "carrorum|careus": {
+      "old": "careus",
+      "new": "carrus",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "carrus (N)",
+        "carr.orum (N)",
+        "carr.orum (N)",
+        "carrum (N)"
+      ]
+    },
+    "castico|casticus": {
+      "old": "casticus",
+      "new": "casus",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "casus (N)",
+        "castic.o (ADJ)",
+        "castic.o (ADJ)",
+        "castic.o (ADJ)",
+        "castic.o (ADJ)"
+      ]
+    },
+    "factu|factus": {
+      "old": "factus",
+      "new": "facio",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "facio (V)",
+        "fio (V)"
+      ]
+    },
+    "suoque|suoquis": {
+      "old": "suoquis",
+      "new": "suus",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "suus (ADJ)",
+        "suus (N)",
+        "su.o (ADJ)",
+        "su.o (ADJ)",
+        "su.o (ADJ)"
+      ]
+    },
+    "coegerunt|coego": {
+      "old": "coego",
+      "new": "cogo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "cogo (V)",
+        "coeg.erunt (V)"
+      ]
+    },
+    "eripuit|eripuio": {
+      "old": "eripuio",
+      "new": "eripio",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "eripio (V)",
+        "eripu.it (V)"
+      ]
+    },
+    "suspicio|suspicium": {
+      "old": "suspicium",
+      "new": "suspicio",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "suspicio (N)",
+        "suspicio (N)",
+        "suspicio (N)",
+        "suspicio (V)",
+        "suspici.o (V)"
+      ]
+    },
+    "mensum|mensus": {
+      "old": "mensus",
+      "new": "metior",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "metior (V)",
+        "mens.um (N)",
+        "mensis (N)"
+      ]
+    },
+    "tulingis|tulinga": {
+      "old": "tulinga",
+      "new": "tulingus",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "tulingus (N)",
+        "tuling.is (N)",
+        "tuling.is (N)",
+        "tuling.is (N)"
+      ]
+    },
+    "vicisque|vicisque": {
+      "old": "vicisque",
+      "new": "uicus",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "vicus (N)",
+        "vicis (N)",
+        "vicis (N)",
+        "vicis (N)",
+        "vic.is (N)"
+      ]
+    },
+    "incoluerant|incoluero": {
+      "old": "incoluero",
+      "new": "incolo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "incolo (V)",
+        "incolu.erant (V)"
+      ]
+    },
+    "itinera|itinera": {
+      "old": "itinera",
+      "new": "iter",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "iter (N)",
+        "itiner.a (N)",
+        "itiner.a (N)",
+        "itiner.a (N)",
+        "itiner (N)"
+      ]
+    },
+    "carri|caro": {
+      "old": "caro",
+      "new": "carrus",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "carrus (N)",
+        "carr.i (N)",
+        "carr.i (N)",
+        "carr.i (N)",
+        "carr.i (N)"
+      ]
+    },
+    "isque|isque": {
+      "old": "isque",
+      "new": "eo",
+      "occurrences": 1,
+      "upos": "SCONJ",
+      "whitakers_options": [
+        "eo (V)",
+        "is (PRON)",
+        "i.s (V)",
+        "i.s (PRON)"
+      ]
+    },
+    "proximumque|proximumquus": {
+      "old": "proximumquus",
+      "new": "proximus",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "proximus (ADJ)",
+        "proximus (N)",
+        "proxi.mum (ADJ)",
+        "proxi.mum (ADJ)",
+        "proxi.mum (ADJ)"
+      ]
+    },
+    "genava|genavus": {
+      "old": "genavus",
+      "new": "genaua",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "genava (N)",
+        "genav.a (N)",
+        "genav.a (N)",
+        "genav.a (N)"
+      ]
+    },
+    "persuasuros|persua": {
+      "old": "persua",
+      "new": "persuadeo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "persuadeo (V)"
+      ]
+    },
+    "existimabant|exsistimo": {
+      "old": "exsistimo",
+      "new": "existimo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "existimo (V)",
+        "existim.abant (V)"
+      ]
+    },
+    "vi|vies": {
+      "old": "vies",
+      "new": "uis",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "vis (N)",
+        "v.i (N)",
+        "v.i (N)",
+        "v.i (N)",
+        "vi (NUM)"
+      ]
+    },
+    "coacturos|coacito": {
+      "old": "coacito",
+      "new": "cogo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "cogo (V)"
+      ]
+    },
+    "maturat|mateo": {
+      "old": "mateo",
+      "new": "maturo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "maturo (V)",
+        "matur.at (V)"
+      ]
+    },
+    "pulsum|pulto": {
+      "old": "pulto",
+      "new": "pello",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "pello (V)",
+        "puls.um (N)",
+        "pulsus (N)"
+      ]
+    },
+    "interea|interdo": {
+      "old": "interdo",
+      "new": "interea",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "interea (ADV)",
+        "interea (ADV)"
+      ]
+    },
+    "militibusque|militus": {
+      "old": "militus",
+      "new": "miles",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "miles (N)",
+        "milit.ibus (N)",
+        "milit.ibus (N)",
+        "milit.ibus (N)"
+      ]
+    },
+    "convenerant|convenero": {
+      "old": "convenero",
+      "new": "conuenio",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "convenio (V)",
+        "conven.erant (V)",
+        "convenit (V)"
+      ]
+    },
+    "vadis|vadus": {
+      "old": "vadus",
+      "new": "uado",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "vado (V)",
+        "vad.is (N)",
+        "vad.is (N)",
+        "vad.is (N)",
+        "vadum (N)"
+      ]
+    },
+    "invitis|invo": {
+      "old": "invo",
+      "new": "inuitus",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "invitus (ADJ)",
+        "invit.is (ADJ)",
+        "invit.is (ADJ)"
+      ]
+    },
+    "obstrictas|obstribuo": {
+      "old": "obstribuo",
+      "new": "obstringo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "obstringo (V)"
+      ]
+    },
+    "maximeque|magnex": {
+      "old": "magnex",
+      "new": "magnus",
+      "occurrences": 1,
+      "upos": "ADV",
+      "whitakers_options": [
+        "magnus (ADJ)",
+        "maximus (ADJ)",
+        "maxime (ADV)",
+        "maxime (ADV)",
+        "maxi.me (ADJ)"
+      ]
+    },
+    "finitimos|finitus": {
+      "old": "finitus",
+      "new": "finitimus",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "finitimus (ADJ)",
+        "finitimus (N)",
+        "finitim.os (ADJ)",
+        "finitim.os (N)"
+      ]
+    },
+    "compluribus|complerus": {
+      "old": "complerus",
+      "new": "complus",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "complus (ADJ)",
+        "complus (N)",
+        "complus (N)",
+        "complur.ibus (ADJ)",
+        "complur.ibus (ADJ)"
+      ]
+    },
+    "citerioris|citerus": {
+      "old": "citerus",
+      "new": "citer",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "citer (ADJ)",
+        "citeri.oris (ADJ)",
+        "citeri.oris (ADJ)"
+      ]
+    },
+    "pervenerant|pervenero": {
+      "old": "pervenero",
+      "new": "peruenio",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "pervenio (V)",
+        "perven.erant (V)"
+      ]
+    },
+    "suaque|sua": {
+      "old": "sua",
+      "new": "suus",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "suus (ADJ)",
+        "su.a (N)",
+        "su.a (N)",
+        "su.a (N)",
+        "suum (N)"
+      ]
+    },
+    "fortunis|fortunus": {
+      "old": "fortunus",
+      "new": "fortuna",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "fortuna (N)",
+        "fortun.is (N)",
+        "fortun.is (N)",
+        "fortun.is (N)"
+      ]
+    },
+    "sociorum|socium": {
+      "old": "socium",
+      "new": "socius",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "socius (N)",
+        "socius (ADJ)",
+        "soci.orum (N)",
+        "soci.orum (ADJ)",
+        "soci.orum (ADJ)"
+      ]
+    },
+    "quartam|quartus": {
+      "old": "quartus",
+      "new": "quattuor",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "quattuor (NUM)",
+        "quart.am (NUM)"
+      ]
+    },
+    "ararim|arari": {
+      "old": "arari",
+      "new": "aro",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "aro (V)",
+        "arar.im (N)",
+        "araris (N)",
+        "arav.erim (V)"
+      ]
+    },
+    "intulerat|intulo": {
+      "old": "intulo",
+      "new": "infero",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "infero (V)",
+        "infero (V)",
+        "intul.erat (V)"
+      ]
+    },
+    "reliquas|reliquas": {
+      "old": "reliquas",
+      "new": "reliquus",
+      "occurrences": 1,
+      "upos": "DET",
+      "whitakers_options": [
+        "reliquus (ADJ)",
+        "reliqu.as (ADJ)"
+      ]
+    },
+    "ituros|iturus": {
+      "old": "iturus",
+      "new": "eo",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "eo (V)"
+      ]
+    },
+    "insidiis|insidium": {
+      "old": "insidium",
+      "new": "insidia",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "insidia (N)",
+        "insidi.is (N)",
+        "insidi.is (N)",
+        "insidi.is (N)"
+      ]
+    },
+    "recentium|recentius": {
+      "old": "recentius",
+      "new": "recens",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "recens (ADJ)",
+        "recent.ium (ADJ)"
+      ]
+    },
+    "quodque|quodque": {
+      "old": "quodque",
+      "new": "quod",
+      "occurrences": 1,
+      "upos": "SCONJ",
+      "whitakers_options": [
+        "quod (ADV)",
+        "quod (ADV)",
+        "quod (CONJ)",
+        "quod (CONJ)",
+        "qu.od (PRON)"
+      ]
+    },
+    "intulerint|intulo": {
+      "old": "intulo",
+      "new": "infero",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "infero (V)",
+        "infero (V)",
+        "intul.erint (V)",
+        "intul.erint (V)"
+      ]
+    },
+    "principibus|principis": {
+      "old": "principis",
+      "new": "princeps",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "princeps (N)",
+        "princeps (ADJ)",
+        "princip.ibus (N)",
+        "princip.ibus (N)",
+        "princip.ibus (N)"
+      ]
+    },
+    "romanorum|romanum": {
+      "old": "romanum",
+      "new": "romanus",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "romanus (N)",
+        "romanus (ADJ)",
+        "roman.orum (N)",
+        "roman.orum (ADJ)",
+        "roman.orum (ADJ)"
+      ]
+    },
+    "superaverint|superavio": {
+      "old": "superavio",
+      "new": "supero",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "supero (V)",
+        "superav.erint (V)",
+        "superav.erint (V)"
+      ]
+    },
+    "erepturi|ersepio": {
+      "old": "ersepio",
+      "new": "eripio",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "eripio (V)"
+      ]
+    },
+    "isdem|unus": {
+      "old": "unus",
+      "new": "idem",
+      "occurrences": 1,
+      "upos": "DET",
+      "whitakers_options": [
+        "idem (PRON)",
+        "i.s (PRON)",
+        "i.s (PRON)"
+      ]
+    },
+    "liscum|liscus": {
+      "old": "liscus",
+      "new": "cum",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "cum (ADV)",
+        "cum (ADV)",
+        "cum (PREP)",
+        "cum (PREP)",
+        "lis (N)"
+      ]
+    },
+    "liberius|libere": {
+      "old": "libere",
+      "new": "liber",
+      "occurrences": 1,
+      "upos": "ADV",
+      "whitakers_options": [
+        "liber (ADJ)",
+        "liberi.us (ADJ)",
+        "liberi.us (ADJ)",
+        "liberi.us (ADJ)"
+      ]
+    },
+    "novarum|novas": {
+      "old": "novas",
+      "new": "nouus",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "novus (ADJ)",
+        "nov.arum (ADJ)"
+      ]
+    },
+    "sumptu|sumptum": {
+      "old": "sumptum",
+      "new": "sumo",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "sumo (V)",
+        "sumpt.u (N)",
+        "sumptus (N)"
+      ]
+    },
+    "sororum|sorus": {
+      "old": "sorus",
+      "new": "soror",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "soror (N)",
+        "soror.um (N)"
+      ]
+    },
+    "romanis|roma": {
+      "old": "roma",
+      "new": "romanus",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "romanus (N)",
+        "romanus (ADJ)",
+        "roman.is (N)",
+        "roman.is (N)",
+        "roman.is (N)"
+      ]
+    },
+    "equestre|equestrus": {
+      "old": "equestrus",
+      "new": "equester",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "equester (ADJ)",
+        "equester (N)",
+        "equestr.e (ADJ)",
+        "equestr.e (ADJ)",
+        "equestr.e (ADJ)"
+      ]
+    },
+    "adversum|adverdo": {
+      "old": "adverdo",
+      "new": "aduerto",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "adverto (V)",
+        "adversus (N)",
+        "adversus (ADJ)",
+        "advers.um (N)",
+        "advers.um (N)"
+      ]
+    },
+    "traduxisset|trado": {
+      "old": "trado",
+      "new": "traduco",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "traduco (V)",
+        "tradux.isset (V)"
+      ]
+    },
+    "cognoverat|cognovo": {
+      "old": "cognovo",
+      "new": "cognosco",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "cognosco (V)",
+        "cognov.erat (V)"
+      ]
+    },
+    "diviciacum|diviciax": {
+      "old": "diviciax",
+      "new": "diuiciacus",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "diviciacus (N)",
+        "diviciac.um (N)",
+        "diviciac.um (N)"
+      ]
+    },
+    "cognoverant|cognoho": {
+      "old": "cognoho",
+      "new": "cognosco",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "cognosco (V)",
+        "cognov.erant (V)"
+      ]
+    },
+    "proelioque|proelius": {
+      "old": "proelius",
+      "new": "proelium",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "proelium (N)",
+        "proeli.o (N)",
+        "proeli.o (N)"
+      ]
+    },
+    "cognovit|cognoho": {
+      "old": "cognoho",
+      "new": "cognosco",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "cognosco (V)",
+        "cognov.it (V)"
+      ]
+    },
+    "movisse|movio": {
+      "old": "movio",
+      "new": "moueo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "moveo (V)",
+        "mov.isse (V)"
+      ]
+    },
+    "vidisset|vido": {
+      "old": "vido",
+      "new": "uideo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "video (V)",
+        "vid.isset (V)"
+      ]
+    },
+    "viso|visus": {
+      "old": "visus",
+      "new": "uideo",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "video (V)",
+        "vis.o (N)",
+        "vis.o (N)",
+        "visum (N)",
+        "vis.o (V)"
+      ]
+    },
+    "consuerat|consuero": {
+      "old": "consuero",
+      "new": "consuesco",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "consuesco (V)",
+        "consu.erat (V)",
+        "consuo (V)",
+        "consuev.erat (V)",
+        "consueo (V)"
+      ]
+    },
+    "tulingi|tulinga": {
+      "old": "tulinga",
+      "new": "tulingus",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "tulingus (N)",
+        "tuling.i (N)",
+        "tuling.i (N)",
+        "tuling.i (N)",
+        "tuling.i (N)"
+      ]
+    },
+    "novissimis|novitus": {
+      "old": "novitus",
+      "new": "nouus",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "novus (ADJ)",
+        "novissimus (ADJ)",
+        "novissi.mis (ADJ)",
+        "novissi.mis (ADJ)",
+        "novissim.is (ADJ)"
+      ]
+    },
+    "receperant|recipero": {
+      "old": "recipero",
+      "new": "recipio",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "recipio (V)",
+        "recep.erant (V)"
+      ]
+    },
+    "conversa|converdo": {
+      "old": "converdo",
+      "new": "conuerso",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "converso (V)",
+        "converro (V)",
+        "convers.a (V)",
+        "converto (V)",
+        "convertor (V)"
+      ]
+    },
+    "intulerunt|intuldo": {
+      "old": "intuldo",
+      "new": "infero",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "infero (V)",
+        "infero (V)",
+        "intul.erunt (V)"
+      ]
+    },
+    "aversum|avorio": {
+      "old": "avorio",
+      "new": "auerto",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "averto (V)",
+        "averro (V)",
+        "avers.um (N)",
+        "avers.um (N)",
+        "avers.um (N)"
+      ]
+    },
+    "videre|vido": {
+      "old": "vido",
+      "new": "uideo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "video (V)",
+        "vid.ere (V)",
+        "vid.ere (V)",
+        "vid.ere (V)",
+        "vid.ere (V)"
+      ]
+    },
+    "nostrosque|nosterqui": {
+      "old": "nosterqui",
+      "new": "noster",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "noster (ADJ)",
+        "noster (N)",
+        "nostr.os (ADJ)",
+        "nostr.os (N)"
+      ]
+    },
+    "castrisque|castrisqui": {
+      "old": "castrisqui",
+      "new": "castra",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "castra (N)",
+        "castr.is (N)",
+        "castr.is (N)",
+        "castr.is (N)",
+        "castr.is (N)"
+      ]
+    },
+    "potiti|poscum": {
+      "old": "poscum",
+      "new": "potior",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "potior (V)",
+        "potior (V)"
+      ]
+    },
+    "filia|filius": {
+      "old": "filius",
+      "new": "filia",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "filia (N)",
+        "fili.a (N)",
+        "fili.a (N)",
+        "fili.a (N)"
+      ]
+    },
+    "continenter|contineo": {
+      "old": "contineo",
+      "new": "continenter",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "continenter (ADV)",
+        "continenter (ADV)"
+      ]
+    },
+    "ierunt|iero": {
+      "old": "iero",
+      "new": "eo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "eo (V)",
+        "iv.erunt (V)"
+      ]
+    },
+    "noctis|noctus": {
+      "old": "noctus",
+      "new": "nox",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "nox (N)",
+        "noct.is (N)",
+        "noct.is (N)"
+      ]
+    },
+    "quarto|quartus": {
+      "old": "quartus",
+      "new": "quattuor",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "quattuor (NUM)",
+        "quart.o (NUM)",
+        "quart.o (NUM)",
+        "quart.o (NUM)",
+        "quart.o (NUM)"
+      ]
+    },
+    "vulnera|vulnera": {
+      "old": "vulnera",
+      "new": "uulnero",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "vulnero (V)",
+        "vulner.a (N)",
+        "vulner.a (N)",
+        "vulner.a (N)",
+        "vulnus (N)"
+      ]
+    },
+    "occisorum|occisus": {
+      "old": "occisus",
+      "new": "occido",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "occido (V)",
+        "occisor.um (N)",
+        "occisor (N)"
+      ]
+    },
+    "lingonas|lingona": {
+      "old": "lingona",
+      "new": "lingo",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "lingo (V)",
+        "ling.o (V)",
+        "n.as (V)",
+        "no (V)"
+      ]
+    },
+    "nuntiosque|nuntiosqus": {
+      "old": "nuntiosqus",
+      "new": "nuntius",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "nuntius (ADJ)",
+        "nuntius (N)",
+        "nunti.os (ADJ)",
+        "nunti.os (N)"
+      ]
+    },
+    "convenissent|convenisso": {
+      "old": "convenisso",
+      "new": "conuenio",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "convenio (V)",
+        "conven.issent (V)",
+        "convenit (V)"
+      ]
+    },
+    "suppliciterque|suppliciterque": {
+      "old": "suppliciterque",
+      "new": "suppliciter",
+      "occurrences": 1,
+      "upos": "ADV",
+      "whitakers_options": [
+        "suppliciter (ADV)",
+        "suppliciter (ADV)"
+      ]
+    },
+    "petissent|pesisso": {
+      "old": "pesisso",
+      "new": "peto",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "peto (V)",
+        "petiss.ent (V)",
+        "petisso (V)",
+        "petiv.issent (V)"
+      ]
+    },
+    "adventum|adventum": {
+      "old": "adventum",
+      "new": "aduentus",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "adventus (N)",
+        "advent.um (N)",
+        "advenio (V)"
+      ]
+    },
+    "egressi|egridio": {
+      "old": "egridio",
+      "new": "egredior",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "egredior (V)"
+      ]
+    },
+    "finesque|finisque": {
+      "old": "finisque",
+      "new": "finis",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "finis (N)",
+        "fin.es (N)",
+        "fin.es (N)",
+        "fin.es (N)"
+      ]
+    },
+    "perfugis|perfux": {
+      "old": "perfux",
+      "new": "perfugio",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "perfugio (V)",
+        "perfug.is (N)",
+        "perfug.is (N)",
+        "perfug.is (N)",
+        "perfuga (N)"
+      ]
+    },
+    "tulingos|tulinga": {
+      "old": "tulinga",
+      "new": "tulingus",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "tulingus (N)",
+        "tuling.os (N)"
+      ]
+    },
+    "vicosque|vicosqus": {
+      "old": "vicosqus",
+      "new": "uicus",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "vicus (N)",
+        "vic.os (N)"
+      ]
+    },
+    "finitimi|finio": {
+      "old": "finio",
+      "new": "finitimus",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "finitimus (N)",
+        "finitimus (ADJ)",
+        "finitim.i (N)",
+        "finitim.i (N)",
+        "finitim.i (N)"
+      ]
+    },
+    "libertatisque|libertasqus": {
+      "old": "libertasqus",
+      "new": "libertas",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "libertas (N)",
+        "libertat.is (N)",
+        "libert.atis (V)",
+        "liberto (V)"
+      ]
+    },
+    "tabulis|tabulus": {
+      "old": "tabulus",
+      "new": "tabula",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "tabula (N)",
+        "tabul.is (N)",
+        "tabul.is (N)",
+        "tabul.is (N)"
+      ]
+    },
+    "imperioque|imperioqus": {
+      "old": "imperioqus",
+      "new": "imperium",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "imperium (N)",
+        "imperi.o (N)",
+        "imperi.o (N)"
+      ]
+    },
+    "potirentur|possum": {
+      "old": "possum",
+      "new": "potior",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "potior (V)",
+        "pot.irentur (V)"
+      ]
+    },
+    "locumque|locumqais": {
+      "old": "locumqais",
+      "new": "locus",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "locus (N)",
+        "loc.um (N)",
+        "loc.um (N)",
+        "loc.um (N)",
+        "loc.um (N)"
+      ]
+    },
+    "reliquasque|reliquasque": {
+      "old": "reliquasque",
+      "new": "reliquus",
+      "occurrences": 1,
+      "upos": "DET",
+      "whitakers_options": [
+        "reliquus (ADJ)",
+        "reliqu.as (ADJ)"
+      ]
+    },
+    "petierunt|petio": {
+      "old": "petio",
+      "new": "peto",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "peto (V)",
+        "petiv.erunt (V)"
+      ]
+    },
+    "permissa|peimitto": {
+      "old": "peimitto",
+      "new": "permitto",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "permitto (V)"
+      ]
+    },
+    "petieruntque|petior": {
+      "old": "petior",
+      "new": "peto",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "peto (V)",
+        "sum (V)",
+        "pet.i (V)"
+      ]
+    },
+    "venturos|ventur": {
+      "old": "ventur",
+      "new": "uenio",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "venio (V)"
+      ]
+    },
+    "arvernis|arver": {
+      "old": "arver",
+      "new": "aruernus",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "arvernus (N)",
+        "arvern.is (N)",
+        "arvern.is (N)",
+        "arvern.is (N)"
+      ]
+    },
+    "sequanisque|sequanisquusqui": {
+      "old": "sequanisquusqui",
+      "new": "sequanus",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "sequanus (ADJ)",
+        "sequana (N)",
+        "sequanus (N)",
+        "sequan.is (ADJ)",
+        "sequan.is (ADJ)"
+      ]
+    },
+    "plures|multus": {
+      "old": "multus",
+      "new": "plus",
+      "occurrences": 1,
+      "upos": "DET",
+      "whitakers_options": [
+        "plus (ADJ)",
+        "plur.es (ADJ)",
+        "plur.es (ADJ)",
+        "plur.es (ADJ)"
+      ]
+    },
+    "pulsos|pulto": {
+      "old": "pulto",
+      "new": "pello",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "pello (V)"
+      ]
+    },
+    "calamitatibusque|calamito": {
+      "old": "calamito",
+      "new": "calamitas",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "calamitas (N)",
+        "calamitat.ibus (N)",
+        "calamitat.ibus (N)",
+        "calamitat.ibus (N)"
+      ]
+    },
+    "repetituros|repito": {
+      "old": "repito",
+      "new": "repeto",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "repeto (V)"
+      ]
+    },
+    "romam|romo": {
+      "old": "romo",
+      "new": "roma",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "roma (N)",
+        "rom.am (N)"
+      ]
+    },
+    "ariovisto|ariovisto": {
+      "old": "ariovisto",
+      "new": "ariouistus",
+      "occurrences": 1,
+      "upos": "ADV",
+      "whitakers_options": [
+        "ariovistus (N)",
+        "ariovist.o (N)",
+        "ariovist.o (N)"
+      ]
+    },
+    "aderant|adero": {
+      "old": "adero",
+      "new": "adsum",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "adsum (V)",
+        "adsum (V)",
+        "ad.erant (V)",
+        "assum (V)"
+      ]
+    },
+    "capite|capitus": {
+      "old": "capitus",
+      "new": "capio",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "capio (V)",
+        "capit.e (N)",
+        "capit.e (N)",
+        "capit.e (N)",
+        "caput (N)"
+      ]
+    },
+    "quaesiit|quaesco": {
+      "old": "quaesco",
+      "new": "quaero",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "quaero (V)",
+        "quaesiv.it (V)"
+      ]
+    },
+    "ullam|ulllus": {
+      "old": "ulllus",
+      "new": "ullus",
+      "occurrences": 1,
+      "upos": "DET",
+      "whitakers_options": [
+        "ullus (ADJ)",
+        "ull.am (ADJ)"
+      ]
+    },
+    "vocem|vocus": {
+      "old": "vocus",
+      "new": "uoco",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "voco (V)",
+        "voc.em (N)",
+        "vox (N)",
+        "voc.em (V)"
+      ]
+    },
+    "divideret|divo": {
+      "old": "divo",
+      "new": "divido",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "divido (V)",
+        "divid.eret (V)"
+      ]
+    },
+    "videretur|vido": {
+      "old": "vido",
+      "new": "uideo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "video (V)",
+        "vid.eretur (V)"
+      ]
+    },
+    "venturum|vo": {
+      "old": "vo",
+      "new": "uenio",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "venio (V)"
+      ]
+    },
+    "sequanisque|sequanisque": {
+      "old": "sequanisque",
+      "new": "sequana",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "sequana (N)",
+        "sequanus (N)",
+        "sequanus (ADJ)",
+        "sequan.is (N)",
+        "sequan.is (N)"
+      ]
+    },
+    "ceterosque|ceterosqui": {
+      "old": "ceterosqui",
+      "new": "ceterus",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "ceterus (ADJ)",
+        "ceter.os (ADJ)"
+      ]
+    },
+    "inlaturum|inlatuo": {
+      "old": "inlatuo",
+      "new": "infero",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "infero (V)"
+      ]
+    },
+    "convenisset|convenisco": {
+      "old": "convenisco",
+      "new": "conuenio",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "convenio (V)",
+        "conven.isset (V)",
+        "convenit (V)"
+      ]
+    },
+    "stipendiumque|stipendiumque": {
+      "old": "stipendiumque",
+      "new": "stipendium",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "stipendium (N)",
+        "stipendi.um (N)",
+        "stipendi.um (N)",
+        "stipendi.um (N)",
+        "stipendi.um (N)"
+      ]
+    },
+    "afuturum|afutor": {
+      "old": "afutor",
+      "new": "absum",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "absum (V)",
+        "apsum (V)"
+      ]
+    },
+    "neglecturum|neglectus": {
+      "old": "neglectus",
+      "new": "neglego",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "neglego (V)"
+      ]
+    },
+    "congrederetur|congredo": {
+      "old": "congredo",
+      "new": "congredior",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "congredior (V)",
+        "congred.eretur (V)"
+      ]
+    },
+    "subissent|subsum": {
+      "old": "subsum",
+      "new": "subeo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "subeo (V)",
+        "subiv.issent (V)"
+      ]
+    },
+    "nasuam|nasua": {
+      "old": "nasua",
+      "new": "suus",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "suus (ADJ)",
+        "n.a (V)",
+        "no (V)",
+        "su.am (ADJ)",
+        "su.am (V)"
+      ]
+    },
+    "commotus|commo": {
+      "old": "commo",
+      "new": "commoueo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "commoveo (V)",
+        "commot.us (N)",
+        "commot.us (N)",
+        "commot.us (N)",
+        "commot.us (N)"
+      ]
+    },
+    "usui|usuus": {
+      "old": "usuus",
+      "new": "usus",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "usus (N)",
+        "us.ui (N)"
+      ]
+    },
+    "idque|idque": {
+      "old": "idque",
+      "new": "is",
+      "occurrences": 1,
+      "upos": "SCONJ",
+      "whitakers_options": [
+        "is (PRON)",
+        "i.d (PRON)",
+        "i.d (PRON)",
+        "id (N)",
+        "id (N)"
+      ]
+    },
+    "diurnisque|diurnusque": {
+      "old": "diurnusque",
+      "new": "diurnus",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "diurnus (ADJ)",
+        "diurn.is (ADJ)",
+        "diurn.is (ADJ)",
+        "diurn.is (N)",
+        "diurn.is (N)"
+      ]
+    },
+    "occupatoque|occupatoqus": {
+      "old": "occupatoqus",
+      "new": "occupo",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "occupo (V)",
+        "occup.ato (V)",
+        "occup.ato (V)",
+        "occupat.o (ADJ)",
+        "occupat.o (ADJ)"
+      ]
+    },
+    "animosque|animosqus": {
+      "old": "animosqus",
+      "new": "animus",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "animus (N)",
+        "anim.os (N)"
+      ]
+    },
+    "reliquisque|reliqui": {
+      "old": "reliqui",
+      "new": "reliquus",
+      "occurrences": 1,
+      "upos": "DET",
+      "whitakers_options": [
+        "reliquus (ADJ)",
+        "reliqu.is (N)",
+        "reliqu.is (N)",
+        "reliqu.is (N)",
+        "reliquum (N)"
+      ]
+    },
+    "inlata|inlascor": {
+      "old": "inlascor",
+      "new": "infero",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "infero (V)"
+      ]
+    },
+    "vitarent|vitaro": {
+      "old": "vitaro",
+      "new": "uito",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "vito (V)",
+        "vit.arent (V)"
+      ]
+    },
+    "familiaribus|familias": {
+      "old": "familias",
+      "new": "familiaris",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "familiaris (ADJ)",
+        "familiaris (N)",
+        "familiar.ibus (ADJ)",
+        "familiar.ibus (ADJ)",
+        "familiar.ibus (N)"
+      ]
+    },
+    "totis|totis": {
+      "old": "totis",
+      "new": "totus",
+      "occurrences": 1,
+      "upos": "DET",
+      "whitakers_options": [
+        "totus (ADJ)",
+        "tot.is (ADJ)",
+        "tot.is (ADJ)"
+      ]
+    },
+    "quique|quique": {
+      "old": "quique",
+      "new": "qui",
+      "occurrences": 1,
+      "upos": "PRON",
+      "whitakers_options": [
+        "qui (V)",
+        "qui (ADV)",
+        "qui (ADV)",
+        "qu.i (PRON)",
+        "qu.i (PRON)"
+      ]
+    },
+    "praeerant|praeero": {
+      "old": "praeero",
+      "new": "praesum",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "praesum (V)",
+        "prae.erant (V)"
+      ]
+    },
+    "frumentariam|frumentaris": {
+      "old": "frumentaris",
+      "new": "frumentarius",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "frumentarius (ADJ)",
+        "frumentari.am (ADJ)"
+      ]
+    },
+    "laturos|laturus": {
+      "old": "laturus",
+      "new": "fero",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "fero (V)"
+      ]
+    },
+    "vertisset|vero": {
+      "old": "vero",
+      "new": "uerto",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "verto (V)",
+        "vert.isset (V)"
+      ]
+    },
+    "consule|consulus": {
+      "old": "consulus",
+      "new": "consul",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "consul (N)",
+        "consulo (V)",
+        "consul.e (N)",
+        "consul.e (N)",
+        "consul.e (N)"
+      ]
+    },
+    "cupidissime|cupus": {
+      "old": "cupus",
+      "new": "cupidus",
+      "occurrences": 1,
+      "upos": "ADV",
+      "whitakers_options": [
+        "cupidus (ADJ)",
+        "cupidissime (ADV)",
+        "cupide (ADV)",
+        "cupidissi.me (ADJ)"
+      ]
+    },
+    "adpetisse|adpisceo": {
+      "old": "adpisceo",
+      "new": "adpeto",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "adpeto (V)",
+        "adpetiss.e (V)",
+        "adpetisso (V)",
+        "adpetiv.isse (V)"
+      ]
+    },
+    "intulisset|intulles": {
+      "old": "intulles",
+      "new": "infero",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "infero (V)",
+        "infero (V)",
+        "intul.isset (V)"
+      ]
+    },
+    "plerumque|plerusque": {
+      "old": "plerusque",
+      "new": "plerus",
+      "occurrences": 1,
+      "upos": "DET",
+      "whitakers_options": [
+        "plerus (ADJ)",
+        "plerumque (ADV)",
+        "plerumque (ADV)",
+        "pler.um (ADJ)",
+        "pler.um (ADJ)"
+      ]
+    },
+    "angustiasque|angustias": {
+      "old": "angustias",
+      "new": "angustia",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "angustia (N)",
+        "angusti.as (N)",
+        "angusti.as (V)",
+        "angustio (V)"
+      ]
+    },
+    "laturi|lateo": {
+      "old": "lateo",
+      "new": "fero",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "fero (V)"
+      ]
+    },
+    "defuisse|disum": {
+      "old": "disum",
+      "new": "desum",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "desum (V)",
+        "desum (V)",
+        "defu.isse (V)"
+      ]
+    },
+    "conlaturus|conlaro": {
+      "old": "conlaro",
+      "new": "confero",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "confero (V)"
+      ]
+    },
+    "decima|decimus": {
+      "old": "decimus",
+      "new": "decem",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "decem (NUM)",
+        "decim.a (NUM)",
+        "decim.a (NUM)",
+        "decim.a (NUM)",
+        "decim.a (NUM)"
+      ]
+    },
+    "iturum|iturus": {
+      "old": "iturus",
+      "new": "eo",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "eo (V)"
+      ]
+    },
+    "cohortem|cohor": {
+      "old": "cohor",
+      "new": "cohorto",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "cohorto (V)",
+        "cohort.em (N)",
+        "cohors (N)",
+        "cohort.em (V)"
+      ]
+    },
+    "summaque|summaqus": {
+      "old": "summaqus",
+      "new": "summus",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "summus (ADJ)",
+        "sum.ma (ADJ)",
+        "sum.ma (ADJ)",
+        "sum.ma (ADJ)",
+        "sum.ma (ADJ)"
+      ]
+    },
+    "existimavisse|exsistimo": {
+      "old": "exsistimo",
+      "new": "existimo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "existimo (V)",
+        "existimav.isse (V)"
+      ]
+    },
+    "magnamque|magnamquus": {
+      "old": "magnamquus",
+      "new": "magnus",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "magnus (ADJ)",
+        "magn.am (ADJ)"
+      ]
+    },
+    "citroque|citeroque": {
+      "old": "citeroque",
+      "new": "citrus",
+      "occurrences": 1,
+      "upos": "ADV",
+      "whitakers_options": [
+        "citrus (N)",
+        "citrus (N)",
+        "citro (ADV)",
+        "citro (ADV)",
+        "citr.o (N)"
+      ]
+    },
+    "venturum|ventus": {
+      "old": "ventus",
+      "new": "uenio",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "venio (V)"
+      ]
+    },
+    "venerunt|venero": {
+      "old": "venero",
+      "new": "uenio",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "venio (V)",
+        "ven.erunt (V)"
+      ]
+    },
+    "denos|denus": {
+      "old": "denus",
+      "new": "decem",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "decem (NUM)",
+        "den.os (NUM)"
+      ]
+    },
+    "ventum|vo": {
+      "old": "vo",
+      "new": "uenio",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "venio (V)",
+        "ventus (N)",
+        "vent.um (N)"
+      ]
+    },
+    "senatusque|senatusqus": {
+      "old": "senatusqus",
+      "new": "senatus",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "senatus (N)",
+        "senatus (ADJ)",
+        "senat.us (N)",
+        "senat.us (N)",
+        "senat.us (N)"
+      ]
+    },
+    "attulissent|atfero": {
+      "old": "atfero",
+      "new": "affero",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "affero (V)",
+        "attul.issent (V)"
+      ]
+    },
+    "dederat|dedero": {
+      "old": "dedero",
+      "new": "do",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "do (V)",
+        "ded.erat (V)"
+      ]
+    },
+    "postulata|poltulo": {
+      "old": "poltulo",
+      "new": "postulo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "postulo (V)",
+        "postulat.a (N)",
+        "postulat.a (N)",
+        "postulat.a (N)",
+        "postulatum (N)"
+      ]
+    },
+    "propinquosque|propinquosqus": {
+      "old": "propinquosqus",
+      "new": "propinquus",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "propinquus (ADJ)",
+        "propinquus (N)",
+        "propinqu.os (ADJ)",
+        "propinqu.os (N)"
+      ]
+    },
+    "intulisse|intulo": {
+      "old": "intulo",
+      "new": "infero",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "infero (V)",
+        "infero (V)",
+        "intul.isse (V)"
+      ]
+    },
+    "pulsas|pulto": {
+      "old": "pulto",
+      "new": "pello",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "pello (V)",
+        "puls.as (V)",
+        "pulso (V)"
+      ]
+    },
+    "pependerint|pependeo": {
+      "old": "pependeo",
+      "new": "pendo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "pendo (V)",
+        "pepend.erint (V)",
+        "pepend.erint (V)",
+        "pepend.erint (V)",
+        "pepend.erint (V)"
+      ]
+    },
+    "petisse|pesum": {
+      "old": "pesum",
+      "new": "peto",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "peto (V)",
+        "petiss.e (V)",
+        "petisso (V)",
+        "petiv.isse (V)"
+      ]
+    },
+    "venerit|venero": {
+      "old": "venero",
+      "new": "uenio",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "venio (V)",
+        "ven.erit (V)",
+        "ven.erit (V)"
+      ]
+    },
+    "intulerit|intulo": {
+      "old": "intulo",
+      "new": "infero",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "infero (V)",
+        "infero (V)",
+        "intul.erit (V)",
+        "intul.erit (V)"
+      ]
+    },
+    "usos|usum": {
+      "old": "usum",
+      "new": "utor",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "utor (V)"
+      ]
+    },
+    "principibusque|principibus": {
+      "old": "principibus",
+      "new": "princeps",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "princeps (N)",
+        "princeps (ADJ)",
+        "princip.ibus (N)",
+        "princip.ibus (N)",
+        "princip.ibus (N)"
+      ]
+    },
+    "optime|melius": {
+      "old": "melius",
+      "new": "bonus",
+      "occurrences": 1,
+      "upos": "ADV",
+      "whitakers_options": [
+        "bonus (ADJ)",
+        "optime (ADV)",
+        "bene (ADV)",
+        "opti.me (ADJ)"
+      ]
+    },
+    "potius|pote": {
+      "old": "pote",
+      "new": "potior",
+      "occurrences": 1,
+      "upos": "ADV",
+      "whitakers_options": [
+        "potior (ADJ)",
+        "potius (ADV)",
+        "potius (ADV)",
+        "poti.us (ADJ)",
+        "poti.us (ADJ)"
+      ]
+    },
+    "quodque|quisquis": {
+      "old": "quisquis",
+      "new": "quod",
+      "occurrences": 1,
+      "upos": "PRON",
+      "whitakers_options": [
+        "quod (ADV)",
+        "quod (ADV)",
+        "quod (CONJ)",
+        "quod (CONJ)",
+        "qu.od (PRON)"
+      ]
+    },
+    "telaque|telaqum": {
+      "old": "telaqum",
+      "new": "tela",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "tela (N)",
+        "tel.a (N)",
+        "tel.a (N)",
+        "tel.a (N)",
+        "tel.a (N)"
+      ]
+    },
+    "suisque|sui": {
+      "old": "sui",
+      "new": "suus",
+      "occurrences": 1,
+      "upos": "DET",
+      "whitakers_options": [
+        "suus (N)",
+        "suus (ADJ)",
+        "su.is (N)",
+        "su.is (N)",
+        "su.is (N)"
+      ]
+    },
+    "telum|telus": {
+      "old": "telus",
+      "new": "telis",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "telis (N)",
+        "tel.um (N)",
+        "tel.um (N)",
+        "tel.um (N)",
+        "telum (N)"
+      ]
+    },
+    "circumventos|circumvens": {
+      "old": "circumvens",
+      "new": "circumuenio",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "circumvenio (V)"
+      ]
+    },
+    "elatum|elo": {
+      "old": "elo",
+      "new": "effero",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "effero (V)",
+        "elat.um (ADJ)",
+        "elat.um (ADJ)",
+        "elat.um (ADJ)",
+        "elat.um (ADJ)"
+      ]
+    },
+    "impetumque|impetum": {
+      "old": "impetum",
+      "new": "impetus",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "impetus (N)",
+        "impet.um (N)"
+      ]
+    },
+    "studiumque|studiumque": {
+      "old": "studiumque",
+      "new": "studium",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "studium (N)",
+        "studi.um (N)",
+        "studi.um (N)",
+        "studi.um (N)"
+      ]
+    },
+    "visa|vido": {
+      "old": "vido",
+      "new": "uideo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "video (V)",
+        "viso (V)",
+        "vis.a (N)",
+        "vis.a (N)",
+        "vis.a (N)"
+      ]
+    },
+    "coicerent|coicero": {
+      "old": "coicero",
+      "new": "coicio",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "coicio (V)",
+        "coic.erent (V)"
+      ]
+    },
+    "feris|fer": {
+      "old": "fer",
+      "new": "ferus",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "ferus (N)",
+        "ferus (ADJ)",
+        "fer.is (N)",
+        "fer.is (N)",
+        "fer.is (N)"
+      ]
+    },
+    "valerii|valeria": {
+      "old": "valeria",
+      "new": "ualerius",
+      "occurrences": 1,
+      "upos": "PROPN",
+      "whitakers_options": [
+        "valerius (N)",
+        "valerius (ADJ)",
+        "valeri.i (N)",
+        "valeri.i (N)",
+        "valeri.i (N)"
+      ]
+    },
+    "metium|metium": {
+      "old": "metium",
+      "new": "metior",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "metior (V)",
+        "meti.um (N)",
+        "meti.um (N)",
+        "meti.um (N)",
+        "meto (V)"
+      ]
+    },
+    "coniecit|coniicio": {
+      "old": "coniicio",
+      "new": "conicio",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "conicio (V)",
+        "coniec.it (V)",
+        "conjicio (V)"
+      ]
+    },
+    "commeatuque|commeatue": {
+      "old": "commeatue",
+      "new": "commeatus",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "commeatus (N)",
+        "commeo (V)",
+        "commeat.u (N)"
+      ]
+    },
+    "delegerant|delego": {
+      "old": "delego",
+      "new": "deligo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "deligo (V)",
+        "deleg.erant (V)"
+      ]
+    },
+    "celerius|melero": {
+      "old": "melero",
+      "new": "celeriter",
+      "occurrences": 1,
+      "upos": "ADV",
+      "whitakers_options": [
+        "celeriter (ADV)",
+        "celer (ADJ)",
+        "celerius (ADV)",
+        "celeri.us (ADJ)",
+        "celeri.us (ADJ)"
+      ]
+    },
+    "delegit|delego": {
+      "old": "delego",
+      "new": "deligo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "deligo (V)",
+        "deleg.it (V)"
+      ]
+    },
+    "hostibusque|hostibusqus": {
+      "old": "hostibusqus",
+      "new": "hostis",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "hostis (N)",
+        "host.ibus (N)",
+        "host.ibus (N)",
+        "host.ibus (N)"
+      ]
+    },
+    "inlatis|inlato": {
+      "old": "inlato",
+      "new": "infero",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "infero (V)"
+      ]
+    },
+    "postridie|postridio": {
+      "old": "postridio",
+      "new": "postridie",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "postridie (ADV)",
+        "postridie (ADV)"
+      ]
+    },
+    "visum|vido": {
+      "old": "vido",
+      "new": "uideo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "video (V)",
+        "visus (N)",
+        "viso (V)",
+        "vis.um (N)",
+        "vis.um (N)"
+      ]
+    },
+    "eduxerunt|edo": {
+      "old": "edo",
+      "new": "educo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "educo (V)",
+        "edux.erunt (V)"
+      ]
+    },
+    "generatimque|generatimque": {
+      "old": "generatimque",
+      "new": "generatim",
+      "occurrences": 1,
+      "upos": "ADV",
+      "whitakers_options": [
+        "generatim (ADV)",
+        "generatim (ADV)"
+      ]
+    },
+    "nemetes|nemet": {
+      "old": "nemet",
+      "new": "ne",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "ne (ADV)",
+        "ne (ADV)",
+        "ne (CONJ)",
+        "ne (CONJ)",
+        "met.es (V)"
+      ]
+    },
+    "proficiscentes|proficisceo": {
+      "old": "proficisceo",
+      "new": "proficiscor",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "proficiscor (V)"
+      ]
+    },
+    "praefecit|praefacio": {
+      "old": "praefacio",
+      "new": "praeficio",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "praeficio (V)",
+        "praefec.it (V)"
+      ]
+    },
+    "minime|parue": {
+      "old": "parue",
+      "new": "minime",
+      "occurrences": 1,
+      "upos": "ADV",
+      "whitakers_options": [
+        "minime (ADV)",
+        "parvus (ADJ)",
+        "parum (ADV)",
+        "mini.me (ADJ)"
+      ]
+    },
+    "verterat|vero": {
+      "old": "vero",
+      "new": "uerto",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "verto (V)",
+        "vert.erat (V)"
+      ]
+    },
+    "celeriterque|celeriterque": {
+      "old": "celeriterque",
+      "new": "celeriter",
+      "occurrences": 1,
+      "upos": "ADV",
+      "whitakers_options": [
+        "celeriter (ADV)",
+        "celeriter (ADV)"
+      ]
+    },
+    "gladiorum|gladium": {
+      "old": "gladium",
+      "new": "gladius",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "gladius (N)",
+        "gladius (N)",
+        "gladi.orum (N)",
+        "gladi.orum (N)"
+      ]
+    },
+    "complures|compler": {
+      "old": "compler",
+      "new": "complus",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "complus (ADJ)",
+        "complus (N)",
+        "complur.es (ADJ)",
+        "complur.es (ADJ)",
+        "complur.es (ADJ)"
+      ]
+    },
+    "pulsa|pulio": {
+      "old": "pulio",
+      "new": "pello",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "pello (V)",
+        "puls.a (V)",
+        "pulso (V)"
+      ]
+    },
+    "coniecta|coniicio": {
+      "old": "coniicio",
+      "new": "conicio",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "conicio (V)",
+        "coniect.a (V)",
+        "conjecto (V)",
+        "conjicio (V)"
+      ]
+    },
+    "verterunt|vero": {
+      "old": "vero",
+      "new": "uerto",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "verto (V)",
+        "vert.erunt (V)"
+      ]
+    },
+    "confisi|confidio": {
+      "old": "confidio",
+      "new": "confideo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "confideo (V)",
+        "confido (V)"
+      ]
+    },
+    "eduxerat|eduxero": {
+      "old": "eduxero",
+      "new": "educo",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "educo (V)",
+        "edux.erat (V)"
+      ]
+    },
+    "missam|missus": {
+      "old": "missus",
+      "new": "missa",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "missa (N)",
+        "mitto (V)",
+        "miss.am (N)"
+      ]
+    },
+    "catenis|caten": {
+      "old": "caten",
+      "new": "catena",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "catena (N)",
+        "caten.is (N)",
+        "caten.is (N)",
+        "caten.is (N)"
+      ]
+    },
+    "victoria|victorius": {
+      "old": "victorius",
+      "new": "uictor",
+      "occurrences": 1,
+      "upos": "ADJ",
+      "whitakers_options": [
+        "victor (ADJ)",
+        "victoria (N)",
+        "victor.ia (ADJ)",
+        "victor.ia (ADJ)",
+        "victor.ia (ADJ)"
+      ]
+    },
+    "ereptum|ersum": {
+      "old": "ersum",
+      "new": "eripio",
+      "occurrences": 1,
+      "upos": "VERB",
+      "whitakers_options": [
+        "eripio (V)"
+      ]
+    },
+    "metius|metius": {
+      "old": "metius",
+      "new": "ius",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "ius (N)",
+        "ius (N)",
+        "ius (N)",
+        "jus (N)"
+      ]
+    },
+    "suebi|sueb": {
+      "old": "sueb",
+      "new": "suebus",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "suebus (N)",
+        "sueb.i (N)",
+        "sueb.i (N)",
+        "sueb.i (N)",
+        "sueb.i (N)"
+      ]
+    },
+    "aestate|aesta": {
+      "old": "aesta",
+      "new": "aestas",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "aestas (N)",
+        "aestat.e (N)",
+        "aestat.e (N)",
+        "aestat.e (N)"
+      ]
+    },
+    "maturius|maturits": {
+      "old": "maturits",
+      "new": "maturus",
+      "occurrences": 1,
+      "upos": "ADV",
+      "whitakers_options": [
+        "maturus (ADJ)",
+        "maturi.us (ADJ)",
+        "maturi.us (ADJ)",
+        "maturi.us (ADJ)"
+      ]
+    },
+    "hiberna|hiberna": {
+      "old": "hiberna",
+      "new": "hibernus",
+      "occurrences": 1,
+      "upos": "NOUN",
+      "whitakers_options": [
+        "hibernus (ADJ)",
+        "hibern.a (N)",
+        "hibern.a (N)",
+        "hibern.a (N)",
+        "hibernum (N)"
+      ]
+    }
+  },
+  "manual_review_needed": [
+    {
+      "form": "se",
+      "stanza_lemma": "sui",
+      "reason": "target_not_in_glossary",
+      "occurrences": 92,
+      "whitakers_suggestion": "s.e"
+    },
+    {
+      "form": "sibi",
+      "stanza_lemma": "sui",
+      "reason": "target_not_in_glossary",
+      "occurrences": 40,
+      "whitakers_suggestion": "s.ibi"
+    },
+    {
+      "form": "quae",
+      "stanza_lemma": "qui",
+      "reason": "target_not_in_glossary",
+      "occurrences": 29,
+      "whitakers_suggestion": "qu.ae"
+    },
+    {
+      "form": "ac",
+      "stanza_lemma": "atque",
+      "reason": "target_not_in_glossary",
+      "occurrences": 28,
+      "whitakers_suggestion": "ac"
+    },
+    {
+      "form": "sese",
+      "stanza_lemma": "sui",
+      "reason": "target_not_in_glossary",
+      "occurrences": 26,
+      "whitakers_suggestion": "s.ese"
+    },
+    {
+      "form": "quo",
+      "stanza_lemma": "qui",
+      "reason": "target_not_in_glossary",
+      "occurrences": 18,
+      "whitakers_suggestion": "qu.o"
+    },
+    {
+      "form": "qua",
+      "stanza_lemma": "qui",
+      "reason": "target_not_in_glossary",
+      "occurrences": 15,
+      "whitakers_suggestion": "qu.a"
+    },
+    {
+      "form": "quid",
+      "stanza_lemma": "quis",
+      "reason": "target_not_in_glossary",
+      "occurrences": 15,
+      "whitakers_suggestion": "qu.id"
+    },
+    {
+      "form": "quibus",
+      "stanza_lemma": "qui",
+      "reason": "target_not_in_glossary",
+      "occurrences": 13,
+      "whitakers_suggestion": "qu.ibus"
+    },
+    {
+      "form": "quos",
+      "stanza_lemma": "qui",
+      "reason": "target_not_in_glossary",
+      "occurrences": 13,
+      "whitakers_suggestion": "qu.os"
+    },
+    {
+      "form": "obsides",
+      "stanza_lemma": "obsis",
+      "reason": "target_not_in_glossary",
+      "occurrences": 13,
+      "whitakers_suggestion": "obsid.es"
+    },
+    {
+      "form": "eodem",
+      "stanza_lemma": "idem",
+      "reason": "target_not_in_glossary",
+      "occurrences": 10,
+      "whitakers_suggestion": "eodem"
+    },
+    {
+      "form": "quas",
+      "stanza_lemma": "qui",
+      "reason": "target_not_in_glossary",
+      "occurrences": 8,
+      "whitakers_suggestion": "qu.as"
+    },
+    {
+      "form": "quem",
+      "stanza_lemma": "qui",
+      "reason": "target_not_in_glossary",
+      "occurrences": 8,
+      "whitakers_suggestion": "qu.em"
+    },
+    {
+      "form": "quorum",
+      "stanza_lemma": "qui",
+      "reason": "target_not_in_glossary",
+      "occurrences": 7,
+      "whitakers_suggestion": "qu.orum"
+    },
+    {
+      "form": "iure",
+      "stanza_lemma": "ius",
+      "reason": "target_not_in_glossary",
+      "occurrences": 7,
+      "whitakers_suggestion": "iur.e"
+    },
+    {
+      "form": "coeperunt",
+      "stanza_lemma": "coepi",
+      "reason": "target_not_in_glossary",
+      "occurrences": 6,
+      "whitakers_suggestion": "coep.erunt"
+    },
+    {
+      "form": "tertia",
+      "stanza_lemma": "tertius",
+      "reason": "target_not_in_glossary",
+      "occurrences": 5,
+      "whitakers_suggestion": "terti.a"
+    },
+    {
+      "form": "secum",
+      "stanza_lemma": "sui",
+      "reason": "target_not_in_glossary",
+      "occurrences": 5,
+      "whitakers_suggestion": "sec.um"
+    },
+    {
+      "form": "iniuria",
+      "stanza_lemma": "iniurius",
+      "reason": "target_not_in_glossary",
+      "occurrences": 5,
+      "whitakers_suggestion": "iniuri.a"
+    },
+    {
+      "form": "gravius",
+      "stanza_lemma": "gravius",
+      "reason": "target_not_in_glossary",
+      "occurrences": 5,
+      "whitakers_suggestion": "gravi.us"
+    },
+    {
+      "form": "iussit",
+      "stanza_lemma": "iusso",
+      "reason": "target_not_in_glossary",
+      "occurrences": 5,
+      "whitakers_suggestion": "iuss.it"
+    },
+    {
+      "form": "tertiam",
+      "stanza_lemma": "tertius",
+      "reason": "target_not_in_glossary",
+      "occurrences": 4,
+      "whitakers_suggestion": "terti.am"
+    },
+    {
+      "form": "cuius",
+      "stanza_lemma": "qui",
+      "reason": "target_not_in_glossary",
+      "occurrences": 4,
+      "whitakers_suggestion": "cu.jus"
+    },
+    {
+      "form": "iudicium",
+      "stanza_lemma": "iudicium",
+      "reason": "target_not_in_glossary",
+      "occurrences": 4,
+      "whitakers_suggestion": "iudic.ium"
+    },
+    {
+      "form": "oppida",
+      "stanza_lemma": "oppida",
+      "reason": "target_not_in_glossary",
+      "occurrences": 4,
+      "whitakers_suggestion": "oppid.a"
+    },
+    {
+      "form": "allobrogum",
+      "stanza_lemma": "allobra",
+      "reason": "target_not_in_glossary",
+      "occurrences": 4,
+      "whitakers_suggestion": "allobrog.um"
+    },
+    {
+      "form": "oppidum",
+      "stanza_lemma": "oppidus",
+      "reason": "target_not_in_glossary",
+      "occurrences": 4,
+      "whitakers_suggestion": "oppid.um"
+    },
+    {
+      "form": "allobrogibus",
+      "stanza_lemma": "allobrogus",
+      "reason": "target_not_in_glossary",
+      "occurrences": 4,
+      "whitakers_suggestion": "allobrog.ibus"
+    },
+    {
+      "form": "iniurias",
+      "stanza_lemma": "iniurius",
+      "reason": "target_not_in_glossary",
+      "occurrences": 4,
+      "whitakers_suggestion": "iniuri.as"
+    },
+    {
+      "form": "victis",
+      "stanza_lemma": "vico",
+      "reason": "target_not_in_glossary",
+      "occurrences": 4,
+      "whitakers_suggestion": "vinco"
+    },
+    {
+      "form": "obsidibus",
+      "stanza_lemma": "obsidus",
+      "reason": "target_not_in_glossary",
+      "occurrences": 4,
+      "whitakers_suggestion": "obsid.ibus"
+    },
+    {
+      "form": "belgae",
+      "stanza_lemma": "belgae",
+      "reason": "target_not_in_glossary",
+      "occurrences": 3,
+      "whitakers_suggestion": "belg.ae"
+    },
+    {
+      "form": "quibuscum",
+      "stanza_lemma": "quicum",
+      "reason": "target_not_in_glossary",
+      "occurrences": 3,
+      "whitakers_suggestion": "qu.ibus"
+    },
+    {
+      "form": "pisone",
+      "stanza_lemma": "pison",
+      "reason": "target_not_in_glossary",
+      "occurrences": 3,
+      "whitakers_suggestion": "pison.e"
+    },
+    {
+      "form": "iubet",
+      "stanza_lemma": "iubeo",
+      "reason": "target_not_in_glossary",
+      "occurrences": 3,
+      "whitakers_suggestion": "iub.et"
+    },
+    {
+      "form": "cassium",
+      "stanza_lemma": "cassium",
+      "reason": "target_not_in_glossary",
+      "occurrences": 3,
+      "whitakers_suggestion": "cassi.um"
+    },
+    {
+      "form": "iugum",
+      "stanza_lemma": "iuga",
+      "reason": "target_not_in_glossary",
+      "occurrences": 3,
+      "whitakers_suggestion": "iug.um"
+    },
+    {
+      "form": "labienum",
+      "stanza_lemma": "labien",
+      "reason": "target_not_in_glossary",
+      "occurrences": 3,
+      "whitakers_suggestion": "labia"
+    },
+    {
+      "form": "iniuriis",
+      "stanza_lemma": "iniurius",
+      "reason": "target_not_in_glossary",
+      "occurrences": 3,
+      "whitakers_suggestion": "iniuri.is"
+    },
+    {
+      "form": "eadem",
+      "stanza_lemma": "idem",
+      "reason": "target_not_in_glossary",
+      "occurrences": 3,
+      "whitakers_suggestion": "eadem"
+    },
+    {
+      "form": "cui",
+      "stanza_lemma": "qui",
+      "reason": "target_not_in_glossary",
+      "occurrences": 3,
+      "whitakers_suggestion": "cu.i"
+    },
+    {
+      "form": "praesente",
+      "stanza_lemma": "praesum",
+      "reason": "target_not_in_glossary",
+      "occurrences": 3,
+      "whitakers_suggestion": "praesent.e"
+    },
+    {
+      "form": "superiore",
+      "stanza_lemma": "superior",
+      "reason": "target_not_in_glossary",
+      "occurrences": 3,
+      "whitakers_suggestion": "superi.ore"
+    },
+    {
+      "form": "iurando",
+      "stanza_lemma": "iuro",
+      "reason": "target_not_in_glossary",
+      "occurrences": 3,
+      "whitakers_suggestion": "juro"
+    },
+    {
+      "form": "utrisque",
+      "stanza_lemma": "uterque",
+      "reason": "target_not_in_glossary",
+      "occurrences": 3,
+      "whitakers_suggestion": "utr.is"
+    },
+    {
+      "form": "oportere",
+      "stanza_lemma": "oportet",
+      "reason": "target_not_in_glossary",
+      "occurrences": 3,
+      "whitakers_suggestion": "oport.ere"
+    },
+    {
+      "form": "quarum",
+      "stanza_lemma": "qui",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "qu.arum"
+    },
+    {
+      "form": "messala",
+      "stanza_lemma": "messalum",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "messal.a"
+    },
+    {
+      "form": "clientes",
+      "stanza_lemma": "clieo",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "client.es"
+    },
+    {
+      "form": "magistratus",
+      "stanza_lemma": "magistro",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "magistrat.us"
+    },
+    {
+      "form": "nihilo",
+      "stanza_lemma": "nihil",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "nihil.o"
+    },
+    {
+      "form": "oppidis",
+      "stanza_lemma": "oppidus",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "oppid.is"
+    },
+    {
+      "form": "ulteriorem",
+      "stanza_lemma": "ultimus",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "ulteri.orem"
+    },
+    {
+      "form": "navibus",
+      "stanza_lemma": "navus",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "nav.ibus"
+    },
+    {
+      "form": "iunctis",
+      "stanza_lemma": "iungo",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "jungo"
+    },
+    {
+      "form": "italiam",
+      "stanza_lemma": "italis",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "itali.am"
+    },
+    {
+      "form": "superioribus",
+      "stanza_lemma": "superior",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "superi.oribus"
+    },
+    {
+      "form": "septimo",
+      "stanza_lemma": "septimus",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "septim.o"
+    },
+    {
+      "form": "iudicari",
+      "stanza_lemma": "iudico",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "iudic.ari"
+    },
+    {
+      "form": "quingentis",
+      "stanza_lemma": "quingo",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "quingent.is"
+    },
+    {
+      "form": "lacessere",
+      "stanza_lemma": "lacedo",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "lacess.ere"
+    },
+    {
+      "form": "precibus",
+      "stanza_lemma": "precus",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "prec.ibus"
+    },
+    {
+      "form": "deterrere",
+      "stanza_lemma": "deterro",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "deterr.ere"
+    },
+    {
+      "form": "iuberet",
+      "stanza_lemma": "iubeo",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "iub.eret"
+    },
+    {
+      "form": "quicquam",
+      "stanza_lemma": "quisquam",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "quicquam"
+    },
+    {
+      "form": "quisque",
+      "stanza_lemma": "quisque",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "qu.is"
+    },
+    {
+      "form": "coepit",
+      "stanza_lemma": "coepi",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "coep.it"
+    },
+    {
+      "form": "iniuriam",
+      "stanza_lemma": "iniurius",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "iniuri.am"
+    },
+    {
+      "form": "consedisse",
+      "stanza_lemma": "consedio",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "consed.isse"
+    },
+    {
+      "form": "labieno",
+      "stanza_lemma": "labienus",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "labia"
+    },
+    {
+      "form": "vulneribus",
+      "stanza_lemma": "vulnis",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "vulner.ibus"
+    },
+    {
+      "form": "iussisset",
+      "stanza_lemma": "iussisto",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "iuss.isset"
+    },
+    {
+      "form": "quis",
+      "stanza_lemma": "quis",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "qu.is"
+    },
+    {
+      "form": "hospitio",
+      "stanza_lemma": "hospitio",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "hospiti.o"
+    },
+    {
+      "form": "dicione",
+      "stanza_lemma": "dicios",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "dicion.e"
+    },
+    {
+      "form": "quaecumque",
+      "stanza_lemma": "quicumque",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "qu.ae"
+    },
+    {
+      "form": "aliquem",
+      "stanza_lemma": "aliqui",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "aliqu.em"
+    },
+    {
+      "form": "vicissent",
+      "stanza_lemma": "vico",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "vic.issent"
+    },
+    {
+      "form": "harudes",
+      "stanza_lemma": "harus",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "rud.es"
+    },
+    {
+      "form": "utraque",
+      "stanza_lemma": "uterque",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "utr.a"
+    },
+    {
+      "form": "exercitatione",
+      "stanza_lemma": "exsercitatio",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "exercitation.e"
+    },
+    {
+      "form": "vereri",
+      "stanza_lemma": "vereo",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "ver.eri"
+    },
+    {
+      "form": "seque",
+      "stanza_lemma": "seque",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "s.e"
+    },
+    {
+      "form": "sortibus",
+      "stanza_lemma": "sortus",
+      "reason": "target_not_in_glossary",
+      "occurrences": 2,
+      "whitakers_suggestion": "sort.ibus"
+    }
+  ]
+}

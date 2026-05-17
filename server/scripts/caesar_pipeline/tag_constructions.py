@@ -389,6 +389,9 @@ INDIRECT_HEAD_LEMMAS = set(SPEECH_LEMMAS) | {
 }
 
 def tag_indirect_statements(tokens):
+    # NOTE: Detector tuned on Caesar's prose; Pliny's longer accusative-infinitive
+    # constructions are under-detected. Future work: broaden head-verb matching and
+    # handle nested AcI with multiple infinitives.
     children = build_children(tokens)
     tags = []
 

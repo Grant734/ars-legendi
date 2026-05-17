@@ -1,0 +1,75 @@
+[
+  {
+    "sid": "pliny_6_16.7",
+    "type": "abl_abs",
+    "start": 13,
+    "end": 15,
+    "highlight_spans": [
+      [
+        13,
+        13
+      ],
+      [
+        15,
+        15
+      ]
+    ],
+    "confidence": 0.88,
+    "trigger": {
+      "part_index": 13,
+      "abl_noun_index": 15
+    },
+    "span_quality": "false_positive",
+    "removal_reason": "Misidentified: 'nubem inusitata et magnitudine' is not ablative absolute"
+  },
+  {
+    "sid": "pliny_6_16.24",
+    "type": "subjunctive_relative_clause",
+    "subtype": "qui_subj",
+    "start": 3,
+    "end": 5,
+    "highlight_spans": [
+      [
+        3,
+        3
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "confidence": 0.9,
+    "trigger": {
+      "rel_pron_index": 3,
+      "verb_index": 5,
+      "rule": "rel+subj"
+    },
+    "span_quality": "false_positive",
+    "removal_reason": "Misidentified: 'ex qua diaeta adibatur' is indicative, not subjunctive"
+  },
+  {
+    "sid": "pliny_10_96.11",
+    "type": "subjunctive_relative_clause",
+    "subtype": "qui_subj",
+    "start": 0,
+    "end": 33,
+    "highlight_spans": [
+      [
+        0,
+        0
+      ],
+      [
+        33,
+        33
+      ]
+    ],
+    "confidence": 0.9,
+    "trigger": {
+      "rel_pron_index": 0,
+      "verb_index": 33,
+      "rule": "rel+subj"
+    },
+    "span_quality": "false_positive",
+    "removal_reason": "Misidentified: 'quorum nihil cogi posse dicuntur' is not subjunctive relative"
+  }
+]
