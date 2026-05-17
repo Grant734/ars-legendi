@@ -33,3 +33,12 @@ zarchive/
 
 # Claude Code
 .claude/
+
+# Pilot user data (privacy + runtime state)
+server/data/pilot/classes.json
+server/data/pilot/students.json
+server/data/pilot/teachers.json
+server/data/pilot/student_events/
+
+# Backup files (git is the backup system)
+*.backup.json
