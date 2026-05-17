@@ -1,10 +1,20 @@
 import { Link } from 'react-router-dom';
+import { useText } from '../components/TextSelector';
+
+// Button labels for the "Read with Support" card, keyed by textId.
+// Add entries here when new texts are registered.
+const READ_BUTTON_LABELS = {
+  caesar: "Read Caesar",
+  pliny: "Read Pliny",
+};
 
 export default function Home() {
+  const { currentTextId } = useText();
+  const readLabel = READ_BUTTON_LABELS[currentTextId] || "Start Reading";
   return (
     <div className="min-h-screen bg-backdrop">
       {/* Hero Section */}
-      <section className="bg-primary text-white py-20">
+      <section className="bg-primary text-white pt-16 pb-16">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <h1 className="text-5xl md:text-6xl font-bold mb-4">
             <span className="text-accent">Ars Legendi</span>
@@ -14,7 +24,8 @@ export default function Home() {
           </p>
           <p className="text-lg text-white/70 max-w-2xl mx-auto mt-6">
             Ars Legendi is a mastery-based reading and learning platform for Latin.
-            The first module teaches students to read Caesar's <em>De Bello Gallico</em> Book 1.
+            The first modules teach students to read Caesar's <em>De Bello Gallico</em> Book 1
+            and selected letters of Pliny the Younger, with a framework built to extend to any Latin text.
           </p>
           <div className="mt-10 flex flex-wrap justify-center gap-4">
             <Link
@@ -29,6 +40,23 @@ export default function Home() {
             >
               Explore the Text
             </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* Validation Strip */}
+      <section className="bg-primary/5 py-12 px-6">
+        <div className="max-w-[750px] mx-auto text-center">
+          <p className="text-[11px] font-semibold uppercase tracking-[0.15em] text-accent mb-3">
+            Reviewed and Piloted
+          </p>
+          <div className="text-base leading-relaxed text-gray-700 space-y-3">
+            <p>
+              Developed with feedback from 11 high school teachers, as well as from faculty at NYU-ISAW, Cornell University, Dickinson College, Washington University in St. Louis, and Vanderbilt University. Piloted in three Latin classrooms.
+            </p>
+            <p>
+              In a survey of students across three classrooms: <span className="text-accent">68.8%</span> said Caesar would be easier to read, <span className="text-accent">93.8%</span> expected greater confidence in Latin with continued use.
+            </p>
           </div>
         </div>
       </section>
@@ -57,7 +85,7 @@ export default function Home() {
               title="Read with Support"
               description="Every single word is fully parsed and constructions are identified, giving you the support to read real Latin."
               link="/reading-guide"
-              linkText="Read Caesar"
+              linkText={readLabel}
             />
             <FeatureCard
               title="Track Progress"
@@ -173,7 +201,7 @@ export default function Home() {
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-2xl font-bold text-primary mb-3">Ready to Start Reading?</h2>
           <p className="text-base text-primary/80 mb-6">
-            Begin your journey with Caesar's <em>De Bello Gallico</em> today.
+            Begin your journey with classical Latin today.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link
