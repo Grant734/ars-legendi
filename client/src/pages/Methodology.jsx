@@ -7,9 +7,15 @@ export default function Methodology() {
       <TextSelector className="-mx-6 -mt-6 mb-6" />
       <div className="max-w-4xl mx-auto px-4 py-8">
         <h1 className="text-3xl font-bold text-primary mb-4">Methodology</h1>
-        <p className="text-gray-600 mb-6">
+        <p className="text-gray-600 mb-3">
           The pedagogical framework and technical implementation of Ars Legendi
           is detailed in our methodology document.
+        </p>
+        <p className="text-gray-600 mb-6 italic">
+          The framework has since been used to build a second module covering
+          selected letters of Pliny the Younger, validating the replication
+          path described in Section 12. The same NLP pipeline, construction
+          detectors, and data structures support both texts.
         </p>
 
         {/* PDF Preview and Download */}
