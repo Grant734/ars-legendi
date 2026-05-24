@@ -1,55 +1,55 @@
-import { motion } from 'framer-motion';
+import { Link } from "react-router-dom";
 
 export default function About() {
   return (
-    <div className="bg-[#fdfaf2] text-primary py-12 min-h-screen">
-      {/* Page Container */}
-      <div className="max-w-7xl mx-auto px-6 flex flex-col items-center">
-        
-        {/* Mission Section */}
-        <motion.section
-          className="w-full max-w-3xl bg-white rounded-3xl shadow-xl border border-yellow-400 p-8 text-center mb-20"
-          initial={{ opacity: 0, y: 50 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6, ease: 'easeOut' }}
+    <div className="max-w-3xl mx-auto px-4 py-8">
+      <h1 className="text-3xl font-bold text-primary mb-6">About Ars Legendi</h1>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Ars Legendi ("the art of reading") is a text-anchored Latin learning
+        platform. Its premise is that vocabulary, grammar, and reading
+        practice should all draw from real classical texts rather than
+        isolated drills. Every word you practice, every construction you
+        study, and every sentence you read comes from an actual work:
+        currently Caesar's <em>De Bello Gallico</em> (Book 1) and selected
+        letters of Pliny the Younger.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The platform was built by a student as an independent project. It is
+        free, non-commercial, and ad-free.
+      </p>
+
+      <h2 className="text-xl font-bold text-primary mt-10 mb-3">Disclaimer</h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This tool is provided as-is for educational purposes. The Latin texts
+        are drawn from public-domain sources. The English translations of
+        Caesar are public-domain (from the 1917 Loeb translation, via
+        LacusCurtius); the translations of Pliny are the author's own work.
+        All translations are study aids, not authoritative scholarly
+        editions, and may contain errors. Automated grammatical tagging is
+        heuristic and imperfect.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Reviewers and educators named on this site provided feedback or
+        piloted the tool; their feedback does not constitute endorsement
+        unless explicitly stated, and the project is not affiliated with or
+        sponsored by any institution.
+      </p>
+
+      <h2 className="text-xl font-bold text-primary mt-10 mb-3">Contact</h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <a
+          href="mailto:granthenry34@icloud.com"
+          className="text-accent hover:underline font-medium"
         >
-          <h2 className="text-4xl font-extrabold text-blue-800 mb-6">Our Mission</h2>
-          <p className="text-lg text-gray-800 leading-relaxed mb-3">
-            At <span className="text-yellow-800 font-semibold">LatinEd</span>, we believe Latin is more than a language — it's a gateway to critical thinking, historical awareness, and intellectual curiosity.
-          </p>
-          <p className="text-lg text-gray-800 leading-relaxed">
-            Through interactive tools, thoughtful curriculum, and community-driven content, we aim to inspire the next generation of classical thinkers.
-          </p>
-        </motion.section>
+          granthenry34@icloud.com
+        </a>
+      </p>
 
-        {/* Team Section */}
-        <motion.section
-          className="w-full max-w-4xl text-center"
-          initial={{ opacity: 0 }}
-          whileInView={{ opacity: 1 }}
-          transition={{ duration: 0.6, ease: 'easeOut' }}
-          viewport={{ once: true }}
-        >
-          <h3 className="text-3xl font-extrabold text-blue-800 mb-12">Meet the Team</h3>
-
-          <div className="flex flex-col items-center gap-10">
-            <motion.div
-              className="bg-white border border-gray-200 rounded-2xl p-6 shadow-md hover:shadow-lg transition transform hover:scale-105 w-full max-w-md"
-              whileHover={{ y: -4 }}
-            >
-              <img
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Head_of_Oceanus%2C_BM_1805.jpg/800px-Head_of_Oceanus%2C_BM_1805.jpg"
-                alt="Grant Henry"
-                className="w-28 h-28 rounded-full mx-auto mb-4 object-cover border-4 border-yellow-500"
-              />
-              <h4 className="text-xl font-bold text-blue-900">Grant Henry</h4>
-              <p className="text-sm text-gray-600">Founder & Curriculum Lead</p>
-              <p className="text-sm italic mt-2">"Making Latin not just alive, but exciting."</p>
-            </motion.div>
-
-            {/* Add more team members here */}
-          </div>
-        </motion.section>
+      <div className="mt-10">
+        <Link to="/" className="text-accent hover:underline font-medium">
+          ← Back to Home
+        </Link>
       </div>
     </div>
   );

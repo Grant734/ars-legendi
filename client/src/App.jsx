@@ -1,5 +1,6 @@
 import { Routes, Route, useLocation } from 'react-router-dom';
 import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 import { AuthProvider } from './hooks/useAuth.jsx';
 import { TextProvider } from './components/TextSelector';
 import Home from './pages/Home';
@@ -22,6 +23,8 @@ import StudentProfile from './pages/StudentProfile';
 import TeacherClasses from './pages/TeacherClasses';
 import TeacherClassView from './pages/TeacherClassView';
 import Methodology from './pages/Methodology';
+import Privacy from './pages/Privacy';
+import About from './pages/About';
 
 
 function App() {
@@ -31,9 +34,9 @@ function App() {
   return (
     <AuthProvider>
       <TextProvider>
-        <div className="min-h-screen">
+        <div className="min-h-screen flex flex-col">
           <Navbar />
-          <main className={isHome ? '' : 'pt-6 pb-12'}>
+          <main className={`flex-1 ${isHome ? '' : 'pt-6 pb-12'}`}>
             <div className={isHome ? '' : 'max-w-7xl mx-auto px-6'}>
               <Routes>
               <Route path="/vocab" element={<CaesarDBG1 />} />
@@ -53,6 +56,8 @@ function App() {
               <Route path="/mastery" element={<MasteryPage />} />
               <Route path="/about-learning" element={<TeachingEthos />} />
               <Route path="/methodology" element={<Methodology />} />
+              <Route path="/about" element={<About />} />
+              <Route path="/privacy" element={<Privacy />} />
               {/* Auth routes */}
               <Route path="/login" element={<Login />} />
               <Route path="/profile" element={<StudentProfile />} />
@@ -61,6 +66,7 @@ function App() {
               </Routes>
             </div>
           </main>
+          <Footer />
         </div>
       </TextProvider>
     </AuthProvider>

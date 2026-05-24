@@ -5,7 +5,10 @@ import express from "express";
 import fs from "fs";
 import path from "path";
 import crypto from "crypto";
+import bcrypt from "bcrypt";
 import { fileURLToPath } from "url";
+
+const BCRYPT_COST = 12;
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -42,12 +45,37 @@ function safeWriteJson(filePath, obj) {
   fs.renameSync(tmp, filePath);
 }
 
-function hashPassword(password, salt) {
+function legacyHashPassword(password, salt) {
   return crypto.createHash("sha256").update(salt + password).digest("hex");
 }
 
-function generateSalt() {
-  return crypto.randomBytes(16).toString("hex");
+async function hashPasswordBcrypt(password) {
+  return bcrypt.hash(password, BCRYPT_COST);
+}
+
+// Verifies a password against a stored user record and, if the record uses
+// the legacy SHA-256+salt scheme, transparently re-hashes with bcrypt and
+// mutates `record` in place (caller is responsible for persisting).
+// Returns true if password is valid, false otherwise.
+async function verifyAndMaybeUpgrade(record, password) {
+  if (!record) return false;
+  const algo = record.hashAlgo || (record.salt ? "sha256" : null);
+  if (algo === "bcrypt") {
+    try {
+      return await bcrypt.compare(password, record.pwHash);
+    } catch {
+      return false;
+    }
+  }
+  if (algo === "sha256") {
+    const candidate = legacyHashPassword(password, record.salt);
+    if (candidate !== record.pwHash) return false;
+    record.pwHash = await hashPasswordBcrypt(password);
+    record.hashAlgo = "bcrypt";
+    delete record.salt;
+    return true;
+  }
+  return false;
 }
 
 function generateId(prefix) {
@@ -146,16 +174,15 @@ router.post("/register", async (req, res) => {
       }
 
       // Create teacher account
-      const salt = generateSalt();
-      const pwHash = hashPassword(password, salt);
+      const pwHash = await hashPasswordBcrypt(password);
       const teacherId = generateId("teacher");
 
       teachers[emailNorm] = {
         teacherId,
         email: emailNorm,
         displayName: displayName || emailNorm.split("@")[0],
-        salt,
         pwHash,
+        hashAlgo: "bcrypt",
         createdAt: Date.now(),
         lastLoginAt: null,
       };
@@ -180,16 +207,15 @@ router.post("/register", async (req, res) => {
         return res.status(400).json({ error: "Email already registered" });
       }
 
-      const salt = generateSalt();
-      const pwHash = hashPassword(password, salt);
+      const pwHash = await hashPasswordBcrypt(password);
       const studentId = generateId("student");
 
       students[emailNorm] = {
         studentId,
         email: emailNorm,
         displayName: displayName || emailNorm.split("@")[0],
-        salt,
         pwHash,
+        hashAlgo: "bcrypt",
         createdAt: Date.now(),
         lastLoginAt: null,
         classIds: [],
@@ -239,12 +265,12 @@ router.post("/login", async (req, res) => {
         return res.status(401).json({ error: "Invalid email or password" });
       }
 
-      const pwHash = hashPassword(password, teacher.salt);
-      if (pwHash !== teacher.pwHash) {
+      const valid = await verifyAndMaybeUpgrade(teacher, password);
+      if (!valid) {
         return res.status(401).json({ error: "Invalid email or password" });
       }
 
-      // Update last login
+      // Update last login (also persists any hash upgrade performed above)
       teacher.lastLoginAt = Date.now();
       safeWriteJson(TEACHERS_FILE, teachers);
 
@@ -267,12 +293,12 @@ router.post("/login", async (req, res) => {
         return res.status(401).json({ error: "Invalid email or password" });
       }
 
-      const pwHash = hashPassword(password, student.salt);
-      if (pwHash !== student.pwHash) {
+      const valid = await verifyAndMaybeUpgrade(student, password);
+      if (!valid) {
         return res.status(401).json({ error: "Invalid email or password" });
       }
 
-      // Update last login
+      // Update last login (also persists any hash upgrade performed above)
       student.lastLoginAt = Date.now();
       safeWriteJson(STUDENTS_FILE, students);
 
